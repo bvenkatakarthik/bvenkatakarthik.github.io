@@ -18,8 +18,6 @@ $${ \underline{\textbf{References}} }$$
 **ROUGH NOTES (!)**    
 Updated: 30/5/24 
 
-Sections: [Continuous linear maps](#1.); [Differentiation](#2.); [Differentiation of maps ${ \mathbb{R} ^n \to \mathbb{R} ^m }$](#3.);  [Integration of maps ${ f : [a, b] \to E }$](#4.); [Mean value theorem](#5.); [Second derivative](#6.); [Third derivative](#7.); [Higher derivatives](#8.); [Taylor’s theorem](#9.)
-
 
 ###### 1.
 
