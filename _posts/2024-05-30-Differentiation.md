@@ -29,7 +29,7 @@ $${ \underline{\textbf{Continuous linear maps}} }$$
 
 $${ \begin{align*} &(\lambda \text{ is continuous}) \\ \iff &\Bigg( \sup _{\lVert u \rVert = 1} \lVert \lambda(u) \rVert = \sup _{v \neq 0} \frac{\lVert \lambda(v) \rVert}{\lVert v \rVert} < \infty \Bigg). \end{align*}  }$$    
 
-**Pf**: ${ \underline{\Leftarrow} }$  Say ${ C = \sup _{v \neq 0} \frac{\lVert \lambda (v) \rVert}{\lVert v \rVert} < \infty .}$ Now ${ \lVert \lambda (x) - \lambda(y) \rVert }$ ${ = \lVert \lambda (x - y) \rVert }$ ${ \leq C \lVert x - y \rVert }$ for all ${ x, y \in E.}$ If ${ C = 0 }$ the map is anyways ${ \lambda = 0 ,}$ and if ${ C > 0 }$ the map is uniformly continuous.    
+**Pf**: ${ \underline{\Leftarrow} }$ Say ${ C = \sup _{v \neq 0} \frac{\lVert \lambda (v) \rVert}{\lVert v \rVert} < \infty .}$ Now ${ \lVert \lambda (x) - \lambda(y) \rVert }$ ${ = \lVert \lambda (x - y) \rVert }$ ${ \leq C \lVert x - y \rVert }$ for all ${ x, y \in E.}$ If ${ C = 0 }$ the map is anyways ${ \lambda = 0 ,}$ and if ${ C > 0 }$ the map is uniformly continuous.    
 ${ \underline{\Rightarrow} }$ Say ${ \lambda }$ is continuous. So there is a ${ \delta > 0 }$ such that ${ x \in E,  \lVert x \rVert \leq \delta }$ implies ${ \lVert \lambda (x) \rVert < 1 . }$ Now for any ${ x \in E, x \neq 0 }$ the stretch 
 
 $${ \begin{align*} \frac{\lVert \lambda (x) \rVert}{\lVert x \rVert} &= \frac{1}{\delta} \bigg\lVert \lambda \bigg( \underbrace{\frac{x}{\lVert x \rVert} \delta} _{\text{of norm } \delta} \bigg)  \bigg\rVert \\ &< \frac{1}{\delta}, \end{align*} }$$
