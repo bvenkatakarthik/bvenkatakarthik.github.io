@@ -49,7 +49,7 @@ $${ {\begin{align} &\, A _{p _i ^{r _i}} \\ = &\, \lbrace x \in A : p _i ^{r _i}
 **Obs**: Each factor ${ A _{p _i ^{r _i}} = A (p _i) }$ is a ${ p _i - }$group.    
 **Pf**: By [Cauchy's theorem](https://en.wikipedia.org/wiki/Cauchy%27s_theorem_(group_theory)), for every prime divisor ${ p \mid \vert A(p _i) \vert  }$ there is an element of ${ A(p _i) }$ of order ${ p . }$ Hence the only prime divisor of ${ \vert A (p _i) \vert }$ is ${ p _i , }$ that is ${ \vert A(p _i) \vert }$ is a power of ${ p _i }$ as needed. ${ \blacksquare }$ 
 
-Hence it suffices to study the structure of finite abelian ${ p - }$groups. 
+It suffices to study the structure of finite abelian ${ p - }$groups. 
 
 Let ${ (A, +) }$ be a finite abelian ${ p - }$group. We say ${ A }$ is of type ${ (p ^{r _1}, \ldots, p ^{r _s}) }$ if it is isomorphic to a product of cyclic subgroups of orders ${ p ^{r _i} }$ (${ i = 1, \ldots, s }$). 
 
