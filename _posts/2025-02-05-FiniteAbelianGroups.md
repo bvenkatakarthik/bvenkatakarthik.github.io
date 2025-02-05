@@ -118,7 +118,7 @@ $${ (p ^{r _i - 1}) _{i \in I} = (p ^{m _j - 1}) _{j \in J}  . }$$
 
 Hence ${ A }$ is of type 
 
-$${ ((p ^{r _i}) _{i \in I}, \underbrace{p , \ldots, p} _{\nu \text{ times}} ) \quad \text{ and } ((p ^{m _j}) _{j \in J}, \underbrace{p, \ldots, p} _{\mu \text{ times}}) .  }$$ 
+$${ ((p ^{r _i}) _{i \in I}, \underbrace{p , \ldots, p} _{\nu \text{ times}} ) \quad \text{ and } \quad ((p ^{m _j}) _{j \in J}, \underbrace{p, \ldots, p} _{\mu \text{ times}}) .  }$$ 
 
 Now the order of ${ A }$ is 
 
