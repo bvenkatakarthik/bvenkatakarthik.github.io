@@ -10,7 +10,7 @@ tags: [documentation,sample]
 
 The goal is to study the structure of finite abelian groups. 
 
-Let ${ (A, +) }$ be a finite abelian group. We can ask ourselves: How can we express ${ A }$ in terms of its subgroups? 
+Let ${ (A, +) }$ be a finite abelian group. We can ask ourselves: Can we express ${ A }$ in terms of its subgroups? 
 
 Note that for every integer ${ n \in \mathbb{Z} _{> 0} }$ there is a group homomorphism ${ \varphi _n : A \to A , }$ ${ x \mapsto nx }$ with kernel 
 
