@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 ---
 
-Updated: 7/2/25 
+**Updated**: 7/2/25 
 
 **Ref**: "Undergraduate Algebra" by Lang. 
 
