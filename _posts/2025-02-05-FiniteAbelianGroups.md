@@ -6,13 +6,13 @@ categories: journal
 tags: [documentation,sample]
 ---
 
-**Updated**: 7/2/25 
+**Updated**: 22/2/25 
 
 **Ref**: "Undergraduate Algebra" by Lang. 
 
 The goal is to study the structure of finite abelian groups. 
 
-Let ${ (A, +) }$ be a finite abelian group. The goal is to express ${ A }$ in terms of its subgroups. 
+Let ${ (A, +) }$ be a finite abelian group. We can ask ourselves: Can we express ${ A }$ in terms of its subgroups?  
 
 Note that for every integer ${ n \in \mathbb{Z} _{> 0} }$ there is a group homomorphism ${ \varphi _n : A \to A , }$ ${ x \mapsto nx }$ with kernel 
 
