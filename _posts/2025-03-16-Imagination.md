@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Enjoying things in imagination"
+author: "Karthik"
+categories: journal
+tags: [documentation,sample]
+---
+
+What effects does enjoying things in imagination have on the brain? 
+
+> Eg: I can enjoy an apple in reality. I can enjoy an apple tasting like a strawberry in imagination. 
