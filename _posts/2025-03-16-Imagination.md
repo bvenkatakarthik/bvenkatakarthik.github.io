@@ -10,4 +10,4 @@ What effects does enjoying things in imagination have on the brain?
 
 > Eg: I can enjoy an apple in reality. I can enjoy an apple tasting like a strawberry in imagination. 
 
-Imagination is the biggest boon to life. 
+Perhaps: Imagination is the biggest boon to life. 
