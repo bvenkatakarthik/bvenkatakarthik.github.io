@@ -12,4 +12,3 @@ What effects does enjoying things in imagination have on the brain?
 
 Perhaps: Imagination is the biggest boon to life. 
 
-Perhaps: Making imagination the primary source of happiness in life ? 
