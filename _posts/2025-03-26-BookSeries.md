@@ -64,7 +64,8 @@ tags: [documentation,sample]
 * "Lectures on Physics, Vols 1 to 3" by Feynman, Leighton, Sands.
 * "Course of Theoretical Physics, Vols 1 to 10" by Landau, Lifshitz.
 * "Lectures on Physics, Vols 1 to 6" by Pauli.
-* "String Theory, Vols 1 and 2" by Polchinski. 
+* "String Theory, Vols 1 and 2" by Polchinski.
+* "The Theoretical Minimum, Vols 1 to 6" by Susskind, Hrabovsky, Friedman, Cabannes. 
 
 **Computer Science** 
 * "The Art of Computer Programming, Vols 1 to 4" by Knuth. 
