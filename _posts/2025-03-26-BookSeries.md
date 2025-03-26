@@ -41,6 +41,7 @@ tags: [documentation,sample]
 * Lee's Trilogy on Manifolds. 
 * "Algebra, Vols 1 and 2" by Knapp. 
 * "Basic Algebraic Geometry, Vols 1 and 2" by Shafarevich. 
+* "Algebraic Geometry, Vols 1 and 2" by Gortz, Wedhorn. 
 
 
 
