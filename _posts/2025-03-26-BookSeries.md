@@ -61,7 +61,10 @@ tags: [documentation,sample]
 
 **Physics** 
 * "Lectures on Theoretical Physics, Vols 1 to 6" by Sommerfeld.
-* "Lectures on Physics, Vols 1 to 3" by Feynman, Leighton, Sands. 
+* "Lectures on Physics, Vols 1 to 3" by Feynman, Leighton, Sands.
+* "Course of Theoretical Physics, Vols 1 to 10" by Landau, Lifshitz.
+* "Lectures on Physics, Vols 1 to 6" by Pauli.
+* "String Theory, Vols 1 and 2" by Polchinski. 
 
 **Computer Science** 
 * "The Art of Computer Programming, Vols 1 to 4" by Knuth. 
