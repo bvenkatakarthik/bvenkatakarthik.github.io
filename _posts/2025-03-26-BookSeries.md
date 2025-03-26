@@ -46,6 +46,12 @@ tags: [documentation,sample]
 * "A Mathematical Gift, Vols 1 to 3" by Ueno, Shiga, Morita. 
 * "A Comprehensive Introduction to Differential Geometry, Vols 1 to 5" by Spivak. 
 * "Number Theory, Vols 1 to 3" by Kato, Kurokawa, Sato. 
+* "The Arithmetic of Elliptic Curves, Vols 1 and 2" by Silverman. 
+* "Stochastic Processes, Vols 1 and 2" by Karlin, Taylor. 
+* "An Introduction to Probability Theory and its Applications, Vols 1 and 2" by Feller. 
+* "Probability, Vols 1 and 2" by Shiryaev. 
+* "Diffusions, Markov Processes, and Martingales, Vols 1 and 2" by Rogers, Williams. 
+
 
 
 
@@ -54,6 +60,7 @@ tags: [documentation,sample]
 
 **Computer Science** 
 * "The Art of Computer Programming, Vols 1 to 4" by Knuth. 
+* "Inference, Learning, and Data, Vols 1 to 3" by Sayed. 
 
 
 
