@@ -51,6 +51,10 @@ tags: [documentation,sample]
 * "An Introduction to Probability Theory and its Applications, Vols 1 and 2" by Feller. 
 * "Probability, Vols 1 and 2" by Shiryaev. 
 * "Diffusions, Markov Processes, and Martingales, Vols 1 and 2" by Rogers, Williams. 
+* "Enumerative Combinatorics, Vols 1 and 2" by Stanley. 
+* "Geometry, Vols 1 and 2" by Berger. 
+* "Algebraic Geometry, Vols 1 to 3" by Ueno. 
+
 
 
 
