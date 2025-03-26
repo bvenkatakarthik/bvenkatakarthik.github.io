@@ -42,6 +42,7 @@ tags: [documentation,sample]
 * "Algebra, Vols 1 and 2" by Knapp. 
 * "Basic Algebraic Geometry, Vols 1 and 2" by Shafarevich. 
 * "Algebraic Geometry, Vols 1 and 2" by Gortz, Wedhorn. 
+* "Linear Operators, Vols 1 to 3" by Dunford, Swartz. 
 
 
 
