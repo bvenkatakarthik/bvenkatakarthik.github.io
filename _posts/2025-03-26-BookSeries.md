@@ -43,6 +43,7 @@ tags: [documentation,sample]
 * "Basic Algebraic Geometry, Vols 1 and 2" by Shafarevich. 
 * "Algebraic Geometry, Vols 1 and 2" by Gortz, Wedhorn. 
 * "Linear Operators, Vols 1 to 3" by Dunford, Swartz. 
+* "A Mathematical Gift, Vols 1 to 3" by Ueno, Shiga, Morita. 
 
 
 
