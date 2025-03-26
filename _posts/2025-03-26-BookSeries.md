@@ -54,7 +54,8 @@ tags: [documentation,sample]
 * "Enumerative Combinatorics, Vols 1 and 2" by Stanley. 
 * "Geometry, Vols 1 and 2" by Berger. 
 * "Algebraic Geometry, Vols 1 to 3" by Ueno. 
-* "Mathematics : Its Content, Methods, and Meaning, Vols 1 to 3" edited by Aleksandrov, Kolmogorov, Lavrentev. 
+* "Mathematics : Its Content, Methods, and Meaning, Vols 1 to 3" edited by Aleksandrov, Kolmogorov, Lavrentev.
+* "Classical and Multilinear Harmonic Analysis, Vols 1 and 2" by Muscalu, Schlag. 
 
 
 
