@@ -45,6 +45,7 @@ tags: [documentation,sample]
 * "Linear Operators, Vols 1 to 3" by Dunford, Swartz. 
 * "A Mathematical Gift, Vols 1 to 3" by Ueno, Shiga, Morita. 
 * "A Comprehensive Introduction to Differential Geometry, Vols 1 to 5" by Spivak. 
+* "Number Theory, Vols 1 to 3" by Kato, Kurokawa, Sato. 
 
 
 
