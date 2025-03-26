@@ -40,6 +40,7 @@ tags: [documentation,sample]
 * "A Course of Higher Mathematics, Vols 1 to 5" by Smirnov. 
 * Lee's Trilogy on Manifolds. 
 * "Algebra, Vols 1 and 2" by Knapp. 
+* "Basic Algebraic Geometry, Vols 1 and 2" by Shafarevich. 
 
 
 
