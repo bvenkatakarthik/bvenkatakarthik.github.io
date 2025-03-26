@@ -38,6 +38,8 @@ tags: [documentation,sample]
 * "Applied Mathematics : Body and Soul, Vols 1 to 3" by Eriksson, Estep, Johnson. 
 * "Partial Differential Equations, Vols 1 to 3" by Taylor. 
 * "A Course of Higher Mathematics, Vols 1 to 5" by Smirnov. 
+* Lee's Trilogy on Manifolds. 
+
 
 
 **Physics** 
