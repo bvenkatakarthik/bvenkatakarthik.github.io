@@ -56,7 +56,7 @@ tags: [documentation,sample]
 * "Algebraic Geometry, Vols 1 to 3" by Ueno. 
 * "Mathematics : Its Content, Methods, and Meaning, Vols 1 to 3" edited by Aleksandrov, Kolmogorov, Lavrentev.
 * "Classical and Multilinear Harmonic Analysis, Vols 1 and 2" by Muscalu, Schlag. 
-* "Modern Geometry - Methods and Applications, Vols 1 to 3" by Dubrovin, Fomenko, Novikov. 
+* "Modern Geometry, Vols 1 to 3" by Dubrovin, Fomenko, Novikov. 
 
 
 
