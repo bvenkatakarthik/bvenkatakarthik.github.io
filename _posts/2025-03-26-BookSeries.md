@@ -77,5 +77,6 @@ tags: [documentation,sample]
 * "Inference, Learning, and Data, Vols 1 to 3" by Sayed. 
 * "Algorithms in C, Vols 1 and 2" by Sedgewick. 
 * William Stalling's Books. 
+* "Probabilistic Machine Learning, Vols 1 to 3" by Murphy. 
 
 
