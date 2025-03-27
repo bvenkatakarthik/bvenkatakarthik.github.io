@@ -57,6 +57,7 @@ tags: [documentation,sample]
 * "Mathematics : Its Content, Methods, and Meaning, Vols 1 to 3" edited by Aleksandrov, Kolmogorov, Lavrentev.
 * "Classical and Multilinear Harmonic Analysis, Vols 1 and 2" by Muscalu, Schlag. 
 * "Modern Geometry, Vols 1 to 3" by Dubrovin, Fomenko, Novikov. 
+* "Mathematical Analysis, Vols 1 to 5" by Giaquinta, Modica. 
 
 
 
@@ -68,6 +69,7 @@ tags: [documentation,sample]
 * "Lectures on Physics, Vols 1 to 6" by Pauli.
 * "String Theory, Vols 1 and 2" by Polchinski.
 * "The Theoretical Minimum, Vols 1 to 6" by Susskind, Hrabovsky, Friedman, Cabannes. 
+* "Theoretical Physics, Vols 1 to 8" by Nolting. 
 
 **Computer Science** 
 * "The Art of Computer Programming, Vols 1 to 4" by Knuth. 
