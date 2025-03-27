@@ -73,6 +73,7 @@ tags: [documentation,sample]
 * "The Art of Computer Programming, Vols 1 to 4" by Knuth. 
 * "Inference, Learning, and Data, Vols 1 to 3" by Sayed. 
 * "Algorithms in C, Vols 1 and 2" by Sedgewick. 
-* William Stalling's Books. 
+* William Stalling's Books.
+* ["Probabilistic Machine Learning, Vols 1 to 3" by Murphy.](https://probml.github.io/pml-book/) 
 
 
