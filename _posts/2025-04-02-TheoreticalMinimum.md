@@ -11,5 +11,12 @@ Link to Courses: [Link](https://theoreticalminimum.com/courses).
 **ROUGH NOTES (!)**    
 Updated: 2/4/25 
 
+The Milky Way Galaxy. 
+
+![](https://b.l3n.co/i/o4gRsF.jpg)
+
+![](https://c.l3n.co/i/o4gdca.jpg)
+
+
 
 
