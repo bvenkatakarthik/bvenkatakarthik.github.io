@@ -14,8 +14,3 @@ Perhaps: Imagination is the biggest boon to life.
 
 Perhaps: Keep drawing happiness from the imagination ?
 
-- - - 
-
-Hypothesis: Making imagination as the primary source of happiness is beneficial. 
-
-
