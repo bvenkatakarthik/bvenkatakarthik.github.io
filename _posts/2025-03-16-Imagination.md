@@ -14,3 +14,5 @@ Perhaps: Imagination is the biggest boon to life.
 
 Perhaps: Keep drawing happiness from the imagination?
 
+$${ \boxed{ {\begin{aligned}    &\, \text{Hypothesis: Making imagination as the primary source of happiness} \\ &\,  \text{is beneficial. } \end{aligned}} } }$$
+
