@@ -14,9 +14,9 @@ What are the origin and distance preserving maps ${ f : E \longrightarrow E }$?
 
 **Obs**: Let ${ E }$ be an ${ n }$ dimensional Euclidean space. Let ${ f : E \longrightarrow E . }$ Then the following are equivalent: 
 
-* ${ \lVert f(x) - f(y) \rVert = \lVert x - y \rVert }$ for all ${ x, y \in E , }$ and ${ f(0) = 0 . }$ 
+1) ${ \lVert f(x) - f(y) \rVert = \lVert x - y \rVert }$ for all ${ x, y \in E , }$ and ${ f(0) = 0 . }$ 
 
-* ${ f(x) \cdot f(y) = x \cdot y }$ for all ${ x, y \in E . }$ 
+2) ${ f(x) \cdot f(y) = x \cdot y }$ for all ${ x, y \in E . }$ 
 
 Further any such map is linear and bijective.    
 **Pf**: Similar to the proof here: [Link](https://math.stackexchange.com/a/3972686/303300). 
