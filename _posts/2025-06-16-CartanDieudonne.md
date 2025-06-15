@@ -139,7 +139,7 @@ Hence by induction hypothesis on ${ f ^{’} , }$ ${ f ^{’} = r _H \circ f }$ 
 
 Hence ${ f = r _H \circ f ^{’} }$ can be expressed as a composition of ${ n - d _f  }$ many reflections, as needed. ${ \blacksquare }$
 
-Note that the number of reflections ${ d _f }$ is optimal. 
+Note that the number of reflections ${ n - d _f }$ is optimal. 
 
 **Obs**: Let ${ E }$ be an ${ n }$ dimensional Euclidean space. Let ${ f \in O(E) .   }$ 
 
