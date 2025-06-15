@@ -101,11 +101,11 @@ $${ \ker(f  - \text{id}) \supseteq \ker(f ^{’}  - \text{id}) \cap H . }$$
 
 Hence we have the observations 
 
-* ${ \ker (f - \text{id}) \subseteq H . }$ 
+1) ${ \ker (f - \text{id}) \subseteq H . }$ 
 
-* ${ \ker(f ^{’} - \text{id}) \supseteq \ker(f - \text{id}) \cap H = \ker(f - \text{id}) .}$ 
+2) ${ \ker(f ^{’} - \text{id}) \supseteq \ker(f - \text{id}) \cap H = \ker(f - \text{id}) .}$ 
 
-* ${ \ker(f  - \text{id}) \supseteq \ker(f ^{’}  - \text{id}) \cap H . }$ 
+3) ${ \ker(f  - \text{id}) \supseteq \ker(f ^{’}  - \text{id}) \cap H . }$ 
 
 Note that the second observation can be strengthened to 
 
@@ -127,9 +127,9 @@ $${ d _{f ^{’}}  > d _f. }$$
 
 Hence 
 
-* ${  d _f + 1 \geq d _{f ^{’}} . }$ 
+1) ${  d _f + 1 \geq d _{f ^{’}} . }$ 
 
-* ${ d _{f ^{’}} \geq d _f + 1 . }$ 
+2) ${ d _{f ^{’}} \geq d _f + 1 . }$ 
 
 Hence 
 
