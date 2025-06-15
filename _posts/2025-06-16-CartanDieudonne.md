@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Test"
+author: "Karthik"
+categories: journal
+tags: [documentation,sample]
+---
+
+Test, $ x^2 \geq 0 $. 
