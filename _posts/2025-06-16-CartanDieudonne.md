@@ -115,7 +115,7 @@ where ${ v \not \in \ker(f - \text{id}) . }$
 
 Note that taking dimension of the third observation 
 
-${ {\begin{aligned}  &\, d _f \\ \geq &\, \dim(\ker(f ^{’}  - \text{id}) \cap H) \\ = &\, d _{f ^{’}} + (n-1) - \dim(\ker(f ^{’}  - \text{id}) +  H) \\ = &\, d _{f ^{’}} + (n-1) - n \\ = &\, d _{f ^{’}} - 1  \end{aligned}}  }$ 
+$${ {\begin{aligned}  &\, d _f \\ \geq &\, \dim(\ker(f ^{’}  - \text{id}) \cap H) \\ = &\, d _{f ^{’}} + (n-1) - \dim(\ker(f ^{’}  - \text{id}) +  H) \\ = &\, d _{f ^{’}} + (n-1) - n \\ = &\, d _{f ^{’}} - 1  \end{aligned}}  }$$ 
 
 that is 
 
