@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cartan Dieudonne"
+title: "Cartan-Dieudonne"
 author: "Karthik"
 categories: journal
 tags: [documentation,sample]
