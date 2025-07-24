@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 ---
 
-**Updated**: 28/3/25 
+**Updated**: 24/7/25 
 
 **Mathematics** 
 * Serge Lang's books.
@@ -59,7 +59,8 @@ tags: [documentation,sample]
 * "Modern Geometry, Vols 1 to 3" by Dubrovin, Fomenko, Novikov. 
 * "Mathematical Analysis, Vols 1 to 5" by Giaquinta, Modica. 
 * "Calculus of Variations, Vols 1 and 2" by Giaquinta, Hildebrandt.
-* "Differential Geometry and Lie Groups, Vols 1 and 2" by Gallier, Quaintance. 
+* "Differential Geometry and Lie Groups, Vols 1 and 2" by Gallier, Quaintance.
+* "Stochastic Models, Information Theory, and Lie Groups, Vols 1 and 2" by Chirikjian.  
 
 
 
