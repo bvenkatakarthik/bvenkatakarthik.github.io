@@ -65,7 +65,7 @@ $${ g(t) = A e ^{kt} .  }$$
 
 Hence ${ f(x, y) }$ is of the form 
 
-$${ \boxed{f(x, y) = A e ^{k(x ^2 + y ^2) } }.   }$$ 
+$${ f(x, y) = A e ^{k(x ^2 + y ^2)} .   }$$ 
 
 Note that ${ k < 0 . }$ 
 
