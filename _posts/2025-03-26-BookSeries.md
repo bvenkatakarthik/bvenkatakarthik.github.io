@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 ---
 
-**Updated**: 24/7/25 
+**Updated**: 14/10/25 
 
 **Mathematics** 
 * Serge Lang's books.
@@ -73,6 +73,7 @@ tags: [documentation,sample]
 * "String Theory, Vols 1 and 2" by Polchinski.
 * "The Theoretical Minimum, Vols 1 to 6" by Susskind, Hrabovsky, Friedman, Cabannes. 
 * "Theoretical Physics, Vols 1 to 8" by Nolting. 
+* "Lectures on Theoretical Physics, Vols 1 to 4" by Tong. 
 
 **Computer Science** 
 * "The Art of Computer Programming, Vols 1 to 4" by Knuth. 
