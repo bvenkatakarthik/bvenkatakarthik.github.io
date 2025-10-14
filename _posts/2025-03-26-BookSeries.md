@@ -74,6 +74,7 @@ tags: [documentation,sample]
 * "The Theoretical Minimum, Vols 1 to 6" by Susskind, Hrabovsky, Friedman, Cabannes. 
 * "Theoretical Physics, Vols 1 to 8" by Nolting. 
 * "Lectures on Theoretical Physics, Vols 1 to 4" by Tong. 
+* "Theoretical Physics Series" by Greiner. 
 
 **Computer Science** 
 * "The Art of Computer Programming, Vols 1 to 4" by Knuth. 
