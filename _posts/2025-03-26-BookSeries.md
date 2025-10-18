@@ -76,6 +76,7 @@ tags: [documentation,sample]
 * "Lectures on Theoretical Physics, Vols 1 to 4" by Tong. 
 * "Theoretical Physics Series" by Greiner. 
 * "Physics: A general course, Vols 1 to 3" by Savelyev.
+* "Berkeley Physics Course (in S.I. units)". 
 
 **Computer Science** 
 * "The Art of Computer Programming, Vols 1 to 4" by Knuth. 
