@@ -60,7 +60,8 @@ tags: [documentation,sample]
 * "Mathematical Analysis, Vols 1 to 5" by Giaquinta, Modica. 
 * "Calculus of Variations, Vols 1 and 2" by Giaquinta, Hildebrandt.
 * "Differential Geometry and Lie Groups, Vols 1 and 2" by Gallier, Quaintance.
-* "Stochastic Models, Information Theory, and Lie Groups, Vols 1 and 2" by Chirikjian.  
+* "Stochastic Models, Information Theory, and Lie Groups, Vols 1 and 2" by Chirikjian.
+* "Convex analysis and minimization algorithms, Vols 1 and 2" by Hiriart-Urruty, Lemarechal.  
 
 
 
@@ -76,7 +77,7 @@ tags: [documentation,sample]
 * "Lectures on Theoretical Physics, Vols 1 to 4" by Tong. 
 * "Theoretical Physics Series" by Greiner. 
 * "Physics: A general course, Vols 1 to 3" by Savelyev.
-* "Berkeley Physics Course (in SI units)". 
+* "Berkeley Physics Course (in SI units)" 
 
 **Computer Science** 
 * "The Art of Computer Programming, Vols 1 to 4" by Knuth. 
