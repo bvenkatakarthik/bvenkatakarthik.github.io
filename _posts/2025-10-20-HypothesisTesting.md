@@ -52,7 +52,7 @@ Pick an ${ \alpha > 0 . }$
 
 We say a critical region ${ \mathcal{C} }$ is of size ${ \alpha }$ if 
 
-$${ \max _{\theta \in \Omega _0} \mathbb{P} _{\theta} ((X _1, \ldots, X _n) \in \mathcal{C}) = \alpha  . }$$ 
+$${ \sup _{\theta \in \Omega _0} \mathbb{P} _{\theta} ((X _1, \ldots, X _n) \in \mathcal{C}) = \alpha  . }$$ 
 
 Over all critical regions of size atmost ${ \alpha , }$ we want to look for critical regions with lower probabilities of Type ${ \text{II} }$ error. 
 
