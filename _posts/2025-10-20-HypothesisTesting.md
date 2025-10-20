@@ -44,7 +44,7 @@ Note that given a test, two types of errors can occur.
 
 ![HypothesisTesting](https://a.l3n.co/Pna9YD.jpg)
 
-Note that a Type ${ \text{I} }$ error is considered more serious than a Type ${ \text{II} }$ error. 
+Note that a Type ${ \text{I} }$ error is considered more significant than a Type ${ \text{II} }$ error. 
 
 Hence in looking for the potential critical regions, we would want to bound the probability of Type ${ \text{I} }$ error. 
 
