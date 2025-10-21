@@ -6,6 +6,8 @@ categories: journal
 tags: [documentation,sample]
 ---
 
+**Updated**: 21/10/25
+
 **Ref**: 
 * "Introduction to Mathematical Statistics" by Hogg, McKean, Craig. 
  * "Statistics for Mathematicians" by Panaretos. 
@@ -109,6 +111,31 @@ Hence the required test is
 $${ T _{\alpha / 2} : \quad \text{Reject } \, H _0 \, \text{ if } \, \, \left \vert \frac{\overline{X _n} - \mu _0}{S/ \sqrt{n}}  \right \vert \geq z _{\alpha / 2}  }$$   
 
 as needed. ${ \blacksquare }$ 
+
+[**${ p }$-value**]
+
+Consider the above example. 
+
+$${ T _{\alpha / 2} : \quad \text{Reject } \, H _0 \, \text{ if } \, \, \left \vert \frac{\overline{X _n} - \mu _0}{S/ \sqrt{n}}  \right \vert \geq z _{\alpha / 2}  }$$   
+
+Suppose we get a realisation ${ \overline{x}  }$ of ${ \overline{X _n} , }$ and are allowed to vary ${ \alpha . }$ 
+
+**Q**) What are the values of ${ \alpha }$ for which the test rejects ${ H _0 }$? What are the values of ${ \alpha }$ for which the test retains ${ H _0 }$? 
+
+Note that 
+
+$${ {\begin{aligned} &\, \lbrace \alpha : \text{Test rejects } H _0 \rbrace \\ = &\, \left \lbrace \alpha : \left \vert \frac{\overline{x} - \mu _0}{S/ \sqrt{n}}  \right \vert \geq z _{\alpha / 2} \right \rbrace \\ = &\, \left \lbrace \alpha : \frac{\alpha}{2} \geq  \mathbb{P} \left(N(0, 1) \geq  \left \vert \frac{\overline{x} - \mu _0}{S/ \sqrt{n}}  \right \vert \right) \right \rbrace \\ = &\, \left \lbrace \alpha : \alpha \geq \mathbb{P}\left( \vert N(0,1) \vert \geq  \left \vert \frac{\overline{x} - \mu _0}{S/ \sqrt{n}}  \right \vert  \right) \right \rbrace  .  \end{aligned}}  }$$ 
+
+Note that the critical ${ \alpha }$ at which the Test goes from rejecting to retaining is 
+
+$${ \alpha _{\text{crit}} = \mathbb{P}\left( \vert N(0,1) \vert \geq  \left \vert \frac{\overline{x} - \mu _0}{S/ \sqrt{n}}  \right \vert  \right)  .  }$$ 
+
+We call this the observed significance level or the ${ p - }$value of the test. 
+
+Generally if ${ \alpha _{\text{crit}} < 0.05 }$ we consider it strong evidence to reject ${ H _0 , }$ and fail to reject otherwise. 
+
+
+
 
 
 
