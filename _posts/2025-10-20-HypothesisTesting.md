@@ -132,7 +132,7 @@ $${ \alpha _{\text{crit}} = \mathbb{P}\left( \vert N(0,1) \vert \geq  \left \ver
 
 We call this the observed significance level or the ${ p - }$value of the test. 
 
-Generally if ${ \alpha _{\text{crit}} < 0.05 }$ we consider it strong evidence to reject ${ H _0 , }$ and fail to reject otherwise. 
+Note that generally if ${ \alpha _{\text{crit}} < 0.05 }$ we consider it strong evidence to reject ${ H _0 , }$ and fail to reject otherwise. 
 
 
 
