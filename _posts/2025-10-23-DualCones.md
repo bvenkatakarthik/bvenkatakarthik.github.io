@@ -68,7 +68,7 @@ $${ K ^{\ast \ast} = K .  }$$
 
 Hence 
 
-$${ (y - x) \in K  , }$$ 
+$${ (y - x) \in K   }$$ 
 
 as needed. ${ \blacksquare }$ 
 
@@ -86,7 +86,7 @@ $${ {\begin{aligned} &\, K \\ = &\, \bigcap _{\lambda \in K ^{\ast}} \lbrace x :
 
 Hence 
 
-$${  K ^{\ast \ast} = K , }$$ 
+$${  K ^{\ast \ast} = K }$$ 
 
 as needed. ${ \blacksquare }$ 
 
