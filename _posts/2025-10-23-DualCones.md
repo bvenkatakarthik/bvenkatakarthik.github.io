@@ -12,7 +12,7 @@ tags: [documentation,sample]
 
 [**Dual cones**]
 
-Note that cones can be used to induce inequalities. Link to Stackexchange post: [Link](https://math.stackexchange.com/a/5103418/303300). 
+Note that cones induce inequalities. Link to Stackexchange post: [Link](https://math.stackexchange.com/a/5103418/303300). 
 
 Consider ${ \mathbb{R} ^n . }$ Let ${ K \subseteq \mathbb{R} ^n }$ be a cone. 
 
