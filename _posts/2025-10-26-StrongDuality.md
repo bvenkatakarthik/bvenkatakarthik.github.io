@@ -53,6 +53,8 @@ $${ {\begin{aligned} &\, x ^{'} \in \text{int}(\text{dom}(f)), \quad x ^{'} \in 
 
 Then the supremum ${ d ^{\ast} }$ is attained and is equal to ${ p ^{\ast} . }$ 
 
+**Proof**: To do. 
+
 
 
 
