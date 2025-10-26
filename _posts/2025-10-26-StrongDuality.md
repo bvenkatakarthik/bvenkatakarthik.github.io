@@ -23,3 +23,17 @@ Let ${ x ^{\ast} \in \mathcal{F} }$ be a minimizer with ${ f (x ^{\ast}) = p ^{\
 
 The goal is to study ${ p ^{\ast} . }$ 
 
+Consider the Lagrangian dual 
+
+$${ \hat{f}(\mu) = \inf _{x \in \mathbb{R} ^n} (f(x) + \mu ^T G(x)) \in \mathbb{R} \cup \lbrace - \infty \rbrace . }$$ 
+
+Note that ${ \hat{f} }$ is an infimum over affine functions in ${ \mu, }$ and hence is concave.
+
+Note that if ${ \mu \succeq 0 , }$ we have ${ f(x ^{\ast}) + \mu ^T G(x ^{\ast}) \leq p ^{\ast} .  }$
+
+Hence if ${ \mu \succeq 0 , }$ we have ${ \hat{f}(\mu) \leq p ^{\ast} .  }$
+
+Hence 
+
+$${ \sup _{{\mu} \succeq 0} \hat{f}(\mu) \leq p ^{\ast} .  }$$
+
