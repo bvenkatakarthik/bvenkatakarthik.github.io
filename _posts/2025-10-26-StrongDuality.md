@@ -29,9 +29,13 @@ $${ \hat{f}(\mu) = \inf _{x \in \mathbb{R} ^n} (f(x) + \mu ^T G(x)) \in \mathbb{
 
 Note that ${ \hat{f} }$ is an infimum over affine functions in ${ \mu, }$ and hence is concave.
 
-Note that if ${ \mu \succeq 0 , }$ we have ${ f(x ^{\ast}) + \mu ^T G(x ^{\ast}) \leq p ^{\ast} .  }$
+Note that if ${ \mu \succeq 0 , }$ we have 
 
-Hence if ${ \mu \succeq 0 , }$ we have ${ \hat{f}(\mu) \leq p ^{\ast} .  }$
+$${ f(x ^{\ast}) + \mu ^T G(x ^{\ast}) \leq p ^{\ast} .  }$$
+
+Hence if ${ \mu \succeq 0 , }$ we have 
+
+$${ \hat{f}(\mu) \leq p ^{\ast} .  }$$
 
 Hence 
 
