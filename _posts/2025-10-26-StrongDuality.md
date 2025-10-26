@@ -37,4 +37,22 @@ Hence
 
 $${ \sup _{\mu \succeq 0} \hat{f}(\mu) \leq p ^{\ast} .  }$$
 
+**Q**) Is the above bound an equality? 
+
+Equivalently, 
+
+**Q**) Is
+
+$${ \quad d ^{\ast} := \sup _{{\mu} \succeq 0} \hat{f}(\mu) = p ^{\ast} .   }$$ 
+
+It turns out imposing a mild constraint ensures that the supremum ${ d ^{\ast} }$ is attained and is equal to ${ p ^{\ast} . }$ 
+
+Suppose there is a point 
+
+$${ {\begin{aligned} &\, x ^{'} \in \text{int}(\text{dom}(f)), \quad x ^{'} \in \mathcal{F}, \\ &\, g _j (x ^{'}) < 0 \, \, \text{ for each } g _j \text{ which is not affine.}  \end{aligned}}  }$$ 
+
+Then the supremum ${ d ^{\ast} }$ is attained and is equal to ${ p ^{\ast} . }$ 
+
+
+
 
