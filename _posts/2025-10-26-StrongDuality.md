@@ -18,7 +18,7 @@ Consider the feasible set
 
 $${ \mathcal{F} = \lbrace x \in \mathbb{R} ^n : x \in \text{dom}(f), G(x) \preceq 0 \rbrace  . }$$ 
 
-Note that ${ \mathcal{F} }$ is a convex set.
+Note that ${ \mathcal{F} }$ is a convex set in ${ \mathbb{R} ^n . }$ 
 
 
 Let ${ x ^{\ast} \in \mathcal{F} }$ be a minimizer with ${ f (x ^{\ast}) = p ^{\ast} . }$ 
