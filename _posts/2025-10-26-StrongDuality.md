@@ -49,7 +49,7 @@ It turns out imposing a mild constraint ensures that the supremum ${ d ^{\ast} }
 
 Suppose there is a point 
 
-$${ {\begin{aligned} &\, x ^{\\'} \in \text{int}(\text{dom}(f)), \quad x ^{\\'} \in \mathcal{F}, \\ &\, g _j (x ^{\\'}) < 0 \, \, \text{ for each } g _j \text{ which is not affine.}  \end{aligned}}  }$$ 
+$${ {\begin{aligned} &\, \hat{x} \in \text{int}(\text{dom}(f)), \quad \hat{x} \in \mathcal{F}, \\ &\, g _j (\hat{x}) < 0 \, \, \text{ for each } g _j \text{ which is not affine.}  \end{aligned}}  }$$ 
 
 Then the supremum ${ d ^{\ast} }$ is attained and is equal to ${ p ^{\ast} . }$ 
 
