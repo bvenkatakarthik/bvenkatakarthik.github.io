@@ -14,6 +14,17 @@ $${ {\begin{aligned} \text{minimize} \quad &\, f(x) \\ \text{subject to} \quad &
 
 where ${ f ,}$ ${ g _i }$s are convex functions on ${ \mathbb{R} ^n . }$ (${ f }$ is allowed to take values in ${ \mathbb{R} \cup \lbrace +\infty \rbrace  }$). 
 
+Suppose 
+
+$${ g _1, \ldots, g _k \, \text{ are not affine}  }$$ 
+
+and 
+
+$${ g _{k + 1}, \ldots, g _m \, \text{ are affine}  }$$
+
+with the affine inequalities appearing in pairs ${ \lbrace h _i \leq 0, - h _i \leq 0 \rbrace . }$ 
+
+
 Consider the feasible set 
 
 $${ \mathcal{F} = \lbrace x \in \mathbb{R} ^n : x \in \text{dom}(f), G(x) \preceq 0 \rbrace  . }$$ 
