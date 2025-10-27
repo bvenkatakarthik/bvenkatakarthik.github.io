@@ -55,7 +55,7 @@ $${ \hat{f}(\mu) \leq p ^{\ast} .  }$$
 
 Hence 
 
-$${ \sup _{\mu \succeq 0} \hat{f}(\mu) \leq p ^{\ast} .  }$$
+$${ \boxed{ \sup _{\mu \succeq 0} \hat{f}(\mu) \leq p ^{\ast} } .  }$$
 
 **Q**) Is the above bound an equality? 
 
@@ -73,7 +73,6 @@ $${ {\begin{aligned} &\, x ^{'} \in \text{int}(\text{dom}(f)), \quad x ^{'} \in 
 
 Then the supremum ${ d ^{\ast} }$ is attained and is equal to ${ p ^{\ast} . }$ 
 
-**Proof**: To do. 
 
 
 
