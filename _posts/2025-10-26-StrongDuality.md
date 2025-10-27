@@ -6,6 +6,8 @@ categories: journal
 tags: [documentation,sample]
 ---
 
+**Updated**: 27/10/25
+
 **Ref**: "Foundations of Applied Mathematics, Vol 2" by Humpherys, Jarvis, Evans.
 
 Consider the optimization problem 
