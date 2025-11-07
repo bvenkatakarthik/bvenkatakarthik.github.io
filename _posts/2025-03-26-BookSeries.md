@@ -85,6 +85,6 @@ tags: [documentation,sample]
 * "Algorithms in C, Vols 1 and 2" by Sedgewick. 
 * William Stalling's Books. 
 * "Probabilistic Machine Learning, Vols 1 to 3" by Murphy.
-* "Speech and Language Processing, VOls 1 and 2" by Jurafsky, Martin.  
+* "Speech and Language Processing, Vols 1 and 2" by Jurafsky, Martin.  
 
 
