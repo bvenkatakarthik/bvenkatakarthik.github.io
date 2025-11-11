@@ -15,3 +15,6 @@ Link to blog post: [Link](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-dau
 **ROUGH NOTES (!)**    
 Updated: 11/11/25 
 
+Money is valuable. 
+
+Money brings you freedom, work can be enjoyable when you aren't effectively a slave to it. 
