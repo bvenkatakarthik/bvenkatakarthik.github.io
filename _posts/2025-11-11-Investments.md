@@ -39,7 +39,7 @@ Note that P needs a net worth of ${ \$ 312, 500 }$ to be financially independent
 
 It turns out in ${ 1975 - 2015, }$ VTSAX (Vanguard Total Stock Market Index Fund) had an average annual return of ${ 11.9 \% . }$ 
 
-Link to the VTSAX page: [Link](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax). 
+Link to VTSAX page: [Link](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax). 
 
 P invests ${ \$12,500 }$ each year. Assuming ${ 11.9 \% }$ annual return, P will be financially independent (${ \$ 317,175 }$) in around ${ 11.5 }$ years. 
 
@@ -49,7 +49,7 @@ After ${ 11.5 }$ years, P starts to spend his full earning ${ \$ 25,000 }$ every
 
 In ${ 10 }$ more years, the amount will have grown to ${ \$ 961, 946 . }$ 
 
-Link to Investment calculator: [Link](https://www.calculator.net/investment-calculator.html?ctype=endamount&ctargetamountv=1%2C000%2C000&cstartingprinciplev=312%2C500&cyearsv=10&cinterestratev=11.9&ccompound=annually&ccontributeamountv=0&cadditionat1=end&ciadditionat1=annually&printit=0&x=Calculate#calresult).
+Link to investment calculator: [Link](https://www.calculator.net/investment-calculator.html?ctype=endamount&ctargetamountv=1%2C000%2C000&cstartingprinciplev=312%2C500&cyearsv=10&cinterestratev=11.9&ccompound=annually&ccontributeamountv=0&cadditionat1=end&ciadditionat1=annually&printit=0&x=Calculate#calresult).
 
 That amount yields ${ \$ 38, 478 }$ a year at ${ 4 \% }$ withdrawal rate. 
 
