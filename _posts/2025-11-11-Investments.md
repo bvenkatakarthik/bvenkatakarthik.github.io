@@ -39,6 +39,8 @@ Note that P needs a net worth of ${ \$ 312, 500 }$ to be financially independent
 
 It turns out in ${ 1975 - 2015, }$ VTSAX (Vanguard Total Stock Market Index Fund) had an average annual return of ${ 11.9 \% . }$ 
 
+Link to the VTSAX page: [Link](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax). 
+
 P invests ${ \$12,500 }$ each year. Assuming ${ 11.9 \% }$ annual return, P will be financially independent (${ \$ 317,175 }$) in around ${ 11.5 }$ years. 
 
 Link to investment calculator: [Link](https://www.calculator.net/investment-calculator.html?ctype=endamount&ctargetamountv=1%2C000%2C000&cstartingprinciplev=12%2C500&cyearsv=11.5&cinterestratev=11.9&ccompound=annually&ccontributeamountv=12%2C500&cadditionat1=end&ciadditionat1=annually&printit=0&x=Calculate#calresult). 
