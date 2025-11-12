@@ -45,7 +45,7 @@ P invests ${ \$12,500 }$ each year. Assuming ${ 11.9 \% }$ annual return, P will
 
 Link to investment calculator: [Link](https://www.calculator.net/investment-calculator.html?ctype=endamount&ctargetamountv=1%2C000%2C000&cstartingprinciplev=12%2C500&cyearsv=11.5&cinterestratev=11.9&ccompound=annually&ccontributeamountv=12%2C500&cadditionat1=end&ciadditionat1=annually&printit=0&x=Calculate#calresult). 
 
-After ${ 11.5 }$ years, P starts to spend his full earning ${ \$ 25,000 }$ every year, and leave the "${ \$ 312, 500 }$ nest egg" alone. 
+After ${ 11.5 }$ years, P starts to spend his full earning ${ \$ 25,000 }$ every year, and leave the ${ \$ 312, 500 }$ alone. 
 
 In ${ 10 }$ more years, the amount will have grown to ${ \$ 961, 946 . }$ 
 
