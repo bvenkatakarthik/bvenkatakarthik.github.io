@@ -62,7 +62,7 @@ tags: [documentation,sample]
 * "Differential Geometry and Lie Groups, Vols 1 and 2" by Gallier, Quaintance.
 * "Stochastic Models, Information Theory, and Lie Groups, Vols 1 and 2" by Chirikjian.
 * "Convex analysis and minimization algorithms, Vols 1 and 2" by Hiriart-Urruty, Lemarechal. 
-* Tu's books on Manifolds.  
+* Loring Tu's books on Manifolds.  
 
 
 
