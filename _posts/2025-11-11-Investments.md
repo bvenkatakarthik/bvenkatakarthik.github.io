@@ -13,7 +13,7 @@ Link to a talk: [Link](https://youtu.be/T71ibcZAX3I?si=4o0fjs3WWcuJfYZN).
 Link to blog post: [Link](https://jlcollinsnh.com/2011/06/08/how-i-failed-my-daughter-and-a-simple-path-to-wealth/). 
 
 **ROUGH NOTES (!)**    
-Updated: 11/11/25 
+Updated: 20/11/25 
 
 Money is valuable. 
 
@@ -24,6 +24,8 @@ Avoid debt.
 Spend less than you earn - invest the surplus - avoid debt. 
 
 A mutual fund is a collection of investors' money that fund managers use to invest in stocks, bonds, and other securities.
+
+An index fund is a type of investment that tracks the performance of a specific benchmark like the S&P 500. Instead of picking individual stocks, an index fund tracks the performance of a specific market benchmark—or "index", like the popular S&P 500 Index—as closely as possible.
 
 **Eg**: The author considers the following scenario.
 
