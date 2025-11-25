@@ -17,7 +17,7 @@ Let ${ A \in \mathbb{R} ^{n \times n} }$ be a symmetric matrix.
 
 It turns out yes. 
 
-It turns out we can use the QR algorithm. 
+It turns out there is the QR algorithm. 
 
 Link to the Wikipedia page: [Link](https://en.wikipedia.org/wiki/QR_algorithm). 
 
