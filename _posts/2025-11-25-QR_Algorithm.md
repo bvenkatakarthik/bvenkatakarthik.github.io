@@ -25,4 +25,8 @@ Note that arguably the QR algorithm is one of the top ${ 10 }$ algorithms in the
 
 Link to the journal page: [Link](https://www.computer.org/csdl/magazine/cs/2000/01/c1022/13rRUxBJhBm). 
 
+Link to Higham's version of the top ${ 10 }$ list: [Link](https://press.princeton.edu/ideas/nicholas-higham-on-the-top-10-algorithms-in-applied-mathematics?srsltid=AfmBOoptO29G_k8l-a46W9nuhRMhkj8_mZbG1AS-iO4T1VfE2oEW9wkG). 
+
+
+
 
