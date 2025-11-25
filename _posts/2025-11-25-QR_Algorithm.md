@@ -10,7 +10,7 @@ tags: [documentation,sample]
 
 * "Linear Algebra" by Lax. 
 
-* "Matrix Methods" by Strang. Lecture-5. Link to the lecture: [Link](https://youtu.be/d32WV1rKoVk?si=CEHgx2TUDJsy_bNZ).
+* "Matrix Methods" by Strang. Lecture-12. Link to the lecture: [Link](https://youtu.be/d32WV1rKoVk?si=CEHgx2TUDJsy_bNZ).
 
 **ROUGH NOTES (!)**    
 Updated: 25/11/25
