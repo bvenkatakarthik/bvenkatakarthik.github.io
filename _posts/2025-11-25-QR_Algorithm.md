@@ -23,9 +23,9 @@ Link to the Wikipedia page: [Link](https://en.wikipedia.org/wiki/QR_algorithm).
 
 Note that arguably the QR algorithm is one of the top ${ 10 }$ algorithms in the ${ 20 }$th century. 
 
-Link to the journal page: [Link](https://www.computer.org/csdl/magazine/cs/2000/01/c1022/13rRUxBJhBm). 
+Link to the journal article by Dongarra, Sullivan: [Link](https://www.computer.org/csdl/magazine/cs/2000/01/c1022/13rRUxBJhBm). 
 
-Link to Higham's version of the top ${ 10 }$ list: [Link](https://press.princeton.edu/ideas/nicholas-higham-on-the-top-10-algorithms-in-applied-mathematics?srsltid=AfmBOoptO29G_k8l-a46W9nuhRMhkj8_mZbG1AS-iO4T1VfE2oEW9wkG). 
+Link to Higham's top ${ 10 }$ list: [Link](https://press.princeton.edu/ideas/nicholas-higham-on-the-top-10-algorithms-in-applied-mathematics?srsltid=AfmBOoptO29G_k8l-a46W9nuhRMhkj8_mZbG1AS-iO4T1VfE2oEW9wkG). 
 
 
 
