@@ -12,6 +12,8 @@ tags: [documentation,sample]
 
 * "Matrix Methods" by Strang. Lecture-12. Link to the lecture: [Link](https://youtu.be/d32WV1rKoVk?si=CEHgx2TUDJsy_bNZ).
 
+* "Scientific Computing" by Heath. 
+
 **ROUGH NOTES (!)**    
 Updated: 25/11/25
 
