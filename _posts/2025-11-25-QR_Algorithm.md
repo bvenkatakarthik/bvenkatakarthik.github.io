@@ -217,9 +217,12 @@ Hence consider the QR iteration
 * for ${ k = 1, 2, \ldots }$ 
 
     * Compute QR factorization 
-     $${ A _{k - 1} = Q _k R _k }$$ 
-     * Set  
-     $${ A _k = R _k Q _k  }$$ 
+
+    $${ A _{k - 1} = Q _k R _k }$$
+ 
+    * Set  
+
+    $${ A _k = R _k Q _k  }$$ 
 
 * end. 
 
