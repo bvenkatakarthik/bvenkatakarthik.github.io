@@ -157,11 +157,9 @@ Hence consider the orthogonal iteration with ${ A _k }$ steps
 * ${ X _0 = I . }$
 * for ${ k = 0, 1, 2, \ldots }$ 
 
-    * Compute reduced QR factorization 
+    * Compute reduced QR factorization and set
    
     $${ \boxed{ X _{k} = \hat{Q} _k R _k }   }$$ 
-
-    and
  
     $${ \boxed{A _k = \hat{Q} _k ^T A \hat{Q} _k}. }$$ 
 
