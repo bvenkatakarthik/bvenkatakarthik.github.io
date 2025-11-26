@@ -112,10 +112,12 @@ Consider orthogonal iteration
 * ${ X _0 }$ = arbitrary ${ n \times p }$ matrix of rank ${ p . }$
 * for ${ k = 0, 1, 2, \ldots }$ 
 
-    * Compute reduced QR factorization    
+    * Compute reduced QR factorization   
+ 
     $${ \boxed{ X _{k} = \hat{Q} _k R _k } .  }$$ 
 
     * Set    
+
     $${ \boxed{ X _{k+1}  = A \hat{Q} _k }.  }$$
 
 * end. 
@@ -155,12 +157,16 @@ Hence consider the orthogonal iteration with ${ A _k }$ steps
 * ${ X _0 = I . }$
 * for ${ k = 0, 1, 2, \ldots }$ 
 
-    * Compute reduced QR factorization    
+    * Compute reduced QR factorization 
+   
     $${ \boxed{ X _{k} = \hat{Q} _k R _k }   }$$ 
-      and 
-     $${ \boxed{A _k = \hat{Q} _k ^T A \hat{Q} _k} . }$$ 
 
-    * Set    
+    and
+ 
+    $${ \boxed{A _k = \hat{Q} _k ^T A \hat{Q} _k}. }$$ 
+
+    * Set  
+  
     $${ \boxed{ X _{k+1}  = A \hat{Q} _k }.  }$$
 
 * end. 
