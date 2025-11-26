@@ -161,7 +161,7 @@ Hence consider the orthogonal iteration with ${ A _k }$ steps
    
     $${ \boxed{ X _{k} = \hat{Q} _k R _k }   }$$ 
 
-      and
+    and
  
     $${ \boxed{A _k = \hat{Q} _k ^T A \hat{Q} _k}. }$$ 
 
