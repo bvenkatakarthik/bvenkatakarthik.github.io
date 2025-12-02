@@ -12,6 +12,5 @@ Link to the Nobel prize press release: [Link](https://www.nobelprize.org/prizes/
 
 Link to the popular science article: [Link](https://www.nobelprize.org/uploads/2024/10/popular-economicsciencesprize2024.pdf). 
 
-Incentives are important. 
 
 
