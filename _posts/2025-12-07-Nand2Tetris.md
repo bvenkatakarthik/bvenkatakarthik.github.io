@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nand2Tetris (To do)"
+title: "Nand2Tetris"
 author: "Karthik"
 categories: journal
 tags: [documentation,sample]
