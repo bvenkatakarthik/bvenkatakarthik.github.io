@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Programming Basics (To Do)"
+title: "Programming Basics"
 author: "Karthik"
 categories: journal
 tags: [documentation,sample]
