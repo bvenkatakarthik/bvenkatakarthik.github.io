@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 ---
 
-**Updated**: 15/11/25 
+**Updated**: 18/12/25 
 
 **Mathematics** 
 * Serge Lang's books.
@@ -63,7 +63,8 @@ tags: [documentation,sample]
 * "Stochastic Models, Information Theory, and Lie Groups, Vols 1 and 2" by Chirikjian.
 * "Convex analysis and minimization algorithms, Vols 1 and 2" by Hiriart-Urruty, Lemarechal. 
 * Loring Tu's books on Manifolds.  
-
+* "Mathematics in Industrial Problems, Vols 1 to 10" by Friedman. 
+* "Stochastic Differential Equations and Applications", Vols 1 and 2" by Friedman. 
 
 
 
