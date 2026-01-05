@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 ---
 
-**Updated**: 18/12/25 
+**Updated**: 6/1/26 
 
 **Mathematics** 
 * Serge Lang's books.
@@ -65,6 +65,7 @@ tags: [documentation,sample]
 * Loring Tu's books on Manifolds.  
 * "Mathematics in Industrial Problems, Vols 1 to 10" by Friedman. 
 * "Stochastic Differential Equations and Applications", Vols 1 and 2" by Friedman. 
+* Lokenath Debnath's books on Functional Analysis. 
 
 
 
