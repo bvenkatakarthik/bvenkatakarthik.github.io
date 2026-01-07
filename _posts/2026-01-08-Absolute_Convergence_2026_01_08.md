@@ -6,6 +6,7 @@ categories: journal
 tags: [documentation,sample]
 ---
 
+
 **Ref**: "Introduction to Hilbert Spaces" by Debnath, Mikusinski. 
 
 Note that in ${ \mathbb{R} , }$ convergence of ${ \sum _{j = 1} ^{\infty} \vert x _j \vert }$ implies convergence of ${ \sum _{j = 1} ^{\infty} x _j . }$ 
