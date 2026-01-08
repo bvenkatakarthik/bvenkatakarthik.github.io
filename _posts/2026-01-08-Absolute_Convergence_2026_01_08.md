@@ -60,4 +60,4 @@ Hence
 
 $${ \lVert x _n - x \rVert \leq \lVert x _n - x _{p _n} \rVert + \lVert x _{p _n} - x \rVert \to 0 }$$ 
 
-because ${ (x _n) }$ is Cauchy. as needed
+because ${ (x _n) }$ is Cauchy, as needed.
