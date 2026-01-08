@@ -13,7 +13,8 @@ Note that in ${ \mathbb{R} , }$ convergence of ${ \sum _{j = 1} ^{\infty} \vert 
 
 **Q**) What are the normed spaces in which convergence of ${ \sum _{j = 1} ^{\infty} \lVert x _j \rVert }$ implies convergence of ${ \sum _{j = 1} ^{\infty} x _j }$? 
 
-**Thm**: Let ${ E }$ be a normed space.    
+**Thm**: Let ${ E }$ be a normed space.
+    
 Then ${ E }$ is complete if and only if absolute convergence implies convergence. 
 
 **Pf**: ${ \underline{\implies} }$ Let ${ E }$ be a complete normed space. Let ${ \sum _{j = 1} ^{\infty} \lVert x _j \rVert }$ be a convergent series.
