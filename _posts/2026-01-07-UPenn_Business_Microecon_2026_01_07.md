@@ -159,9 +159,9 @@ We will see the above observation graphically.
 
 Note that intuitively the PPF looks like 
 
-<p align="center">    
+<div align="center">    
     <img src="https://d.l3n.co/FmtOWC.jpeg" width="400" height="400"/>
-</p>
+</div>
 
 
 
