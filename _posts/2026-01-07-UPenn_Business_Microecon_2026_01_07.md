@@ -160,7 +160,7 @@ We will see the above observation graphically.
 Note that intuitively the PPF looks like 
 
 <div align='center'>    
-    <img src="https://d.l3n.co/FmtOWC.jpeg" width="400" height="400">
+    <img src="https://d.l3n.co/FmtOWC.jpeg" width="400" height="400"/>
 </div>
 
 
