@@ -66,6 +66,24 @@ Note that the ${ (\text{O.C. of time}) }$ of going to Florida is, the net benefi
 
 Hence Steve's O.C. / true cost of going to Florida is ${ \$ 200 . }$ 
 
+**Q**) Ellie's Tuesday morning class was cancelled! She now must decide how to spend her extra-time. She has three, mutually exclusive, options for activities: 
+
+1) Go to the library and study for her Econ midterm, which costs her nothing and which she values at ${ \$ 10 . }$ 
+
+2) Go to a movie, which costs her ${ \$ 5 }$ and which she values at ${ \$ 30 . }$ 
+
+3) Have lunch with a friend, which costs her ${ \$ 10 }$ abd which she values at ${ \$ 55. }$ 
+
+What is Ellie's O.C. of having lunch with her friend? 
+
+**A**) Note that the ${ (\$ \text{ cost}) }$ of having lunch with her friend is ${ \$ 10 . }$ 
+
+Note that the ${ (\text{O.C. of time}) }$ of having lunch with her friend is, the next benefit of the best foregone alternative, which is ${ \$ 30 - \$ 5 }$ ${ = \$ 25 . }$ 
+
+Hence Ellie's O.C. of going to lunch with her friend is ${ \$ 10 + \$ 25 }$ ${ = \$ 35 . }$ 
+
+
+
 
 
 
