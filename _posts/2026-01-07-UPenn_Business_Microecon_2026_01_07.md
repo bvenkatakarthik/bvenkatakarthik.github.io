@@ -72,7 +72,7 @@ Hence Steve's O.C. / true cost of going to Florida is ${ \$ 200 . }$
 
 2) Go to a movie, which costs her ${ \$ 5 }$ and which she values at ${ \$ 30 . }$ 
 
-3) Have lunch with a friend, which costs her ${ \$ 10 }$ abd which she values at ${ \$ 55. }$ 
+3) Have lunch with a friend, which costs her ${ \$ 10 }$ and which she values at ${ \$ 55. }$ 
 
 What is Ellie's O.C. of having lunch with her friend? 
 
