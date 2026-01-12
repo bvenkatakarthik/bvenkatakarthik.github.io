@@ -82,6 +82,25 @@ Note that the ${ (\text{O.C. of time}) }$ of having lunch with her friend is, th
 
 Hence Ellie's O.C. of going to lunch with her friend is ${ \$ 10 + \$ 25 }$ ${ = \$ 35 . }$ 
 
+[**Scarcity**] 
+
+**Q**) What is Economics? 
+
+**A**) Economics is the study of allocation of scarce resources to satisfy unlimited wants. 
+
+Note that the definition involves some assumptions: 
+
+* Assumption 1. We have scarce resources.    
+For example, for some of us, it may be land, water, money, time, etc. 
+
+* Assumption 2. We have unlimited wants.    
+There is often something we want more of in the world. For example, maybe it is more shoes, or to help more poor. 
+
+Hence we need to allocate these scarce resources to satisfy unlimited wants. 
+
+The need to satisfy these unlimited wants has caused the development of markets and trade. We will see how markets and trade help to improve the situation.  
+
+
 
 
 
