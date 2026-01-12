@@ -100,6 +100,70 @@ Hence we need to allocate these scarce resources to satisfy unlimited wants.
 
 The need to satisfy these unlimited wants has caused the development of markets and trade. We will see how markets and trade help to improve the situation.  
 
+The idea of scarcity is represented by the production possibilities frontier (PPF). 
+
+**Q**) What is the production possibilities frontier (PPF)? 
+
+**A**) PPF is a graph showing the maximal different combinations of output for a given amount of input. 
+
+Note that if we are producing along the PPF, we cannot produce more of one good without decreasing production of another good. 
+
+We can use PPF as a tool to study economic growth. 
+
+**Q**) What is economic growth? 
+
+**A**) Economic growth is the increase in the production of goods and services. 
+
+We can think of economic growth as a shift of PPF outward. 
+
+PPF can shift out because of: 
+* Technological improvement. 
+* Investment in capital goods, that allows us to have more inputs for production. 
+
+Consider efficiency. 
+
+**Q**) What is productive efficiency?
+
+**A**) Productive efficiency means all available resources are utilized. Production efficiency means we are producing on the PPF. 
+
+**Q**) Suppose we are producing on the PPF. Are we producing at the right point along the PPF? Are we producing the right combination of goods and services? 
+
+If we are thinking about producing the right combination of goods and services, we would like to compare the cost of producing a good to the benefit we get from producing this good.    
+Hence we consider marginal cost and marginal benefit. 
+
+**Q**) What is marginal cost?
+
+**A**) Marginal cost is the opportunity cost of producing one more unit of a good or service. 
+
+**Q**) What is marginal benefit? 
+
+**A**) Marginal benefit is the benefit recieved from consuming one more unit of a good or service. 
+
+We measure marginal benefit by the amount that a person is willing to pay for an additional unit of a good or service. 
+
+Note that intuitively as we consume more the marginal benefit decreases. For example, consider chocolate. The first bite gives a lot of marginal benefit and a lot of joy, but the joy decreases with subsequent bites. 
+
+**Q**) What is allocative efficiency? 
+
+**A**) Allocative efficiency is when we cannot produce more of any one good without giving up some other good that we value more highly. 
+
+Allocative efficiency is when we are producing at the point on the PPF that we prefer above all other points. 
+
+**Obs**: At the point of allocative efficiency, 
+
+$${ \text{Marginal benefit} = \text{Marginal cost} .  }$$ 
+
+We will see the above observation graphically. 
+
+**Eg**: Consider goods "education" and "healthcare". Note that there is a tradeoff in allocation of resources to education and healthcare. 
+
+Note that intuitively the PPF looks like 
+
+<div align='center'>    
+    <img src="https://d.l3n.co/FmtOWC.jpeg" width="400" height="400">
+</div>
+
+
 
 
 
