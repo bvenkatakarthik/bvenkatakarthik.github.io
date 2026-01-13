@@ -273,8 +273,8 @@ What is the trade price of 1 H (in terms of M), that both Sarah and Abe will agr
 
 Note the O.C. of 1 H is 2 M for Sarah and 4 M for Abe. 
 
-Hence the trade price of 1 H satisfies 2 M < 1 H < 4 M.    
-If 1 H < 2 M, Sarah will not be willing to sell Hs. If 1 H > 4 M, Abe will not be willing to buy Hs. 
+Hence the trade price of 1 H satisfies ${ 2 M < 1 H < 4 M. }$    
+If ${ 1 H < 2 M, }$ Sarah will not be willing to sell Hs. If ${ 1 H > 4 M, }$ Abe will not be willing to buy Hs. 
 
 Suppose they trade at price 1 H = 3 M. 
 
