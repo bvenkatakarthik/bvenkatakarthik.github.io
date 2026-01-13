@@ -23,6 +23,12 @@ Link to Coursera courses: [Link](https://www.coursera.org/learn/microeconomics-p
 
 Instructor: Prof. Rebecca Stein. 
 
+<a name="top"></a>
+
+Sections: [Opportunity cost](#1), [Scarcity](#2). 
+
+<a name="1"></a> 
+
 [**Opportunity cost**]
 
 **Q**) What is opportunity cost? 
@@ -81,6 +87,8 @@ What is Ellie's O.C. of having lunch with her friend?
 Note that the ${ (\text{O.C. of time}) }$ of having lunch with her friend is, the next benefit of the best foregone alternative, which is ${ \$ 30 - \$ 5 }$ ${ = \$ 25 . }$ 
 
 Hence Ellie's O.C. of going to lunch with her friend is ${ \$ 10 + \$ 25 }$ ${ = \$ 35 . }$ 
+
+<a name="2"></a>
 
 [**Scarcity**] 
 
