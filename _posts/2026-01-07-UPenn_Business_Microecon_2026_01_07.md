@@ -249,6 +249,22 @@ Note that the PPFs for Sarah and Abe are
     <img src="https://d.l3n.co/Fm5hCv.jpeg" width="400" height="200"/> 
 </div>
 
+Note that if Sarah and Abe combine the goods produced, the net feasible region is the Minkowski sum of the individual feasible regions. 
+
+Hence the feasible region for the combined production is 
+
+<div align="center">
+    <img src="https://b.l3n.co/Fmh96H.jpeg" width="400" height="300"/> 
+</div>
+
+What is comparative advantage? 
+
+A person or a nation has a comparative advantage in an activity if they can perform that activity at a lower opportunity cost than others. 
+
+Note that Sarah has a comparative advantage in producing H (Sarah has O.C. of 2 M for 1 H), and Abe has a comparative advantage in producing M (Abe has O.C. of 1/4 H for 1 M). 
+
+Note that the extreme point in the joint PPF (60, 96) is realised by individual specialisation according to comparative advantage, that is Sarah producing only H and Abe producing only M. 
+
 
 
 
