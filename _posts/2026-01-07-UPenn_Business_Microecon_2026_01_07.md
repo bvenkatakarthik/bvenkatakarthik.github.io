@@ -25,7 +25,7 @@ Instructor: Prof. Rebecca Stein.
 
 <a name="top"></a>
 
-Sections: [Opportunity cost](#1), [Scarcity](#2). 
+Sections: [Opportunity cost](#1), [Scarcity](#2), [Trade](#3). 
 
 <a name="1"></a> 
 
@@ -228,6 +228,26 @@ The point on the PPF where M.C. = M.B., call it M.
 Note that heuristically M has allocative efficiency.    
 For points to the right of M on the PPF: The M.C. exceeds M.B., and it is unfavourable to move in that direction.    
 For points to the left of M and on the PPF: The M.B. exceeds M.C., and it is favourable to move further right. 
+
+<a name="3"></a>
+
+[**Trade**]
+
+[Back to top](#Top)
+
+**Eg**: Consider two members of a family, Sarah and Abe. Each of them has 12 hours in a day and in each hour they can spend either making market goods (eg working in a job) or home goods (eg cooking).    
+Suppose every hour, they can produce market goods or home goods as per the table below. 
+
+| | Market Goods | Home Goods |
+| - - - | - - - | - - - | 
+| Sarah | 10 | 5 | 
+| Abe | 8 | 2 | 
+
+Note that the PPFs for Sarah and Abe are 
+
+<div align="center">
+    <img src="https://d.l3n.co/Fm5hCv.jpeg" width="400" height="200"/> 
+</div>
 
 
 
