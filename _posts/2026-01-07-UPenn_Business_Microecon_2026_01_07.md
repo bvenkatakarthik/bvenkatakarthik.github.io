@@ -265,7 +265,24 @@ Note that Sarah has a comparative advantage in producing H (Sarah has O.C. of 2 
 
 Note that the extreme point in the joint PPF (60, 96) is realised by individual specialisation according to comparative advantage, that is Sarah producing only H and Abe producing only M. 
 
+Note that Sarah can produce more home goods per hour, and more market goods per hour. We can say Sarah has the absolute advantage in producing both goods. But as we saw, it turns out the comparative advantage is more important for the collective production. 
 
+**Eg**: Consider the above example, but in terms of trade.  
+
+What is the trade price of 1 H (in terms of M), that both Sarah and Abe will agree upon? 
+
+Note the O.C. of 1 H is 2 M for Sarah and 4 M for Abe. 
+
+Hence the trade price of 1 H satisfies 2 M < 1 H < 4 M.    
+If 1 H < 2 M, Sarah will not be willing to sell Hs. If 1 H > 4 M, Abe will not be willing to buy Hs. 
+
+Suppose they trade at price 1 H = 3 M. 
+
+Note that the resouces Sarah and Abe can accumulate via specialized production and trade now have the frontiers
+
+<div align="center">
+    <img src="https://d.l3n.co/FsAEPz.jpeg" width="400" height="300"/> 
+</div>
 
 
 
