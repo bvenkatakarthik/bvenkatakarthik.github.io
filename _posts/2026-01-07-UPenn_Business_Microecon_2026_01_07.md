@@ -163,6 +163,15 @@ Note that intuitively the PPF looks like
     <img src="https://d.l3n.co/FmtOWC.jpeg" width="400" height="400"/>
 </div>
 
+**Eg**: Suppose we have ${ 10 }$ fields. In each of these fields, we can either grow 10 tons pumpkins or 5 tons strawberries. 
+
+Note that the PPF is 
+
+<div align="center">
+    <img src="https://d.l3n.co/FmKJ1o.jpeg" width="400" height="500"/> 
+</div>
+
+
 
 
 
