@@ -11,7 +11,7 @@ tags: [documentation,sample]
 Link to UPenn Coursera page: [Link](https://www.coursera.org/partners/penn). 
 
 **ROUGH NOTES (!)**    
-Updated: 12/1/26 
+Updated: 13/1/26 
 
 Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculum/). 
 
