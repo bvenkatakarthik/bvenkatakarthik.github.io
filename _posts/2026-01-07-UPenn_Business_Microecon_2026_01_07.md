@@ -31,6 +31,8 @@ Sections: [Opportunity cost](#1), [Scarcity](#2).
 
 [**Opportunity cost**]
 
+[Back to top](#top). 
+
 **Q**) What is opportunity cost? 
 
 **A**) Opportunity cost is the value of the 'best foregone alternative' to any decision. 
@@ -91,6 +93,8 @@ Hence Ellie's O.C. of going to lunch with her friend is ${ \$ 10 + \$ 25 }$ ${ =
 <a name="2"></a>
 
 [**Scarcity**] 
+
+[Back to top](#top). 
 
 **Q**) What is Economics? 
 
