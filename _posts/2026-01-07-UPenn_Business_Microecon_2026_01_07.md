@@ -181,6 +181,42 @@ Note that the PPF may look like
     <img src="https://b.l3n.co/FmHYWH.jpeg" width="400" height="300"/> 
 </div>
 
+Note that as we move down the PPF, the O.C. of growing S in terms of P is increasing. 
+
+ **Eg**: Consider the above example of 10 identical fields. Suppose there is a technological progress in growing strawberries (new compost, new breed, etc.) Hence suppose in each field we are now able to either grow 10 tons pumpkins or 10 tons strawberries. 
+
+ Note that the new PPF is 
+
+ <div align="center">
+    <img src="https://c.l3n.co/FmxyUm.jpeg" width="400" height="500"/> 
+</div>
+
+Note that the technological improvement moves the PPF outward. 
+
+**Eg**: [Allocative efficiency]    
+
+Consider the above example of 10 fields. Consider the PPF to be curved outward. 
+
+How do we decide which point on the PPF to prefer? 
+
+We will consider the marginal cost and marginal benefit curves for the production. 
+
+Note that M.C. of S in terms of P increases as we increase S. 
+
+Note that intuitively the M.B. of S decreases as we increaase S. 
+
+Hence the M.C. and M.B. curves can be modelled as 
+
+<div align="center">
+    <img src="https://b.l3n.co/FmyAQv.jpeg" width="400" height="500"/> 
+</div>
+
+The point on the PPF where M.C. = M.B., call it M. 
+
+Note that heuristically M has allocative efficiency.    
+For points to the right of M on the PPF: The M.C. exceeds M.B., and it is unfavourable to move in that direction.    
+For points to the left of M and on the PPF: The M.B. exceeds M.C., and it is favourable to move further right. 
+
 
 
 
