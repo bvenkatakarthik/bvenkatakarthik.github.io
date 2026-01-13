@@ -171,6 +171,15 @@ Note that the PPF is
     <img src="https://d.l3n.co/FmKJ1o.jpeg" width="400" height="500"/> 
 </div>
 
+Note that the magnitude of slope of the PPF is 2, which tells us we need to give up 2 P for 1 S. We say there is an opportunity cost of 2 P for 1 S (in Tons). 
+
+**Eg**: Consider the above example. Suppose for the moment the 10 fields each have different growing capacities for S and P. 
+
+Note that the PPF may look like  
+
+<div align="center">
+    <img src="https://b.l3n.co/FmHYWH.jpeg" width="400" height="300"/> 
+</div>
 
 
 
