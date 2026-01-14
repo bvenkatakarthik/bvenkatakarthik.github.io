@@ -11,7 +11,7 @@ tags: [documentation,sample]
 Link to UPenn Coursera page: [Link](https://www.coursera.org/partners/penn). 
 
 **ROUGH NOTES (!)**    
-Updated: 13/1/26 
+Updated: 14/1/26 
 
 Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculum/). 
 
@@ -283,6 +283,59 @@ Note that the resouces Sarah and Abe can accumulate via specialized production a
 <div align="center">
     <img src="https://d.l3n.co/FsAEPz.jpeg" width="400" height="300"/> 
 </div>
+
+[**Supply and Demand**] 
+
+[Back to top]
+
+**Q**) What is a demand curve?
+
+**A**) Demand curve is a graph which shows us the quantity demanded at each price. 
+
+Note that intuitively as price decreases we are willing to buy more of the product and more people are willing to buy the product. Hence intuitively when price drops quantity demanded increases and vice versa.
+
+Hence intuitively a demand curve looks like 
+
+<div align="center">
+    <img src="https://b.l3n.co/Fs5Lsm.jpeg" width="400" height="300"/> 
+</div>
+
+**Eg**: Consider for example the market for eggs, in a city, for 24 hours. An increase in income shifts the demand curve to the right. (For normal goods, as income goes up demand goes up. For inferior goods, as income goes up demand goes down). Prices of other goods which are a substitute for eggs will also affect the demand curve for eggs. 
+
+**Q**) What is a supply curve?
+
+**A**) Supply curve is a graph which shows us the quantity supplied at each price. 
+
+Note that intuitively as price increases, firms are willing to sell more of the good. Hence when price rises quantity willing to be supplied increases and vice versa. 
+
+Hence intuitively a supply curve looks like 
+
+<div align="center">
+    <img src="https://a.l3n.co/FsGc6H.jpeg" width="400" height="300"/> 
+</div>
+
+Note that factors like number of firms, price of inputs, technological change affect the supply curve for a good. 
+
+**Q**) What is market equilibrium? 
+
+**A**) Market equilibrium is a price quantity pair ${ (P, Q) }$ such that at that price, quantity demanded = quantity supplied. 
+
+Note that graphically 
+
+<div align="center">
+    <img src="https://b.l3n.co/F38FIK.jpeg" width="400" height="300"/> 
+</div>
+
+How do we reach the market equilibrium? 
+
+Consider the "Invisible Hand" by Adam Smith. 
+
+If the price is greater that equilibrium price, ${ Q _S > Q _D . }$ Hence we have excess supply. Hence the sellers will start to lower the price. The price gets attracted downwards. 
+
+If the price is lower that equilibrium price, ${ Q _S < Q _D . }$ Hence we have excess demand. Hence the sellers will start to highten the price. The price gets attracted upwards. 
+
+
+
 
 
 
