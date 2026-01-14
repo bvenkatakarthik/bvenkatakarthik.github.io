@@ -25,7 +25,7 @@ Instructor: Prof. Rebecca Stein.
 
 <a name="top"></a>
 
-Sections: [Opportunity cost](#1), [Scarcity](#2), [Trade](#3). 
+Sections: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3). 
 
 <a name="1"></a> 
 
