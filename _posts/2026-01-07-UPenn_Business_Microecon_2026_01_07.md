@@ -25,7 +25,7 @@ Instructor: Prof. Rebecca Stein.
 
 <a name="top"></a>
 
-Sections: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3). 
+Sections: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4).  
 
 <a name="1"></a> 
 
@@ -284,9 +284,11 @@ Note that the resouces Sarah and Abe can accumulate via specialized production a
     <img src="https://d.l3n.co/FsAEPz.jpeg" width="400" height="300"/> 
 </div>
 
+<a name="4"></a> 
+
 [**Supply and Demand**] 
 
-[Back to top]
+[Back to top](#top)
 
 **Q**) What is a demand curve?
 
