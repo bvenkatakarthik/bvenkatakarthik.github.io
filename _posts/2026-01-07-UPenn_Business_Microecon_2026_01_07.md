@@ -334,7 +334,7 @@ Consider the "Invisible Hand" by Adam Smith.
 
 If the price is greater that equilibrium price, ${ Q _S > Q _D . }$ Hence we have excess supply. Hence the sellers will start to lower the price. The price gets attracted downwards. 
 
-If the price is lower that equilibrium price, ${ Q _S < Q _D . }$ Hence we have excess demand. Hence the sellers will start to highten the price. The price gets attracted upwards. 
+If the price is lower that equilibrium price, ${ Q _S < Q _D . }$ Hence we have excess demand. Hence the sellers will start to heighten the price. The price gets attracted upwards. 
 
 
 
