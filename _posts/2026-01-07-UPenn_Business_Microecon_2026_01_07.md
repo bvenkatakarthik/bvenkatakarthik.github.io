@@ -371,6 +371,33 @@ $${ E _D = \left \vert \frac{\Delta Q}{\Delta P} \right \vert  \frac{P}{Q} .  }$
 
 Hence elasticity changes along the line. Near the top of the line, elasticity is ${ > 1 , }$ and near the bottom of the line, elasticity is ${ < 1 . }$  
 
+We will now think about efficiency we get on reaching market equilibrium. 
+
+**Q**) What is consumer surplus?
+
+**A**) Consumer surplus is the value of a good (marginal benefit) minus the price paid, summed over the quantity bought. 
+
+Note that consumer surplus is measured by the area under the demand curve and above the price, up to the quantity bought. 
+
+<div align="center">
+    <img src="https://b.l3n.co/F3Ypai.jpeg" width="400" height="400"/>
+</div>
+
+Note that a similar observation holds for producer surplus. 
+
+**Eg**: Consider the supply and demand curves for bread. Suppose the equilibrium price is ${ p ^{\ast} . }$ Suppose the government sets a price ceilling at ${ \overline{p} , }$ where ${ \overline{p} < p ^{\ast} . }$    
+
+Note that there is a loss in total surplus due to the price ceiling, which is shown below. 
+
+<div align="center">
+    <img src="https://b.l3n.co/F3NUxa.jpeg" width="400" height="500"/>
+</div>
+
+**Eg**: Consider the labor market. Suppose the government sets a price floor, that is a minimum wage, which is above the equilibrium price. 
+
+Note that there is a loss in total surplus due to the price floor. 
+
+
 
 
 
