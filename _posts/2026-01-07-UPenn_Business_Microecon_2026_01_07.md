@@ -25,7 +25,7 @@ Instructor: Prof. Rebecca Stein.
 
 <a name="top"></a>
 
-Sections: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4).  
+Sections: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5).  
 
 <a name="1"></a> 
 
@@ -336,9 +336,11 @@ If the price is greater that equilibrium price, ${ Q _S > Q _D . }$ Hence we hav
 
 If the price is lower that equilibrium price, ${ Q _S < Q _D . }$ Hence we have excess demand. Hence the sellers will start to heighten the price. The price gets attracted upwards. 
 
+<a name="5"></a>
+
 [**Markets**] 
 
-[Back to top] 
+[Back to top](#top) 
 
 **Eg**: Suppose you are a mango farmer trying to sell mangoes. At what price do you sell them?
 
