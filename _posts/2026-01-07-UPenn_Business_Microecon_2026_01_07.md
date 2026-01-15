@@ -336,6 +336,42 @@ If the price is greater that equilibrium price, ${ Q _S > Q _D . }$ Hence we hav
 
 If the price is lower that equilibrium price, ${ Q _S < Q _D . }$ Hence we have excess demand. Hence the sellers will start to heighten the price. The price gets attracted upwards. 
 
+[**Markets**] 
+
+[Back to top] 
+
+**Eg**: Suppose you are a mango farmer trying to sell mangoes. What price do you sell them?
+
+Consider the demand curve. 
+
+Note that revenue = ${ P \cdot Q _D . }$ 
+
+As price P increases, quantity demanded ${ Q _D }$ decreases, and vice versa. Hence the increase or decrease in revenue depends on the relative changes in P and ${ Q _D . }$ 
+
+Note that the change in revenue per change in price is 
+
+$${ {\begin{aligned} &\, \frac{\Delta (P Q _D)}{\Delta P}  \\ = &\, \frac{(P + \Delta P)(Q + \Delta Q) - P Q}{\Delta P} \\ = &\, P \frac{\Delta Q}{\Delta P} + Q \\ = &\, Q ( -E _D + 1 ).   \end{aligned}} }$$ 
+
+We define elasticity of demand as 
+
+$${ E _D = \left \vert \frac{\% \Delta Q _D}{\% \Delta P} \right \vert = \left \vert \frac{\Delta Q _D / Q _D}{\Delta P / P} \right \vert  .  }$$ 
+
+A good is inelastic if ${ 0 < E _D < 1 . }$ Note that it is favourable to the seller to increase price in the inelastic zone. 
+
+A good is elastic if ${ 1 < E _D < \infty . }$ Note that it is favourable to the seller to decrease the price in the elastic zone. 
+
+Note that the revenue vs ${ Q }$ graph has a maximum at the point where the good is unit elastic. 
+
+**Eg**: A good having substitutes, for eg frozen peas: Consumers are price sensitive. Demand is elastic.    
+A good having no substitutes, for eg chemotherapy drugs: Consumers are less price sensitive. Demand is inelastic. 
+
+**Eg**: Consider a straight line demand curve. Note that elasticity 
+
+$${ E _D = \left \vert \frac{\Delta Q}{\Delta P} \right \vert  \frac{P}{Q} .  }$$ 
+
+Hence elasticity changes along the line. Near the top of the line, elasticity is ${ > 1 , }$ and near the bottom of the line, elasticity is ${ < 1 . }$  
+
+
 
 
 
