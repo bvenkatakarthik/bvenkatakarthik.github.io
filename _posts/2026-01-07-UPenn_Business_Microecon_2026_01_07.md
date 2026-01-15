@@ -340,7 +340,7 @@ If the price is lower that equilibrium price, ${ Q _S < Q _D . }$ Hence we have 
 
 [Back to top] 
 
-**Eg**: Suppose you are a mango farmer trying to sell mangoes. What price do you sell them?
+**Eg**: Suppose you are a mango farmer trying to sell mangoes. At what price do you sell them?
 
 Consider the demand curve. 
 
