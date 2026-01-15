@@ -362,8 +362,8 @@ A good is elastic if ${ 1 < E _D < \infty . }$ Note that it is favourable to the
 
 Note that the revenue vs ${ Q }$ graph has a maximum at the point where the good is unit elastic. 
 
-**Eg**: Consider a good having substitutes, for eg frozen peas. Consumers are price sensitive. Demand is elastic.    
-Consider a good having no substitutes, for eg chemotherapy drugs. Consumers are less price sensitive. Demand is inelastic. 
+**Eg**: Consider a good having substitutes, for eg frozen peas. Consumers are price sensitive. Demand is relatively elastic.    
+Consider a good having no substitutes, for eg chemotherapy drugs. Consumers are less price sensitive. Demand is relatively inelastic. 
 
 **Eg**: Consider a straight line demand curve. Note that elasticity 
 
