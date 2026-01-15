@@ -11,7 +11,7 @@ tags: [documentation,sample]
 Link to UPenn Coursera page: [Link](https://www.coursera.org/partners/penn). 
 
 **ROUGH NOTES (!)**    
-Updated: 14/1/26 
+Updated: 15/1/26 
 
 Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculum/). 
 
@@ -302,7 +302,7 @@ Hence intuitively a demand curve looks like
     <img src="https://b.l3n.co/Fs5Lsm.jpeg" width="400" height="300"/> 
 </div>
 
-**Eg**: Consider for example the market for eggs, in a city, for 24 hours. An increase in income shifts the demand curve to the right. (For normal goods, as income goes up demand goes up. For inferior goods, as income goes up demand goes down). Prices of other goods which are a substitute for eggs will also affect the demand curve for eggs. 
+**Eg**: Consider for example the market for eggs, in a city, for 24 hours. An increase in income shifts the demand curve to the right. (For normal goods, as income goes up demand goes up. For example, shoes. For inferior goods, as income goes up demand goes down. For example, public transport). Prices of other goods which are a substitute for eggs will also affect the demand curve for eggs. 
 
 **Q**) What is a supply curve?
 
@@ -330,7 +330,7 @@ Note that graphically
 
 How do we reach the market equilibrium? 
 
-Consider the "Invisible Hand" by Adam Smith. 
+Consider the "Invisible Hand" proposed by Adam Smith. 
 
 If the price is greater that equilibrium price, ${ Q _S > Q _D . }$ Hence we have excess supply. Hence the sellers will start to lower the price. The price gets attracted downwards. 
 
