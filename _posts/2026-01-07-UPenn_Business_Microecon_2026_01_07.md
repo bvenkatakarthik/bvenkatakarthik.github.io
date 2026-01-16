@@ -11,7 +11,7 @@ tags: [documentation,sample]
 Link to UPenn Coursera page: [Link](https://www.coursera.org/partners/penn). 
 
 **ROUGH NOTES (!)**    
-Updated: 15/1/26 
+Updated: 16/1/26 
 
 Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculum/). 
 
@@ -417,6 +417,8 @@ Note that the ${ p _d }$ vs ${ Q _s }$ curve after tax has the generic point ${ 
 
 Hence the ${ p _d }$ vs ${ Q _s }$ curve after tax is the original supply curve shifted up by ${ t }$ units. 
 
+Note that the graph looks like 
+
 <div align="center">
     <img src="https://c.l3n.co/FK3DXm.jpeg" width="400" height="400"/>
 </div>
@@ -424,6 +426,8 @@ Hence the ${ p _d }$ vs ${ Q _s }$ curve after tax is the original supply curve 
 Note that the govt can use the tax revenue for public infrastructure, etc.
 
 **Eg**: Note that a subsidy can be viewed as a negative tax. 
+
+Note that the graph looks like 
 
 <div align="center">
     <img src="https://c.l3n.co/FK7fw5.jpeg" width="400" height="450"/>
