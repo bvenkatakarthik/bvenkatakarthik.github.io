@@ -421,6 +421,13 @@ Hence the ${ p _d }$ vs ${ Q _s }$ curve after tax is the original supply curve 
 
 Note that the govt can use the tax revenue for public infrastructure, etc.
 
+**Eg**: Note that a subsidy can be viewed as a negative tax. 
+
+<div align="center">
+    <img src="https://c.l3n.co/FK7fw5.jpeg" width="400" height="450"/>
+</div>
+
+
 
 
 
