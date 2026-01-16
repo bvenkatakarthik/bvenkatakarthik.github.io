@@ -25,7 +25,7 @@ Instructor: Prof. Rebecca Stein.
 
 <a name="top"></a>
 
-Sections: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5).  
+Sections for 1a: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5); [Government Intervention](#6).  
 
 <a name="1"></a> 
 
@@ -399,9 +399,11 @@ Note that there is a loss in total surplus due to the price ceiling, which is sh
 
 Note that there is a loss in total surplus due to the price floor. 
 
+<a name="6"></a>
+
 [**Government Intervention**] 
 
-[Back to top] 
+[Back to top](#top)
 
 We will study about taxes and subsidies. 
 
