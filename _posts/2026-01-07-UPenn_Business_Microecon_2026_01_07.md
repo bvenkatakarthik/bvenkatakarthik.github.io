@@ -387,6 +387,8 @@ Note that consumer surplus is measured by the area under the demand curve and ab
     <img src="https://b.l3n.co/F3Ypai.jpeg" width="400" height="400"/>
 </div>
 
+Note that we can read "# people willing to pay ${ \geq 10 }$" as "# people valuing the good at ${ \geq 10 }$", etc. 
+
 Note that a similar observation holds for producer surplus. 
 
 **Eg**: Consider the supply and demand curves for bread. Suppose the equilibrium price is ${ p ^{\ast} . }$ Suppose the government sets a price ceiling at ${ \overline{p} , }$ where ${ \overline{p} < p ^{\ast} . }$    
