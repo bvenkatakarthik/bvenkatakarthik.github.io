@@ -387,7 +387,7 @@ Note that consumer surplus is measured by the area under the demand curve and ab
 
 Note that a similar observation holds for producer surplus. 
 
-**Eg**: Consider the supply and demand curves for bread. Suppose the equilibrium price is ${ p ^{\ast} . }$ Suppose the government sets a price ceilling at ${ \overline{p} , }$ where ${ \overline{p} < p ^{\ast} . }$    
+**Eg**: Consider the supply and demand curves for bread. Suppose the equilibrium price is ${ p ^{\ast} . }$ Suppose the government sets a price ceiling at ${ \overline{p} , }$ where ${ \overline{p} < p ^{\ast} . }$    
 
 Note that there is a loss in total surplus due to the price ceiling, which is shown below. 
 
