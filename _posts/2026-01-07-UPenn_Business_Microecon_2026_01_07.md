@@ -445,6 +445,31 @@ Note that the graph looks like
 
 [Back to top](#top)
 
+We will study costs and profits. 
+
+Note that 
+
+$${ \text{Profit} = \text{Revenue} - \text{Cost}.  }$$ 
+
+Hence for a firm producing a single good 
+
+$${ \Pi = P \cdot Q - \text{Total Costs} .  }$$ 
+
+Note that for any firm 
+
+$${ \text{Total Costs} = \text{Fixed Costs} + \text{Variable Costs} . }$$ 
+
+Hence 
+
+$${ \text{TC} = \text{FC} + \text{VC(Q)} .  }$$ 
+
+The fixed costs are the costs that are independent of the quantity the firm is producing. The variable costs depend on the quantity the firm is producing. 
+
+**Eg**: Suppose a firm is producing t-shirts. The fixed costs might be the plant and the machinery, and the variable costs may be the cloth and the labour. 
+
+
+
+
 
 
 
