@@ -399,6 +399,29 @@ Note that there is a loss in total surplus due to the price ceiling, which is sh
 
 Note that there is a loss in total surplus due to the price floor. 
 
+[**Government Intervention**] 
+
+[Back to top] 
+
+We will study about taxes and subsidies. 
+
+The govt can for example tax cigarettes to discourage smoking, and subsidize vaccines to encourage vaccinations. 
+
+**Eg**: Note that with a tax ${ t }$ the money ${ p _d - t = p _s . }$ 
+
+Consider the ${ p _d }$ vs ${ Q _s }$ curve before tax, that is the supply curve. A generic point looks like ${ (p, q) . }$ 
+
+Note that the ${ p _d }$ vs ${ Q _s }$ curve after tax has the generic point ${ (t + p, q) . }$ 
+
+Hence the ${ p _d }$ vs ${ Q _s }$ curve after tax is the original supply curve shifted up by ${ t }$ units. 
+
+<div align="center">
+    <img src="https://c.l3n.co/FK3DXm.jpeg" width="400" height="400"/>
+</div>
+
+Note that the govt can use the tax revenue for public infrastructure, etc.
+
+
 
 
 
