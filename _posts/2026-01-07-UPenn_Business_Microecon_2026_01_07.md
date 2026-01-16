@@ -25,7 +25,9 @@ Instructor: Prof. Rebecca Stein.
 
 <a name="top"></a>
 
-Sections for 1a: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5); [Government Intervention](#6).  
+Sections for 1a: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5); [Government Intervention](#6). 
+
+Sections for 1b: [Costs and Profits](#7);  
 
 <a name="1"></a> 
 
@@ -432,6 +434,14 @@ Note that the graph looks like
 <div align="center">
     <img src="https://c.l3n.co/FK7fw5.jpeg" width="400" height="450"/>
 </div>
+
+**Course 1b. Microeconomics: When markets fail**
+
+<a name="7"></a>
+
+[**Costs and Profits**] 
+
+[Back to top](#top)
 
 
 
