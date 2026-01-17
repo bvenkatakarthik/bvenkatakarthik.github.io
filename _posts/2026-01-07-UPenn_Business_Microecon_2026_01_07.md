@@ -558,7 +558,7 @@ Hence in order to maximize profit, a firm should always produce where marginal r
 
 Note that in a perfect competition, ${ MR = \text{Price} . }$
 
-Note that the graph looks like 
+Note that the graph for maximum profits at a given price looks like 
 
 <div align="center">
     <img src="https://d.l3n.co/F7xTIK.jpeg" width="400" height="400"/>
