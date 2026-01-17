@@ -508,14 +508,21 @@ Note that the average cost vs quantity curve looks like
     <img src="https://a.l3n.co/F7zS5k.jpeg" width="400" height="300"/>
 </div>
 
+**Obs**: Note that the ${ (\text{min ATC}) }$ point is a point on the marginal cost curve.
+
+**Pf**: Note that 
+
+$${ ATC = \frac{TC}{q} .  }$$ 
+
 Note that 
 
-$${ \text{ATC}(q) = \frac{\text{FC}}{q} + \text{MC}(q)  .  }$$ 
+$${ \frac{d ATC}{dq} = (TC) ^{'} q ^{-1} - (TC) q ^{-2} .  }$$ 
 
-Note that here for example, ${ \text{FC} }$ includes the labour cost. 
+Hence 
 
-Note that the ${ (\text{min ATC}) }$ is a point on the marginal cost curve.
+$${ \frac{d ATC}{dq} = (MC) q ^{-1} - (ATC) q ^{-1} .  }$$ 
 
+Hence at the ${ (\text{min } ATC) }$ point, ${ MC = ATC . }$ 
 
 
 
