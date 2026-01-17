@@ -306,6 +306,14 @@ Hence intuitively a demand curve looks like
 
 Note that a point ${ (p, q) }$ being on the demand curve means there are ${ q }$ buyers valuing the good at ${ \geq p . }$ 
 
+Can we think of the demand curve as the marginal benefit curve? 
+
+Yes. Consider a demand curve for a good. 
+
+Note that a point ${ (p, q) }$ being on the demand curve means there are ${ q }$ sellers who value the good at price ${ \geq p }$ (and hence buy the good when the price is set at ${ p }$). 
+
+Hence here ${ p }$ can be thought of as the marginal benefit at the quantity ${ q . }$ 
+
 **Eg**: Consider for example the market for eggs, in a city, for 24 hours. An increase in income shifts the demand curve to the right. (For normal goods, as income goes up demand goes up. For example, shoes. For inferior goods, as income goes up demand goes down. For example, public transport). Prices of other goods which are a substitute for eggs will also affect the demand curve for eggs. 
 
 **Q**) What is a supply curve?
@@ -321,6 +329,8 @@ Hence intuitively a supply curve looks like
 </div>
 
 Note that a point ${ (p, q) }$ being on the supply curve means there are ${ q }$ sellers valuing the good at ${ \leq p . }$ 
+
+Note that a supply curve can be thought of as a marginal cost curve. 
 
 Note that factors like number of firms, price of inputs, technological change affect the supply curve for a good. 
 
