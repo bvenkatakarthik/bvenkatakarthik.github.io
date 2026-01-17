@@ -304,6 +304,8 @@ Hence intuitively a demand curve looks like
     <img src="https://b.l3n.co/Fs5Lsm.jpeg" width="400" height="300"/> 
 </div>
 
+Note that a point ${ (p, q) }$ being on the demand curve means there are ${ q }$ buyers valuing the good at ${ \geq p . }$ 
+
 **Eg**: Consider for example the market for eggs, in a city, for 24 hours. An increase in income shifts the demand curve to the right. (For normal goods, as income goes up demand goes up. For example, shoes. For inferior goods, as income goes up demand goes down. For example, public transport). Prices of other goods which are a substitute for eggs will also affect the demand curve for eggs. 
 
 **Q**) What is a supply curve?
@@ -317,6 +319,8 @@ Hence intuitively a supply curve looks like
 <div align="center">
     <img src="https://a.l3n.co/FsGc6H.jpeg" width="400" height="300"/> 
 </div>
+
+Note that a point ${ (p, q) }$ being on the supply curve means there are ${ q }$ sellers valuing the good at ${ \leq p . }$ 
 
 Note that factors like number of firms, price of inputs, technological change affect the supply curve for a good. 
 
