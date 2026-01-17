@@ -11,7 +11,7 @@ tags: [documentation,sample]
 Link to UPenn Coursera page: [Link](https://www.coursera.org/partners/penn). 
 
 **ROUGH NOTES (!)**    
-Updated: 16/1/26 
+Updated: 17/1/26 
 
 Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculum/). 
 
@@ -27,7 +27,7 @@ Instructor: Prof. Rebecca Stein.
 
 Sections for 1a: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5); [Government Intervention](#6). 
 
-Sections for 1b: [Costs and Profits](#7);  
+Sections for 1b: [Costs and Profits](#7); [Perfect Competition](#8).  
 
 <a name="1"></a> 
 
@@ -524,9 +524,11 @@ $${ \frac{d ATC}{dq} = (MC) q ^{-1} - (ATC) q ^{-1} .  }$$
 
 Hence at the ${ (\text{min } ATC) }$ point, ${ MC = ATC . }$ 
 
+<a name="8"></a> 
+
 [**Perfect Competition**] 
 
-[Back to top] 
+[Back to top](#top) 
 
 **Q**) What is a perfectly competitive firm? 
 
