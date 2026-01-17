@@ -572,7 +572,7 @@ Consider a firm in losses. The firm has to pay fixed costs even if the firm is s
 
 In the short run, the firm will produce as long as the price covers variable costs. 
 
-In the long run, the firm will produce as long as the price covers total costs (i.e. as long as ${ pq > q ATC(q) }$). 
+In the long run, the firm will produce as long as the price covers total costs (i.e. as long as ${ p q _{\text{chosen}} > q _{\text{chosen}} ATC(q _{\text{chosen}}) }$). 
 
 Note that via entry and exit of firms, in the long run the price approaches ${ \text{min ATC} }$ where the firms profits are ${ 0 . }$ 
 
