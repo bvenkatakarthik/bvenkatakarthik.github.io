@@ -481,6 +481,42 @@ The fixed costs are the costs that are independent of the quantity the firm is p
 
 **Eg**: Suppose a firm is producing t-shirts. The fixed costs might be the plant and the machinery, and the variable costs may be the cloth and the labour. 
 
+**Eg**: Suppose a firm is producing t-shirts. 
+
+Note that the marginal output vs labour curve looks like 
+
+<div align="center">
+    <img src="https://d.l3n.co/F7zAFc.jpeg" width="400" height="300"/>
+</div>
+
+Total product means the total product produced in a given period. 
+
+Marginal product (of labour) is product that results from a unit increase in the quantity of labour employed, with other inputs remaining the same. 
+
+The law of diminishing marginal returns states:    
+As a firm uses more of a variable input, with a given quantity of fixed inputs, the marginal product of the variable input eventually diminishes. 
+
+Note that the marginal cost vs quantity curve looks like 
+
+<div align="center">
+    <img src="https://a.l3n.co/F7ziIK.jpeg" width="400" height="300"/>
+</div>
+
+Note that the average cost vs quantity curve looks like 
+
+<div align="center">
+    <img src="https://a.l3n.co/F7zS5k.jpeg" width="400" height="300"/>
+</div>
+
+Note that 
+
+$${ \text{ATC}(q) = \frac{\text{FC}}{q} + \text{MC}(q)  .  }$$ 
+
+Note that here for example, ${ \text{FC} }$ includes the labour cost. 
+
+Note that the ${ (\text{min ATC}) }$ is a point on the marginal cost curve.
+
+
 
 
 
