@@ -524,6 +524,61 @@ $${ \frac{d ATC}{dq} = (MC) q ^{-1} - (ATC) q ^{-1} .  }$$
 
 Hence at the ${ (\text{min } ATC) }$ point, ${ MC = ATC . }$ 
 
+[**Perfect Competition**] 
+
+[Back to top] 
+
+**Q**) What is a perfectly competitive firm? 
+
+A perfectly competitive firm has four defining characteristics: 
+
+* It produces a standardized product. 
+
+* It produces in an industry where there are many buyers and sellers. 
+
+* It produces in an industry where there are no barriers to new firms entering the market. 
+
+* It produces in an industry which is characterised by full information. (Full information in terms of product, going price, etc.)  
+
+A standardized product means a good which many other firms are producing as well. For example, a fruit or a vegetable. For example, gasoline. 
+
+**Q**) What is a perfectly competitive market? 
+
+In a perfectly competitive market, no individual supplier has significant influence on the price of the product. Firms are price takers. 
+
+Note that profit 
+
+$${ \Pi = \text{Rev} - \text{Costs} .  }$$ 
+
+Taking derivative wrt quantitiy, we see 
+
+$${ \Pi \text{ is max} \implies MR = MC .  }$$ 
+
+Hence in order to maximize profit, a firm should always produce where marginal revenue equals marginal cost. That is, the supply curve should be the marginal cost curve. 
+
+Note that in a perfect competition, ${ MR = \text{Price} . }$
+
+Note that the graph looks like 
+
+<div align="center">
+    <img src="https://d.l3n.co/F7xTIK.jpeg" width="400" height="400"/>
+</div>
+
+Why might a firm still want to produce in losses? 
+
+Consider a firm in losses. The firm has to pay fixed costs even if the firm is shut down. Hence they lose even more if they decided to shut down. 
+
+In the short run, the firm will produce as long as the price covers variable costs. 
+
+In the long run, the firm will produce as long as the price covers total costs (i.e. as long as ${ pq > q ATC(q) }$). 
+
+Note that via entry and exit of firms, in the long run the price approaches ${ \text{min ATC} }$ where the firms profits are ${ 0 . }$ 
+
+
+
+
+
+
 
 
 
