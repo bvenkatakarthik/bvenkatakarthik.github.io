@@ -552,7 +552,7 @@ Note that profit
 
 $${ \Pi = \text{Rev} - \text{Costs} .  }$$ 
 
-Taking derivative wrt quantitiy, we see 
+Taking derivative wrt quantity, we see 
 
 $${ \Pi \text{ is max} \implies MR = MC .  }$$ 
 
