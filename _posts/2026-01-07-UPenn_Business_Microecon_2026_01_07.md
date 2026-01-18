@@ -27,7 +27,7 @@ Instructor: Prof. Rebecca Stein.
 
 Sections for 1a: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5); [Government Intervention](#6). 
 
-Sections for 1b: [Costs and Profits](#7); [Perfect Competition](#8).  
+Sections for 1b: [Costs and Profits](#7); [Perfect Competition](#8); [Monopoly](#9).  
 
 <a name="1"></a> 
 
@@ -576,9 +576,11 @@ In the long run, the firm will produce as long as the price covers total costs (
 
 Note that via entry and exit of firms, in the long run the price approaches ${ \text{min ATC} }$ where the firms profits are ${ 0 . }$ 
 
+<a name="9"></a>
+
 [**Monopoly**] 
 
-[Back to top] 
+[Back to top](#top) 
 
 A monopolistic market is a market where: 
 
