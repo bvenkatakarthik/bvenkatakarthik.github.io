@@ -11,7 +11,7 @@ tags: [documentation,sample]
 Link to UPenn Coursera page: [Link](https://www.coursera.org/partners/penn). 
 
 **ROUGH NOTES (!)**    
-Updated: 17/1/26 
+Updated: 18/1/26 
 
 Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculum/). 
 
@@ -575,6 +575,80 @@ In the short run, the firm will produce as long as the price covers variable cos
 In the long run, the firm will produce as long as the price covers total costs (i.e. as long as ${ p q _{\text{chosen}} > q _{\text{chosen}} ATC(q _{\text{chosen}}) }$). 
 
 Note that via entry and exit of firms, in the long run the price approaches ${ \text{min ATC} }$ where the firms profits are ${ 0 . }$ 
+
+[**Monopoly**] 
+
+[Back to top] 
+
+A monopolistic market is a market where: 
+
+* One firm. 
+* Product is differentiated. 
+* Barriers to entry. 
+
+For eg, a pharmaceutical firm producing a specific patented drug. 
+
+Note that in a monopolistic market the firm is the price setter. 
+
+Note that a monopoly sets ${ Q }$ such that ${ MC = MR < p . }$ Then price is determined by the demand curve. 
+
+Why do monopolies have ${ MR < p }$?
+
+**Eg**: Consider a monopoly. Hence the firm supplies for the entire market demand. Consider a demand curve ${ Q _D = 150 - P . }$ Note that the marginal revenue is ${ \frac{d}{dQ} \text{Rev} }$ ${ = \frac{d}{dQ} PQ }$ ${ = (150 - 2 Q ).  }$  Note that the marginal revenue is less than the price. 
+
+**Obs**: Consider a monopoly. Then 
+
+$${ MR < p , }$$
+
+ that is marginal revenue is less than price. 
+
+**Pf**: Note that the monopolistic firm sets the price and supplies for the corresponding market demand.
+
+Consider a linear demand curve 
+
+$${ Q _D = - a P + b .  }$$ 
+
+Note that the marginal revenue is 
+
+$${ {\begin{aligned} &\, MR \\ = &\, \frac{d}{dQ _S} (\text{Rev}) \\ = &\, \frac{d}{dQ _S} (P Q _S) \\ = &\, \frac{d}{dQ} \left( \frac{b-Q}{a} \right) Q \\ = &\, \frac{b - 2Q}{a} . \end{aligned}}  }$$ 
+
+Hence 
+
+$${ {\begin{aligned} &\, MR = \frac{b - 2 Q}{a} , \\ &\, P = \frac{b - Q}{a} . \end{aligned}}  }$$
+
+Hence 
+
+$${ MR < p  }$$ 
+
+as needed. 
+
+Note that price setting by a monopoly is given by
+
+<div align="center">
+    <img src="https://c.l3n.co/FH3fdr.jpeg" width="400" height="300"/>
+</div>
+
+Note that compared to perfect competition, a monopoly introduces dead weight loss. 
+
+The graph showing consumer surplus and producer surplus in a monopoly vs perfect competition is given below. 
+
+<div align="center">
+    <img src="https://a.l3n.co/FH4Xoi.jpeg" width="400" height="500"/>
+</div>
+
+Monopolies produce less and charge more compared to perfect competition. There is a reduction in total surplus, that is a dead weight loss, in a monopoly as well. 
+
+Why do we allow monopolies? 
+
+There are two major reasons: 
+
+* Encourage product innovation.    
+    For eg, to encourage pharmaceutical research, by giving incentives like patent rights and remove competition. 
+
+* Economies of scale.    
+    It is often chaper and more effective to have one firm than to have multiple firms.
+
+
 
 
 
