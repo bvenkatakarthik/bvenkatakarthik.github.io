@@ -657,7 +657,7 @@ Government intervenes in monopoly and oligopoly markets in two main ways to alle
 
 * Regulation: Marginal and average cost pricing by the government. We see this in the case of utilities, like water and electricity. 
 
-* Antitrust laws: Government may take a monopoly and divide it into multiple firms. For eg, firms in airline industry need government permissions before merging. 
+* Antitrust laws: For eg, government may take a monopoly and divide it into multiple firms. For eg, firms in airline industry need government permissions before merging. 
 
 Note that the cost curves of a typical natural monopoly looks like 
 
