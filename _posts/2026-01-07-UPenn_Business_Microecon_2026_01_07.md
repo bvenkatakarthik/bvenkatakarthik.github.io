@@ -695,6 +695,50 @@ Another solution is to have average cost pricing, that is ATC pricing.
 
 A disadvantage in ATC pricing is that the government sets price at breakeven point, and the firms have less incentive to cut costs. 
 
+Consider price discrimination. Price discrimination is a situation in which a firm is selling different units of a good for different prices. 
+
+To be able to price discriminate, a monopoly must: 
+
+* Identify and separate different buyer types. 
+
+* Sell a product that cannot be resold. 
+
+For example, theatre tickets with senior discount. 
+
+For example, email coupons for a grocery store. It is strategic to email coupons to price sensitive customers. 
+
+**Eg**: Consider pricing for a monopolistic theatre's tickets. 
+
+Note that the price discrimination for regular customers and students is given by 
+
+<div align="center">
+    <img src="https://a.l3n.co/FlkZMz.jpeg" width="400" height="250"/>
+</div>
+
+<div align="center">
+    <img src="https://b.l3n.co/FlkId5.jpeg" width="400" height="250"/>
+</div>
+
+Consider a monopolistically competitive market. 
+
+In a monopolistically competitive market: 
+
+* A large number of firms. 
+
+* Each firm produces a differentiated product. 
+
+* FIrms compete on product quality, price, and marketing. 
+
+* FIrms are free to enter and exit the industry. 
+
+For eg, the market for granola bars. Intuitively the ATC falls rapidly like in a natural monopoly, but firms are free to enter and exit. 
+
+Monopolistic competitive market, despite its flaws, has differentiated products. 
+
+Consider a firm in a monopolistic competitive market. In the short run, it functions like a monopoly (produce at quantity where ${ MC = MR , }$ etc.) but due to new firms sees the demand curve shift in. The shift in of the demand curve for the firm considered happens till the profits become zero, that is ${ p = ATC }$ as well. 
+
+
+
 
 
 
