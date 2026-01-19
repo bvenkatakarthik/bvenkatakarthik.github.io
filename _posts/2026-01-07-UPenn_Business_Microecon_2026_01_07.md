@@ -11,7 +11,7 @@ tags: [documentation,sample]
 Link to UPenn Coursera page: [Link](https://www.coursera.org/partners/penn). 
 
 **ROUGH NOTES (!)**    
-Updated: 18/1/26 
+Updated: 19/1/26 
 
 Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculum/). 
 
@@ -649,6 +649,54 @@ There are two major reasons:
 
 * Economies of scale.    
     It is often chaper and more effective to have one firm than to have multiple firms.
+
+A natural monopoly is a case where the ATC is falling for the relevant production tange, so one firm producing a large quantity is more efficient than having many firms producing small quantities. An extreme case is where MC is constant.    
+For example, Water systems. 
+
+Government intervenes in monopoly and oligopoly markets in two main ways to alleviate dead weight loss: 
+
+* Regulation: Marginal and average cost pricing by the government. We see this in the case of utilities, like water and electricity. 
+
+* Antitrust laws: Government may take a monopoly and divide it into multiple firms. For eg, firms in airline industry need government permissions before merging. 
+
+Note that the cost curves of a typical natural monopoly looks like 
+
+<div align="center">
+    <img src="https://d.l3n.co/FlZcAi.jpeg" width="400" height="300"/>
+</div>
+
+**Eg**: Consider a transportation company which is a natural monopoly. 
+
+Note that the deadweight loss due to the natural monopoly is 
+
+<div align="center">
+    <img src="https://c.l3n.co/Flgeg5.jpeg" width="400" height="300"/>
+</div>
+
+One solution is to have regulation. 
+
+One way to regulate is to set marginal cost pricing, that is MC pricing. The government steps in and says you must set price equal to MC. 
+
+One problem is MC pricing is only letting the firm cover marginal costs, and not the cost of putting the firm in place. 
+
+So the government has to pair MC pricing with paying for the fixed costs of production. 
+
+
+<div align="center">
+    <img src="https://b.l3n.co/FlrSCk.jpeg" width="400" height="300"/>
+</div>
+
+Another solution is to have average cost pricing, that is ATC pricing. 
+
+<div align="center">
+    <img src="https://c.l3n.co/FlrnwH.jpeg" width="400" height="400"/>
+</div>
+
+
+A disadvantage in ATC pricing is that the government sets price at breakeven point, and the firms have less incentive to cut costs. 
+
+
+
 
 
 
