@@ -15,3 +15,5 @@ I intend to use the blog as a digital notebook of sorts, and the posts will most
 Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com. 
 
 “Logic will get you from A to Z; Imagination will get you everywhere.” - Einstein.
+
+We are fortunate for the gift of human imagination. 
