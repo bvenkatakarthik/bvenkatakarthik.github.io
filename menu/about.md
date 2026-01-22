@@ -14,6 +14,6 @@ Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 “Logic will get you from A to Z; Imagination will get you everywhere.” - Einstein.
 
-The mental stimuli to which we react mentally influences our mind. 
+Mental stimuli influence our mind. 
 
 
