@@ -8,7 +8,7 @@ Hi I am Karthik, a Math enthusiast from India.
 
 I am curious about The World, Life, and God.  
 
-I am curious about how "neurons create reality". 
+I am curious about how "Neurons create Reality". 
 
 I intend to use the blog as a digital notebook of sorts, and the posts will mostly have routine stuff. I am also on [Math.SE](https://math.stackexchange.com/users/303300).
 
