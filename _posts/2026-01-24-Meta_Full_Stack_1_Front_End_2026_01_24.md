@@ -11,7 +11,7 @@ tags: [documentation,sample]
 Link to the Course: [Link](https://www.coursera.org/specializations/meta-full-stack-developer). 
 
 **ROUGH NOTES (!)**    
-Updated: 24/01/26 
+Updated: 25/01/26 
 
 **Course - 1. Intro to Front-End Development** 
 
@@ -74,6 +74,23 @@ This problem is solved by a network switch that connects multiple devices and al
 <div align="center">
     <img src="https://c.l3n.co/FMtTKi.png" width="400" height="200"/>
 </div>
+
+A network switch can connect to other network switches, and now two networks can connect. 
+
+<div align="center">
+    <img src="https://d.l3n.co/FMzgD7.png" width="400" height="200"/>
+</div> 
+
+These network switches can then connect to more network switches, until you have something called an interconnected network, also called the internet. 
+
+<div align="center">
+    <img src="https://b.l3n.co/FMMiH3.png" width="400" height="200"/>
+</div> 
+
+When we use websites or video streaming services on the internet, these are provided by computers called servers, and our devices are called clients. This is known as the client-server model. 
+
+**Eg**: Consider a video call with someone in another continent. That video data travels through large undersea cables connecting the world's networks. These cables can transfer huge volumes of data per second. 
+
 
 
 
