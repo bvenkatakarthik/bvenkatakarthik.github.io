@@ -51,7 +51,7 @@ A back end developer works with all the parts of a website or web app that the e
 
 Back end developers are responsible for creating and maintaining functionality when users request information or when the website needs to communicate to another part of the web architecture. 
 
-**Eg**: Consider performing an account login, or completing an online purchase using aa credit card. A back end developer facilitates the interaction of the website and the content stored in a database. 
+**Eg**: Consider performing an account login, or completing an online purchase using a credit card. A back end developer facilitates the interaction of the website and the content stored in a database. 
 
 Back end knowledge consists of knowledge of back end programming language, database management systems, APIs, and web servers. 
 
