@@ -21,6 +21,8 @@ Many of the activities you do everyday can be entirely performed online. For exa
 
 All this is possible with the combination of internet infrastructure and technologies, and skilled professionals who build the apps (phone apps or web apps) you use. 
 
+[**Front end, Back end, Full stack**] 
+
 What are front end, back end, and full stack development? 
 
 Web developer roles are usually split into front end, back end, and full stack roles. 
@@ -50,6 +52,8 @@ Back end developers are responsible for creating and maintaining functionality w
 Back end knowledge consists of knowledge of back end programming language, database management systems, APIs, and web servers. 
 
 A full stack developer is someone comfortable working with both front end and back end technologies. 
+
+[**Internet**] 
 
 How does the internet work? 
 
