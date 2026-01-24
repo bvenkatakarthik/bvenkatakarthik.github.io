@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Full Stack-1 Front End"
+title: "Full Stack - 1 Front End"
 author: "Karthik"
 categories: journal
 tags: [documentation,sample]
