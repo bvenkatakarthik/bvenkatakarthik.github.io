@@ -88,7 +88,7 @@ What is Ellie's O.C. of having lunch with her friend?
 
 **A**) Note that the ${ (\$ \text{ cost}) }$ of having lunch with her friend is ${ \$ 10 . }$ 
 
-Note that the ${ (\text{O.C. of time}) }$ of having lunch with her friend is, the next benefit of the best foregone alternative, which is ${ \$ 30 - \$ 5 }$ ${ = \$ 25 . }$ 
+Note that the ${ (\text{O.C. of time}) }$ of having lunch with her friend is, the net benefit of the best foregone alternative, which is ${ \$ 30 - \$ 5 }$ ${ = \$ 25 . }$ 
 
 Hence Ellie's O.C. of going to lunch with her friend is ${ \$ 10 + \$ 25 }$ ${ = \$ 35 . }$ 
 
