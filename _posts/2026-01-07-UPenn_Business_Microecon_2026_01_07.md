@@ -650,7 +650,7 @@ There are two major reasons:
 * Economies of scale.    
     It is often chaper and more effective to have one firm than to have multiple firms.
 
-A natural monopoly is a case where the ATC is falling for the relevant production tange, so one firm producing a large quantity is more efficient than having many firms producing small quantities. An extreme case is where MC is constant.    
+A natural monopoly is a case where the ATC is falling for the relevant production range, so one firm producing a large quantity is more efficient than having many firms producing small quantities. An extreme case is where MC is constant.    
 For example, Water systems. 
 
 Government intervenes in monopoly and oligopoly markets in two main ways to alleviate dead weight loss: 
