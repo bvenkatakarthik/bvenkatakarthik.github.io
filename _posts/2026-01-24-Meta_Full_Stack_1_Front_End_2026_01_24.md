@@ -17,6 +17,10 @@ Updated: 24/01/26
 
 Sections: 
 
+$${ \underline{\textbf{Web Development}} }$$
+
+[Back to top] 
+
 Many of the activities you do everyday can be entirely performed online. For example, shopping, reserving hotels, chatting with friends and colleagues, etc. 
 
 All this is possible with the combination of internet infrastructure and technologies, and skilled professionals who build the apps (phone apps or web apps) you use. 
