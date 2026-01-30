@@ -737,6 +737,67 @@ Monopolistic competitive market, despite its flaws, has differentiated products.
 
 Consider a firm in a monopolistic competitive market. In the short run, it functions like a monopoly (produce at quantity where ${ MC = MR , }$ etc.) but due to new firms sees the demand curve shift in. The shift in of the demand curve for the firm considered happens till the profits become zero, that is ${ p = ATC }$ as well. 
 
+[**Externalities**] 
+
+Externality:    
+A cost or benefit that arises from production and falls on someone other than the producer,    
+or    
+A cost or benefit that arises from consumption and falls on someone other than the consumer. 
+
+A negative externality imposes a cost for the other party. A positive externality creates a benefit for the other party. 
+
+**Eg**: [Negative externality] Smoking. (Second hand smoke for people surrounding the smoker.)    
+[Negative externality] CO2 emissions from for example driving a car.    
+[Positive externality] Vaccines.    
+[Positive externality] Education. 
+
+Why do negative and positive externalities create market failure? 
+
+**Eg**: Consider a negative externality. 
+
+For eg, consider making electricity using coal. 
+
+Note that to account for the negative externality, we consider a social marginal cost SMC curve which is higher than the private marginal cost curve. 
+
+The competitive market overproduces and creates a deadweight loss. The usual market equilibrium is inefficient. 
+
+<div align="center">
+    <img src="https://b.l3n.co/FfmJbq.jpeg" width="400" height="300"/>
+</div>
+
+In an unregulated market, MB = MC.    
+The efficient quantity is where MB = MSC. 
+
+**Eg**: Consider vaccines. Note that we have a positive externality, and hence we have an SMB curve above the MB curve. The competitive market underproduces and produces a deadweight loss. The usual market equilibrium is inefficient. 
+
+Note that in externalities we have a party effected by the transaction but is not included in the transaction. 
+
+We have the Coase theorem which states: 
+
+If 
+
+* property rights exist 
+
+* only a small number of parties are involved
+
+* transaction costs are low 
+
+then, private transactions are efficient. 
+
+**Eg**: If for example everytime I drove my car I have to compensate someone for CO2 emissions I would take that compensation into account when I drive my car. The problem is there isnt someone to pay. Suppose some person X owned the atmosphere. Then I pay X. If we have well defined property rights, we can get efficient outcome.
+
+**Eg**: We can internalise a negative externality by a tax. Consider the same example of electricity production using coal.    
+We set a per unit tax such that the shifted supply curve coincides with SMC curve. The tax leads the market to achieve an efficient outcome.    
+Similarly we can internalise a positive externality by a subsidy.
+
+Three main methods governments use to cope with negative externalities / external costs: 
+
+* Regulation (eg restrictions). 
+* Taxes. 
+* Marketable permits (ie indirectly assigning property rights). 
+
+
+
 
 
 
