@@ -27,7 +27,7 @@ Instructor: Prof. Rebecca Stein.
 
 Sections for 1a: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5); [Government Intervention](#6). 
 
-Sections for 1b: [Costs and Profits](#7); [Perfect Competition](#8); [Monopoly](#9).  
+Sections for 1b: [Costs and Profits](#7); [Perfect Competition](#8); [Monopoly](#9); [Externalities](#10).   
 
 <a name="1"></a> 
 
@@ -737,7 +737,11 @@ Monopolistic competitive market, despite its flaws, has differentiated products.
 
 Consider a firm in a monopolistic competitive market. In the short run, it functions like a monopoly (produce at quantity where ${ MC = MR , }$ etc.) but due to new firms sees the demand curve shift in. The shift in of the demand curve for the firm considered happens till the profits become zero, that is ${ p = ATC }$ as well. 
 
+<a name="10"></a> 
+
 [**Externalities**] 
+
+[Back to top](#top)
 
 Externality:    
 A cost or benefit that arises from production and falls on someone other than the producer,    
