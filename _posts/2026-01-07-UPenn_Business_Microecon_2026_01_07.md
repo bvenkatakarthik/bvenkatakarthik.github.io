@@ -851,7 +851,7 @@ Note that the marginal cost of providing a public good is zero. Note that at the
 How do we solve free riding and pricing issue? 
 
 Public provision (Government):    
-The Government taxesall consumers of the public good. It forces everyone to pay for its provision, thereby overcoming the free rider problem. 
+The Government taxes all consumers of the public good. It forces everyone to pay for its provision, thereby overcoming the free rider problem. 
 
 A tax policy must satisfy efficiency ${ \sum MB _i (q ^{\ast}) \geq MC(q ^{\ast}) }$. 
 
