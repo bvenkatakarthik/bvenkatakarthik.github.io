@@ -11,7 +11,7 @@ tags: [documentation,sample]
 Link to UPenn Coursera page: [Link](https://www.coursera.org/partners/penn). 
 
 **ROUGH NOTES (!)**    
-Updated: 30/1/26 
+Updated: 2/2/26 
 
 Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculum/). 
 
@@ -27,7 +27,7 @@ Instructor: Prof. Rebecca Stein.
 
 Sections for 1a: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5); [Government Intervention](#6). 
 
-Sections for 1b: [Costs and Profits](#7); [Perfect Competition](#8); [Monopoly](#9); [Externalities](#10).   
+Sections for 1b: [Costs and Profits](#7); [Perfect Competition](#8); [Monopoly](#9); [Externalities](#10); [Public goods](#11).   
 
 <a name="1"></a> 
 
@@ -799,6 +799,72 @@ Three main methods governments use to cope with negative externalities / externa
 * Regulation (eg restrictions). 
 * Taxes. 
 * Marketable permits (ie indirectly assigning property rights). 
+
+<a name="11"></a>
+
+[**Public Goods**] 
+
+[Back to top](#top)
+
+A pure public good is nonexcludable and nonrival. 
+
+A good is nonexcludable if it is impossible to prevent a person from enjoying its benefits.    
+Eg: Sunshine, Rule of Law. 
+
+A good is nonrival if its comsumption by one person does not decrease its consumption by other people.    
+Eg: A Pay-per-view show on TV, an MP3 song. 
+
+Here are some examples of goods. 
+
+<div align="center">
+    <img src="https://c.l3n.co/FUUEDq.png" width="400" height="300"/>
+</div>
+
+A good which is excludable and non-rival is an extreme case of a natural monopoly. 
+
+The value of a public good is the maximum amount that all the people are willing to pay for one more unit of it. 
+
+**Eg**: Suppose the price of a satellite is ${ \$ 65 . }$ Suppose we consider only two people Lisa and Max. Suppose their marginal benefit curves for satellites is 
+
+<div align="center">
+    <img src="https://d.l3n.co/FUbFbi.png" width="400" height="600"/>
+</div>
+
+Note that privately, Lisa will buy one satellite and Max will not buy any satellite. The result is one satellite up in the sky, and both Lisa and Max enjoying its benefits. 
+
+But for the efficient outcome, we need to consider the sum of their marginal benefits.
+
+<div align="center">
+    <img src="https://d.l3n.co/Fc0DH3.png" width="400" height="600"/>
+</div>
+
+For the price of ${ \$ 65 , }$ for efficiency, the society needs to buy ${ 3 }$ satellites.
+
+Hence the private market is underproducing. We need another mechanism to achieve efficient outcome. 
+
+Implications of non-excludability:    
+Note that there is the issue of free riding. If a private firm tried to produce and sell a public good, almost no one would buy it. The free-rider problem is that too  little of the good is being created. 
+
+Implications of non-rivalness:    
+Note that the marginal cost of providing a public good is zero. Note that at the efficient outcome the price is zero. Hence there is a pricing problem as well. 
+
+How do we solve free riding and pricing issue? 
+
+Public provision (Government):    
+The Government taxesall consumers of the public good. It forces everyone to pay for its provision, thereby overcoming the free rider problem. 
+
+A tax policy must satisfy efficiency ${ \sum MB _i (q ^{\ast}) \geq MC(q ^{\ast}) }$. 
+
+A tax policy must satisfy the constraints
+
+* Budget constraint ${ \sum t _i \geq TC(q ^{\ast}) . }$ 
+* Participation constraint ${ MB _i (q ^{\ast}) \geq t _i . }$ 
+
+The second rule need not hold from an efficiency perspective. 
+
+Note that free riding can be thought of as a prisoners' dilemma problem. 
+
+
 
 
 
