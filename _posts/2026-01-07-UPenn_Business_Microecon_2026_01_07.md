@@ -853,9 +853,9 @@ How do we solve free riding and pricing issue?
 Public provision (Government):    
 The Government taxes all consumers of the public good. It forces everyone to pay for its provision, thereby overcoming the free rider problem. 
 
-A tax policy must satisfy efficiency ${ \sum MB _i (q ^{\ast}) \geq MC(q ^{\ast}) }$. 
+A tax policy must satisfy efficiency constraint ${ \sum MB _i (q ^{\ast}) \geq MC(q ^{\ast}) }$. 
 
-A tax policy must satisfy the constraints
+A tax policy can satisfy the constraints
 
 * Budget constraint ${ \sum t _i \geq TC(q ^{\ast}) . }$ 
 * Participation constraint ${ MB _i (q ^{\ast}) \geq t _i . }$ 
