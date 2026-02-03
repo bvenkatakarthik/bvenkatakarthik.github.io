@@ -16,7 +16,7 @@ I intend to use the blog as a digital notebook of sorts, and the posts will most
 
 Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com. 
 
-$${ \boxed{\textbf{Neurons create Experience of Reality.}} }$$
+
 
 
 
