@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Business-2 Finance"
+title: "Business-2 Finance-1"
 author: "Karthik"
 categories: journal
 tags: [documentation,sample]
@@ -21,7 +21,7 @@ Updated: 16/1/26
 
 Instructor: Prof. Jessica Wachter. 
 
-Sections for "Intro to Finance": 
+Sections:  
 
 [**Net Present Value**] 
 
