@@ -27,7 +27,7 @@ Instructor: Prof. Rebecca Stein.
 
 Sections for 1a: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5); [Government Intervention](#6). 
 
-Sections for 1b: [Costs and Profits](#7); [Perfect Competition](#8); [Monopoly](#9); [Externalities](#10); [Public goods](#11).   
+Sections for 1b: [Costs and Profits](#7); [Perfect Competition](#8); [Monopoly](#9); [Externalities](#10); [Public goods](#11); [Asymmetric Information](#12); [Inequality](#13).    
 
 <a name="1"></a> 
 
@@ -862,9 +862,13 @@ A tax policy can satisfy the constraints
 
 The second rule need not hold from an efficiency perspective. 
 
-Note that free riding can be thought of as a prisoners' dilemma problem. 
+Note that free riding can be thought of as a prisoners' dilemma problem.
 
-[Asymmetric Information] 
+<a name="12"></a> 
+
+[**Asymmetric Information**] 
+
+[Back to top](#top) 
 
 Adverse selection occurs when one side of the market (i.e. buyers) have better information than the other side (i.e. sellers) and so there is selection of only a high cost or low value being bought or sold. 
 
@@ -905,7 +909,11 @@ Avoiding market failure:
 
 * Penalize bad behaviour. For eg, interrogating people running banks riskily. 
 
+<a name="13"></a>
+
 [**Inequality**] 
+
+[Back to top](#top)
 
 How do we measure economic inequality? 
 
