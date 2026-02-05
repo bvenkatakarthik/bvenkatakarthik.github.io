@@ -864,6 +864,97 @@ The second rule need not hold from an efficiency perspective.
 
 Note that free riding can be thought of as a prisoners' dilemma problem. 
 
+[Asymmetric Information] 
+
+Adverse selection occurs when one side of the market (i.e. buyers) have better information than the other side (i.e. sellers) and so there is selection of only a high cost or low value being bought or sold. 
+
+**Eg**: Consider the market for life insurance. Life insurance is only going to pay if you die, but the probability of dying is something a consumer is much more knowledgeable about than the firm.    
+A company selling life insurance will find that people at higher risk of death will be more willing to take out life insurance.    
+If the insurance company charges an average price, but only high risk consumers buy - they will make a loss. 
+
+Consider higher overall price as firms insure themselves against high risk customers taking out life insurance.    
+Low-risk customers may not want to buy because it is relatively too expensive - leading to a missing market. 
+
+There are a few mechanisms firms can employ: 
+
+* Firms may invest considerable time in identifying which groups of consumers are higher risk. For eg, asking for Doctor evaluation. 
+
+* Sell to mixed consumers. For eg, offering health insurance to mixed groups like workplaces, etc.
+
+How to avoid adverse selection? 
+
+There is for example:
+
+* Force sale of product or good. Eg, Health Care Reform Act. 
+
+We will now consider Moral Hazard. 
+
+Moral Hazard is the idea that under certain circumstances, individuals will alter their behaviour and take more risks. 
+
+**Eg**: Taking more risk if you have life insurance. 
+
+**Eg**: Banks which believe they are "too big to fail" and government will bail them out take more risk. 
+
+**Eg**: Taking more risk if you have phone insurance. 
+
+In the case of a Moral Hazard, people can take on too much risk and markets can fail. For example, the market for phone insurance. 
+
+Avoiding market failure: 
+
+* Build in incentives. For eg, in phone insurance we have deductibles to be paid when using insurance. 
+
+* Penalize bad behaviour. For eg, interrogating people running banks riskily. 
+
+[**Inequality**] 
+
+How do we measure economic inequality? 
+
+Consider the annual household incomes in the US. Note that the distribution looks like a normal distribution which is cut off. 
+
+The income Lorenz curve graphs the cumulative percentage of income earned against the cumulative percentage of households. 
+
+Note that in the case of perfect equality the income Lorenz curve would be a straight line. 
+
+<div align="center">
+    <img src="https://d.l3n.co/Fwf8P3.png" width="400" height="300"/>
+</div> 
+
+The real distribution looks like 
+
+<div align="center">
+    <img src="https://a.l3n.co/FwfRKk.png" width="400" height="300"/>
+</div> 
+
+Consider also the wealth distribution. It turns out the income curve is closer to the line of equality than wealth curve. That is, inequality in wealth is greater than inequality in income. 
+
+The Gini ratio (of an income distribution), is the area between the line of equality and the income curve, divided by the area below the line of equality. 
+
+Poverty: Household's income too low to buy food, shelter, and clothing deemed necessary. 
+
+Usually countries set a poverty threshold. The thresholds must be adjusted for inflation. 
+
+The governments in the United States use three main ways to redistribute income to alleviate some degree of economic inequality: 
+
+* Income taxes. 
+
+* Income maintenance programs. Eg, sending cheques to people who dont have enough. For example, US does this well for the elderly. 
+
+* Subsidized services. 
+
+There are types of income taxes. 
+
+Progressive income tax: average tax rate rises with income. 
+
+Regressive income tax: average tax rates falls with income.    
+Eg: Sales tax is usually a regressive tax. 
+
+Proportional income tax: constant average tax rate. 
+
+Progressive taxes increase equality. Regressive taxes decrease equality. 
+
+
+
+
 
 
 
