@@ -8,7 +8,7 @@ Hi I am Karthik, a Math enthusiast from India.
 
 I am fortunate to be born in a time when it is much simpler to communicate and learn with the world.
 
-I am curious about the nature of The World, Life, and God.  
+I am curious about the nature of The World.  
 
 I am curious about how "Neurons create Experience of Reality". 
 
