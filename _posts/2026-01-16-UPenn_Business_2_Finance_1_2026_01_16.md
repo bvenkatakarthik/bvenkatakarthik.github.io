@@ -129,7 +129,7 @@ Should she invest in the vineyard?
 
 Maybe she is interested in spending the money now, instead of on the vineyard. 
 
-The NPV rule says no matter what her preferences are, she should go for the vineyard. If she wants to spend more now, she could borrow the money for the vineyard. We will see this on the graph. 
+The NPV rule says no matter what her preferences are, she should go for the vineyard. If she wants to spend more now, she could borrow money. We will see this on the graph. 
 
 <div align="center">
     <img src="https://c.l3n.co/FyC4T2.jpeg" width="400" height="500"/> 
