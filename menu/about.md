@@ -16,7 +16,7 @@ Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I keep thinking: 
 
-$${ \boxed{\textbf{Can we do better?}} }$$
+$${ \boxed{\huge\textbf{Can we do better?}} }$$
 
 
 
