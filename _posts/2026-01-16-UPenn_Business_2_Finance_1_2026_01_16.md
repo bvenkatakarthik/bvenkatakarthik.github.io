@@ -155,6 +155,82 @@ The second decision is going to be made according to the NPV rule.
 
 Link to the official notes: [Link](https://drive.google.com/file/d/1usMkDP-J5zqlnF-dMfwpnKcUx_eWaYPU/view?usp=sharing).
 
+We will now consider simple vs compound interest. 
+
+Suppose we have ${ \$ 100 . }$ Suppose we invest this in a bank with interest rate ${ r = 7 \% }$ for two years. 
+
+If the bank offers simple interest, 
+
+$${ FV = 100 + 7 + 7 .  }$$ 
+
+If the bank offers compound interest, 
+
+$${ {\begin{aligned} &\, FV \\ = &\, 100 + 7 + (0.07)(100 + 7) \\ = &\, 100 ( 1 + 0.07) (1 + 0.07) . \end{aligned}}  }$$ 
+
+In general if we have compound interest for ${ t }$ years, 
+
+$${  FV = 100 (1 + r) ^t .  }$$
+
+Unless stated otherwise, we consider compound interest. 
+
+Suppose we invest in a bank with interest rate ${ r  }$ for ${ t }$ years. 
+
+What is the present value to be invested such that we get ${ \$ 100 }$ after the ${ t }$ years? 
+
+The present value to get ${ \$100 }$ in ${ t }$ years is given by 
+
+$${ 100 = PV (1 + r) ^t  }$$ 
+
+that is 
+
+$${ PV = \frac{100}{(1 + r) ^t} . }$$ 
+
+We will now consider Annuities and Perpetuities. 
+
+An annuity is defined by equal payments. 
+
+**Eg**: How much would you pay to get ${ \$ 100 }$ a year for ${ 3 }$ years?
+
+Note that
+
+$${ PV = \frac{100}{1+r} + \frac{100}{(1+r) ^2} + \frac{100}{(1 + r) ^3} .  }$$ 
+
+For an annuity lasting ${ t }$ years
+
+$${ {\begin{aligned} &\, PV \\ = &\, \frac{C}{1+r} + \frac{C}{(1+r) ^2} + \ldots + \frac{C}{(1 + r) ^t} \\ = &\, C \frac{1}{1+r} \left( \frac{1 - \frac{1}{(1+r) ^t}}{1 - \frac{1}{1+r}} \right) \\ = &\, C \underbrace{\frac{1}{r} \left( 1 - \frac{1}{(1 + r) ^t} \right)} _{\text{Annuity factor, AF}}  .  \end{aligned}} }$$ 
+
+**Eg**: Consider a ${ 15 }$ year mortgage. The loan amount is ${ 0.5 M . }$ The interest rate is ${ r = 4 \% . }$ 
+
+Each year the cash flow to the bank is ${ C . }$ What is ${ C }$ so that the value to the bank is correct?
+
+We have 
+
+$${ 0.5M = \frac{C}{1+r} + \ldots + \frac{C}{(1+r) ^t} .  }$$ 
+
+We solve for ${ C . }$
+
+Note that the future value of an annuity is 
+
+$${ FV = \underbrace{C \frac{1}{r} \left( 1 - \frac{1}{(1 + r) ^t} \right)} _{PV} (1+r) ^t .   }$$ 
+
+Note that the present value of an annuity is 
+
+$${ PV = C \frac{1}{r} \left( 1 - \frac{1}{(1 + r) ^t} \right) .   }$$ 
+
+Note that as ${ t \to \infty }$, the present value ${ PV \to \frac{C}{r} . }$ 
+
+Hence the PV of a consol (i.e. an annuity as ${ t \to \infty }$) is 
+
+$${ PV = \frac{C}{r} .  }$$ 
+
+**Eg**: Suppose ${ r = 10 \% }$ and ${ C = \$ 100 . }$ How much money would you be willing to pay to get ${ \$ 100 }$ every year forever? 
+
+We have 
+
+$${ PV = \frac{C}{r} = \frac{100}{0.1} = \$ 1000 . }$$ 
+
+
+
 
 
 
