@@ -229,6 +229,89 @@ We have
 
 $${ PV = \frac{C}{r} = \frac{100}{0.1} = \$ 1000 . }$$ 
 
+We will now consider growing delayed annuities and perpetuities. 
+
+For a growing perpetuity, we have a payment that grows at a fixed rate forever. 
+
+The cash flows are 
+
+<div align="center">
+    <img src="https://d.l3n.co/UAZdDZ.png" width="400" height="200"/> 
+</div>
+
+Hence 
+
+$${ {\begin{aligned} &\, PV \\ = &\, \frac{C}{1 + r} + \frac{C(1 + g)}{(1 + r) ^2} + \frac{C(1 + g) ^2}{(1 + r) ^3} + \ldots \\ = &\, \frac{\frac{C}{1 + r}}{1 - \frac{1 + g}{1 + r}} \\ = &\, \frac{C}{r - g}  \end{aligned}}  }$$ 
+
+if ${ r > g . }$ 
+
+Consider a delayed perpetuity. 
+
+For a delayed perpetuity, suppose we have a cash flow ${ C }$ every year starting ${ 3 }$ years from now. 
+
+The cash flows are 
+
+<div align="center">
+    <img src="https://b.l3n.co/UAZHgC.png" width="400" height="150"/> 
+</div>
+
+Hence 
+
+$${ {\begin{aligned} &\, PV \\ = &\, \frac{C}{(1 + r) ^3} + \frac{C}{(1 + r) ^4} + \ldots \\ = &\, \frac{\frac{C}{(1 + r) ^3}}{1 - \frac{1}{1 + r}} \\ = &\, \frac{1}{(1 + r) ^2} \frac{C}{r} .  \end{aligned}}  }$$ 
+
+In general for a perpetuity where CFs (cash flows) begin in ${ t }$ years 
+
+$${ PV = \frac{1}{(1 + r) ^{t - 1}} \frac{C}{r} .  }$$ 
+
+We will now consider compounding within the year and effective annual interest rate. 
+
+**Eg**: A bank offers a stated annual interest rate of ${ 8 \% }$ compounded semiannually. 
+
+If we invested ${ \$ 100 }$ what do we have after ${ 1 }$ year?
+
+The stated annual interest rate 
+
+$${ SAIR = 8 \% \text{ compounded semiannually} .  }$$ 
+
+It means that 
+
+$${ FV = \$ 100 (1 + 0.04) ^2 .  }$$ 
+
+The general formula, if we start from ${ \$ 100 , }$ and divide the year into ${ m }$ parts for compounding, is 
+
+$${ FV = 100 \left(1 + \frac{SAIR}{m} \right) ^m .   }$$ 
+
+Similarly for present value 
+
+$${ PV = 100 \left( 1 + \frac{SAIR}{m} \right) ^{-m} . }$$ 
+
+If we want the above process to go on for ${ t }$ years we have 
+
+$${ FV = 100 \left(1 + \frac{SAIR}{m} \right) ^{mt} }$$ 
+
+and 
+
+$${ PV = 100 \left( 1 + \frac{SAIR}{m} \right) ^{-mt} . }$$ 
+
+Note that as ${ m \to \infty , }$ we have continuous compounding in which  
+
+$${ FV = 100 e^{(SAIR)t}  }$$ 
+
+and 
+
+$${ PV = 100 e ^{- (SAIR) t} . }$$ 
+
+The effective annual interest rate EAR is the rate that when compounded annually produces the same return as SAIR compounded ${ m }$ times a year. 
+
+Hence 
+
+$${ 1 + EAR = \left( 1 + \frac{SAIR}{m} \right) ^m .  }$$ 
+
+Link to the official notes: [Link](https://drive.google.com/file/d/1PTHf_ne1NhT2dWuiX0LNolOiZsAm6MeR/view?usp=sharing). 
+
+
+
+
 
 
 
