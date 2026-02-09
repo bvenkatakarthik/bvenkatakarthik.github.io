@@ -21,15 +21,19 @@ Updated: 16/1/26
 
 Instructor: Prof. Jessica Wachter. 
 
-Sections:  
+<a name="top"></a>
+
+Sections: [Net Present Value](#1); 
 
 The goal is to understand how best to make capital budgeting decisions / investment decisions. (i.e. which projects to undertake, whether they increase or decrease value, etc.) 
 
 The goal is to increase economic value. 
 
+<a name="1"></a>
+
 [**Net Present Value**] 
 
-[Back to top] 
+[Back to top](#top)
 
 Imagine you are running a corporation. How are you going to decide which projects are worth investing in? 
 
