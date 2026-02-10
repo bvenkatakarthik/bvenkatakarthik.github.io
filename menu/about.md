@@ -12,9 +12,9 @@ I intend to use the blog as a digital notebook of sorts, and the posts will most
 
 Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com. 
 
-I keep asking: 
+**I keep asking:** 
 
-$${ \boxed{\huge\textbf{Can we do better?}} }$$
+$${ \boxed{\textbf{Can we do better?}} }$$
 
 
 
