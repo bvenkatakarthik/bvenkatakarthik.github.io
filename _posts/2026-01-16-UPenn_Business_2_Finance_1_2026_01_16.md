@@ -480,7 +480,7 @@ If yields fall, ${ HPR > YTM . }$
 
 If yields stay the same, ${ HPR = YTM . }$ 
 
-Hence Bonds are fixed income not fixed return (Bonds are not risk free investments). A bond is risk free only when you hold till maturity. 
+Hence Bonds are fixed income not fixed return (Bonds are not risk free investments). A bond is risk free only when you hold the bond till maturity. 
 
 Link to official notes: [Link](https://drive.google.com/file/d/1kF8yIMKV3ssBXGv5bApAH3XM29BKIxbq/view?usp=sharing). 
 
