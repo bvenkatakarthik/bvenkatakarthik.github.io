@@ -313,6 +313,178 @@ $${ 1 + EAR = \left( 1 + \frac{SAIR}{m} \right) ^m .  }$$
 
 Link to the official notes: [Link](https://drive.google.com/file/d/1PTHf_ne1NhT2dWuiX0LNolOiZsAm6MeR/view?usp=sharing). 
 
+[**Fixed Income Valuation**] 
+
+[Back to top] 
+
+We will consider bonds. 
+
+A bond is a contract that specifies that a borrower owes a certain sum and the dates in which the interest and the principal will be paid. 
+
+**Eg**: Consider a 5 year bond with a face value of ${ \$ 1000 }$ and a coupon rate of ${ 5 \% . }$ It means: 
+
+* ${ 5 \% }$ of ${ \$ 1000 }$ is paid every year (coupon payment) 
+
+* ${ \$ 1000 }$ is paid at the end. 
+
+A bond is also called a fixed income security. 
+
+Consider zero coupon bonds. A zero coupon bond is a fixed payment at a certain number of years in the furture (i.e.a bond with coupon rate ${ 0 \% }$). 
+
+A zero coupon bond is just a fixed payment at maturity. 
+
+A zero coupon bond is also called a discount bond. (Because the coupon payments are removed). 
+
+We will now discuss valuation of pure discount bonds. 
+
+**Eg**: Consider a bond that has  
+
+$${ \text{Face value} = \$ 1000 }$$ 
+
+$${ \text{Maturity} = 5 \text{ yrs} }$$ 
+
+$${ \text{Bank:} \quad r = 7 \% }$$ 
+
+Note that the price is 
+
+$${ {\begin{aligned} &\, \text{Price} \\ = &\, \frac{1000}{(1.07) ^5} \\ = &\, \$ 712.99 . \end{aligned}}  }$$ 
+
+If price ${ P > \$ 712.99 , }$ nobody would buy the bond. 
+
+If price ${ P < \$ 712.99 , }$ everybody would be trying to buy the bond. 
+
+In either case, market forces send the price back to ${ P = \$ 712.99  . }$ 
+
+**Eg**: **Eg**: Consider a bond that has  
+
+$${ \text{Face value} = \$ 1000 }$$ 
+
+$${ \text{Maturity} = 3 \text{ yrs} }$$ 
+
+$${ \text{Bank:} \quad r = 7 \% }$$ 
+
+Note that the price is 
+
+$${ {\begin{aligned} &\, P \\ = &\, \frac{1000}{(1.07) ^3} \\ = &\, \$ 816.30 . \end{aligned}} }$$ 
+
+**Eg**: Consider a price 
+
+$${ P = \$ 712.99 .  }$$ 
+
+The bond has face value ${ \$ 1000 }$ and maturity ${ 5 }$ years. 
+
+For what ${ r }$ is this price correct? 
+
+We solve for 
+
+$${ P = \frac{F}{(1 + r) ^5} .  }$$ 
+
+Hence 
+
+$${ 712.99 = \frac{1000}{(1 + r) ^5} .  }$$ 
+
+Hence 
+
+$${ r = 7 \%   }$$ 
+
+is the right ${ r . }$ 
+
+This is called the yield to maturity. 
+
+We will now consider yield to maturity vs holding period return. 
+
+What is a return? 
+
+Suppose you have an investment with value ${ v . }$ One possible definition of your return is the percent change in your investment. In that case 
+
+$${ R = \frac{V _t - V _0}{V _0} .  }$$ 
+
+**Eg**: Consider a ${ 5 }$ year bond with a face value ${ F = \$ 1000 }$ and a price ${ P = \$ 712.99 . }$ 
+
+Suppose we take this bond and hold it to maturity. 
+
+Hence ${ V _t = \$ 1000 , }$ and ${ V _0 = \$ 712.99 . }$ Hence the return 
+
+$${ R = \frac{1000}{712.99} - 1 = 40.25 \% .  }$$ 
+
+Consider a ${ 3 }$ yr bond with same face value ${ F = \$ 1000 }$ but price ${ P = \$ 816.30 . }$ (See above bond examples). 
+
+Note that return on the ${ 3 }$ year bond is 
+
+$${ R = \frac{1000}{816.30} - 1 = 22.05 \% .  }$$
+
+Why is the return on the ${ 5 }$ year bond bigger than the return on the ${ 3 }$ year bond? 
+
+It took us ${ 5 }$ years to earn the ${ 40.25 \% }$ returns, versus only ${ 3 }$ years to earn the ${ 22.05 \% }$ returns. Considering time as well, the situation is balanced. 
+
+Hence we need to adjust for the length of time we are holding the investment. 
+
+For a new definition of return, we want to find ${ r }$ such that 
+
+$${  (1 + r) ^t = \frac{V _t}{V _0} . }$$ 
+
+Hence 
+
+$${ r = \left( \frac{V _t}{V _0} \right) ^{1/t} - 1 .  }$$ 
+
+We call this the holding period return (HPR). 
+
+Note that the holding period return is same for both the above bonds, it is ${ r = 7 \% . }$ This is more reasonable. 
+
+Now that we have a definition of return, we will compare it to yield to maturity. 
+
+Note that this above HPR is equal to yield to maturity. 
+
+Recall yield to maturity (YTM) is given by 
+
+$${ \frac{F}{( 1 + YTM) ^t} = P  }$$ 
+
+that is 
+
+$${ YTM = \left(\frac{F}{P} \right) ^{1/t} - 1 .   }$$ 
+
+Hence YTM = HPR if you hold the bond to maturity. 
+
+**Result**: For a zero coupon bond, YTM = HPR if the bond is held to maturity. 
+
+**Eg**: [An example where the bond is not held to maturity]    
+Consider a ${ 10 }$ year bond, with face value ${ F = \$ 1000 }$ and price ${ P = \$ 450 . 11 . }$ 
+
+Hence YTM on the bond is 
+
+$${ YTM = \left(\frac{1000}{450.11} \right) ^{1/10} - 1 = 8.31 \% . }$$ 
+
+What happens if you purchase this 10 year bond and sell it after 1 year? 
+
+After 1 year, the bond is a 9 year bond. 
+
+Suppose market conditions have changed and yields are higher. Suppose YTM = ${ 8.6 \% . }$ 
+
+Hence the bond sells for a price 
+
+$${ P = \frac{1000}{(1.086) ^9} = \$ 475.92 . }$$ 
+
+Between when you bought the bond and when you sold it, the yield rose. What happens to holding period return HPR? 
+
+The HPR is 
+
+$${ {\begin{aligned} &\, HPR \\ = &\, \left( \frac{V _t}{V _0} \right) ^{1/t} - 1 \\ = &\, \frac{475.92}{450.11} - 1 \\ = &\, 5.7 \% .  \end{aligned}}  }$$ 
+
+Hence here 
+
+$${ \underbrace{HPR} _{5.7 \%} < \underbrace{YTM} _{8.31 \% } .  }$$ 
+
+If yields rise, we get a loss on the bond and ${ HPR < YTM . }$ 
+
+If yields fall, ${ HPR > YTM . }$ 
+
+If yields stay the same, ${ HPR = YTM . }$ 
+
+Hence Bonds are fixed income not fixed return (Bonds are not risk free investments). A bond is risk free only when you hold till maturity. 
+
+Link to official notes: [Link](https://drive.google.com/file/d/1kF8yIMKV3ssBXGv5bApAH3XM29BKIxbq/view?usp=sharing). 
+
+
 
 
 
