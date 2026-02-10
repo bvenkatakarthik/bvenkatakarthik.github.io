@@ -458,13 +458,13 @@ What happens if you purchase this 10 year bond and sell it after 1 year?
 
 After 1 year, the bond is a 9 year bond. 
 
-Suppose market conditions have changed and yields are higher. Suppose YTM = ${ 8.6 \% . }$ 
+Suppose market conditions have changed and YTMs are higher. Suppose YTM = ${ 8.6 \% . }$ 
 
 Hence the bond sells for a price 
 
 $${ P = \frac{1000}{(1.086) ^9} = \$ 475.92 . }$$ 
 
-Between when you bought the bond and when you sold it, the yield rose. What happens to holding period return HPR? 
+Between when you bought the bond and when you sold it, the YTM rose. What happens to holding period return HPR? 
 
 The HPR is 
 
@@ -474,11 +474,11 @@ Hence here
 
 $${ \underbrace{HPR} _{5.7 \%} < \underbrace{YTM} _{8.31 \% } .  }$$ 
 
-If yields rise, we get a loss on the bond and ${ HPR < YTM . }$ 
+If YTMs rise, we get a loss on the bond and ${ HPR < YTM . }$ 
 
-If yields fall, ${ HPR > YTM . }$ 
+If YTMs fall, ${ HPR > YTM . }$ 
 
-If yields stay the same, ${ HPR = YTM . }$ 
+If YTMs stay the same, ${ HPR = YTM . }$ 
 
 Hence Bonds are fixed income not fixed return (Bonds are not risk free investments). A bond is risk free only when you hold the bond till maturity. 
 
