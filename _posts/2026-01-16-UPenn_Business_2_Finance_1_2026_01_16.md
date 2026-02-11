@@ -486,6 +486,84 @@ Hence Bonds are fixed income not fixed return (Bonds are not risk free investmen
 
 Link to official notes: [Link](https://drive.google.com/file/d/1kF8yIMKV3ssBXGv5bApAH3XM29BKIxbq/view?usp=sharing). 
 
+We will now consider prices and returns on coupon bonds. 
+
+Consider a bond with coupon payment ${ C }$ and face value ${ F . }$ 
+
+Note that the cash flows are 
+
+<div align="center">
+    <img src="https://d.l3n.co/UWhFVF.png" width="400" height="200"/> 
+</div>
+
+Hence the price on the coupon bond is 
+
+$${ {\begin{aligned} &\, P \\ = &\, \frac{C}{(1+r)} + \frac{C}{(1 + r) ^2} + \ldots + \frac{C+F}{(1 + r) ^t} . \end{aligned}}  }$$ 
+
+The coupon rate is ${ C / F . }$ 
+
+The YTM is the rate (for bank) such that the PV of the bond's payments equals the price. Hence the ${ r }$ in the above formula is the YTM. 
+
+Result: Consider a coupon bond. The bond sells for its face value if and only if YTM = ${ C / F . }$ 
+
+Proof: Note that the bond sells for its face value if and only if 
+
+$${ F = \frac{C}{(1+r)} + \frac{C}{(1 + r) ^2} + \ldots + \frac{C+F}{(1 + r) ^t}  }$$ 
+
+if and only if 
+
+$${ F \left( 1 - \frac{1}{(1 + r) ^t} \right) = C \frac{1}{r} \left( 1 - \frac{1}{(1 + r) ^t} \right)  }$$ 
+
+if and only if 
+
+$${ r = \frac{C}{F}  }$$ 
+
+as needed. 
+
+Note that the ${ P }$ vs ${ r }$ (${ = YTM }$) graph falls with ${ r . }$ 
+
+Note that if ${ YTM > C / F , }$ we have ${ P < F }$ i.e. Bond sells at a discount. 
+
+Note that if ${ YTM < C / F , }$ we have ${ P > F }$ i.e. Bond sells at a premium. 
+
+Note that if ${ YTM = C / F , }$ we have ${ P = F }$ i.e. Bond sells at par. 
+
+Bonds are typically issued at par. The firm will choose the coupon rate equal to pervailing YTM. Over the course, YTM fluctuates, and sometimes bonds sell for a premium and sometimes bonds sell at a discount. 
+
+Consider the HPR for a coupon bond. 
+
+**Eg**: Consider a bond with maturity ${ t = 4 , }$ yield to maturity ${ YTM = 8 \% }$ and face value ${ \$ 1000 . }$ Say the coupon payment ${ C = \$ 80 . }$ Hence the bond sells at par. 
+
+Suppose we hold the bond till maturity. What is HPR? 
+
+Note that 
+
+$${ {\begin{aligned} &\, HPR \\ = &\, \left( \frac{V _4}{V _0} \right) ^{1/4} - 1 \\ = &\, \left( \frac{V _4}{1000} \right) ^{1/4} - 1 \\ = &\, \left( \frac{1360.49}{1000} \right) ^{1/4} - 1 \\ = &\, 8 \% \end{aligned}}  }$$  
+
+Assume we reinvested the coupons at YTM. 
+
+Note that ${ V _4 }$ is 
+
+$${ {\begin{aligned}  &\, V _4 \\ = &\, 1080 + 80(1.08) + 80 (1.08) ^2 + 80(1.08) ^3 \\ = &\, 1360.49 . \end{aligned}} }$$ 
+
+Here is a picture for calculating ${ V _4 }$:
+
+
+<div align="center">
+    <img src="https://b.l3n.co/Ui2Avx.png" width="400" height="250"/> 
+</div>
+
+Result: For a coupon bond, YTM = HPR if the bond is held to maturity and the coupons are reinvested at the YTM. 
+
+If you reinvest at ${ < YTM , }$ then ${ HPR < YTM. }$ 
+
+If you reinvest at ${ > YTM, }$ then ${ HPR > YTM. }$ 
+
+Link to official notes: [Link](https://drive.google.com/file/d/1zGRZJ--aPF8I44W48gxXOJbOqO2cqD_i/view?usp=sharing). 
+
+
+
+
 
 
 
