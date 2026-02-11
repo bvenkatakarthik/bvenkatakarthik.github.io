@@ -357,7 +357,7 @@ If price ${ P < \$ 712.99 , }$ everybody would be trying to buy the bond.
 
 In either case, market forces send the price back to ${ P = \$ 712.99  . }$ 
 
-**Eg**: **Eg**: Consider a bond that has  
+**Eg**: Consider a bond that has  
 
 $${ \text{Face value} = \$ 1000 }$$ 
 
