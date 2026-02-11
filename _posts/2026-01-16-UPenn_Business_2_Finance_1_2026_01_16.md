@@ -23,7 +23,7 @@ Instructor: Prof. Jessica Wachter.
 
 <a name="top"></a>
 
-Sections: [Net Present Value](#1); 
+Sections: [Net Present Value](#1); [Fixed Income Valutaion](#2); 
 
 The goal is to understand how best to make capital budgeting decisions / investment decisions. (i.e. which projects to undertake, whether they increase or decrease value, etc.) 
 
@@ -313,9 +313,11 @@ $${ 1 + EAR = \left( 1 + \frac{SAIR}{m} \right) ^m .  }$$
 
 Link to the official notes: [Link](https://drive.google.com/file/d/1PTHf_ne1NhT2dWuiX0LNolOiZsAm6MeR/view?usp=sharing). 
 
+<a name="2"></a>
+
 [**Fixed Income Valuation**] 
 
-[Back to top] 
+[Back to top](#top) 
 
 We will consider bonds. 
 
