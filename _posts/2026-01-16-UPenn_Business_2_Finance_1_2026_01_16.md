@@ -15,7 +15,7 @@ Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculu
 Link to UPenn Finance courses: [Link](https://www.coursera.org/specializations/finance-accounting). 
 
 **ROUGH NOTES (!)**    
-Updated: 16/1/26 
+Updated: 11/2/26 
 
 **Course-1: Introduction to Finance**
 
