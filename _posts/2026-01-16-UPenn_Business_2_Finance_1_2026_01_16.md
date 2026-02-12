@@ -615,7 +615,7 @@ We dont know yet.
 
 **Eg**: An investment costs ${ 1M . }$ It will pay ${ 0.1 M }$ in 1 yr, ${ 0.35 M }$ in 2 yrs, and ${ 0.6 M }$ in 3 yrs. 
 
-For zero coupon bonds, YTM on 1 yr is ${ 1 \% , }$ the YTM on ${ 2 yr }$ is ${ 1.5 \% }$ and YTM on 3 yr is ${ 4 \% . .}$
+For zero coupon bonds, YTM on 1 yr is ${ 1 \% , }$ the YTM on 2 yr is ${ 1.5 \% }$ and YTM on 3 yr is ${ 4 \% . .}$
 
 Hence 
 
