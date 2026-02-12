@@ -561,6 +561,100 @@ If you reinvest at ${ > YTM, }$ then ${ HPR > YTM. }$
 
 Link to official notes: [Link](https://drive.google.com/file/d/1zGRZJ--aPF8I44W48gxXOJbOqO2cqD_i/view?usp=sharing). 
 
+We will now consider semi-annual bonds.
+
+Corporations usually issue semi-annual bonds. 
+
+A semi-annual bond has cash flows that look like: 
+
+<div align="center">
+    <img src="https://d.l3n.co/Uiexxq.jpeg" width="400" height="100"/> 
+</div>
+
+Hence price 
+
+$${ {\begin{aligned} &\, P \\ = &\, \frac{C/2}{1 + \frac{r _a}{2}} + \frac{C/2}{(1 + \frac{r _a}{2}) ^2} + \frac{C/2}{(1 + \frac{r _a}{2}) ^3} + \ldots + \frac{F + C/2}{(1 + \frac{r _a}{2}) ^{2t}}. \end{aligned}}  }$$ 
+
+We will now consider the yield curve. 
+
+The yield curve depicts the relation between YTM and bond maturity. 
+
+In USA, very short term bonds have YTMs about ${ 2 \% , }$ and the longest term bonds have YTMs about ${ 3 \% . }$ 
+
+<div align="center">
+    <img src="https://a.l3n.co/UinjJH.png" width="400" height="200"/> 
+</div>
+
+For constructing the yield curve, typically the following bond maturities are considered:
+
+* ${ 1 }$ month, ${ 3 }$ month, ${ 6 }$ month Treasury Bills (Treasury Bills are short term zero coupon bonds). 
+
+* ${ 2 , 3, 5, 10, }$ and ${ 30 }$ year bonds. 
+
+Most of the time, the yield curve is upward sloping. 
+
+Sometimes, it "flattens", i.e. the slopes become smaller. 
+
+Our assumption with above PV calculations is that the yield curve is completely flat / constant. 
+
+Sometimes yield curve takes other shapes. 
+
+<div align="center">
+    <img src="https://a.l3n.co/UinIxc.png" width="400" height="250"/> 
+</div>
+
+Most of the time, the yield curve is upward sloping. We see higher yields for longer maturity times. 
+
+An inverted yield curve often predicts recessions.
+
+Why is the yield curve upward sloping most of the time? 
+
+Why does an inverted yield curve predicts recessions?
+
+We dont know yet. 
+
+**Eg**: An investment costs ${ 1M . }$ It will pay ${ 0.1 M }$ in 1 yr, ${ 0.35 M }$ in 2 yrs, and ${ 0.6 M }$ in 3 yrs. 
+
+For zero coupon bonds, YTM on 1 yr is ${ 1 \% , }$ the YTM on ${ 2 yr }$ is ${ 1.5 \% }$ and YTM on 3 yr is ${ 4 \% . .}$
+
+Hence 
+
+$${ {\begin{aligned} &\, NPV \\ = &\, -1 + \frac{1}{1.01} + \frac{0.35}{1.015 ^2} + \frac{0.6}{1.04 ^3} \\ < &\, 0 . \end{aligned}}  }$$ 
+
+Hence by the NPV rule we should reject the investment. (The zero coupon bond investments return better).
+
+**Eg**: Suppose you have the following data on zero coupon bond prices (per ${ \$ 100 }$ of face value). 
+
+1 yr bond ${ P _1 = \$ 93.46 }$ 
+
+2 yr bond ${ P _2 = \$ 89 }$ 
+
+3 yr bond ${ P _3 = \$ 83.96 . }$ 
+
+Given this setup, what is the price of a ${ 3 }$ yr coupon bond with ${ C / F = 5 \% }$ per ${ \$ 100 }$ of face value?
+
+**Ans**: The coupon bond has cash flows as expected. 
+
+Note that 
+
+$${ 93.46 = \frac{100}{(1 + r _1)} }$$ 
+
+and 
+
+$${ 89 = \frac{100}{(1 + r _2) ^2} }$$ 
+
+and 
+
+$${ 83.96 = \frac{100}{(1 + r_3) ^3} .  }$$ 
+
+We can use YTMs ${ r _1, r _2, r _3 }$ to find out the price of the ${ 3 }$ yr coupon bond. 
+
+It turns out the answer is ${ \$ 97.28 . }$ 
+
+Link to official notes: [Link](https://drive.google.com/file/d/1O-IfB3XcgMR2KDI_9DXJBwVMwKjH50bi/view?usp=sharing). 
+
+
+
 
 
 
