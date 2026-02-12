@@ -609,7 +609,7 @@ An inverted yield curve often predicts recessions.
 
 Why is the yield curve upward sloping most of the time? 
 
-Why does an inverted yield curve predicts recessions?
+Why does an inverted yield curve predict recessions?
 
 We dont know yet. 
 
