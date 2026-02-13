@@ -707,7 +707,7 @@ $${ {\begin{aligned} &\, P _0 \\ = &\, \frac{D _1}{(1 + r)} + \frac{D _2}{(1 + r
 
 But wait a minute: Keeping the simplifying assumptions aside, a lot of companies do not pay dividends. That doesnt mean the price per share is ${ 0 . }$ 
 
-Just because they dont pay dividends now doesnt mean they will every pay dividends. The dividends in the formula can be ${ 0 }$ for quite some time and then become nonzero. 
+Just because they dont pay dividends now doesnt mean they will never pay dividends. The dividends in the formula can be ${ 0 }$ for quite some time and then become nonzero. 
 
 Link to official notes: [Link](https://drive.google.com/file/d/1vysUHlvaRxJeEVg_yP8LeyjU68hk1vi6/view?usp=sharing). 
 
