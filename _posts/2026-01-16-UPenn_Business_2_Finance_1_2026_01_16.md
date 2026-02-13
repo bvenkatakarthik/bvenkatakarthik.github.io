@@ -23,7 +23,7 @@ Instructor: Prof. Jessica Wachter.
 
 <a name="top"></a>
 
-Sections: [Net Present Value](#1); [Fixed Income Valuation](#2); [Equity Valuation](#3); 
+**Sections**: [Net Present Value](#1); [Fixed Income Valuation](#2); [Equity Valuation](#3); 
 
 The goal is to understand how best to make capital budgeting decisions / investment decisions. (i.e. which projects to undertake, whether they increase or decrease value, etc.) 
 
