@@ -843,8 +843,7 @@ $${ \frac{\partial P _0}{\partial b} > 0 \iff ROE > r .  }$$
 
 Hence informally growth increases price if and only if profitability exceeds the discount rate. This agrees with intuition. 
 
-
-
+Link to official notes: [Link](https://drive.google.com/file/d/1OzbPfG4PIQbmWLl_RZoLUQ4e2GHikby5/view?usp=sharing). 
 
 
 
