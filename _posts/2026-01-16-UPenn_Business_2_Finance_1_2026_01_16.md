@@ -23,7 +23,7 @@ Instructor: Prof. Jessica Wachter.
 
 <a name="top"></a>
 
-Sections: [Net Present Value](#1); [Fixed Income Valuation](#2); 
+Sections: [Net Present Value](#1); [Fixed Income Valuation](#2); [Equity Valuation](#3); 
 
 The goal is to understand how best to make capital budgeting decisions / investment decisions. (i.e. which projects to undertake, whether they increase or decrease value, etc.) 
 
@@ -653,9 +653,11 @@ It turns out the answer is ${ \$ 97.28 . }$
 
 Link to official notes: [Link](https://drive.google.com/file/d/1O-IfB3XcgMR2KDI_9DXJBwVMwKjH50bi/view?usp=sharing). 
 
+<a name="3"></a>
+
 [**Equity Valuation**] 
 
-[Back to top]
+[Back to top](#top)
 
 We will consider equity valuation. 
 
