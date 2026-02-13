@@ -11,7 +11,7 @@ tags: [documentation,sample]
 Link to UPenn Coursera page: [Link](https://www.coursera.org/partners/penn). 
 
 **ROUGH NOTES (!)**    
-Updated: 2/2/26 
+Updated: 13/2/26 
 
 Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculum/). 
 
@@ -25,9 +25,9 @@ Instructor: Prof. Rebecca Stein.
 
 <a name="top"></a>
 
-Sections for 1a: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5); [Government Intervention](#6). 
+**Sections for 1a**: [Opportunity cost](#1); [Scarcity](#2); [Trade](#3); [Supply and Demand](#4); [Markets](#5); [Government Intervention](#6). 
 
-Sections for 1b: [Costs and Profits](#7); [Perfect Competition](#8); [Monopoly](#9); [Externalities](#10); [Public goods](#11); [Asymmetric Information](#12); [Inequality](#13).    
+**Sections for 1b**: [Costs and Profits](#7); [Perfect Competition](#8); [Monopoly](#9); [Externalities](#10); [Public goods](#11); [Asymmetric Information](#12); [Inequality](#13).    
 
 <a name="1"></a> 
 
