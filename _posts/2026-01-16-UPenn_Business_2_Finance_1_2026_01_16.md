@@ -15,7 +15,7 @@ Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculu
 Link to UPenn Finance courses: [Link](https://www.coursera.org/specializations/finance-accounting). 
 
 **ROUGH NOTES (!)**    
-Updated: 11/2/26 
+Updated: 13/2/26 
 
 **Course-1: Introduction to Finance**
 
@@ -652,6 +652,65 @@ We can use YTMs ${ r _1, r _2, r _3 }$ to find out the price of the ${ 3 }$ yr c
 It turns out the answer is ${ \$ 97.28 . }$ 
 
 Link to official notes: [Link](https://drive.google.com/file/d/1O-IfB3XcgMR2KDI_9DXJBwVMwKjH50bi/view?usp=sharing). 
+
+[**Equity Valuation**] 
+
+[Back to top]
+
+We will consider equity valuation. 
+
+What is equity?
+
+Equity is the residual claim on the assets of the corporation. 
+
+Another word for equity is common stock. 
+
+The return to equity comes in two forms. Equity holders recieve Dividends and Capital gains. 
+
+Note that for 1 yr 
+
+$${ {\begin{aligned} &\, HPR \\ = &\, \frac{V _1 - V _0}{V _0}  \\ = &\, \frac{P _1 + D _1 - P _0}{P _0} \\ = &\, \underbrace{\frac{P _1 - P _0}{P _0}} _{\text{Percent capital gain}} + \underbrace{\frac{D _1}{P _0}} _{\text{Dividend yield}} . \end{aligned}}  }$$ 
+
+where ${ P _1 }$ is the price per share 1 yr from now, and ${ D _1 }$ is dividend per share 1 yr from now. 
+
+Note that for 
+
+$${ r = HPR }$$
+
+we have 
+
+$${ r = \frac{P _1 + D _1 - P _0}{P _0} }$$ 
+
+that is 
+
+$${ P _0 (1 + r) = P _1 + D _1 }$$ 
+
+that is 
+
+$${ P _0 = \frac{P _1 + D _1}{1 + r} .  }$$ 
+
+Note that likewise 
+
+$${ P _1 = \frac{D _2 + P _2}{1 + r} .  }$$ 
+
+Substituting that, we get 
+
+$${ {\begin{aligned} &\, P _0 \\ = &\, \frac{D _1}{1 + r} + \frac{D _2}{(1 + r) ^2} + \frac{P _2}{(1 + r) ^2} .  \end{aligned}}  }$$ 
+
+Continuing so, we get 
+
+$${ {\begin{aligned} &\, P _0 \\ = &\, \frac{D _1}{(1 + r)} + \frac{D _2}{(1 + r) ^2} + \ldots + \frac{D _t + P _t}{(1 + r) ^t} .  \end{aligned}}  }$$ 
+
+As long as ${ P _t }$ grows more slowly than ${ (1 + r) ^t }$ we have 
+
+$${ {\begin{aligned} &\, P _0 \\ = &\, \frac{D _1}{(1 + r)} + \frac{D _2}{(1 + r) ^2} + \frac{D _3}{(1 + r) ^3} + \ldots .  \end{aligned}} }$$
+
+But wait a minute: Keeping the simplifying assumptions aside, a lot of companies do not pay dividends. That doesnt mean the price per share is ${ 0 . }$ 
+
+Link to official notes: [Link](https://drive.google.com/file/d/1vysUHlvaRxJeEVg_yP8LeyjU68hk1vi6/view?usp=sharing). 
+
+
+
 
 
 
