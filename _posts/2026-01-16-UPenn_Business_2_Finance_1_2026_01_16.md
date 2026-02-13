@@ -711,6 +711,140 @@ Just because they dont pay dividends now doesnt mean they will never pay dividen
 
 Link to official notes: [Link](https://drive.google.com/file/d/1vysUHlvaRxJeEVg_yP8LeyjU68hk1vi6/view?usp=sharing). 
 
+Consider the formula for pricing equity. 
+
+How do we determine these future dividends? 
+
+We build a model. 
+
+We let 
+
+$${ D _1 = \text{expected dividend next yr}, }$$ 
+
+$${ D _2 = D _1 (1 + g), }$$ 
+
+$${ D _3 = D _2 (1 + g), }$$ 
+
+and so on. 
+
+Hence 
+
+$${ {\begin{aligned} &\, P _0 \\ = &\, \frac{D _1}{1 + r} + \frac{D _1 (1 + g)}{(1 + r) ^2} + \frac{D _1 (1 + g) ^2}{(1 + r) ^3} + \ldots \\ = &\, \frac{D _1}{r - g}  \end{aligned}} }$$ 
+
+if ${ r > g . }$ 
+
+Where does dividend growth come from? 
+
+Dividends come from earnings, which inturn come from firm's profitability. 
+
+Note that 
+
+$${ \text{Earnings} = \text{Dividends} + \text{Retained Earnings}.}$$ 
+
+The Plowback ratio B is the proportion of earnings plowed back into the company. 
+
+Hence 
+
+$${ b = \frac{\text{Retained earnings}}{\text{Total earnings}} .  }$$ 
+
+Let ${ E }$ be Earnings per share. 
+
+Then 
+
+$${ E = \underbrace{D} _{\text{Dividend}} + \underbrace{b \cdot E} _{\text{Retained Earnings}} .  }$$ 
+
+Dividends are part of the earnings that are not plowed back. 
+
+Hence 
+
+$${ D = ( 1 - b ) E . }$$ 
+
+Note that ROE (Return on Equity) is 
+
+$${ ROE = \frac{\text{Earnings}}{\text{Book value of equity}} . }$$ 
+
+**Claim**: ${ g = ROE \cdot b . }$ 
+
+**Assumptions**: ${ ROE, b }$ are constants. 
+
+**Intuition**: For good growth, you need to have good ROE (i.e. good profitability) or good ${ b }$ (i.e. good plowback). 
+
+**Proof**: Note that 
+
+$${ \text{Equity} _{t + 1} = \text{Equity} _{t} + \underbrace{\text{Retained Earnings}} _{ b \cdot E _t }.  }$$ 
+
+(Think of equity as equity per share, and retained earnings as retained earnings per share.) 
+
+Multiplying both sides by ROE, 
+
+$${ E _{t + 1} = E _t + (ROE \cdot b) \cdot E _t .  }$$ 
+
+Hence 
+
+$${  E _{t + 1} = (1 + b \cdot ROE) \cdot E _t . }$$
+
+We are left to show ${ b \cdot ROE }$ is not just the growth rate on earnings, but also the growth rate on dividends. 
+
+Multiplying by ${ ( 1 - b) }$ both sides, we get 
+
+$${ D _{t + 1} = (1 + b \cdot ROE) \cdot D _t   }$$ 
+
+as needed. 
+
+**Eg**: Say ${ ROE = 15 \% . }$ We invest ${ \$ 100 }$ (this is Equity at time ${ 1 }$). Plowback ${ b = 0.6 . }$ 
+
+At ${ t = 1 }$: 
+
+Equity 
+
+$${ \text{Equity} _1 = \$ 100 .  }$$ 
+
+Earnings
+
+$${ E _1 = ROE \cdot (\text{Equity} _1) = \$ 100 (0.15) = \$ 15 .  }$$ 
+
+Retained Earnings 
+
+$${ \text{Ret E} _1 = b (E _1) = 0.6 \cdot \$ 15 = \$ 9 .   }$$ 
+
+Therefore: 
+
+$${ \text{Equity} _2 = \$ 100 + \$ 9 = \$ 109 . }$$ 
+
+$${ E _2 = ROE \cdot (\text{Equity} _2) = 0.15 \cdot \$ 109 = \$ 16.35 .   }$$ 
+
+$${ \text{Ret E} _2 = b (E _2) = 0.6 \cdot \$ 16.35 = \$ 9.81 .  }$$ 
+
+And so on. 
+
+Note that 
+
+$${ {\begin{aligned} &\, g \\ = &\, \frac{E _2}{E _1} - 1 \\ = &\, 9 \% \\ = &\, b \cdot ROE .  \end{aligned}} }$$ 
+
+Note that 
+
+$${ {\begin{aligned} &\, P _0 \\ = &\, \frac{D _1}{r - g} \\ = &\, \frac{E _1 (1 - b)}{r - ROE \cdot b} . \end{aligned}}  }$$ 
+
+Consider the  case of ${ b = 0 , }$ that is no investment. 
+
+We get 
+
+$${ P _0 = \frac{E _1}{r} .  }$$ 
+
+This is called a cash cow. The case ${ b = 0 }$ gives a perpetuity with each dividend equal to ${ E _1 }$ (and hence growth equal to ${ 0  }$).  
+
+Note that 
+
+$${ \frac{\partial P _0}{\partial b} = E _1 \frac{ROE - r}{(r - b \cdot ROE) ^2}  }$$ 
+
+Hence 
+
+$${ \frac{\partial P _0}{\partial b} > 0 \iff ROE > r .  }$$ 
+
+Hence informally growth increases price if and only if profitability exceeds the discount rate. This agrees with intuition. 
+
+
+
 
 
 
