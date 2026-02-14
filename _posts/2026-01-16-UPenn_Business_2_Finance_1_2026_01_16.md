@@ -847,7 +847,44 @@ Hence informally growth of firm increases price if and only if profitability exc
 
 Link to official notes: [Link](https://drive.google.com/file/d/1OzbPfG4PIQbmWLl_RZoLUQ4e2GHikby5/view?usp=sharing). 
 
-**PSet**: 
+**Examples**: 
+
+**Q**) Company TYK forecasts that it will begin paying dividends seven years from now, at which point dividends are ${ \$1 }$ per share. Thereafter, dividends are expected to growth at a constant rate of ${ 6 \% }$ per year. The discount rate for TYK is ${ 10 \% }$. How much would you pay for one share in Company TYK?
+
+**A**) Note that the cash flows expected for one share is 
+
+<div align="center">
+    <img src="https://d.l3n.co/UZ0XJA.jpeg" width="400" height="150"/> 
+</div>
+
+Hence the price is 
+
+$${ {\begin{aligned} &\, P _0 \\ = &\, \frac{C}{(1 + r) ^7} + \frac{C(1 + g)}{(1 + r) ^8} + \ldots \\ = &\, \frac{1}{(1 + r) ^6} \frac{C}{r - g} \\ = &\, \frac{1}{1.1 ^6} \frac{1}{0.1 - 0.06} \\ = &\, 14.11 .  \end{aligned}} }$$ 
+
+**Q**) Golf Ball Inc. expects earnings to be ${ \$10,000 }$ per year in perpetuity if it pays out all of its earnings in dividends. Suppose the firm has an opportunity to invest ${ \$1,000 }$ of next year's earnings to upgrade its machinery. It is expected that this upgrade will increase earnings in all future years (starting two years from now) by ${ \$140. }$ Assume that Golf Ball's next dividend is one year from now. The required rate of return is ${ 12\%. }$
+
+What is the value of Golf Ball Inc. if it does not undertake the upgrade?
+
+What is the value of Golf Ball Inc. if it undertakes the upgrade?
+
+**A**) No upgrade: 
+
+$${ {\begin{aligned} &\, PV \\ = &\, \frac{C}{1 + r} + \frac{C}{(1 + r) ^2} + \ldots \\ = &\, \frac{C}{r} \\ = &\, \frac{10000}{0.12} \\ = &\, 83333.33 . \end{aligned}} }$$ 
+
+Upgrade: 
+
+$${ {\begin{aligned} &\, PV \\ = &\, \frac{9000}{1 + r} + \frac{10140}{(1 + r) ^2} + \frac{10140}{(1 + r) ^3} +  \ldots \\ = &\, \frac{9000}{1.12} + \frac{1}{1.12} \frac{10140}{0.12} \\ = &\, 83482.14.  \end{aligned}} }$$ 
+
+**Q**) Suppose that the consensus forecast of security analysts of your favorite company is that earnings next year will be ${ \$5.00 }$ per share. The company plows back ${ 50 \% }$ of its earnings and if the Chief Financial Officer (CFO) estimates that the company's return on equity (ROE) is ${ 16 \%. }$ Assuming the plowback ratio and the ROE are expected to remain constant forever:
+
+If you believe that the company's required rate of return is ${ 10 \%, }$ what is your estimate of the price of the company's stock?
+
+**A**) ${ E _1 = 5, }$ ${ b = 0.5 , }$ ${ ROE = 0.16 , }$ ${ r = 0.1 . }$ 
+
+Hence 
+
+$${ {\begin{aligned} &\, P _0 \\ = &\, \frac{E _1 (1 - b)}{r - ROE \cdot b} \\ = &\, \frac{5 \cdot 0.5}{0.1 - 0.16 \cdot 0.5} \\ = &\, 125.  \end{aligned}} }$$ 
+
 
 
 
