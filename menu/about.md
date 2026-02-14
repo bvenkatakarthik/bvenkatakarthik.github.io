@@ -18,6 +18,8 @@ Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Speculation: 
 
+The Brain partly runs a supervised learning algorithm. 
+
 $${ \boxed{\textbf{Remembering your role models is beneficial.}} }$$
 
 
