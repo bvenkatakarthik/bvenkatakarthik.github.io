@@ -15,7 +15,7 @@ Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculu
 Link to UPenn Finance courses: [Link](https://www.coursera.org/specializations/finance-accounting). 
 
 **ROUGH NOTES (!)**    
-Updated: 13/2/26 
+Updated: 14/2/26 
 
 **Course-1: Introduction to Finance**
 
@@ -846,6 +846,10 @@ $${ \frac{\partial P _0}{\partial b} > 0 \iff ROE > r .  }$$
 Hence informally growth of firm increases price if and only if profitability exceeds the discount rate. This agrees with intuition. 
 
 Link to official notes: [Link](https://drive.google.com/file/d/1OzbPfG4PIQbmWLl_RZoLUQ4e2GHikby5/view?usp=sharing). 
+
+**PSet**: 
+
+
 
 
 
