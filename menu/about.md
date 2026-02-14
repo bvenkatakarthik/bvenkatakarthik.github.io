@@ -6,7 +6,7 @@ permalink: /about
 
 Hi I am Karthik, a Math enthusiast from India.
 
-I am curious about the nature of The World.
+I am curious about the nature and purpose of The World.
 
 I am curious about the Brain, the foundation of Life Experience and Intelligence. 
 
