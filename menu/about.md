@@ -22,6 +22,8 @@ The Brain partly runs a supervised learning algorithm.
 
 $${ \boxed{\textbf{Remembering your role models is beneficial.}} }$$
 
+Remembering your role models tends to simplify life.
+
 
 
 
