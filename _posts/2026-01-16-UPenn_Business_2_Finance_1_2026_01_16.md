@@ -15,7 +15,7 @@ Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculu
 Link to UPenn Finance courses: [Link](https://www.coursera.org/specializations/finance-accounting). 
 
 **ROUGH NOTES (!)**    
-Updated: 14/2/26 
+Updated: 16/2/26 
 
 **Course-1: Introduction to Finance**
 
@@ -23,7 +23,7 @@ Instructor: Prof. Jessica Wachter.
 
 <a name="top"></a>
 
-**Sections**: [Net Present Value](#1); [Fixed Income Valuation](#2); [Equity Valuation](#3); 
+**Sections**: [Net Present Value](#1); [Fixed Income Valuation](#2); [Equity Valuation](#3); [NPV vs IRR](#4); 
 
 The goal is to understand how best to make capital budgeting decisions / investment decisions (i.e. which projects to undertake, whether they increase or decrease value, etc). 
 
@@ -884,6 +884,77 @@ If you believe that the company's required rate of return is ${ 10 \%, }$ what i
 Hence 
 
 $${ {\begin{aligned} &\, P _0 \\ = &\, \frac{E _1 (1 - b)}{r - ROE \cdot b} \\ = &\, \frac{5 \cdot 0.5}{0.1 - 0.16 \cdot 0.5} \\ = &\, 125.  \end{aligned}} }$$ 
+
+<a name="4"></a>
+
+[**NPV vs IRR**] 
+
+[Back to top](#top) 
+
+The internal rate of return (IRR) is the discount rate that makes the NPV = 0. 
+
+The IRR rule says: Accept if IRR ${ > r. }$ Otherwise reject. 
+
+The IRR rule isnt correct in all scenarios.
+
+Sometimes the IRR rule and NPV rule agree. 
+
+In a general case it is better to prefer the NPV rule. 
+
+**Eg**: Consider a project with cost ${ \$ 100 . }$ Hence cash flow ${ C _0 = - 100 . }$    
+Suppose cash flow at time 1 is ${ \$ 110 . }$ 
+
+Note that the NPV is 
+
+$${ NPV = - 100 + \frac{110}{1+r} .  }$$ 
+
+The IRR solves 
+
+$${ - 100 + \frac{110}{1+r} = 0 . }$$ 
+
+Hence 
+
+$${ IRR = 10 \% . }$$ 
+
+Suppose ${ r = 8 \% . }$ 
+
+The NPV rule says: 
+
+$${ NPV = -100 + \frac{110}{1.08} > 0 . }$$ 
+
+NPV rule says accept. 
+
+The IRR rule says: 
+
+$${ IRR > r .  }$$ 
+
+IRR rule says accept. 
+
+Consider the plot of ${ NPV(r) = - 100 + \frac{110}{1+r} }$ versus ${ r . }$ 
+
+Note that from the graph 
+
+$${ NPV(r) > 0 \iff r < IRR }$$ 
+
+as needed. 
+
+Hence for this project the NPV and IRR rule agree. 
+
+In general whenever NPV(r) is a decreasing function of r, both the rules agree. 
+
+Note that NPV(r) is decreasing if 
+
+$${ NPV = C _0 + \frac{C _1}{1 + r} + \frac{C _2}{(1 + r) ^2} + \ldots  }$$ 
+
+where ${ C _0 < 0 }$ and other ${ C _i }$s are ${ \geq 0 . }$ 
+
+It is better to prefer the NPV rule. 
+
+Link to official notes: [Link](https://drive.google.com/file/d/1D7ScVhAcMAe2mN2ZDnsk-84kchMItZxw/view?usp=sharing). 
+
+
+
+
 
 
 
