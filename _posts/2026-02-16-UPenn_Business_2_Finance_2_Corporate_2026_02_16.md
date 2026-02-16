@@ -19,5 +19,5 @@ Updated: 16/2/26
 
 **Course-2: Introduction to Corporate Finance**
 
-Instructor: Prof. Michael Roberts
+Instructor: Prof. Michael Roberts.
 
