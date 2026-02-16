@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Business-2 Finance-2 Corporate Finance"
+title: "Business-2 Finance-2"
 author: "Karthik"
 categories: journal
 tags: [documentation,sample]
