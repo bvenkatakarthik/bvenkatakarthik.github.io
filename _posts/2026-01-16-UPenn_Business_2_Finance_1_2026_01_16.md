@@ -767,7 +767,7 @@ $${ ROE = \frac{\text{Earnings}}{\text{Book value of equity}} . }$$
 
 **Claim**: ${ g = ROE \cdot b . }$ 
 
-**Assumptions**: ${ ROE, b }$ are constants. 
+**Assumptions**: ${ ROE, b }$ are constants. That is, earnings per unit equity, and retained earnings per unit earning, are constant. 
 
 **Intuition**: For good growth, you need to have good ROE (i.e. good profitability) or good ${ b }$ (i.e. good plowback). 
 
