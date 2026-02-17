@@ -18,7 +18,7 @@ Speculation:
 
 The Brain partly runs a supervised learning algorithm. 
 
-$${ \boxed{\textbf{Remembering your role models is beneficial.}} }$$
+$${ \boxed{\huge \textbf{Remembering your role models is beneficial.}} }$$
 
 
 
