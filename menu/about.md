@@ -18,7 +18,7 @@ Speculation:
 
 The Brain partly runs a supervised learning algorithm. 
 
-$${ \boxed{\large{\begin{aligned} &\, \textbf{Thinking about role models} \\ &\, \textbf{is beneficial.} \end{aligned}}} }$$
+$${ \boxed{\large{\begin{aligned} &\, \textbf{Having role models} \\ &\, \textbf{simplifies life.} \end{aligned}}} }$$
 
 
 
