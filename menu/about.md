@@ -16,7 +16,7 @@ Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Speculation: 
 
-**The Brain partly learns from others.** 
+The Brain partly learns from others.
 
 $${ \large\boxed{\begin{aligned} &\, \textbf{Seeing the best traits in others} \\ &\, \textbf{is beneficial.} \end{aligned}} }$$
 
