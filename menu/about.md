@@ -16,6 +16,8 @@ Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Speculation:  
 
+The Brain partly learns from others. 
+
 $${ \boxed{\large{\begin{aligned} &\, \textbf{Love for role models} \\ &\, \textbf{simplifies life.} \end{aligned}}} }$$
 
 
