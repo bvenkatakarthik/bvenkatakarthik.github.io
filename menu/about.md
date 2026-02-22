@@ -16,7 +16,7 @@ Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Speculation:  
 
-$${ \boxed{\large{\begin{aligned} &\, \textbf{Having role models} \\ &\, \textbf{simplifies life.} \end{aligned}}} }$$
+$${ \boxed{\large{\begin{aligned} &\, \textbf{Love for role models} \\ &\, \textbf{simplifies life.} \end{aligned}}} }$$
 
 
 
