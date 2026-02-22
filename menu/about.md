@@ -4,9 +4,7 @@ title: About
 permalink: /about
 ---
 
-Hi I am Karthik, a Math enthusiast from India.
-
-I am primarily observing The World. 
+Hi I am Karthik, a Math enthusiast from India. 
 
 I am curious about the nature and purpose of The World.
 
