@@ -14,9 +14,7 @@ I intend to use the blog as a digital notebook of sorts, and the posts will most
 
 Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com. 
 
-Speculation: 
-
-The Brain partly runs a supervised learning algorithm. 
+Speculation:  
 
 $${ \boxed{\large{\begin{aligned} &\, \textbf{Having role models} \\ &\, \textbf{simplifies life.} \end{aligned}}} }$$
 
