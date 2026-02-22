@@ -18,7 +18,7 @@ Speculation:
 
 The Brain partly learns from others. 
 
-$${ \boxed{\large{\begin{aligned} &\, \textbf{Love for role models} \\ &\, \textbf{simplifies life.} \end{aligned}}} }$$
+$${ \boxed{\large{\begin{aligned} &\, \textbf{Observing role models} \\ &\, \textbf{simplifies life.} \end{aligned}}} }$$
 
 
 
