@@ -18,7 +18,7 @@ Speculation:
 
 The Brain partly learns from others. 
 
-**Seeing the best traits in other people is beneficial.**
+**Seeing the best traits in others is beneficial.**
 
 
 
