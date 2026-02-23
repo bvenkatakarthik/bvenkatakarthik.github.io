@@ -15,9 +15,15 @@ Link to UPenn MBA curriculum: [Link](https://mba.wharton.upenn.edu/mba-curriculu
 Link to UPenn Finance courses: [Link](https://www.coursera.org/specializations/finance-accounting). 
 
 **ROUGH NOTES (!)**    
-Updated: 16/2/26 
+Updated: 23/2/26 
 
 **Course-2: Introduction to Corporate Finance**
 
 Instructor: Prof. Michael Roberts.
+
+Book: "Corporate Finance" by Berk, DeMarzo.
+
+Time Value of Money. Link to official notes: [Link](https://drive.google.com/file/d/1_KhJNzeQN23XteJU8S4VJRh_CZFeYjrg/view?usp=sharing). 
+
+
 
