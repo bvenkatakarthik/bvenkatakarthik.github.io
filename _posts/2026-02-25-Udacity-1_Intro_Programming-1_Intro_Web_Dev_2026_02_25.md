@@ -49,6 +49,56 @@ HTML is the language that provides the structure and text of web pages.
 When you load up a website in your browser, the first thing that the server sends to your browser is a HTML file.    
 If you look at that HTML file using programmer's tools, you will see all the technical details that tell the browser what to do. When you open the same file in a web browser, the browser will follow the instructions to build and display the page. 
 
+[**HTML and Programming**] 
+
+There are a few main concepts. 
+
+Consider syntax. Syntax is the grammar rules of a language. 
+
+Consider formalism. Computers take code literally. 
+
+Consider nesting. Nesting is when some bits of code go inside other bits of code in an orderly way. 
+
+Consider documentation. The manuals and tutorials that go along with software.
+
+[**Text Editors**] 
+
+HTML documents and programs in almost every programming language are written in text files. The layout of a web page as seen by the user, is put together by the web browser based on code in that text file.    
+When a web page includes an image or a video, it does that by including a text-based address in the code of the page. The browser sees the address and then downloads the right images or videos to put into that page.
+
+When you load an HTML file into a programmer's text editor, you'll see it displayed with colors and special formatting. This is called syntax highlighting, and it's a special feature of that editor. The editor knows the grammar of HTML and it applies colors in order to help you get the grammar right as you're editing it.
+
+When you save a file, it is conventional to use a file name that has a particular ending or extension indicating the file type. This helps programs such as editors and browsers treat the file appropriately.    
+For HTML, we'll use the filename endings .html. 
+
+We will use VSCode. Install the "Live Preview" extension to get syntax highlighting of HTML files. 
+
+[**The job of HTML**] 
+
+A HTML file is made up of text that the user will actually read in the browser, and markup, which tells the browser what that text should look like or how its arranged. 
+
+Within markup there can be references to include other documents and files, like images and videos. 
+
+[**Markup**] 
+
+Consider the following HTML code. 
+
+
+```
+
+This is an <strong>awesome</strong> example of HTML. 
+
+
+```
+
+
+Here, "\<strong>" and "\</strong>" are called tags, and the whole unit "\<strong>awesome\</strong>" is called an element. 
+
+More specifically, "\<strong>" is called an opening tag, and "\</strong>" is called a closing tag. 
+
+Note the output of the above HTML code in a browser. 
+
+
 
 
 
