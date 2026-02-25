@@ -6,7 +6,9 @@ permalink: /about
 
 Hi I am Karthik, a Math enthusiast from India. 
 
-**I am curious about the nature and purpose of The World.**
+**I seek Happiness and Understanding.**
+
+**I am curious about the Nature and Purpose of The World.**
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence. 
 
@@ -16,11 +18,6 @@ I intend to use the blog as a digital notebook of sorts, and the posts will most
 
 Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com. 
 
-Speculation:
-
-The Brain partly learns from others. 
-
-$${ \large\boxed{\textbf{What we think of others influences us.}} }$$
 
 
 
