@@ -96,7 +96,7 @@ Here, "\<strong>" and "\</strong>" are called tags, and the whole unit "\<strong
 
 More specifically, "\<strong>" is called an opening tag, and "\</strong>" is called a closing tag. 
 
-Note the output of the above HTML code in a browser. 
+Note the output of the above HTML code, by saving it in a .html file and opening it in a browser. 
 
 
 
