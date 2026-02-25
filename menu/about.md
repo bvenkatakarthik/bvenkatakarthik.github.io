@@ -18,6 +18,8 @@ Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Speculation:
 
+The Brain partly learns from others. 
+
 $${ \large\boxed{\textbf{What we think of others influences us.}} }$$
 
 
