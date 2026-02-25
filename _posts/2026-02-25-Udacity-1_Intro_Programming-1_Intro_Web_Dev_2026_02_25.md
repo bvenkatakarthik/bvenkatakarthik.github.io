@@ -47,7 +47,6 @@ HTML is the language that provides the structure and text of web pages.
 When you load up a website in your browser, the first thing that the server sends to your browser is a HTML file.    
 If you look at that HTML file using programmer's tools, you will see all the technical details that tell the browser what to do. When you open the same file in a web browser, the browser will follow the instructions to build and display the page. 
 
-[**Text Editors**] 
 
 
 
