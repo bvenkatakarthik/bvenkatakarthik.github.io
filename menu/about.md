@@ -6,7 +6,7 @@ permalink: /about
 
 Hi I am Karthik, a Math enthusiast from India. 
 
-**I seek Happiness and Understanding.**
+**I am seeking Happiness and Understanding.**
 
 I am curious about the Nature and Purpose of The World.
 
