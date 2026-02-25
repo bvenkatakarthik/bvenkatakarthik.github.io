@@ -15,6 +15,7 @@ Link to Udacity course: [Link](https://www.udacity.com/course/intro-to-programmi
 We will learn the foundations of four of the most popular languages: HTML, CSS, Javascript, and Python. 
 
 $${ \underline{\textbf{Introduction to Web Development}} }$$
+
 **Sections**: [The Web and HTML](); 
 
 [**The Web and HTML**] 
