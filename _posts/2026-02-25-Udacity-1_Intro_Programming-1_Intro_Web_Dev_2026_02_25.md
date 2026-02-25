@@ -98,6 +98,60 @@ More specifically, "\<strong>" is called an opening tag, and "\</strong>" is cal
 
 Note the output of the above HTML code, by saving it in a .html file and opening it in a browser. 
 
+[**Breaks and Empty Elements**] 
+
+Consider whitespace. 
+
+Whitespace means spaces, tabs, and line breaks.
+
+Note that when you enter text in the editor, despite putting multiple blank lines, when you render it, all whitespace gets collapsed into a single space. 
+
+**Eg**: Here is a poem. 
+
+```
+Mary had a little toad<br>
+Its skin as tough as shell<br>
+And every file that toad would write<br>
+It used HTML. 
+```
+
+Note how it renders. Note that "\<br>" is used to denote line break. 
+
+[**Paragraphs**] 
+
+To make a paragraph in HTML, we use the \<p> and \</p> tags. 
+
+**Eg**: Here is the above poem 
+
+```
+<p>Mary had a little toad</p>
+<p>Its skin as tough as shell</p>
+<p>And every file that toad would write</p>
+<p>It used HTML.</p> 
+```
+
+Note how it renders. Note that we get paragraphs with full blank lines between them.  
+
+[**Lots of Elements**] 
+
+**Eg**: 
+
+```
+This is a <em>story</em>
+all about how 
+<mark>my life</mark> got <sub>flipped,</sub>
+turned <sup>upside down</sup> ...
+```
+
+Note how it renders. 
+
+Note that "\<em>" tags are used to italicize text. 
+
+Note that "\<mark>" tags are used to highlight text, and "\<sub>" tags are used to create subscript text, and "\<sup>" tags are used to create superscript text. 
+
+
+
+
 
 
 
