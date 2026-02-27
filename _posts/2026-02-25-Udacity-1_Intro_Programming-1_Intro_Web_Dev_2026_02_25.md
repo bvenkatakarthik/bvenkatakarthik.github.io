@@ -149,6 +149,159 @@ Note that "\<em>" tags are used to italicize text.
 
 Note that "\<mark>" tags are used to highlight text, and "\<sub>" tags are used to create subscript text, and "\<sup>" tags are used to create superscript text. 
 
+[**Nested Elements**] 
+
+We can nest elements. 
+
+**Eg**: 
+
+```
+<p>These are some
+<mark><em>important</em></mark> equations:
+<em>E=mc<sup>2</sup></em>
+</p>
+```
+
+[**Headings**] 
+
+The \<h1> to \<h6> tags can be used for section headings in a document. 
+
+**Eg**: 
+
+```
+<h1>Animals</h1>
+<p>This is my super cool page about my favourite animals. For the main heading, I'm using an h1 element.</p>
+
+<h2>Cats</h2>
+<p>This part is about cats.</p> 
+
+<h3>Cat behaviour</h3>
+<p>This part is about cat behavior.</p>
+
+<h3>Cat diet</h3>
+<p>This part is about what cats eat.</p> 
+
+<h2>Dogs</h2>
+<p>This part is all about dogs.</p> 
+
+<h3>Dog behaviour</h3>
+<p>This part is about dog behavior.</p>
+
+<h3>Dog Diet</h3>
+<p>This part is about what dogs eat.</p> 
+
+
+```
+
+Note that like with the \<p> element, heading elements create a little bit of space around themselves. 
+
+[**Block and Inline**]
+
+\<p> tags create paragraph blocks. Hence we call these block elements. 
+
+Elements which dont create a block, like \<em>, \<mark>, \<br> elements, are called inline elements. 
+
+[**The div Element**] 
+
+div is short for division. The div element can be used to divide up the page into different sections. 
+
+Like the p element, the div element has an invisible box around it. Note that a p element is meant to contain text, and the dix element is a generic container. 
+
+**Eg**: 
+
+```
+<div> 
+    <p>Call me Ishmael.</p> 
+    <p>Just don't call me late for dinner.</p> 
+</div>
+```
+
+[**Lists and Implied close tags**]
+
+There are a few HTML elements that are always used inside other elements. They dont make sense on their own. For example, \<li> element. 
+
+**Eg**: \<li> as a part of an ordered list. 
+
+```
+<ol>
+    <li> Lettuce </li>
+    <li> Tomatoes </li>
+    <li> Carrots </li>
+</ol>
+```
+
+**Eg**: \<li> as a part of an unordered list. 
+
+```
+<ul>
+    <li> Lettuce </li>
+    <li> Tomatoes </li>
+    <li> Carrots </li>
+</ul>
+```
+
+**Eg**: Here is an example with nested lists. 
+
+```
+<h2> How to move to California: </h2>
+<ol>
+  <li> Pack your stuff. 
+      <ul>
+          <li> Kitchen stuff. </li>
+          <li> Bedroom stuff. </li>
+          <li> Garage stuff. </li>
+      </ul></li>
+  <li> Drive to California. </li>
+  <li> Unpack stuff into tiny apartment. </li>
+</ol>
+
+```
+
+HTML doesnt actually require us to write closing tags for \<li> elements. 
+
+The \<p> element is another element for which the closing tag is optional. 
+
+[**Nested Lists**] 
+
+Here is another example of a nested list. 
+
+**Eg**: Consider the output 
+
+<div>
+    <img src="https://c.l3n.co/UV6Ecc.png" width="400" height="200"/> 
+</div>
+
+For the above output the HTML code is
+
+```
+<ul>
+  <li>Mammals
+    <ol type="a">
+      <li>Raccoons
+      <li>Gorillas
+    </ol>
+  <li>Reptiles
+    <ol type="a">
+      <li>Iguanas
+      <li>Cobras
+    </ol>
+  <li>Birds
+    <ol type="a">
+      <li>Ostriches
+      <li>Ravens
+    </ol>
+</ul>
+```
+
+**Eg**: Here is an example where \<p style="color: blue;"> is used. 
+
+<div align="center">
+    <img src="https://a.l3n.co/UVC8ao.png"/> 
+</div>
+
+
+
+
 
 
 
