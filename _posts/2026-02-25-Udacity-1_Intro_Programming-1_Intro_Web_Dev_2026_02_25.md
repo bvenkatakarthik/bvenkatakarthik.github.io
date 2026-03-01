@@ -337,7 +337,7 @@ The element for inserting images is \<img>.
 **Eg**: 
 
 ```
-<img scr="https://placebear.com/800/600" alt="photo of some bears">
+<img src="https://placebear.com/800/600" alt="photo of some bears">
 ```
 
 [**Files and Relative URLs**] 
