@@ -354,6 +354,44 @@ Here "kittens.jpg" is a relative url.
     <img src="https://b.l3n.co/U9ua17.png"/> 
 </div>
 
+[**Documents: DOCTYPE tag**] 
+
+So far we have been working with HTML snippets. There are a few things to add to make them into full HTML documents. 
+
+We indicate that we are usjng modern HTML by putting the DOCTYPE tag. 
+
+**Eg**: \<!DOCTYPE html>. 
+
+[**Documents: Head and Body**] 
+
+A full HTML document actually has two parts. The HTML snippet stuff goes into the body. 
+
+The head contains the title. The title tells the browser what title to put on a tab thats displaying the document. 
+
+<div align="center">
+    <img src="https://a.l3n.co/U9GWX0.png" width="400" height="400"/> 
+</div>
+
+The head can contain style sheet information. The head can include many other things. 
+
+<div align="center">
+    <img src="https://a.l3n.co/U9G03q.png" width="400" height="400"/> 
+</div>
+
+We can also include \<html lang="en"> in the \<html> tag. 
+
+[**Validating HTML**] 
+
+How do we ensure a HTML file is well written? 
+
+Intuitively, if it looks right in the browser, it must be okay. But not quite, it might have a mistake that your browser can deal with but other browsers can't. 
+
+We can use HTML validators to make sure the syntax is right. 
+
+For eg, https://validator.w3.org/.
+
+
+
 
 
 
