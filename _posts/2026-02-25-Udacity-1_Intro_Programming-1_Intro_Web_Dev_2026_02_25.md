@@ -390,6 +390,9 @@ We can use HTML validators to make sure the syntax is right.
 
 For eg, https://validator.w3.org/.
 
+We will now consider 
+
+$${ \boxed{\textbf{CSS}} }$$ 
 
 
 
