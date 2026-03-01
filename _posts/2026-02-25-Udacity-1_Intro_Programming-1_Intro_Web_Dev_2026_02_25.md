@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-Updated: 1/3/26
+**Updated:** 1/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -16,9 +16,7 @@ Link to Udacity course: [Link](https://www.udacity.com/course/intro-to-programmi
 
 We will learn the foundations of four of the most popular languages: HTML, CSS, Javascript, and Python. 
 
-$${ \underline{\textbf{Introduction to Web Development}} }$$
-
-**Sections**: [The Web and HTML](); 
+$${ \underline{\textbf{Introduction to Web Development}} }$$ 
 
 [**The Web and HTML**] 
 
