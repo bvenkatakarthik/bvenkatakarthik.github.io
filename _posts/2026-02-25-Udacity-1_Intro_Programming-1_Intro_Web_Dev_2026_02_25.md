@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-Updated: 27/2/26
+Updated: 1/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -297,6 +297,61 @@ For the above output the HTML code is
 
 <div align="center">
     <img src="https://a.l3n.co/UVC8ao.png"/> 
+</div>
+
+[**Web Addresses**] 
+
+A web address is called a Uniform Resource Locator (URL). Here Uniform just means standardised. 
+
+A bad example of using a web address: \<a href="www.example.com">. 
+
+A good example of using a web address: \<a href="https://www.example.com">. 
+
+<div align="center">
+    <img src="https://d.l3n.co/U9Zkfr.png" width="400" height="200"/> 
+</div>
+
+[**Links and the \<a> tag**] 
+
+The element for making links in a html file is called \<a>. 
+
+\<a> stands for anchor, because an \<a> element anchors an address to a piece of text on the page. 
+
+**Eg**: 
+
+```
+<a href="https://www.udacity.com">
+        Learn to code 
+        with Udacity
+</a>
+```
+
+Here href stands for hypertext reference. Here "Learn to code with Udacity" is the link text. 
+
+Adding the attribute target="\_blank" ensures that when we click on the link it is opened in a new browser tab. 
+
+[**Adding Images**] 
+
+The element for inserting images is \<img>. 
+
+**Eg**: 
+
+```
+<img scr="https://placebear.com/800/600" alt="photo of some bears">
+```
+
+[**Files and Relative URLs**] 
+
+Suppose an image is locally in the same folder as the HTML file. In this case we can just put the file name in image tag and it would work. 
+
+<div align="center">
+    <img src="https://c.l3n.co/U9uyST.png" /> 
+</div>
+
+Here "kittens.jpg" is a relative url. 
+
+<div align="center">
+    <img src="https://b.l3n.co/U9ua17.png"/> 
 </div>
 
 
