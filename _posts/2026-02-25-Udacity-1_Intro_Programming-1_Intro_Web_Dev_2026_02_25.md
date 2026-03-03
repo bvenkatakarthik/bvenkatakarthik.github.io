@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 1/3/26
+**Updated:** 4/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -391,6 +391,60 @@ For eg, https://validator.w3.org/.
 We will now consider 
 
 $${ \boxed{\textbf{CSS}} }$$ 
+
+[**Starting with Style**] 
+
+CSS means Cascading Style Sheets. 
+
+CSS is a language for describing the visual appearance of web pages, including properties such as their layout, colours, and fonts. 
+
+[**Developer Tools**] 
+
+Open a webpage. Open Developer Tools in Chrome. We can see the underlying files for the webpage. 
+
+If we click on a HTML element, we can also see information about the style of the element. 
+
+[**Text to Trees**] 
+
+The browser reads a HTML file and turns it into a tree data structure. This tree data structure gets rendered in the browser window.
+
+The tree structure is called DOM (Document Object Model). 
+
+<div align="center">
+    <img src="https://b.l3n.co/UdSiVm.png" width="400" height="350"/> 
+</div>
+
+[**Tree Structure**] 
+
+A tree data structure seems to be different from a tree in graph theory. Link to Wikipedia page: [Link](https://en.wikipedia.org/wiki/Tree_(abstract_data_type)). 
+
+Tree structures are very common in Computer Science. 
+
+A tree is made up of parts called nodes, and the nodes have connections between them called branches. 
+
+A tree always has a root, which is the start of a tree. The nodes which descend from a particular node are called its children. 
+
+**Eg**: 
+
+<div align="center">
+    <img src="https://a.l3n.co/UB94n5.png"/> 
+</div>
+
+Outlines, slide decks, classifications are examples of tree data structures. 
+
+The rules for trees are: 
+
+* A tree has a root node. 
+
+* Each node can have branches that lead to other nodes (its children). 
+
+* Each node has only one parent (except the root). 
+
+When we open developers tools and open elements tab, we are not looking at the original HTML source but a version reconstituted from the DOM tree. 
+
+[**Trees to Boxes**] 
+
+
 
 
 
