@@ -20,7 +20,7 @@ Feel free to email me ! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Speculation: 
 
-**Imagination is one of the best sources of Happiness!**
+**Imagination is one of the best sources of Happiness.**
 
 
 
