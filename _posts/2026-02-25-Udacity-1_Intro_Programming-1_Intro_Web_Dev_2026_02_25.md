@@ -444,6 +444,55 @@ When we open developers tools and open elements tab, we are not looking at the o
 
 [**Trees to Boxes**] 
 
+Every element that appears on the page gets laid out into a box. 
+
+These boxes land inside other boxes, and the layout of these boxes is controlled by the tree structure with a little help from CSS. 
+
+<div align="center">
+    <img src="https://b.l3n.co/UBY76A.png"/> 
+</div>
+
+**Eg**: Consider how the following HTML file renders on a browser. 
+
+```
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Listy list</title>
+        <style>
+            p { color: red; }
+            ol { display: flex; }
+            li { margin: 20px; }
+        </style> 
+    </head>
+    <body>
+        <p>These are some red red words.</p> 
+        <ol>
+            <li>Apple apple berry berry sauce sauce sauce.<br>
+                Cook it on the stove and serve it to your boss.
+            <li>Betty bought a bit of butter,
+                but the butter's burning bitter.<br>
+            <li>Crisp cookies claim Charlie's cookout crown.<br>  Clever Clara
+                clocked the crows at <em>c</em> (clearly connivance!)
+            <li>Daring drivers drove down Devil's Ditch in Dodges.
+            <li>Evil eggs explode everywhere. Eww!
+        </ol>
+    </body>
+</html>
+```
+
+It turns out the file renders as 
+
+<div align="center">
+    <img src="https://b.l3n.co/UBoK0o.png"/> 
+</div>
+
+
+
+
+
+
+
 
 
 
