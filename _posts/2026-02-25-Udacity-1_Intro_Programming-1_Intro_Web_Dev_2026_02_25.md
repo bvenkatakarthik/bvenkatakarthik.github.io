@@ -516,6 +516,12 @@ Hence we prefer the CSS alternative of using the \<style> element.
 
 When it renders it displays each line as a paragraph in the center. 
 
+**Eg**: 
+
+<div align="center">
+    <img src="https://d.l3n.co/UBu6OT.png"/> 
+</div>
+
 
 
 
