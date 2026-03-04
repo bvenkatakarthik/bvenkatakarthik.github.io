@@ -506,6 +506,17 @@ Hence we prefer the CSS alternative of using the \<style> element.
     <img src="https://a.l3n.co/UButA2.png"/> 
 </div>
 
+**Eg**: Consider the HTML code. 
+
+```
+<p style="text-align: center">This is a haiku</p>
+<p style="text-align: center">So I want each line centered</p>
+<p style="text-align: center">Let's make it stylish</p>
+```
+
+When it renders it displays each line as a paragraph in the center. 
+
+
 
 
 
