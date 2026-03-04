@@ -522,6 +522,48 @@ When it renders it displays each line as a paragraph in the center.
     <img src="https://d.l3n.co/UBu6OT.png"/> 
 </div>
 
+[**CSS Syntax**] 
+
+A CSS rule-set is made up of two parts: 
+
+* Selector    
+Which elements will the ruleset apply to?
+
+* Declaration block    
+How will the ruleset modify these elements? 
+
+**Eg**: 
+
+<div align="center">
+    <img src="https://b.l3n.co/UBhSpr.png" width="400" height="300"/> 
+</div>
+
+**Eg**: 
+
+<div align="center">
+    <img src="https://d.l3n.co/UBhMYD.png" width="400" height="400"/> 
+</div>
+
+Here the selector is .weird. It means it will apply to any element with the class attribute equal to weird. 
+
+[**Selectors: Type**] 
+
+A CSS Selector tells the browser which elements the rule will affect. There are different kinds of selectors. 
+
+Here are some examples of type selectors. 
+
+**Eg**: 
+
+<div align="center">
+    <img src="https://b.l3n.co/UBhuJA.png" width="400" height="300"/> 
+</div> 
+
+**Eg**: 
+
+<div align="center">
+    <img src="https://c.l3n.co/UBh5JK.png" /> 
+</div> 
+
 
 
 
