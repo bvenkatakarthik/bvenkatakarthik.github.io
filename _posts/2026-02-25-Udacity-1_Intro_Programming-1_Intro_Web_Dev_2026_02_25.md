@@ -498,7 +498,7 @@ We can use the style attribute on HTML opening tags. The problem is, the process
 </div>
 
 
-Hence we prefer the CSS alternative. 
+Hence we prefer the CSS alternative of using the \<style> element. 
 
 **Eg**: 
 
