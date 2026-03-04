@@ -487,6 +487,25 @@ It turns out the file renders as
     <img src="https://b.l3n.co/UBoK0o.png"/> 
 </div>
 
+[**Styling HTML directly**] 
+
+We can use the style attribute on HTML opening tags. The problem is, the process is repetitive and errors can be hard to catch. 
+
+**Eg**: 
+
+<div align="center">
+    <img src="https://c.l3n.co/UBugu9.png"/> 
+</div>
+
+
+Hence we prefer the CSS alternative. 
+
+**Eg**: 
+
+<div align="center">
+    <img src="https://a.l3n.co/UButA2.png"/> 
+</div>
+
 
 
 
