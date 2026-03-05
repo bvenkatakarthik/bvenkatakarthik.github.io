@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 4/3/26
+**Updated:** 5/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -563,6 +563,22 @@ Here are some examples of type selectors.
 <div align="center">
     <img src="https://c.l3n.co/UBh5JK.png" /> 
 </div> 
+
+[**Selectors: Class and ID**] 
+
+A class is a group of things with the same characteristics.
+
+**Eg**: Applying style using class. 
+
+<div align="center">
+    <img src="https://d.l3n.co/Um5yGM.png" width="400" height="400"/> 
+</div> 
+
+**Eg**: Applying style using id. 
+
+<div align="center">
+    <img src="https://d.l3n.co/Um5aHa.png" width="400" height="400"/> 
+</div>
 
 
 
