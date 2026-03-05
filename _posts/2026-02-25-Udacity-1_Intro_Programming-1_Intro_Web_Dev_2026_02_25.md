@@ -580,6 +580,14 @@ A class is a group of things with the same characteristics.
     <img src="https://d.l3n.co/Um5aHa.png" width="400" height="400"/> 
 </div>
 
+**Eg**: For example:
+
+* To apply the same style to all \<p> elements, we use type selector. 
+
+* To apply the same style to multiple (but not all) \<p> elements, we use class selector. 
+
+* To apply a style to a single \<p> element, we use id selector. 
+
 
 
 
