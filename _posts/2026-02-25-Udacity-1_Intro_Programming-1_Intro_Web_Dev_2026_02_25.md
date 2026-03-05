@@ -588,6 +588,33 @@ A class is a group of things with the same characteristics.
 
 * To apply a style to a single \<p> element, we use id selector. 
 
+**Eg**: Consider the below HTML file for a To-do list. Check how the file renders in a browser. 
+
+```
+<style>
+li { 
+    font-size: 1.5em;
+}
+.highlight {
+    background-color: yellow;
+}
+.done {
+    text-decoration: line-through;
+}
+</style>
+
+<h1>To-do:</h1>
+<ul>
+    <li class="done">Buy milk</li>
+    <li>Buy eggs</li>
+    <li class="done">Buy flour</li>
+    <li class="highlight">Make waffles</li>
+    <li>Do laundry</li>
+    <li class="highlight">Learn to code</li>
+    <li class="highlight">Build a robot</li>
+</ul>
+```
+
 
 
 
