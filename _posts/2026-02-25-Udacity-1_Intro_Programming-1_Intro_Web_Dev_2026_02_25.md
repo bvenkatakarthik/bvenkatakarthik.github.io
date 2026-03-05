@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Udacity-1 Intro Programming-1 Intro Web Dev"
+title: "Udacity Intro Programming-1 Intro Web Dev"
 author: "Karthik"
 categories: journal
 tags: [documentation,sample]
