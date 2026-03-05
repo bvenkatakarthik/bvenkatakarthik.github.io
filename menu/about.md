@@ -20,7 +20,8 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Speculation: 
 
-$${ \large\boxed{\textbf{Reactions influence the mind.}} }$$
+**Imagination is one of the best sources of Happiness!**
+
 
 
 
