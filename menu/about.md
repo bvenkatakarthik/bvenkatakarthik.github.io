@@ -20,7 +20,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Speculation: 
 
-**Reactions influence the mind.**
+$${ \large\boxed{\textbf{Reactions influence the mind.}} }$$
 
 
 
