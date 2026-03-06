@@ -11,7 +11,8 @@ tags: [documentation,sample]
 
 * Math StackExchange answer [here](https://math.stackexchange.com/a/593291/303300). 
 
-**Thm** [Commuting matrices share an eigenvector]    
+**Thm** [Commuting matrices share an eigenvector] 
+   
 Let ${ A, B \in \mathbb{C} ^{n \times n} . }$ Suppose ${ AB = BA . }$    
 Then ${ A, B }$ share an eigenvector.
 
@@ -45,7 +46,8 @@ Note that ${ w }$ is a common eigenvector of ${ A, B , }$ as needed. ${ \blacksq
 
 We can strengthen above result. 
 
-**Thm** [Commuting matrices are simultaneously triangularizable]    
+**Thm** [Commuting matrices are simultaneously triangularizable] 
+   
 Let ${ A, B \in \mathbb{C} ^{n \times n} . }$ Suppose ${ AB = BA . }$    
 Then ${ A, B }$ are simultaneously triangularizable. 
 
