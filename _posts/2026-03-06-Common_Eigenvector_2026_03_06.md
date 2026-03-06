@@ -5,8 +5,11 @@ author: "Karthik"
 categories: journal
 tags: [documentation,sample]
 ---
+**Ref**: 
 
-[This is a repetition of the answer [here](https://math.stackexchange.com/a/593291/303300)]
+* "Linear Algebra and Matrices" by Helene Shapiro. Chapter on Simultaneous Triangularization. 
+
+* Math StackExchange answer [here](https://math.stackexchange.com/a/593291/303300). 
 
 **Thm** [Commuting matrices share an eigenvector]    
 Let ${ A, B \in \mathbb{C} ^{n \times n} . }$ Suppose ${ AB = BA . }$    
