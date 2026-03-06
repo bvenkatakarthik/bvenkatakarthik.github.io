@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Common Eigenvector"
+title: "Simultaneous Triangularization"
 author: "Karthik"
 categories: journal
 tags: [documentation,sample]
