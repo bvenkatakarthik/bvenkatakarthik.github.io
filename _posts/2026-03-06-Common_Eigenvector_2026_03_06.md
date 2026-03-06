@@ -38,4 +38,4 @@ $${ \ker(A - \lambda I) \, \text{ is a (nontrivial) B-invariant subspace.} }$$
 
 Hence ${ B \vert _{\ker(A - \lambda I)} }$ admits an eigenvector ${ w . }$ 
 
-Note that ${ w }$ is a common eigenvector of ${ A, B , }$ as needed. 
+Note that ${ w }$ is a common eigenvector of ${ A, B , }$ as needed. ${ \blacksquare }$ 
