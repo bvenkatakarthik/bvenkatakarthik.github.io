@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 7/3/26
+**Updated:** 8/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -716,6 +716,45 @@ p {color:purple; font-size:24;}
 ```
 
 Observe the output. 
+
+[**Color**] 
+
+The primary colors are RGB, namely Red, Green, and Blue. 
+
+Any color is a mix of particular amounts of R, G and B. 
+
+**Eg**: 
+
+```
+body {
+    background-color: rgb(100%, 50%, 0%);
+}
+```
+
+The background color in above example is a shade of orange. 
+
+Note that in web browsers, each primary color R, G, B can have ${ 256 }$ possible values. (Each primary color is stored in a single byte.) 
+
+We can also write colors in hex code. A hexadecimal color is specified with \#RRGGBB, where RR, GG, BB hexadecimal integers specify the components of the color. 
+
+**Eg**: 
+
+
+```
+body {
+    background-color: #02b3e4;
+}
+```
+
+The background color in above example is Udacity's blue. 
+
+Note that for above example
+
+$${ \#02b3e4 = rgb(2, 179, 228) =  rgb(1\%, 70\%, 89\%).  }$$ 
+
+Check out the color picker here: https://www.w3schools.com/colors/colors_picker.asp
+
+Check out the Mozilla Developer Network site: https://developer.mozilla.org/en-US/
 
 
 
