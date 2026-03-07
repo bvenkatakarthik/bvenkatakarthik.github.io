@@ -615,6 +615,27 @@ li {
 </ul>
 ```
 
+[**What's Cascading about CSS?**] 
+
+Consider a DOM tree. Any style applied to a node sort of applies to all its descendants (with a preference order). 
+
+[**Units**] 
+
+We can use CSS to change the layout of elements on a page. We can move elements around, change their sizes, etc. 
+
+In order to talk about where elements are in a page, we need to have units of measurement. 
+
+The basic unit of measurement in CSS is pixel, or px for short. This pixel isnt the hardware pixel, instead it is ${ 1/96 }$ th of an inch.  
+
+One pt is ${ 1/ 72 }$ th of an inch, it is often used for font sizes. One em is equal to the font size in the text element. 
+
+**Eg**: A paragraph of width ${ 2 }$ inches. 
+
+<div align="center">
+    <img src="https://a.l3n.co/U4IW71.png"/> 
+</div>
+
+
 
 
 
