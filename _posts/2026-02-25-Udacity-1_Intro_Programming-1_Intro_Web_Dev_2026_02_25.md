@@ -635,6 +635,19 @@ One pt is ${ 1/ 72 }$ th of an inch, it is often used for font sizes. One em is 
     <img src="https://a.l3n.co/U4IW71.png"/> 
 </div>
 
+[**Boxes**] 
+
+Box parameters:
+
+<div align="center">
+    <img src="https://c.l3n.co/UKRofF.png" /> 
+</div>
+
+**Eg**: 
+
+<div align="center">
+    <img src="https://d.l3n.co/UKRD03.png" /> 
+</div>
 
 
 
