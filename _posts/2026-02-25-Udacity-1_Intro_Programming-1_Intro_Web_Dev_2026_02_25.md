@@ -649,6 +649,36 @@ Box parameters:
     <img src="https://d.l3n.co/UKRD03.png" /> 
 </div>
 
+**Eg**: Consider the following HTML file. 
+
+```
+<style>
+  .blue_box {
+  border: 10px solid blue;
+  padding: 0.5em;
+  margin: 0.5em;
+  width: 150px;
+  height: 100px;
+  float: right;
+  }
+  .red_box {
+  border: 10px solid red;
+  padding: 0.5em;
+  margin: 0.5em;
+  width: 20px;
+  height: 20px;
+  float: right;
+  }
+</style>
+
+<div class="blue_box">Hooray, a box!</div>
+<div class="red_box"></div>
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi sit amet mauris commodo. Vitae elementum curabitur vitae nunc sed velit dignissim sodales ut. Volutpat est velit egestas dui id ornare arcu. Nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue. Porttitor lacus luctus accumsan tortor posuere ac ut consequat. Et malesuada fames ac turpis. Posuere lorem ipsum dolor sit amet consectetur adipiscing. Sed risus ultricies tristique nulla. At auctor urna nunc id. Pharetra convallis posuere morbi leo. Quam quisque id diam vel quam elementum pulvinar etiam. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Amet risus nullam eget felis eget nunc lobortis.</p>
+```
+
+Note how the file renders in a browser. We get the boxes to the right, and the paragraph text wraps over the remaining space. 
+
 
 
 
