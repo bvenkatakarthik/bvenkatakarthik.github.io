@@ -679,6 +679,48 @@ Box parameters:
 
 Note how the file renders in a browser. We get the boxes to the right, and the paragraph text wraps over the remaining space. 
 
+[**Percentages**] 
+
+When we set the width or height of a box to be a percentage it means width or height of the content box with respect to the browser window. 
+
+[**Learning more CSS**] 
+
+Reference material: https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+[**Separating Style**] 
+
+Instead of putting it in \<style> element, we can put CSS in a separate file and link to that file in HTML. 
+
+We use the following element in the \<head> element
+
+```
+<link rel="stylesheet" href="style.css">
+```
+
+**Eg**: Consider the following HTML file. 
+
+```
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<p>
+  Here is an html file that you can use to experiment with your styles.
+</p>
+```
+
+Consider the following style.css file in the same directory. 
+
+```
+p {color:purple; font-size:24;}
+```
+
+Observe the output. 
+
+
+
+
+
 
 
 
