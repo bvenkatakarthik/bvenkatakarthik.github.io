@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Post"
-author: "Rational Approximations to Pi"
+title: "Rational Approximations to Pi"
+author: "Karthik"
 categories: journal
 tags: [documentation,sample]
 ---
