@@ -20,7 +20,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Speculation: 
 
-$${ \large \boxed{\begin{aligned} & \textbf{Imagination is one of the best} \\ & \textbf{sources of Happiness!} \end{aligned}} }$$
+$${ \large \boxed{\begin{aligned} & \underline{\textbf{Imagination is one of the best}} \\ & \underline{\textbf{sources of Happiness!}} \end{aligned}} }$$
 
 
 
