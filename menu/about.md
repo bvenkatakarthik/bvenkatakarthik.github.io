@@ -10,7 +10,7 @@ Hi I am Karthik, a Math enthusiast from India.
 
 I am curious about the Nature and Purpose of The World.
 
-**What is the purpose of the World?** 
+**What is the Purpose of the World?** 
 
 **I am curious about the Brain, the foundation of Reality Experience and Intelligence.**
 
