@@ -8,9 +8,7 @@ Hi I am Karthik, a Math enthusiast from India.
 
 **I seek Happiness and Knowledge.**
 
-I am curious about the Nature and Purpose of The World.
-
-**What is the Purpose of The World?** 
+I am curious about the Nature and Purpose of The World. 
 
 **I am curious about the Brain, the foundation of Reality Experience and Intelligence.**
 
@@ -28,6 +26,7 @@ $${ \large \boxed{\begin{aligned} & \underline{\textbf{Imagination is one of the
     <img src="https://b.l3n.co/oKOJnH.jpg"> 
 </div>
 
+$${ \large\textbf{What is the Purpose of The World?} }$$
 
 
 
