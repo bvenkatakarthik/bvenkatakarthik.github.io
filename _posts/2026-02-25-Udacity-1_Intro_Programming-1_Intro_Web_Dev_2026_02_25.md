@@ -758,6 +758,28 @@ Check out the color picker here: https://www.w3schools.com/colors/colors_picker.
 
 Check out the Mozilla Developer Network site: https://developer.mozilla.org/en-US/
 
+[**Fonts**]
+
+We can apply a font-family rule in an element. 
+
+**Eg**: font-family: "Times New Roman";
+
+**Eg**: font-family: Constantia, Georgia, serif; 
+
+In the above example we specify alternatives for a web browser. 
+
+**Eg**: We can also change other properties of a font. 
+
+```
+p{
+  font-size:48px;
+  font-weight:bold;
+  font-style:italic;
+  text-decoration:underline;
+}
+```
+
+
 
 
 
