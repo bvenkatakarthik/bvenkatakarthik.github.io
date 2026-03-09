@@ -20,3 +20,11 @@ We will learn the foundations of four of the most popular languages: HTML, CSS, 
 
 $${ \underline{\textbf{Introduction to Python - I}} }$$ 
 
+[**Executing Python Code**] 
+
+Run python3 \<your-file-name>.py in the terminal. You can open the file in VS code for this. 
+
+We will now consider 
+
+$${ \boxed{\textbf{Turtles and Code}} }$$ 
+
