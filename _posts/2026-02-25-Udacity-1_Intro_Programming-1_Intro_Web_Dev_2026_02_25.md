@@ -779,6 +779,120 @@ p{
 }
 ```
 
+[**Flexbox**] 
+
+**Eg**: Consider the following HTML and CSS files. 
+
+```
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Flexbox practice!</title>
+    <link rel="stylesheet" href="flexbox.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="box red">red</div>
+      <div class="box green">green</div>
+      <div class="box yellow">yellow</div>
+    </div>
+  </body>
+</html>
+```
+
+and 
+
+```
+.container{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: sans-serif;
+}
+
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
+
+.yellow{
+  background-color: yellow;
+}
+```
+
+Check how the output renders on browser windows of various sizes. 
+
+[**Tic Tac Toe**] 
+
+Consider the following HTML and CSS files. 
+
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tic Tac Toes</title>
+    <link rel="stylesheet" href="notes18_tictactoe.css">
+</head>
+<body>
+    <ul>
+        <li>X
+        <li>
+        <li>O
+
+        <li>
+        <li>X
+        <li>O
+
+        <li>X
+        <li>O
+        <li>
+    </ul>
+</body>
+</html>
+```
+
+and 
+
+```
+ul{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+  width: 90px;
+  height: 90px;
+  font-size: 80px;
+  font-family: sans-serif;
+  background-color: lightblue;
+  margin: 5px;
+  list-style: none;
+  text-align: center;
+}
+```
+
+Note that this outputs a tictactoe grid as shown. 
+
+<div align="center">
+    <img src="https://d.l3n.co/U7ALy9.png" width="400" height="400"/> 
+</div>
+
+
+
 
 
 
