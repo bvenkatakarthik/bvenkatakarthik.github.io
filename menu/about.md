@@ -24,6 +24,10 @@ Speculation:
 
 $${ \large \boxed{\begin{aligned} & \underline{\textbf{Imagination is one of the best}} \\ & \underline{\textbf{sources of Happiness!}} \end{aligned}} }$$
 
+<div align="center">
+    <img src="https://b.l3n.co/oKOJnH.jpg"> 
+</div>
+
 
 
 
