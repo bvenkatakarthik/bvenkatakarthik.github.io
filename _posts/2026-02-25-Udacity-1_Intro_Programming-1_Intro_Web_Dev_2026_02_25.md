@@ -14,7 +14,7 @@ Link to Udacity subscription: [Link](https://www.udacity.com/plans).
 
 Link to Udacity course: [Link](https://www.udacity.com/course/intro-to-programming-nanodegree--nd000). 
 
-**All rights of the images found in these notes go to Udacity unless explicitly noted.**
+**All rights of the (often wonderful) images found in these notes go to Udacity unless explicitly noted.**
 
 We will learn the foundations of four of the most popular languages: HTML, CSS, Javascript, and Python. 
 
