@@ -8,7 +8,9 @@ tags: [documentation,sample]
 
 [Link to previous post: [Link](https://bvenkatakarthik.github.io/Open_Mapping_2026_02_19)] 
 
-**Ref**: “Principles of Analysis” by Junghenn. 
+**Ref**: 
+
+* “Principles of Analysis” by Junghenn. 
 
 Let ${ \mathscr{X} }$ and ${ \mathscr{Y} }$ be Banach spaces. Let ${ T : \mathscr{X} \to \mathscr{Y} }$ be a continuous linear bijection. Is the inverse ${ T ^{-1} : \mathscr{Y} \to \mathscr{X} }$ also continuous? Note that continuity of ${ T ^{-1} }$ is equivalent to openness of ${ T . }$ 
 
