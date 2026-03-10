@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 ---
 
-[Link to previous post: [Link](https://bvenkatakarthik.github.io/Open_Mapping_2026_02_19)]. 
+[Link to previous post: [Link](https://bvenkatakarthik.github.io/Open_Mapping_2026_02_19)] 
 
 **Ref**: “Principles of Analysis” by Junghenn. 
 
