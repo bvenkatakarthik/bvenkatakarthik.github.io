@@ -18,13 +18,14 @@ I intend to use the blog as a digital notebook of sorts, and the posts will most
 
 Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com. 
 
+$${ \boxed{\large{\begin{aligned} &\, \textbf{“One should never try to prove} \\ &\, \textbf{anything that is not almost obvious.”} \\ &\, \textbf{- Grothendieck.} \end{aligned}}} }$$
+
 <div align="center">
     <img src="https://b.l3n.co/oKOJnH.jpg"> 
 </div>
 
 $${ \large\textbf{What is the Purpose of The World?} }$$
 
-$${ \boxed{\large{\begin{aligned} &\, \textbf{“One should never try to prove} \\ &\, \textbf{anything that is not almost obvious.”} \\ &\, \textbf{- Grothendieck.} \end{aligned}}} }$$
 
 
 
