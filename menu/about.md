@@ -28,7 +28,7 @@ $${ \large \boxed{\begin{aligned} & \underline{\textbf{Imagination is one of the
 
 $${ \large\textbf{What is the Purpose of The World?} }$$
 
-**“One should never try to prove anything that is not almost obvious.” - Grothendieck.**
+$${ \boxed{\large{\begin{aligned} &\, \textbf{“One should never try to prove} \\ &\, \textbf{anything that is not almost obvious.”} \\ &\, \textbf{- Grothendieck.} \end{aligned}}} }$$
 
 
 
