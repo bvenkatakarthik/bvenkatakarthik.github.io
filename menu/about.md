@@ -22,7 +22,7 @@ $${ \boxed{\large{\begin{aligned} &\, \underline{\textbf{“One should never try
 
 In general: 
 
-$${ \large\boxed{\underline{\textbf{Obvious Steps First.}}} }$$   
+$${ \large\boxed{\underline{\textbf{Obvious steps First.}}} }$$   
 
 <div align="center">
     <img src="https://b.l3n.co/oKOJnH.jpg"> 
