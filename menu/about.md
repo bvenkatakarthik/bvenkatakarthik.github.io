@@ -26,7 +26,7 @@ $${ \boxed{\large{\begin{aligned} &\, \textbf{“One should never try to prove} 
     <img src="https://b.l3n.co/oKOJnH.jpg"> 
 </div>
 
-$${ \boxed{\large\textbf{What is the Purpose of The World?}} }$$
+$${ \boxed{\large\textbf{Q) What is the Purpose of The World?}} }$$
 
 
 
