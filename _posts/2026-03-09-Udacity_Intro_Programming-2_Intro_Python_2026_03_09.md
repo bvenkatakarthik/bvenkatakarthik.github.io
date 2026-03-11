@@ -76,5 +76,62 @@ When we connect a name with some data in memory, we refer to this process as ass
 
 [**Modules and Methods**] 
 
+A module is a file that has a collection of useful code that can be used in other Python programs. 
+
+For eg once we imported the turtle module, its as if all the module code were part of our own program.
+
+Consider the turtle module. A named block of code that can be called to get the turtle to do something is called a method. 
+
+Statements like amy.forward(100), amy.right(90), amy.color("yellow") are method calls. We will study methods later on. 
+
+[**Comments**] 
+
+In code, a comment is a message for human readers. The computer ignores comments when running a code. In Python, a comment line begins with #. 
+
+[**Using Variables**] 
+
+**Eg**: 
+
+```
+color = "purple"
+sides = [1, 2, 3, 4, 5]
+angle = 72
+distance = 100
+mary.color(color)
+for side in sides:
+    mary.forward(distance)
+    mary.right(angle)
+```
+
+One advantage of using variables is that on changing what a variable stands for in one place of the code, it affects all places wherever the variable is used at once. 
+
+[**Looping**] 
+
+Loops are useful when there is some task that we need to perform repeatedly. 
+
+**Eg**: 
+
+```
+amy.forward(100)
+amy.left(90)
+amy.forward(100)
+amy.left(90)
+amy.forward(100)
+amy.left(90)
+amy.forward(100)
+amy.left(90)
+```
+
+is equivalent to 
+
+```
+for side in [1, 2, 3, 4]:
+    amy.forward(100)
+    amy.left(90)
+```
+
+[**Lists and Loops**] 
+
+
 
 
