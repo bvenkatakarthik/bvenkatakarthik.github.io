@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 9/3/26
+**Updated:** 12/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -68,7 +68,7 @@ input("Press Enter to continue...")
 
 Consider the line geroge = turtle.Turtle(). 
 
-The right hand side creates a new turtle (a data object placed in memory), and the left hand side says what the name will be. 
+The right hand side creates a new turtle object (a data object placed in memory), and the left hand side says what the name will be. 
 
 A variable is a connection between a name in the code and some data in the computer's memory. 
 
