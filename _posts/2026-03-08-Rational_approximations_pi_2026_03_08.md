@@ -6,6 +6,8 @@ categories: journal
 tags: [documentation,sample]
 ---
 
+**Updated**: 11/3/26 
+
 Note that 
 
 $${ \int _0 ^{1} \frac{1}{1+x ^2} \, dx = \frac{\pi}{4} .  }$$ 
