@@ -20,6 +20,10 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 $${ \boxed{\large{\begin{aligned} &\, \underline{\textbf{“One should never try to prove}} \\ &\, \underline{\textbf{anything that is not almost obvious.”}} \\ &\, \textbf{- Grothendieck.} \end{aligned}}} }$$
 
+In general: 
+
+$${ \boxed{\large \underline{\textbf{Obvious things first.}} } }$$ 
+
 <div align="center">
     <img src="https://b.l3n.co/oKOJnH.jpg"> 
 </div>
