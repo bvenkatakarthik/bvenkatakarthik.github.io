@@ -20,11 +20,12 @@ Ideally, we want ${ P(x) ^2 }$ to leave a constant remainder on dividing by ${ (
 
 Let’s write 
 
-$${ P(x) ^2 = (1 + x ^2) Q(x) + R(x) .  }$$ 
+$${ P(x) ^2 = (1 + x ^2) Q(x) + (ax + b) .  }$$ 
 
 Putting ${ x = i }$ we have 
 
-$${ P(x) ^2 = (1 + x ^2) Q(x) + P(i) ^2 . }$$ 
+$${ {\begin{aligned} &\, P(x) ^2 \\ = &\, (1 + x ^2) Q(x) \\ &\, + (P(i) ^2, \text{ with i later replaced by x}) . \end{aligned}}}$$ 
+
 
 We want ${ P(i) ^2 }$ to be real. 
 
