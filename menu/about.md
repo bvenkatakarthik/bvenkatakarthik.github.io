@@ -20,9 +20,9 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 $${ \boxed{\large{\begin{aligned} &\, \underline{\textbf{“One should never try to prove}} \\ &\, \underline{\textbf{anything that is not almost obvious.”}} \\ &\, \textbf{- Grothendieck.} \end{aligned}}} }$$
 
-In general: 
+Speculation. In general: 
 
-$${ \boxed{\large \underline{\textbf{Obvious things first.}} } }$$ 
+$${ \boxed{\large {\begin{aligned} &\, \underline{\textbf{A Step-by-Step}}  \\ &\, \underline{\textbf{approach to life}} \\ &\, \underline{\textbf{is beneficial.}} \end{aligned}} } }$$  
 
 <div align="center">
     <img src="https://b.l3n.co/oKOJnH.jpg"> 
