@@ -26,6 +26,10 @@ $${ P(x) ^2 = (1 + x ^2) Q(x) + (ax + b) .  }$$
 
 Putting ${ x = i }$ we have 
 
+$${ P(i) ^2 = ai + b . }$$ 
+
+Hence 
+
 $${ {\begin{aligned} &\, P(x) ^2 \\ = &\, (1 + x ^2) Q(x) \\ &\, + (P(i) ^2, \text{ with i later replaced by x}) . \end{aligned}}}$$ 
 
 
