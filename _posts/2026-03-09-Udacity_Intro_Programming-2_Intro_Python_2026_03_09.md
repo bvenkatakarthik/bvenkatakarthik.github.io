@@ -28,3 +28,53 @@ We will now consider
 
 $${ \boxed{\textbf{Turtles and Code}} }$$ 
 
+[**Starting out**] 
+
+A program is a set of instructions for a computer. 
+
+**Eg**: Consider the following python program. 
+
+```
+import turtle
+fred = turtle.Turtle()
+fred.color("red")
+fred.forward(100)
+fred.right(135)
+fred.forward(140)
+fred.right(135)
+fred.forward(100)
+
+input("Press Enter to continue...") # Keeps the window open
+```
+
+Here fred.forward refers to moving, and fred.right refers to turning right. 
+
+Note that we get an output where a "turtle" draws a right angled triangle.
+
+[**Variables**]
+
+**Eg**: Consider the following python program. 
+
+```
+import turtle
+george = turtle.Turtle()
+george.color("yellow")
+for side in [1, 2, 3, 4]:
+    george.forward(100)
+    george.right(90)
+
+input("Press Enter to continue...")
+```
+
+Consider the line geroge = turtle.Turtle(). 
+
+The right hand side creates a new turtle (a data object placed in memory), and the left hand side says what the name will be. 
+
+A variable is a connection between a name in the code and some data in the computer's memory. 
+
+When we connect a name with some data in memory, we refer to this process as assignment. The = sign is called an assignment operator. 
+
+[**Modules and Methods**] 
+
+
+
