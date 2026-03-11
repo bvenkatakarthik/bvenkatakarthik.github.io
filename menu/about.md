@@ -24,7 +24,7 @@ $${ \boxed{\large{\begin{aligned} &\, \underline{\textbf{“One should never try
     <img src="https://b.l3n.co/oKOJnH.jpg"> 
 </div>
 
-$${ \boxed{\large\textbf{Q) What is the Purpose of The World?}} }$$
+**Q) What is the Purpose of The World?**
 
 
 
