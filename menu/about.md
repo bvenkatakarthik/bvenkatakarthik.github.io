@@ -30,7 +30,7 @@ $${ \large\boxed{\textbf{Obvious steps First.}} }$$
 
 **Q) What is the Purpose of The World?**
 
-$${ \large \boxed{\underline{\textbf{Know what you want.}}} }$$
+
 
 
 
