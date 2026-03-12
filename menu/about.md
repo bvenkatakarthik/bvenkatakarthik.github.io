@@ -30,6 +30,8 @@ $${ \large\boxed{ {\begin{aligned} &\, \textbf{Thinking in terms of} \\ &\,  \te
     <img src="https://b.l3n.co/oKOJnH.jpg"> 
 </div>
 
+Zoom the above pic for more information. 
+
 **Given the scale of The World, The Earth is almost non-existent !?**
 
 **Q) What is the Purpose of The World?**
