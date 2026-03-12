@@ -30,9 +30,7 @@ $${ \large\boxed{\textbf{Obvious steps First.}} }$$
 
 **Q) What is the Purpose of The World?**
 
-$${ \large\boxed{ {\begin{aligned} &\, \underline{\textbf{What I want to have}} \\ &\,  \underline{\textbf{is a close representation of}} \\ &\, \underline{\textbf{who I am.}} \end{aligned}} } }$$
-
-Who a person is changes with time. 
+$${ \large \boxed{\underline{\textbf{Know what you want.}}} }$$
 
 
 
