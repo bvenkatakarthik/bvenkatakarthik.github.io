@@ -242,6 +242,43 @@ Note that the output is a hexagonish flower.
     <img src="https://a.l3n.co/UlQZqZ.png" width="400" height="400"/> 
 </div>
 
+[**Colored stars**] 
+
+**Eg**: Consider the following code. 
+
+```
+import turtle
+
+rainbow = ["red", "orange", "yellow", "green", "blue", "purple"]
+
+# Write whatever code you want here!
+stars = turtle.Turtle()
+stars.width(5)
+stars.speed(0)
+for color in rainbow:
+    stars.color(color)
+    for side in [1, 2, 3, 4, 5]:
+        stars.forward(50)
+        stars.right(144)
+    stars.right(60)
+    stars.penup()
+    stars.forward(50)
+    stars.pendown()
+
+input("Press Enter to continue...")
+```
+
+Note that the output gives colored stars in a circle. 
+
+<div align="center">
+    <img src="https://c.l3n.co/Ulq1uC.png" width="400" height="400"/> 
+</div>
+
+
+
+
+
+
 
 
 
