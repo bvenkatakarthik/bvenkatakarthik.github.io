@@ -22,8 +22,6 @@ $${ \boxed{\large{\begin{aligned} &\, \textbf{“One should never try to prove} 
 
 In general: 
 
-$${ \large\boxed{\textbf{Obvious steps First.}} }$$ 
-
 $${ \large\boxed{ {\begin{aligned} &\, \textbf{Thinking in terms of} \\ &\,  \textbf{small steps can be beneficial.}  \end{aligned}} } }$$  
 
 <div align="center">
