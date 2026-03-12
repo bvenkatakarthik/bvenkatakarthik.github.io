@@ -275,6 +275,9 @@ Note that the output gives colored stars in a circle.
 </div>
 
 
+We will now consider 
+
+$${ \boxed{\textbf{Python Functions}} }$$ 
 
 
 
