@@ -178,6 +178,36 @@ input("Press Enter to continue...")
 
 Note that it outputs an upward arrow. 
 
+[**Loops within Loops**] 
+
+**Eg**: 
+
+```
+import turtle 
+
+paul = turtle.Turtle()
+paul.color("red")
+
+for side in [1, 2, 3, 4]:
+    paul.forward(100)
+    paul.right(90)
+    for side in [1, 2, 3, 4]:
+        paul.forward(10)
+        paul.right(90)
+
+input("Press Enter to continue...")
+```
+
+
+Note that the output is a square with smaller squares at the corners. 
+
+<div align="center">
+    <img src="https://a.l3n.co/UlJmr1.png" width="400" height="350"/> 
+</div>
+
+
+
+
 
 
 
