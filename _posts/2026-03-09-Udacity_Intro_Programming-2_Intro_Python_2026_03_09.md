@@ -205,6 +205,46 @@ Note that the output is a square with smaller squares at the corners.
     <img src="https://a.l3n.co/UlJmr1.png" width="400" height="350"/> 
 </div>
 
+**Eg**: 
+
+```
+import turtle
+
+links = [1, 2, 3, 4, 5, 6, 7, 8]
+sides = [1, 2, 3, 4, 5, 6]
+
+weaver = turtle.Turtle()
+weaver.width(5)
+weaver.color('orange')
+
+weaver.penup()
+weaver.back(80)
+weaver.pendown()
+
+for link in links:
+    for side in sides:
+        weaver.forward(50)
+        weaver.right(60)
+
+    weaver.penup()
+    weaver.forward(20)
+    weaver.left(60)
+    weaver.pendown()
+
+weaver.hideturtle()
+
+input("Press Enter to continue...")
+```
+
+Note that the output is a hexagonish flower. 
+
+<div align="center">
+    <img src="https://a.l3n.co/UlQZqZ.png" width="400" height="400"/> 
+</div>
+
+
+
+
 
 
 
