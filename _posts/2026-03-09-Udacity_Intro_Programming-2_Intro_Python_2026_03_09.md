@@ -132,6 +132,56 @@ for side in [1, 2, 3, 4]:
 
 [**Lists and Loops**] 
 
+In Python, a list of items is written with square brackets around it. 
+
+**Eg**: 
+
+```
+import turtle
+
+lengths = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+
+dizzy = turtle.Turtle()
+dizzy.color("blue")
+dizzy.width(5)
+
+for length in lengths:
+    dizzy.forward(length)
+    dizzy.right(90)
+```
+
+Note that the code creates a squarish spiral. 
+
+[**Up Arrow**] 
+
+**Eg**: Consider the python code below. 
+
+```
+import turtle
+
+builder = turtle.Turtle()
+builder.color("red")
+builder.width(5)
+
+angles = [-90, 0, 0, -90,
+          135, 0, 0, 0, 
+          90, 0, 0, 0,
+          135, -90, 0, 0,
+          90, 0, 0, 0]
+
+for angle in angles:
+    builder.right(angle)
+    builder.forward(25)
+
+input("Press Enter to continue...")
+```
+
+Note that it outputs an upward arrow. 
+
+
+
+
+
 
 
 
