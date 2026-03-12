@@ -18,11 +18,11 @@ I intend to use the blog as a digital notebook of sorts, and the posts will most
 
 Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com. 
 
-$${ \boxed{\large{\begin{aligned} &\, \underline{\textbf{“One should never try to prove}} \\ &\, \underline{\textbf{anything that is not almost obvious.”}} \\ &\, \textbf{- Grothendieck.} \end{aligned}}} }$$
+$${ \boxed{\large{\begin{aligned} &\, \textbf{“One should never try to prove} \\ &\, \textbf{anything that is not almost obvious.”} \\ &\, \textbf{- Grothendieck.} \end{aligned}}} }$$
 
 In general: 
 
-$${ \large\boxed{\underline{\textbf{Obvious steps First.}}} }$$   
+$${ \large\boxed{\textbf{Obvious steps First.}} }$$   
 
 <div align="center">
     <img src="https://b.l3n.co/oKOJnH.jpg"> 
