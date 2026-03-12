@@ -30,6 +30,8 @@ $${ \large\boxed{\textbf{Obvious steps First.}} }$$
 
 **Q) What is the Purpose of The World?**
 
+$${ \large\boxed{{\begin{aligned} &\, \textbf{What I want to have} \\ &\,  \textbf{is a close representation of} \\ &\, \textbf{who I am.} \end{aligned}}} }$$ 
+
 
 
 
