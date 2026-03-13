@@ -279,6 +279,74 @@ We will now consider
 
 $${ \boxed{\textbf{Python Functions}} }$$ 
 
+[**Statements**] 
+
+A statement is a piece of code that provides complete instructions for some action that Python will carry out. 
+
+Statements like 
+
+```
+pretty_color = "blue"
+mary = turtle.Turtle()
+```
+
+are assignment statements. 
+
+Statements like 
+
+```
+import turtle 
+import math 
+import random 
+```
+
+are import statements. 
+
+Statements like 
+
+```
+mary.forward(100) 
+mary.right(90) 
+mary.color("blue")
+```
+
+are call statements, since they are all calling another piece of code. 
+
+All the above statements are simple statements. 
+
+**Eg**: The statement 
+
+```
+for side in [1, 2, 3, 4, 5]: 
+    mary.forward(10) 
+    mary.right(72) 
+```
+
+is a compound statement. 
+
+So far we only saw for loop compound statements.
+
+Compound statements are used to control: 
+
+* **Whether** the code runs. 
+* **When** the code runs. 
+* **How many times** the code runs. 
+
+Control flow is the order in which statements are executed in a piece of code. 
+
+Compound statements alter control flow. 
+
+[**The range function**] 
+
+**Eg**: 
+
+```
+sides = range(512)
+```
+
+The above line creates the equivalent of the list ${ [0, \ldots, 511] . }$ 
+
+
 
 
 
