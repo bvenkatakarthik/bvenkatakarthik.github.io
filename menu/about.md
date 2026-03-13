@@ -32,7 +32,7 @@ Zoom the above pic for more information.
 
 **Given the scale of The World, The Earth is almost non-existent !?**
 
-Humans having great intellectual capabilities is also considered an accident in evolution.  
+Humans having good intellectual capabilities is also considered an accident in evolution.  
 
 **Q) What is the Purpose of The World?**
 
