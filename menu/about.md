@@ -32,6 +32,8 @@ Zoom the above pic for more information.
 
 **Given the scale of The World, The Earth is almost non-existent !?**
 
+Our own intellectual capabilities is also considered an accident in evolution. 
+
 **Q) What is the Purpose of The World?**
 
 
