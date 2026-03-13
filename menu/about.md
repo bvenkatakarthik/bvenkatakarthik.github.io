@@ -22,7 +22,7 @@ $${ \boxed{\large{\begin{aligned} &\, \textbf{“One should never try to prove} 
 
 In general: 
 
-$${ \large\boxed{ {\begin{aligned} &\, \underline{\textbf{Thinking in terms of}} \\ &\,  \underline{\textbf{small doable goals}} \\ &\, \underline{\textbf{can be beneficial.}}  \end{aligned}} } }$$  
+$${ \large\boxed{ {\begin{aligned} &\, \underline{\textbf{Thinking in terms of}} \\ &\,  \underline{\textbf{small easy goals}} \\ &\, \underline{\textbf{can be beneficial.}}  \end{aligned}} } }$$  
 
 <div align="center">
     <img src="https://b.l3n.co/oKOJnH.jpg"> 
