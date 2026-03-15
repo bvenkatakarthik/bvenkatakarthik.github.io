@@ -6,7 +6,7 @@ permalink: /about
 
 Hi I am Karthik, a Math enthusiast from India. 
 
-**I seek Happiness and Knowledge.**
+$${ \large \boxed{\textbf{I seek Happiness and Knowledge.}} }$$
 
 I am curious about the Nature and Purpose of The World. 
 
@@ -31,9 +31,9 @@ $${ \large\boxed{ {\begin{aligned} &\, \textbf{Thinking of life} \\ &\, \textbf{
 
 Zoom the above pic for more information. 
 
-**Given the scale of The World, The Earth is almost non-existent !?**  
+Given the scale of The World, The Earth is almost non-existent !?  
 
-**Q) What is the Purpose of The World?**
+Q) What is the Purpose of The World?
 
 
 
