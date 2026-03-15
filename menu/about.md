@@ -22,7 +22,7 @@ $${ \boxed{\large{\begin{aligned} &\, \textbf{“One should never try to prove} 
 
 In general: 
 
-$${ \large\boxed{ {\begin{aligned} &\, \underline{\textbf{Thinking of life}} \\ &\, \underline{\textbf{in terms of}} \\ &\,  \underline{\textbf{small steps}} \\ &\, \underline{\textbf{can be beneficial.}}  \end{aligned}} } }$$ 
+$${ \large\boxed{ {\begin{aligned} &\, \textbf{Thinking of life} \\ &\, \textbf{in terms of} \\ &\,  \underline{\textbf{small steps}} \\ &\, \textbf{can be beneficial.}  \end{aligned}} } }$$
  
 
 <div align="center">
