@@ -8,7 +8,7 @@ Hi I am Karthik, a Math enthusiast from India.
 
 $${ \large \boxed{\textbf{I seek Happiness and Knowledge.}} }$$
 
-$${ \large \boxed{\textbf{Thinking in steps.}}  }$$
+$${ \large \boxed{\textbf{Thinking in simple steps.}}  }$$
 
 **I am curious about the Nature and Purpose of The World.** 
 
