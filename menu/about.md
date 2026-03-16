@@ -10,7 +10,7 @@ $${ \large \boxed{\textbf{I seek Happiness and Knowledge.}} }$$
 
 **Note that Imagination is one of the best sources of Happiness.**
 
-**Note that thinking in terms of simple steps is one of the best strategies of developing Knowledge.**
+**Note that thinking in simple steps is one of the best strategies of developing Knowledge.**
 
 I am curious about the Nature and Purpose of The World. 
 
