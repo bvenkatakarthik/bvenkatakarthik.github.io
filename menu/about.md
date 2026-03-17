@@ -8,10 +8,7 @@ Hi I am Karthik, a Math enthusiast from India.
 
 $${ \large \boxed{\textbf{I seek Happiness and Knowledge.}} }$$
 
-$${ \large \boxed{\begin{aligned} & \textbf{Imagination is one of the best} \\ & \textbf{sources of Happiness!!} \end{aligned}} }$$
-
-$${ \large \boxed{\textbf{Thinking in simple steps.}} }$$
-
+$${ \large \boxed{\begin{aligned} & \textbf{Mental Reactions} \\ & \textbf{influence the Mind.} \end{aligned}} }$$
 
 I am curious about the Nature and Purpose of The World.
 
