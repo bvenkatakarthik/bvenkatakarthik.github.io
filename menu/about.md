@@ -8,7 +8,8 @@ Hi I am Karthik, a Math enthusiast from India.
 
 $${ \large \boxed{\textbf{I seek Happiness and Knowledge.}} }$$
 
-$${ \large \boxed{\begin{aligned} & \textbf{Imagination is one of the best} \\ & \textbf{sources of Happiness.} \end{aligned}} }$$
+$${ \large \boxed{\begin{aligned} & \textbf{Logic will get you from A to Z,} \\ & \textbf{Imagination will get you everywhere.} \\ & \textbf{- Einstein.} \end{aligned}} }$$
+
 
 I am curious about the Nature and Purpose of The World.
 
