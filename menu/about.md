@@ -33,7 +33,7 @@ Given the scale of The World, The Earth is almost non-existent !?
 
 Q) What is the Purpose of The World?
 
-Curious about Value Creation and Money. 
+I am curious about Value Creation and Money. 
 
 
 
