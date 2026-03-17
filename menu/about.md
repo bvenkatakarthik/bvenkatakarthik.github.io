@@ -10,7 +10,7 @@ $${ \large \boxed{\textbf{I seek Happiness and Knowledge.}} }$$
 
 $${ \large \boxed{\begin{aligned} & \textbf{Imagination is one of the best} \\ & \textbf{sources of Happiness!!} \end{aligned}} }$$
 
-$${ \large \boxed{\begin{aligned} & \textbf{Thinking in steps} \\ & \textbf{may lead to knowledge.} \end{aligned}} }$$
+$${ \large \boxed{\textbf{Thinking in steps.}} }$$
 
 
 I am curious about the Nature and Purpose of The World.
