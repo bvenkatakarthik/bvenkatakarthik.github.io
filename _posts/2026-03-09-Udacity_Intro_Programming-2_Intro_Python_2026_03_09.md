@@ -346,6 +346,77 @@ sides = range(512)
 
 The above line creates the equivalent of the list ${ [0, \ldots, 511] . }$ 
 
+[**Crunching numbers**] 
+
++, -, \*, /. 
+
+An expression is a piece of code that resolves to some value. 
+
+**Eg**: Code for drawing a regular polygon. 
+
+```
+import turtle
+
+sides = 100
+length = 10
+t = turtle.Turtle()
+t.color("orange")
+for side in range(sides):
+    t.forward(length)
+    t.right(360 / sides)
+```
+
+[**Functions**] 
+
+Statement like range(100) is a function call. Here we are passing the input 100. We get the output which is an equivalent of the list ${ [0, 1, \ldots, 99] . }$ 
+
+A call statement is a statement that, when it is run, executes a block of code.
+
+Statement like mary.forward(100) is a method call. A method is a function associated with an object (such as the turtle mary). 
+
+**Eg**: Function defining a spiral. 
+
+```
+import turtle
+
+def spiral():
+    t = turtle.Turtle()
+    t.color("cyan")
+    for n in range(100):
+        t.forward(n)
+        t.right(20)
+
+spiral()
+
+```
+
+
+**Eg**: Spiral function with arguments. 
+
+```
+import turtle
+
+def spiral(sides, turn, color, width):
+    t = turtle.Turtle()
+    t.color(color)
+    t.width(width)
+    for n in range(sides):
+        t.forward(n)
+        t.right(turn)
+    input("Press Enter to continue...")
+
+spiral(50, 45, "cyan", 5)
+
+```
+
+Note that the output is an octagonish spiral. 
+
+<div align="center">
+    <img src="https://b.l3n.co/Uoqxmz.png" width="400" height="400"/> 
+</div>
+
+
+
 
 
 
