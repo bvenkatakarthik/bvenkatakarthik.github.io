@@ -568,7 +568,7 @@ input("Press Enter to continue...")
 
 ```
 
-Note that the output is 
+Note that the output is three balloons. 
 
 <div align="center">
     <img src="https://b.l3n.co/Uo3rAz.png" width="400" height="300"/> 
