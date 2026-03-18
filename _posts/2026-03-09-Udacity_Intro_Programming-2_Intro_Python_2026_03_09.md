@@ -471,6 +471,44 @@ Note that the output is a spiral of many squares.
     <img src="https://a.l3n.co/UoBD3q.png" width="400" height="400"/> 
 </div>
 
+[**Example function**] 
+
+**Eg**: Consider the code below. 
+
+```
+import turtle
+
+# Write a function here that creates a
+# turtle and draws a shape with it.
+def triangle_boogie(color, start):
+  t = turtle.Turtle()
+  t.color(color)
+  t.speed(0)
+  t.width(5)
+  t.right(start)
+  for shape in range(6):
+    for side in range(3):
+      t.forward(100)
+      t.right(120)
+    t.right(15)
+  t.hideturtle()
+
+# Call the function multiple times.
+triangle_boogie("green", 0)
+triangle_boogie("orange", 120)
+triangle_boogie("blue", 240)
+
+input("Press Enter to continue...") 
+
+```
+
+Note that the output is 
+
+<div align="center">
+    <img src="https://b.l3n.co/UomELb.png" width="400" height="400"/> 
+</div>
+
+
 
 
 
