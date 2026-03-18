@@ -516,6 +516,67 @@ A variable that is defined inside a function can only be used inside of that fun
 
 In contrast, a variable that is defined outside of a function can be used anywhere in the file. We would say a variable like this has global scope or is a global variable. 
 
+[**Balloons**] 
+
+**Eg**: Consider the following code. 
+
+```
+import turtle
+
+def balloon(t, color):
+    t.speed(0)
+    t.color(color)
+
+    # Draw balloon body.
+    for side in range(30):
+        t.forward(10)
+        t.left(12)
+
+    # Draw balloon knot.
+    t.right(60)
+    for side in range(3):
+      t.forward(10)
+      t.right(120)
+    
+    # Draw balloon string.
+    t.color("gray")
+    t.right(30)
+    t.forward(100)
+
+
+t = turtle.Turtle()
+
+t.penup()
+t.back(100)
+t.pendown()
+balloon(t, "red")
+
+t.penup()
+t.home()
+t.pendown()
+balloon(t, "blue")
+
+t.penup()
+t.home()
+t.forward(100)
+t.pendown()
+balloon(t, "purple")
+
+t.hideturtle()
+
+input("Press Enter to continue...")
+
+```
+
+Note that the output is 
+
+<div align="center">
+    <img src="https://b.l3n.co/Uo3rAz.png" width="400" height="300"/> 
+</div>
+
+
+
+
 
 
 
