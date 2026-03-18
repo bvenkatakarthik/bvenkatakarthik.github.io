@@ -8,8 +8,6 @@ Hi I am Karthik, a Math enthusiast from India.
 
 $${ \large \boxed{\textbf{I seek Happiness and Knowledge.}} }$$
 
-$${ \large \boxed{\begin{aligned} & \textbf{Mental Reactions} \\ & \textbf{influence the Mind.} \end{aligned}} }$$
-
 I am curious about the Nature and Purpose of The World.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
