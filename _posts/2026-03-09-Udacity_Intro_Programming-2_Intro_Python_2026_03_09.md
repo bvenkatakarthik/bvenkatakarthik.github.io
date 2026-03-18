@@ -508,6 +508,13 @@ Note that the output is
     <img src="https://b.l3n.co/UomELb.png" width="400" height="400"/> 
 </div>
 
+[**Variable Scope**] 
+
+The scope of a variable is simply the part of the code for which that variable is defined. 
+
+A variable that is defined inside a function can only be used inside of that function. We would say a variable like this has local scope or is a local variable. 
+
+In contrast, a variable that is defined outside of a function can be used anywhere in the file. We would say a variable like this has global scope or is a global variable. 
 
 
 
