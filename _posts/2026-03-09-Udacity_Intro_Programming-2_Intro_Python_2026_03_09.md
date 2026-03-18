@@ -415,6 +415,63 @@ Note that the output is an octagonish spiral.
     <img src="https://b.l3n.co/Uoqxmz.png" width="400" height="400"/> 
 </div>
 
+[**draw_square**] 
+
+**Eg**: Consider the following code. 
+
+```
+import turtle
+jack = turtle.Turtle()
+jack.color("blue")
+
+def draw_square():
+    for side in range(4):
+        jack.forward(100)
+        jack.right(90)
+
+draw_square()
+jack.forward(100)
+draw_square()
+jack.forward(100)
+draw_square()
+
+input("Press Enter to continue...")
+
+```
+
+
+Note that the output is a row of three squares. 
+
+**Eg**: Consider the following code. 
+
+```
+import turtle
+jack = turtle.Turtle()
+jack.color("blue")
+jack.speed(0)
+
+def draw_square():
+    for side in range(4):
+        jack.forward(100)
+        jack.right(90)
+
+for square in range(80):
+    draw_square()
+    jack.forward(5)
+    jack.left(5)
+
+jack.hideturtle()
+
+input("Press Enter to continue...") 
+```
+
+Note that the output is a spiral of many squares. 
+
+<div align="center">
+    <img src="https://a.l3n.co/UoBD3q.png" width="400" height="400"/> 
+</div>
+
+
 
 
 
