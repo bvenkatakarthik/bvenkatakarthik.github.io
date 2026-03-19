@@ -8,6 +8,8 @@ Hi I am Karthik, a Math enthusiast from India.
 
 **"Logic will get you from A to Z, Imagination will get you everywhere." - Einstein.**
 
+**Imagination can be used as a stable source of happiness.**
+
 I seek Happiness and Knowledge. 
 
 I am curious about the Nature and Purpose of The World.
