@@ -6,6 +6,8 @@ permalink: /about
 
 Hi I am Karthik, a Math enthusiast from India. 
 
+I am a BMath (2018 - 2021) graduate from Indian Statistical Institute, Bengaluru. (Honestly, please reconsider if you're applying to this place. You will be expected to pass hard exams, and the campus resources are bad). 
+
 **"Logic will get you from A to Z, Imagination will get you everywhere." - Einstein.**
 
 **Imagination can be used as a stable source of happiness.**
