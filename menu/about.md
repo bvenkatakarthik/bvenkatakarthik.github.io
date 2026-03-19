@@ -30,7 +30,7 @@ Q) What is the Purpose of The World?
 
 I am curious about Value Creation and Money. 
 
-Life Experience: **Neurons that fire together wire together. We experience life by forming associations.** 
+**Neurons that fire together wire together. We experience life by forming associations.** 
 
 
 
