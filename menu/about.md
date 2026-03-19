@@ -6,9 +6,7 @@ permalink: /about
 
 Hi I am Karthik, a Math enthusiast from India. 
 
-$${ \large \boxed{\textbf{I seek Happiness and Knowledge.}} }$$
-
-$${ \large \boxed{\textbf{Thinking in simple steps.}} }$$ 
+$${ \large \boxed{\textbf{I seek Happiness and Knowledge.}} }$$ 
 
 I am curious about the Nature and Purpose of The World.
 
