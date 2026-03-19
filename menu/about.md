@@ -30,11 +30,7 @@ Q) What is the Purpose of The World?
 
 I am curious about Value Creation and Money. 
 
-**Neurons that fire together wire together. We experience life by forming associations.**
 
-Speculation: 
-
-**Thinking of life in terms of Action-Reward cycles can be beneficial.** 
 
 
 
