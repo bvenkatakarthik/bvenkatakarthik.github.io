@@ -4,15 +4,15 @@ title: About
 permalink: /about
 ---
 
-Hi I am Karthik, a Math enthusiast from India. 
+Hi I am Karthik, a Math enthusiast from India.
+
+I seek Happiness and Knowledge.
 
 I am a BMath (2018 - 2021) graduate from Indian Statistical Institute, Bengaluru. (Honestly, please reconsider if you're applying to this place. You will be expected to pass hard exams, and the campus resources are bad). 
 
 **"Logic will get you from A to Z, Imagination will get you everywhere." - Einstein.**
 
-**Imagination can be used as a stable source of happiness.**
-
-I seek Happiness and Knowledge. 
+**Imagination can be used as a stable source of Happiness.**
 
 I am curious about the Nature and Purpose of The World.
 
