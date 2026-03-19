@@ -8,7 +8,7 @@ Hi I am Karthik, a Math enthusiast from India.
 
 I seek Happiness and Knowledge.
 
-[Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
+**[Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".**
 
 **"Logic will get you from A to Z, Imagination will get you everywhere." - Einstein.**
 
