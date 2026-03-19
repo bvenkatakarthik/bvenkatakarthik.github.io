@@ -32,9 +32,7 @@ I am curious about Value Creation and Money.
 
 **Neurons that fire together wire together. We experience life by forming associations.**
 
-Speculation: 
 
-**Forming own associations (eg lucky objects) can be beneficial.**  
 
 
 
