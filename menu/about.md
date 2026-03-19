@@ -8,7 +8,7 @@ Hi I am Karthik, a Math enthusiast from India.
 
 I seek Happiness and Knowledge.
 
-I am a BMath (2018 - 2021) graduate from Indian Statistical Institute, Bengaluru. (Honestly, please reconsider if you're applying to this place. The campus resources are bad, and you will be expected to pass hard exams. In general, IMHO Academia has very absurd unclear incentives, so be careful). 
+I am a BMath (2018 - 2021) graduate from Indian Statistical Institute, Bengaluru. (Honestly, please reconsider if you're applying to this place. The campus resources are bad, and you will be expected to pass hard exams. In general, IMHO Academia has very absurd unclear incentives, so be aware of this). 
 
 **"Logic will get you from A to Z, Imagination will get you everywhere." - Einstein.**
 
