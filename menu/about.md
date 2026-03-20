@@ -12,8 +12,6 @@ I seek Happiness and Knowledge.
 
 **"Logic will get you from A to Z, Imagination will get you everywhere." - Einstein.**
 
-**Imagination can be used as a stable source of Happiness.**
-
 I am curious about the Nature and Purpose of The World.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
