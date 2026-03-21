@@ -10,7 +10,7 @@ I seek Happiness and Knowledge.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
-$${   \boxed{\large{\begin{aligned} &\, \textbf{"Logic will get you from A to Z, } \\ &\, \color{goldenrod}{\textbf{Imagination will get you everywhere."}} \\ &\, \textbf{- Einstein.} \end{aligned}}}  }$$
+$${   \boxed{\large{\begin{aligned} &\, \textbf{“Logic will get you from A to Z, } \\ &\, \color{goldenrod}{\textbf{Imagination will get you everywhere."}} \\ &\, \textbf{- Einstein.} \end{aligned}}}  }$$
 
 I am curious about the Nature and Purpose of The World.
 
