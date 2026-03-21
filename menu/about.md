@@ -32,7 +32,7 @@ Zoom the above pic for more information.
 
 Arguably the most important question one can ask: 
 
-**Q) What is the Purpose of The World?** 
+Q) What is the Purpose of The World?
 
 I am curious about Value Creation and Money. 
 
