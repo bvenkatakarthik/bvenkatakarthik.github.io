@@ -574,6 +574,63 @@ Note that the output is three balloons.
     <img src="https://b.l3n.co/Uo3rAz.png" width="400" height="300"/> 
 </div>
 
+[**If this equals that**] 
+
+A conditional statement is one that tells Python to run some code only when a certain condition is true. 
+
+**Eg**: 
+
+```
+if sides == 4: 
+    bob.color("purple")
+```
+
+The == sign is called the equality operator. It compares two things to see if they are equal. 
+
+[**Two color heart**] 
+
+**Eg**: Consider the code below. 
+
+```
+import turtle
+
+romeo = turtle.Turtle()
+juliet = turtle.Turtle()
+
+juliet.color("blue")
+juliet.width(3)
+
+romeo.color("red")
+romeo.width(3)
+
+romeo.left(40)
+romeo.forward(100)
+for side in range(185):
+    romeo.forward(1)
+    romeo.left(1)
+romeo.hideturtle()
+
+
+juliet.left(140)
+juliet.forward(100)
+for side in range(185):
+    juliet.forward(1)
+    juliet.right(1)
+juliet.hideturtle()
+
+
+input("Press Enter to continue...")
+
+```
+
+Note that the output is a two colored heart. 
+
+<div align="center">
+    <img src="https://a.l3n.co/UNh4X0.png" width="400" height="400"/> 
+</div>
+
+
+
 
 
 
