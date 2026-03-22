@@ -705,6 +705,67 @@ Note that the output is ten beads alternating between red and blue.
     <img src="https://a.l3n.co/UPuuGM.png" width="400" height="75"/> 
 </div>
 
+**Eg**: Consider the code below. 
+
+```
+import turtle
+t = turtle.Turtle()
+t.width(5)
+t.color("blue")
+
+for step in range(21):
+  t.forward(20)
+
+  # Alternate turning left and right.
+  if step % 2 == 0:
+    t.left(90)
+  else:
+    t.right(90)
+
+t.hideturtle()
+
+input("Press Enter to continue...")
+```
+
+Note that the output is a staircase. 
+
+<div align="center">
+    <img src="https://b.l3n.co/UfjOm2.png" width="400" height="300"/> 
+</div>
+
+**Eg**: Consider the code below. 
+
+```
+import turtle
+
+t = turtle.Turtle()
+t.width(5)
+
+for n in range(12):
+    t.color("gray")
+    if n % 3 == 0:
+        t.color("red")
+    if n % 3 == 1:
+        t.color("orange")
+    if n % 3 == 2:
+        t.color("yellow")
+    t.forward(50)
+    t.right(360/12)
+
+t.hideturtle() 
+
+input("Press Enter to continue...")
+
+```
+
+Note that the output is a 12 sided polygon with periodically colored sides. 
+
+<div align="center">
+    <img src="https://d.l3n.co/UfjHov.png" width="400" height="425"/> 
+</div>
+
+
+
 
 
 
