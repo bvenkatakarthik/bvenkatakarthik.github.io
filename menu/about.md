@@ -12,6 +12,8 @@ I seek Happiness and Knowledge.
 
 $${   \color{goldenrod}{ \boxed{\large{\begin{aligned} &\, \textbf{“Logic will get you from A to Z, } \\ &\, \textbf{Imagination will get you everywhere."} \\ &\, \textbf{- Einstein.} \end{aligned}}} } }$$
 
+$${   \color{goldenrod}{ \large \boxed{\textbf{Thinking in simple steps.}} }   }$$
+
 I am curious about the Nature and Purpose of The World.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
