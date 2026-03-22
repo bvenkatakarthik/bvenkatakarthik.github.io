@@ -764,6 +764,124 @@ Note that the output is a 12 sided polygon with periodically colored sides.
     <img src="https://d.l3n.co/UfjHov.png" width="400" height="425"/> 
 </div>
 
+[**Returning a value**] 
+
+**Eg**: Consider the function 
+
+```
+def simple_function(): 
+    return 10 
+
+distance = simple_function() 
+
+```
+
+
+When we say "a function returns the number 10" what we mean is: This code works the same as if the function call (here, simple_function()) were replaced by the number 10. 
+
+In other words 
+
+```
+distance = simple_function() 
+```
+
+is equivalent to 
+
+```
+distance = 10 
+```
+
+So a return statement takes a value and returns it back to the place from which the function was called. 
+
+**Eg**: Consider the code below. 
+
+```
+import turtle
+t = turtle.Turtle()
+t.color("black")
+t.width(1)
+t.speed(0)
+t.hideturtle()
+
+def square(number):
+    return number * number
+
+for n in range(540):
+    angle = square(n)
+    t.right(angle + .5)
+    t.forward(5)
+
+t.hideturtle() 
+
+input("Press Enter to continue...")
+```
+
+Note that the output is this strange curve. 
+
+<div align="center">
+    <img src="https://d.l3n.co/UfI4j9.png" width="400" height="425"/> 
+</div>
+
+**Eg**: The code below creates a big green turtle. 
+
+```
+import turtle
+
+def super_reptile():
+    t = turtle.Turtle()
+    t.width(10)
+    t.color("green")
+    return t
+
+clark = super_reptile()
+clark.forward(100)
+clark.left(45)
+clark.forward(100)
+```
+
+**Eg**: Consider the code below. 
+
+```
+import turtle
+
+def bead_color(num):
+    if num % 3 == 0:
+        return "red"
+    if num % 3 == 1:
+        return "green"
+    if num % 3 == 2:
+        return "blue"
+
+def bead(tur):
+    tur.right(75)
+    for _ in range(12):
+        tur.forward(10)
+        tur.left(30)
+    tur.left(75)
+
+t = turtle.Turtle()
+t.speed(0)
+t.width(2)
+
+# Move to the left before starting.
+t.penup()
+t.back(200)
+t.pendown()
+
+# Draw ten beads.
+for n in range(10):
+    t.color(bead_color(n))
+    bead(t)
+    t.forward(40)
+
+t.hideturtle() 
+
+input("Press Enter to continue...")
+
+```
+
+Note that the output is a line of rgb beads. 
+
 
 
 
