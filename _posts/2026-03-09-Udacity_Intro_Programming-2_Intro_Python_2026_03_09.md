@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 12/3/26
+**Updated:** 22/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -628,6 +628,85 @@ Note that the output is a two colored heart.
 <div align="center">
     <img src="https://a.l3n.co/UNh4X0.png" width="400" height="400"/> 
 </div>
+
+[**if else**] 
+
+**Eg**: Consider the code below. 
+
+```
+import turtle
+jack = turtle.Turtle()
+jack.width(5)
+
+for side in range(4):
+    if side == 1:
+        jack.color("blue")
+    else:
+        jack.color("red")
+    jack.forward(100)
+    jack.right(90)
+
+jack.hideturtle()
+
+input("Press Enter to continue...")
+
+```
+
+Note that the output is a square with one side blue and three sides red. 
+
+[**Modulo**] 
+
+% 
+
+**Eg**: 13 % 5 is the remainder on division, hence 13 % 5 = 3. 
+
+**Eg**: Consider the list ${ [0, 1, 2, 3, \ldots, 9] . }$ Note that the values mod 2 are ${ [0, 1, 0, 1, \ldots, 1] . }$ 
+
+**Eg**: Consider the code below. 
+
+```
+import turtle
+
+def bead(tur):
+    tur.right(75)
+    for _ in range(12):
+        tur.forward(10)
+        tur.left(30)
+    tur.left(75)
+
+t = turtle.Turtle()
+t.speed(0)
+t.width(2)
+
+# Move to the left before starting.
+t.penup()
+t.back(200)
+t.pendown()
+
+# Draw ten beads.
+for n in range(10):
+    if n % 2 == 0:
+        t.color("red")
+    else:
+        t.color("blue")
+    bead(t)
+    t.forward(40)
+
+
+t.hideturtle()
+
+
+input("Press Enter to continue...")
+```
+
+Note that the output is ten beads alternating between red and blue. 
+
+<div align="center">
+    <img src="https://a.l3n.co/UPuuGM.png" width="400" height="75"/> 
+</div>
+
+
+
 
 
 
