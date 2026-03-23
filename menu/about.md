@@ -12,6 +12,8 @@ I seek Happiness and Knowledge.
 
 $${   \color{goldenrod}{ \boxed{\large{\begin{aligned} &\, \textbf{“ACTION is the foundational key} \\ &\, \textbf{to all success."} \\ &\, \textbf{- Picasso.} \end{aligned}}} } }$$
 
+$${   \color{goldenrod}{ \boxed{\large \textbf{GOALS and ACTIONS.} } } }$$
+
 I am curious about the Nature and Purpose of The World.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
