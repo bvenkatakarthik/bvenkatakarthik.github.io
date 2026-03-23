@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 22/3/26
+**Updated:** 23/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -881,6 +881,108 @@ input("Press Enter to continue...")
 ```
 
 Note that the output is a line of rgb beads. 
+
+[**Passing arguments in loops**] 
+
+When we call a function from inside a loop, we can use the loop variable as input for that function. This allows us to call the same function repeatedly, but pass it a different input each time.
+
+**Eg**: Consider the code below. 
+
+```
+
+import turtle
+
+def star(color, sides, length, angle, distance):
+    galileo = turtle.Turtle()
+    galileo.color(color)  # colorful!
+    galileo.width(5)  # visible!
+    galileo.speed(0)  # fast!
+    galileo.penup()
+    galileo.left(angle)  # away from center
+    galileo.forward(distance)
+    galileo.pendown()  # start drawing
+    for side in range(sides):
+        galileo.forward(length)
+        galileo.left(720 / sides)
+    galileo.hideturtle()  # just the star
+    
+for angle in [180, 135, 90, 45, 0]:
+    star("red", 5, 50, angle, 100)
+         
+for angle in [180, 135, 90, 45, 0]:
+    star("blue", 5, 30, angle, 60)
+
+input("Press Enter to continue...")
+
+```
+
+Note that the output is many stars. 
+
+<div align="center">
+    <img src="https://a.l3n.co/UF0MS5.png" width="400" height="300"/> 
+</div>
+
+**Eg**: Consider the code below. 
+
+```
+import turtle
+
+def star(color, sides, length, angle, distance):
+    galileo = turtle.Turtle()
+    galileo.color(color)  # colorful!
+    galileo.width(5)  # visible!
+    galileo.speed(0)  # fast!
+    galileo.penup()
+    galileo.left(angle)  # away from center
+    galileo.forward(distance)
+    galileo.pendown()  # start drawing
+    for side in range(sides):
+        galileo.forward(length)
+        galileo.left(720 / sides)
+    galileo.hideturtle()  # just the star
+
+for angle in [315, 270, 225, 180, 135, 90, 45, 0]:
+    star("violet", 5, 50, angle, 100)
+
+for angle in [315, 270, 225, 180, 135, 90, 45, 0]:
+    star("black", 5, 30, angle, 60)
+
+input("Press Enter to continue...")
+
+```
+
+Note that the output is circles of stars. 
+
+<div align="center">
+    <img src="https://a.l3n.co/UFIi8H.png" width="400" height="420"/> 
+</div>
+
+**Eg**: Consider the code below. 
+
+```
+import turtle
+
+def polygon(sides, length):
+  t = turtle.Turtle()
+  t.color("green")
+  t.speed(0)
+  angle = 360 / sides
+  for side in range(sides):
+    t.forward(length)
+    t.right(angle)
+  t.hideturtle()
+
+for n in [3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]:
+    polygon(n, 35)
+
+input("Press Enter to continue...")
+```
+
+Note that the output is a pic of polygons, from 3 sided polygon to 14 sided polygon. 
+
+<div align="center">
+    <img src="https://c.l3n.co/UFIjQ1.png" width="400" height="350"/> 
+</div>
 
 
 
