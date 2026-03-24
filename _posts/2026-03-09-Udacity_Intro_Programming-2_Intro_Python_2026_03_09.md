@@ -1173,6 +1173,37 @@ Note that the output is a thermometer.
 </div>
 
 
+[**if and elif**] 
+
+**Eg**: Consider the code below. 
+
+```
+
+mood = "happy"
+
+import turtle
+riley = turtle.Turtle()
+riley.width(5)
+
+if mood == "happy":
+    riley.color("yellow")
+elif mood == "sad":
+    riley.color("blue")
+else:
+    riley.color("gray")
+
+for side in range(5):
+    riley.forward(100)
+    riley.right(144)
+
+
+
+```
+
+Note that depending on what we set the mood to be, the turtle draws stars of different colors. 
+
+
+
 
 
 
