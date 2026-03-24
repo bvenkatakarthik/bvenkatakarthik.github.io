@@ -1055,6 +1055,66 @@ Note that the output is as below. Note that the red beads stand for fizz and gre
 </div>
 
 
+[**The random module**] 
+
+So far we looked at deterministic programs. 
+
+A deterministic program is a program that always produces the same output for a given input. 
+
+Randomness can be useful in many situations. 
+
+Python has a module called random. 
+
+**Eg**: random.randint().
+
+```
+import random 
+
+def die_roll(): 
+    return random.randint(1, 6)
+
+```
+
+**Eg**: random.choice(). 
+
+```
+colors = ["red", "green", "blue"] 
+
+c = random.choice(colors)
+
+```
+
+**Eg**: Consider the code below. 
+
+```
+import turtle
+import random
+
+
+colors = ["red", "orange", "yellow", "green", "blue", "purple"]
+
+t = turtle.Turtle()
+t.width(20)
+
+for step in range(100):
+    # Change this to use a random number.
+    angle = random.randint(-90,90)
+
+    # Change this to use a random color.
+    color = random.choice(colors)
+
+    t.color(color)
+    t.right(angle)
+    t.forward(10)
+
+input("Press Enter to continue...")
+```
+
+Note that it produces a random pattern like this. 
+
+<div align="center">
+    <img src="https://b.l3n.co/UUsgPi.png" width="400" height="350"/> 
+</div>
 
 
 
