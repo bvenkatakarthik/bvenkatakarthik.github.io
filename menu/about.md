@@ -14,6 +14,8 @@ $${   \color{goldenrod}{ \boxed{\large{\begin{aligned} &\, \textbf{“ACTION is 
 
 $${   \color{goldenrod}{ \boxed{\large{\begin{aligned} & \boxed{\textbf{ACTIONS}} \rightleftarrows \boxed{\textbf{REWARDS}}  \end{aligned}}} } }$$
 
+Actions partially determine Rewards. Rewards partially determine Actions. 
+
 
 I am curious about the Nature and Purpose of The World.
 
