@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 23/3/26
+**Updated:** 24/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -984,6 +984,75 @@ Note that the output is a pic of polygons, from 3 sided polygon to 14 sided poly
     <img src="https://c.l3n.co/UFIjQ1.png" width="400" height="350"/> 
 </div>
 
+[**Fizz Buzz, turtle style**] 
+
+Consider counting from 0. Except that when a number is divisible by 3 (and not 5) we say fizz, and when a number is divisible by 5 (and not 3) we say buzz, and when a number is divisible by both 3 and 5 we say fizz buzz. 
+
+**Eg**: Consider the code below. 
+
+```
+import turtle
+
+def fizz(tur):
+    # A red square bead.
+    tur.color("red")
+    tur.left(90)
+    for side in [10, 20, 20, 20, 10]:
+        tur.forward(side)
+        tur.right(90)
+
+def buzz(tur):
+    # A green hexagonal bead.
+    # Fits inside the red bead.
+    tur.color("green")
+    tur.left(60)
+    for side in range(6):
+        tur.forward(10)
+        tur.right(60)
+    tur.right(60)
+
+def plain(tur):
+    # A gray octagonal bead.
+    tur.color("gray")
+    tur.left(90)
+    for side in [4, 8, 8, 8, 8, 8, 8, 8, 4]:
+        tur.forward(side)
+        tur.right(45)
+    tur.right(45)
+
+# Set up the turtle to draw beads.
+t = turtle.Turtle()
+t.speed(0)
+t.width(2)
+t.penup()
+t.back(180)  # Back up to make room!
+t.pendown()
+
+for num in range(16):
+    if num % 3 == 0:
+        fizz(t)
+        if num % 5 == 0:
+            buzz(t)
+    else:
+        if num % 5 == 0:
+            buzz(t)
+        else:
+            plain(t)
+        
+    # Advance to the next bead spot.
+    t.color("gray")
+    t.forward(22)
+t.hideturtle()
+
+input("Press Enter to continue...")
+```
+
+
+Note that the output is as below. Note that the red beads stand for fizz and green beads stand for buzz. 
+
+<div align="center">
+    <img src="https://c.l3n.co/UUgiO5.png"/> 
+</div>
 
 
 
