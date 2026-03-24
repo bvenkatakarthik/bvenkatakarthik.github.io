@@ -12,7 +12,6 @@ I seek Happiness and Knowledge.
 
 $${   \color{goldenrod}{ \boxed{\large{\begin{aligned} &\, \textbf{“ACTION is the foundational key} \\ &\, \textbf{to all success."} \\ &\, \textbf{- Picasso.} \end{aligned}}} } }$$
 
-$${ \color{goldenrod}{  \boxed{   \large \textbf{Thinking in Steps.}  }   } }$$
 
 I am curious about the Nature and Purpose of The World.
 
