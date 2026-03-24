@@ -1200,7 +1200,20 @@ for side in range(5):
 
 ```
 
-Note that depending on what we set the mood to be, the turtle draws stars of different colors. 
+Note that depending on what we set the mood to be, the turtle draws stars of different colors.
+
+We will now consider 
+
+$${  \boxed{\textbf{Shell Workshop}} }$$ 
+
+
+[**Welcome**] 
+
+A shell is simply the outermost layer of an operating system. It's designed to provide a way for you to interact with the tools and services that your operating system provides. 
+
+The Finder in Mac is an example of a graphical shell (it has graphical user interface, GUI). In this course we will learn how to use a computer's text shell (it has command line interface, CLI).
+
+Different operating systems use different shells. Mac and Linux computers use the BASH shell by default.  
 
 
 
