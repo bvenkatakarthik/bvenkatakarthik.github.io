@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 24/3/26
+**Updated:** 25/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -1215,7 +1215,94 @@ The Finder in Mac is an example of a graphical shell (it has graphical user inte
 
 Different operating systems use different shells. Mac and Linux computers use the BASH shell by default.  
 
+[**Opening a terminal**] 
 
+A terminal will allow you to interact with the shell (Like how your web browser is your interface to websites). 
+
+[**Your first command  (echo)**] 
+
+**Eg**: 
+
+```
+echo "Hello, shello."
+```
+
+returns Hello, shello. 
+
+[**Variables**] 
+
+In python we do it like 
+
+```
+x = 100 
+```
+
+In BASH we do it like 
+
+```
+x=100
+```
+
+Further, to refer to a variable we put a dollar sign in front. 
+
+**Eg**: 
+
+```
+x=100
+echo $x
+```
+
+returns 100
+
+[**Navigating directories**] 
+
+ls - List the contents in a directory. 
+
+cd - Change directory. 
+
+**Eg**: Example commands. 
+
+```
+ls 
+ls Downloads 
+cd Downloads/ 
+ls 
+cd .. ; ls 
+
+```
+
+The second and third commands work if Downloads is a folder visible in first ls command. The fourth command, ls, displays the contents in current directory namely Downloads. The fifth command is a actually two commands, namely cd to parent dirrectory (move one directory level up) and list the contents. 
+
+pwd - Print working directory
+
+**Eg**: Example commands. 
+
+```
+cd Downloads/Yellowstone/Bears/
+ls 
+pwd 
+ls ~ 
+```
+
+ls \~ and cd \~ are used to list home directory and change to home directory respectively. 
+
+[**Options**] 
+
+**Eg**: 
+
+```
+ls -l
+```
+
+It is used for longer more detailed listing of files. 
+
+**Eg**: 
+
+```
+ls -l Documents/*.pdf 
+```
+
+It is used to list all the pdf documents in Documents. 
 
 
 
