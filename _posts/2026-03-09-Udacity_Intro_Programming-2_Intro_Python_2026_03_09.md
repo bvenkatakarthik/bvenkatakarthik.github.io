@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 25/3/26
+**Updated:** 26/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -1303,6 +1303,106 @@ ls -l Documents/*.pdf
 ```
 
 It is used to list all the pdf documents in Documents. 
+
+[**Organizing files (mkdir, mv)**] 
+
+mkdir - make directory. 
+
+mv - move.
+
+**Eg**: 
+
+```
+mkdir Documents/Books
+```
+
+**Eg**: 
+
+```
+mkdir Documents/Books
+mv 'Documents/1911 Webster Dictionary.epub' Documents/Books 
+```
+
+**Eg**: 
+
+```
+mkdir Documents/Books
+mv Documents/*.epub Documents/Books 
+
+```
+
+[**Downloading (curl)**] 
+
+curl - To download a file from the web. 
+
+curl stands for c url. 
+
+**Eg**: 
+
+```
+curl -o google.html -L 'http://google.com'
+```
+
+The -o option writes the download to a file. The -L option is to redirect to https://www.google.com. 
+
+**Eg**: 
+
+```
+curl -L -o dictionary.txt 'https://tinyurl.com/zeyq9vc'
+```
+
+[**Viewing files (cat, less)**] 
+
+cat - Reads a file and outputs the contents. 
+
+cat is short for concatenate. 
+
+**Eg**: 
+
+```
+cat dictionary.txt 
+```
+
+**Eg**: 
+
+```
+less dictionary.txt 
+```
+
+Here press Q to quit. 
+
+[**Removing things (rm, rmdir)**]
+
+rm - Remove. 
+
+(!) rm just removes the file, the file doesnt go to the recycle bin. 
+
+**Eg**: 
+
+```
+rm 'Sillyfile.txt' 
+
+```
+
+**Eg**: 
+
+```
+rm -i 'ValueableFile.txt' 
+
+```
+
+The -i option is to add an additional YES/NO prompt to the command. 
+
+**Eg**: 
+
+```
+rmdir 'TerribleDirectory'
+
+```
+
+We will now consider 
+
+$${ \boxed{\textbf{Python at Home}} }$$ 
 
 
 
