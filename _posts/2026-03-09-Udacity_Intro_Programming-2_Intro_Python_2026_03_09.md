@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 26/3/26
+**Updated:** 27/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -1403,6 +1403,51 @@ rmdir 'TerribleDirectory'
 We will now consider 
 
 $${ \boxed{\textbf{Python at Home}} }$$ 
+
+[**The Input Function**] 
+
+**Eg**: 
+
+```
+name = input("What's your name? ") 
+print("Hello,", name, "!") 
+
+```
+
+Note that for example print("abc", "def", "ghi") prints abc def ghi. Note that spaces are added. 
+
+[**The Print Function**] 
+
+**Eg**: 
+
+```
+print("Hello, world.") 
+
+```
+
+
+**Eg**: 
+
+```
+print(2 + 2) 
+
+```
+
+[**Interactive mode**] 
+
+Type and run python in terminal. We get python in interactive mode. 
+
+**Eg**: 
+
+```
+>>> 2 + 2 
+4 
+```
+
+[**Use Print to Debug**] 
+
+Whenever there's a variable in your code and you want to check what value it is referring to, you can use the print function.
+
 
 
 
