@@ -10,9 +10,6 @@ I seek Happiness and Knowledge.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
-$${   \color{goldenrod}{ \boxed{\large{\begin{aligned} &\, \textbf{“ACTION is the foundational key} \\ &\, \textbf{to all success."} \\ &\, \textbf{- Picasso.} \end{aligned}}} } }$$
-
-
 I am curious about the Nature and Purpose of **THE WORLD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
