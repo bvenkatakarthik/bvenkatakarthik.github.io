@@ -23,9 +23,9 @@ I intend to use the blog as a digital notebook of sorts, and the posts will most
 
 Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com. 
 
-<div align="center">
-    <img src="https://b.l3n.co/oKOJnH.jpg"> 
-</div>
+| ![](https://b.l3n.co/oKOJnH.jpg) | 
+|:--:| 
+| ${ \Large \textbf{THE WORLD} }$  |
 
 Zoom the above pic for more information. 
 
