@@ -1448,6 +1448,108 @@ Type and run python in terminal. We get python in interactive mode.
 
 Whenever there's a variable in your code and you want to check what value it is referring to, you can use the print function.
 
+We will now consider 
+
+$${ \boxed{\textbf{Strings and Lists}} }$$ 
+
+[**More Complex Strings**] 
+
+**Eg**: 
+
+```
+>>> print("a\n(very short)\npoem")
+a
+(very short) 
+poem
+
+```
+
+**Eg**: 
+
+```
+>>> print("Give us\n\nsome\n\nspace") 
+Give us 
+
+some 
+
+space
+```
+
+**Eg**: 
+
+```
+>>> print("\"It\'s long,\" said the Knight, \"but it\'s very very beautiful.\"")    
+"It's long," said the Knight, "but it's very very beautiful."
+```
+
+We can also do this using triple quotes. 
+
+**Eg**: 
+
+```
+>>> print(""" "It's long," said the Knight, "but its very very beautiful." """) 
+
+```
+
+[**Length**] 
+
+**Eg**: 
+
+```
+word = "Python" 
+len(word) 
+```
+
+Here len(word) returns 6. 
+
+**Eg**: The empty string "" has length 0. 
+
+**Eg**: len([3, 4, 5]) is 3. len([]) is 0. 
+
+**Eg**: 
+
+```
+len("AB\nCDE")
+```
+
+Here the length of the string is 6. 
+
+[**Looping over things**] 
+
+**Eg**: 
+
+```
+for thing in ["some", "list", "of", "things"]:
+    print(thing) 
+```
+
+Note that the output is 
+
+```
+some 
+list
+of
+things
+```
+
+**Eg**: 
+
+```
+for ch in "Hello!": 
+    print(ch) 
+```
+
+Note that the output is 
+
+```
+H 
+e
+l 
+l 
+o 
+!
+```
+
 
 
 
