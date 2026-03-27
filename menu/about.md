@@ -10,7 +10,7 @@ I seek Happiness and Knowledge.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
-$${ \Large \boxed{ {\begin{aligned} & \textbf{We partly learn by} \\ &\textbf{OBSERVING ACTIONS.}\end{aligned}} } }$$ 
+$${ \Large \boxed{ {\begin{aligned} & \textbf{We partly learn by} \\ &\textbf{DOING.}\end{aligned}} } }$$ 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
