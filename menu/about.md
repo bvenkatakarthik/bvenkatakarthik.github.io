@@ -10,7 +10,7 @@ I seek Happiness and Knowledge.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
-$${ \Large \boxed{ {\begin{aligned} & \textbf{Thinking in terms of} \\ &\textbf{ACTION-REWARD CYCLES.} \end{aligned}} } }$$
+$${ \Large \boxed{ {\begin{aligned} & \textbf{LIFE:} \\ &\textbf{ACTION-REWARD CYCLES.} \end{aligned}} } }$$
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
