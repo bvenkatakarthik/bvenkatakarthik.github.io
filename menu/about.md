@@ -10,7 +10,7 @@ I seek Happiness and Knowledge.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
-Speculation:
+**Speculation**:
 
 
 $${    \boxed{\large{\begin{aligned} &\, \textbf{Having ROLE MODELS} \\ &\, \textbf{is beneficial.}  \end{aligned}}}  }$$
