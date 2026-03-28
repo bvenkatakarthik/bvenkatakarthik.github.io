@@ -10,7 +10,8 @@ I seek Happiness and Knowledge.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
-$${ \Large \boxed{ {\begin{aligned} & \textbf{LIFE:} \\ &\textbf{ACTION-REWARD CYCLES.} \end{aligned}} } }$$
+
+$${   \boxed{\large{\begin{aligned} &\, \textbf{“ACTION is the foundational key} \\ &\, \textbf{to all success.”} \\ &\, \textbf{- Picasso.} \end{aligned}}} }$$
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
