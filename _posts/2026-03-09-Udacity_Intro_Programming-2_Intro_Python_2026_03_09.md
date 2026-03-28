@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 27/3/26
+**Updated:** 28/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -1550,6 +1550,149 @@ o
 !
 ```
 
+[**Counting Things**] 
+
+**Eg**: 
+
+```
+count = 0
+
+for ch in "bonobos":
+    if ch == "o":
+        count = count + 1
+        
+print(count)
+```
+
+
+**Eg**: 
+
+```
+def count_character(string, target):
+    count = 0
+    for ch in string:
+        if ch == target:
+            count = count + 1
+    return count
+```
+
+[**Indexing**] 
+
+Lists and strings have some things in common. They both: 
+
+* Have a length. 
+
+* Are sequences. 
+
+* Can be looped over. 
+
+It turns out both have indexing as well. 
+
+**Eg**: 
+
+```
+"Hello"[0] 
+```
+
+is the string "H". 
+
+```
+"Hello"[1] 
+```
+
+is the string "e". And so on. 
+
+**Eg**: Consider 
+
+```
+colors = ["red", "orange", "yellow"] 
+```
+
+Here 
+
+```
+colors[0] 
+```
+
+is "red". 
+
+```
+colors[1]
+```
+
+is "orange". And so on. 
+
+[**Range function**] 
+
+**Eg**: 
+
+```
+for n in range(1, 4): 
+    print(n) 
+```
+
+The result is 
+
+```
+1
+2
+3
+```
+
+**Eg**: 
+
+```
+for n in range(0, 10, 2) : 
+    print(n) 
+```
+
+The result is 
+
+```
+0
+2
+4
+6
+8
+```
+
+And so on. 
+
+[**Slicing**] 
+
+**Eg**: 
+
+```
+"apple"[0:3] 
+```
+
+The above expression gives "app". (From 0, and upto but not including 3). 
+
+```
+"apple"[1:3]
+```
+
+The above expression gives "pp". And so on. 
+
+[**Concatenation**] 
+
+**Eg**: 
+
+```
+"apple" + "pie"
+```
+
+The above expression gives "applepie". 
+
+[**f-strings**] 
+
+**Eg**: 
+
+```
+>>> animal = "kitten" 
+>>> f"Who's a cute {animal}?" 
+Who's a cute kitten? 
+```
 
 
 
