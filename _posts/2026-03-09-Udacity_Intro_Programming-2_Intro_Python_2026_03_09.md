@@ -1906,6 +1906,20 @@ Immutable means unchangeable.
 
 List is a mutable data type. String is an immutable data type. 
 
+[**Augmented Assignments**] 
+
+**Eg**: The assignment 
+
+```
+n = n + 1 
+```
+
+can be written as 
+
+```
+n += 1 
+```
+
 
 
 
