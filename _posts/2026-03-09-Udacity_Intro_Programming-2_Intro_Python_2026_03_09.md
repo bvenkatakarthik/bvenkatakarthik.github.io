@@ -1771,6 +1771,133 @@ True or True is True. True or False is True. False or False is False.
 
 (not True) is False. (not False) is True. 
 
+[**Operations on Lists**] 
+
+Strings and Lists are sequences. 
+
+Note that on sequences we can use: 
+
+* Indexing 
+
+* Slicing 
+
+* len function. 
+
+**Eg**: Total length of a list of strings. 
+
+```
+def total_length(list_of_strings):
+    total = 0
+    for string in list_of_strings:
+        total = total + len(string)
+    return total
+
+```
+
+For example, 
+
+```
+total_length(["foo", "bar"]) 
+```
+
+is 6. 
+
+[**Methods on Lists**] 
+
+**Eg**: Consider the list 
+
+```
+words = ["echidna", "dingo", "crocodile", "bunyip"] 
+```
+
+Now 
+
+```
+words.append("platypus") 
+```
+
+makes the list 
+
+```
+["echidna", "dingo", "crocodile", "bunyip", "platypus"]
+
+```
+
+
+**Eg**: Consider the list 
+
+```
+words = ["echidna", "dingo", "crocodile", "bunyip"] 
+```
+
+Now 
+
+```
+words.extend(["kangaroo", "wallaby"]) 
+
+```
+
+makes the list 
+
+```
+["echidna", "dingo", "crocodile", "bunyip", "kangaroo", "wallaby"] 
+```
+
+Now 
+
+```
+words.extend("abc") 
+```
+
+makes the list 
+
+```
+["echidna", "dingo", "crocodile", "bunyip", "kangaroo", "wallaby", "a", "b", "c"] 
+
+```
+
+Hence we usually use .extend() in the format list.extend(another_list). 
+
+**Eg**: Consider the list 
+
+```
+words = ["echidna", "dingo", "crocodile", "bunyip"]
+```
+
+Note that 
+
+```
+words.reverse() 
+```
+
+makes the list 
+
+```
+["bunyip", "crocodile", "dingo", "echidna"]
+```
+
+**Eg**: Consider the list 
+
+```
+words = ["echidna", "dingo", "crocodile", "bunyip"]
+```
+
+Note that 
+
+```
+words.sort() 
+```
+
+makes the list 
+
+```
+['bunyip', 'crocodile', 'dingo', 'echidna']
+```
+
+Note that all the 4 methods above: append, extend, reverse, sort, they all work on a list and they all modify that list and dont return any value. 
+
+
+
 
 
 
