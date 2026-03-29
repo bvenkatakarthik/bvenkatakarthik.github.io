@@ -1753,6 +1753,22 @@ def possible_tag(word):
         print(word, "is definitely not an HTML tag (but might contain one)")
 ```
 
+[**Boolean Values**] 
+
+Boolean Values: True, False. 
+
+Boolean Operations: and, or. 
+
+**Eg**: For the and operation: 
+
+True and True is True. True and False is False. False and False is False. 
+
+**Eg**: For the or operation: 
+
+True or True is True. True or False is True. False or False is False. 
+
+
+
 
 
 
