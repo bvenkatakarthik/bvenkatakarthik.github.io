@@ -1896,6 +1896,16 @@ makes the list
 
 Note that all the 4 methods above: append, extend, reverse, sort, they all work on a list and they all modify that list and dont return any value. 
 
+[**Mutable vs Immutable**] 
+
+Strings and lists differ in one way. We can modify a list (appending, extending, using list[t] assignments, etc), we cannot modify a string. 
+
+Mutable means changeable. 
+
+Immutable means unchangeable. 
+
+List is a mutable data type. String is an immutable data type. 
+
 
 
 
