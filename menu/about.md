@@ -31,9 +31,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Zoom the above pic for more information. 
 
-Given the scale of **THE WORLD**, The Earth is almost non-existent !?  
-
-Arguably the most important question one can ask: 
+Given the scale of **THE WORLD**, The Earth is almost non-existent !?   
 
 Q) What is the Purpose of **THE WORLD**?
 
