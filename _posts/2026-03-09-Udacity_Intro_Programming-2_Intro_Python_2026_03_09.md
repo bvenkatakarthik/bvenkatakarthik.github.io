@@ -1757,7 +1757,7 @@ def possible_tag(word):
 
 Boolean Values: True, False. 
 
-Boolean Operations: and, or. 
+Boolean Operations: and, or, not. 
 
 **Eg**: For the and operation: 
 
@@ -1766,6 +1766,10 @@ True and True is True. True and False is False. False and False is False.
 **Eg**: For the or operation: 
 
 True or True is True. True or False is True. False or False is False. 
+
+**Eg**: For the not operation: 
+
+(not True) is False. (not False) is True. 
 
 
 
