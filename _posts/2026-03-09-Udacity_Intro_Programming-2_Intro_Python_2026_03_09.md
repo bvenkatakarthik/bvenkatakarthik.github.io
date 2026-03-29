@@ -1694,6 +1694,44 @@ The above expression gives "applepie".
 "Who's a cute kitten?" 
 ```
 
+[**Strings to Numbers to Strings**] 
+
+**Eg**: 
+
+```
+n1 = input("Enter a number: ")
+n2 = input("Enter another number: ")
+n3 = input("Enter a third number: ")
+sum = int(n1) + int(n2) + int(n3)
+print(f"{n1} + {n2} + {n3} = {sum}")
+```
+
+We can also convert into floats. For eg, float("123.456") is 123.456. 
+
+We can also convert numbers to strings. For eg, str(42) is "42". 
+
+[**starts_with**] 
+
+**Eg**: 
+
+```
+def starts_with(long, short):
+    for position in range(len(short)):
+        if long[position] != short[position]:
+            return False
+    return True
+```
+
+Alternately and more naturally, 
+
+```
+
+def starts_with(long, short):
+    return long[0:len(short)] == short
+```
+
+
+
 
 
 
