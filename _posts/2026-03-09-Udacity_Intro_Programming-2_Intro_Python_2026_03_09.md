@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 28/3/26
+**Updated:** 29/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -1691,7 +1691,7 @@ The above expression gives "applepie".
 ```
 >>> animal = "kitten" 
 >>> f"Who's a cute {animal}?" 
-Who's a cute kitten? 
+"Who's a cute kitten?" 
 ```
 
 
