@@ -1920,6 +1920,83 @@ can be written as
 n += 1 
 ```
 
+[**While loops**] 
+
+A for loop tells Python to repeat a section of code once for each item in a list, range, or other iterable. 
+
+Another kind of loops are while loops. 
+
+A while loop will run while some condition is True. As soon as the condition is False, the loop will stop.
+
+**Eg**: 
+
+```
+def password_check():
+    while input("Password: ") != "swordfish":
+        print("Wrong! Try again!") 
+    print("Okay, come on in!") 
+
+password_check()
+```
+
+**(!) This isn't a real example of a password check.**
+
+**Eg**: Here is an example countdown from 10. 
+
+```
+import time
+
+n = 10
+while n > 0:
+    print(n)
+    time.sleep(1)
+    n -= 1
+print("Blastoff!")
+
+```
+
+Note that the output is 
+
+```
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+Blastoff!
+```
+
+**Eg**: 
+
+**Q**) Write a function called until_dot that takes a string argument and returns the portion of that string before the first dot character ".". For example: 
+
+```
+>>> until_dot("This is a sentence. This is another.")
+'This is a sentence'
+>>> until_dot("192.168.200.2")
+'192'
+```
+
+**A**) Here is a solution. 
+
+```
+def until_dot(s):
+    index = 0
+    while index < len(s) and s[index] != '.':
+        # No dots yet, keep going.
+        index += 1
+    # We either found a dot or ran out of string.
+    return s[:index]
+
+```
+
+This is an example of linear search. 
+
 
 
 
