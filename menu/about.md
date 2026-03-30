@@ -15,6 +15,8 @@ I seek Happiness and Knowledge.
 
 $${  \color{goldenrod}{  \boxed{ \large {\begin{aligned} &\, \textbf{Having ROLE MODELS} \\ &\, \textbf{is beneficial.}  \end{aligned}} } } }$$
 
+Surround yourself by the best people. 
+
 I am curious about the Nature and Purpose of **THE WORLD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
