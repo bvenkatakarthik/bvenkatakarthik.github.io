@@ -2162,6 +2162,39 @@ locate_first: find method.
 -1 
 ```
 
+[**Joining**] 
+
+**Eg**: 
+
+```
+>>> words = ["My", "dog", "has", "fleas"]
+>>> " ".join(words)
+"My dog has fleas"
+```
+
+Here we join the elements of words using " " in between. 
+
+**Eg**: Suppose we have a list of strings. Suppose we want to join them, with \<br\> tags in between. For example we want 
+
+```
+>>> lines = ["Haiku frogs in snow", "A limerick came from Nantucket", "Tetrametric drum-beats thrumming, Hiawathianic rhythm."]
+>>> breakify(lines) 
+'Haiku frogs in snow<br>A limerick came from Nantucket<br>Tetrametric drum-beats thrumming, Hiawathianic rhythm.'
+```
+
+Here is a solution. 
+
+```
+lines = ["Haiku frogs in snow",
+         "A limerick came from Nantucket",
+         "Tetrametric drum-beats thrumming, Hiawathianic rhythm."]
+
+def breakify(strings):
+    return "<br>".join(strings)
+  
+print(breakify(lines))
+```
+
 
 
 
