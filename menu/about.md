@@ -13,7 +13,7 @@ I seek Happiness and Knowledge.
 **Speculation**:
 
 
-$${  \color{goldenrod}{  \boxed{ \large {\begin{aligned} &\, \textbf{Remembering} \\ &\, \textbf{ROLE MODELS} \\ &\, \textbf{is beneficial.}  \end{aligned}} } } }$$
+$${  \color{goldenrod}{  \boxed{ \large {\begin{aligned} &\, \textbf{Seeing the best traits in people} \\ &\, \textbf{is beneficial.}  \end{aligned}} } } }$$
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
