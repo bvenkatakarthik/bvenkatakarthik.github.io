@@ -2245,17 +2245,17 @@ verbs = ['ate', 'bit', 'caught', 'dropped', 'explained',
 
 templates = [
 
-'Waiter! I found a \{\{noun\}\} in my {{noun}}!',
+'Waiter! I found a \{\{noun\}\} in my \{\{noun\}\}!',
 
-'The {{noun}} {{verb}} the {{noun}}.',
+'The \{\{noun\}\} \{\{verb\}\} the \{\{noun\}\}.',
 
-'If you {{verb}} the {{noun}}, '
+'If you \{\{verb\}\} the \{\{noun\}\}, '
 
-'the {{noun}} will get you.',
+'the \{\{noun\}\} will get you.',
 
-"Let's go: the {{noun}} is {{verb}}.",
+"Let's go: the \{\{noun\}\} is \{\{verb\}\}.",
 
-'Colorless green {{noun}}s {{verb}} furiously.'
+'Colorless green \{\{noun\}\}s \{\{verb\}\} furiously.'
 
 ]
 ```
@@ -2278,11 +2278,11 @@ def silly_string(nouns, verbs, templates):
     index = 0
 
     while index < len(template):
-        if template[index:index+8] == '{{noun}}':
+        if template[index:index+8] == '\{\{noun\}\}':
             # Add a random noun to the output.
             output.append(random.choice(nouns))
             index += 8
-        elif template[index:index+8] == '{{verb}}':
+        elif template[index:index+8] == '\{\{verb\}\}':
             # Add a random verb to the output.
             output.append(random.choice(verbs))
             index += 8
