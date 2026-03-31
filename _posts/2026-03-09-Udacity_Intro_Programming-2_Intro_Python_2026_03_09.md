@@ -2195,6 +2195,118 @@ def breakify(strings):
 print(breakify(lines))
 ```
 
+[**Find and replace**] 
+
+```
+def replace_substring(string, substring, replacement):
+    output = []
+    index = 0
+    while index < len(string):
+        if string[index:index+len(substring)] == substring:
+            output.append(replacement)
+            index += len(substring)
+        else:
+            output.append(string[index])
+            index += 1
+    return "".join(output)
+
+```
+
+[**Silly Sentences**] 
+
+Create a file words.py
+
+```
+nouns = ['apple', 'ball', 'cat', 'dog', 'elephant',
+
+'fish', 'goat', 'house', 'iceberg', 'jackal',
+
+'king', 'llama', 'monkey', 'nurse', 'octopus',
+
+'pie', 'queen', 'robot', 'snake', 'tofu',
+
+'unicorn', 'vampire', 'wumpus', 'x-ray', 'yak',
+
+'zebra']
+
+  
+
+verbs = ['ate', 'bit', 'caught', 'dropped', 'explained',
+
+'fed', 'grabbed', 'hacked', 'inked', 'jumped',
+
+'knitted', 'loved', 'made', 'nosed', 'oiled',
+
+'puffed', 'quit', 'rushed', 'stung', 'trapped',
+
+'uplifted', 'valued', 'wanted']
+
+  
+
+templates = [
+
+'Waiter! I found a {{noun}} in my {{noun}}!',
+
+'The {{noun}} {{verb}} the {{noun}}.',
+
+'If you {{verb}} the {{noun}}, '
+
+'the {{noun}} will get you.',
+
+"Let's go: the {{noun}} is {{verb}}.",
+
+'Colorless green {{noun}}s {{verb}} furiously.'
+
+]
+```
+
+Now create the main program file silly.py
+
+```
+import random
+import words
+
+
+def silly_string(nouns, verbs, templates):
+    # Choose a random template.
+    template = random.choice(templates)
+
+    # We'll append strings into this list for output.
+    output = []
+
+    # Keep track of where in the template string we are.
+    index = 0
+
+    while index < len(template):
+        if template[index:index+8] == '{{noun}}':
+            # Add a random noun to the output.
+            output.append(random.choice(nouns))
+            index += 8
+        elif template[index:index+8] == '{{verb}}':
+            # Add a random verb to the output.
+            output.append(random.choice(verbs))
+            index += 8
+        else:
+            # Copy a character to the output.
+            output.append(template[index])
+            index += 1
+
+    # Join the output into a single string.
+    output = ''.join(output)
+
+    return output
+
+print(silly_string(words.nouns, words.verbs, words.templates))
+
+```
+
+
+We will now consider 
+
+$${ \boxed{\textbf{Style and Structure}}  }$$ 
+
+
+
 
 
 
