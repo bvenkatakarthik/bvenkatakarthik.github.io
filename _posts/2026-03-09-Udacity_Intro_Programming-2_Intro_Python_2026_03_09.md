@@ -2245,7 +2245,7 @@ verbs = ['ate', 'bit', 'caught', 'dropped', 'explained',
 
 templates = [
 
-'Waiter! I found a {{noun}} in my {{noun}}!',
+'Waiter! I found a \{\{noun\}\} in my {{noun}}!',
 
 'The {{noun}} {{verb}} the {{noun}}.',
 
