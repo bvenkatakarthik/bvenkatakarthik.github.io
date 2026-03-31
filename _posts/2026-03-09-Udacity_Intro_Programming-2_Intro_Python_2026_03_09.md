@@ -2027,7 +2027,7 @@ Is this string a substring of that string? Does the word chocolate appear ever i
 
 How many times does this substring occur in that string? How many times does chocolate occur in the works of Charles Dickens? 
 
-What is the location of this substring in that string? How far into a Tale of Two Citie does the first use of chocolate occur? 
+What is the location of this substring in that string? How far into a Tale of Two Cities does the first use of chocolate occur? 
 
 We will first write is_substring function. 
 
