@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 29/3/26
+**Updated:** 31/3/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -1996,6 +1996,173 @@ def until_dot(s):
 ```
 
 This is an example of linear search. 
+
+[**Break**]
+
+Inside a while or for loop, you can use the break statement to immediately exit the loop. 
+
+**Eg**: 
+
+```
+while True: 
+    print("I'm trapped in an infinite loop!")
+    break 
+
+print("Yay, I broke out!")
+```
+
+Note that the code prints "I'm trapped in an infinite loop!" once, and then prints "Yay, I broke out!". 
+
+[**Finding substrings**] 
+
+What is a substring? A substring is a small string contained within a larger string. The characters in the substring must occur in order with no gaps in the larger string. 
+
+For instance, "bear" is a substring of "greybeard", but "moose" is not a substring of "mongoose". 
+
+If x is a substring of y, then there exists some slicing expression y[a:b] such that y[a:b] == x. 
+
+Here are some example questions. 
+
+Is this string a substring of that string? Does the word chocolate appear ever in the works of Shakespeare?
+
+How many times does this substring occur in that string? How many times does chocolate occur in the works of Charles Dickens? 
+
+What is the location of this substring in that string? How far into a Tale of Two Citie does the first use of chocolate occur? 
+
+We will first write is_substring function. 
+
+**Q**) Write a function, is_substring, that simply checks whether one string is a substring of another. 
+
+For example, we want 
+
+```
+>>> is_substring("oo", "book") 
+True 
+>>> is_substring("pony", "abracadabra") 
+False
+```
+
+**A**) 
+
+```
+def is_substring(substring, string):
+    index = 0
+    while index < len(string):
+        if string[index : index + len(substring)] == substring:
+            return True
+        index += 1
+    return False
+
+```
+
+We will now write the count_substring function. 
+
+**Q**) Write a function, count_substring, that counts the number of times a substring appears in a string. 
+
+For example we want 
+
+```
+>>> count_substring('love, love, love, all you need is love', 'love')
+4 
+```
+
+**A**) 
+
+```
+def count_substring(string, target):
+    total = 0
+    index = 0
+    while index < len(string):
+        if string[index : index + len(target)] == target:
+            total += 1
+        index += 1 
+    return total
+
+```
+
+We will now write the locate_first function. 
+
+**Q**) Write a function locate_first, that gives the location of the first instance of the substring. (If the substring is not present, it should return -1). 
+
+For example we want 
+
+```
+>>> locate_first('ook', 'cookbook')
+1
+>>> locate_first('base', 'all your bass are belong to us')
+-1
+```
+
+**A**) 
+
+```
+def locate_first(string, sub): 
+    index = 0
+    while index < len(string):
+        if string[index : index + len(sub)] == sub:
+            return index
+        else:
+            index += 1
+    return -1
+
+```
+
+We will now write the locate_all function. 
+
+**Q**) Write a function locate_all, that locates all instances of a substring. 
+
+For example we want 
+
+```
+>>> locate_all('cookbook', 'ook')
+[1, 5]
+>>> locate_all('yesyesyes', 'yes')
+[0, 3, 6]
+>>> locate_all('the upside down', 'barb')
+[]
+```
+
+**A**) 
+
+```
+def locate_all(string, sub):
+    matches = []
+    index = 0
+    while index < len(string):
+        if string[index : index + len(sub)] == sub:
+            matches.append(index)
+            index += len(sub)
+        else:
+            index += 1
+    return matches
+
+```
+
+[**More Methods on Strings**] 
+
+is_substring : in operator. 
+
+**Eg**: 
+
+```
+>>> 'box' in 'big box of trouble'
+True
+>>> 'box' in 'abracadabra'
+False
+```
+
+locate_first: find method. 
+
+**Eg**: 
+
+```
+>>> 'abracadabra'.find('cad')
+4
+>>> 'abracadabra'.find('woolly mammotth')
+-1 
+```
+
+
 
 
 
