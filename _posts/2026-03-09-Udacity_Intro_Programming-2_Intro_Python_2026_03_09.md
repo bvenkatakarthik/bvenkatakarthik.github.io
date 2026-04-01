@@ -2348,6 +2348,7 @@ Because of automatic string literal concatenation the above is treated as a sing
 'foobar'
 ```
 
+To do: Breakfast Bot and Elevator Projects. 
 
 
 
