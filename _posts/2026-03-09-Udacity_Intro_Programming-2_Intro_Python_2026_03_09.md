@@ -2305,6 +2305,50 @@ We will now consider
 
 $${ \boxed{\textbf{Style and Structure}}  }$$ 
 
+[**Pycodestyle**] 
+
+The pycodestyle tool helps you write Python code that is easier to read. 
+
+We install pycodestyle by
+
+```pip install pycodestyle```
+
+**Eg**:    
+
+```
+$ pycodestyle spin.py
+spin.py:5:20: E201 whitespace after '('
+spin.py:5:24: E202 whitespace before ')'
+spin.py:13:3: E111 indentation is not a multiple of four
+spin.py:14:1: W391 blank line at end of file
+```
+
+[**Multi-line strings**] 
+
+**Eg**: 
+
+```
+story =  ("Once upon a time there was a very long string that was "
+          "over 100 characters long and could not all fit on the "
+          "screen at once.")
+```
+
+This is basically the same as 
+
+```
+story =  "Once upon a time there was a very long string that was " "over 100 characters long and could not all fit on the " "screen at once."
+```
+
+Because of automatic string literal concatenation the above is treated as a single string. 
+
+**Eg**: 
+
+```
+>>> "foo" "bar" 
+'foobar'
+```
+
+
 
 
 
