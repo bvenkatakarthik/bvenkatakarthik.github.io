@@ -30,6 +30,10 @@ Given the scale of **THE WORLD**, The Earth is almost non-existent !?
 
 I am curious about Value Creation and Money. 
 
+**Speculation**: 
+
+$${  \Large \boxed{ {\begin{aligned} &\textbf{Meditating on} \\ &\textbf{THE WORLD} \\ &\textbf{is beneficial.} \end{aligned}} } }$$
+
 
 
 
