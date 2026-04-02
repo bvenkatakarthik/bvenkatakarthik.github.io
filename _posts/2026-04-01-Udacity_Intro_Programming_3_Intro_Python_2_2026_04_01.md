@@ -24,7 +24,7 @@ We will consider
 
 $${ \boxed{\textbf{Working with files}} }$$ 
 
-[**FIles with Python**] 
+[**Files with Python**] 
 
 Things on disk are in persistent storage. Things in memory are ephemeral. 
 
