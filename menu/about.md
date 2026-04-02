@@ -6,8 +6,6 @@ permalink: /about
 
 Hi I am Karthik, a Math enthusiast from India.
 
-I seek **HAPPINESS** and **KNOWLEDGE**.
-
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
