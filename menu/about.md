@@ -8,10 +8,6 @@ Hi I am Karthik, a Math enthusiast from India.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
 
-Note to self: 
-
-$${ \Large \boxed{ {\begin{aligned} &\textbf{Keep looking for} \\ &\textbf{good opportunities.} \end{aligned}} } }$$ 
-
 I am curious about the Nature and Purpose of **THE WORLD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
