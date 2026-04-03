@@ -10,7 +10,7 @@ Hi I am Karthik, a Math enthusiast from India.
 
 **Speculation**: 
 
-$${ \large \boxed{\begin{aligned} &\textbf{Asking "Can I" questions} \\ &\textbf{influences the mind.} \end{aligned}} }$$
+$${ \large \boxed{\begin{aligned} &\textbf{Asking ''Can I'' questions} \\ &\textbf{influences the mind.} \end{aligned}} }$$
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
