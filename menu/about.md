@@ -32,8 +32,6 @@ $${ \Large \boxed{\begin{aligned} &\textbf{Q) Is there a CENTRAL} \\ &\textbf{CA
 
 $${ \Large \boxed{\begin{aligned} &\textbf{Q) Is there a} \\ &\textbf{PURPOSE OF THE WORLD?} \end{aligned}} }$$
 
-$${ \Large \boxed{\begin{aligned} &\textbf{Q) Is Humanity aligned with the} \\ &\textbf{PURPOSE OF THE WORLD?} \end{aligned}} }$$
-
  
 
 I am curious about Value Creation and Money. 
