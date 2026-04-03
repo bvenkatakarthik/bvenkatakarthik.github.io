@@ -26,7 +26,7 @@ Zoom the above pic for more information.
 
 Given the scale of **THE WORLD**, The Earth is almost non-existent !?  
 
-**Q) What is the Purpose of THE WORLD?**
+$${ \Large \boxed{\begin{aligned} &\textbf{Q) What is the Purpose} \\ &\textbf{of THE WORLD?} \end{aligned}} }$$ 
 
 I am curious about Value Creation and Money. 
 
