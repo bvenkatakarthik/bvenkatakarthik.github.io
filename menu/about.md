@@ -30,6 +30,8 @@ A compelling question:
 
 $${ \Large \boxed{\begin{aligned} &\textbf{Q) What is the PURPOSE} \\ &\textbf{OF THE WORLD?} \end{aligned}} }$$ 
 
+**Is Humanity aligned with the PURPOSE OF THE WORLD?**  
+
 I am curious about Value Creation and Money. 
 
 
