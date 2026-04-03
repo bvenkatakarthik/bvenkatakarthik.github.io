@@ -30,9 +30,9 @@ Given the scale of **THE WORLD**, The Earth is almost non-existent !?
 
 Some compelling questions:  
 
-$${ \Large \boxed{\begin{aligned} &\textbf{Q) Is there a CENTRAL} \\ &\textbf{CAUSE OF THE WORLD?} \end{aligned}} }$$
+$${ \large \boxed{\begin{aligned} &\textbf{Q) Is there a CENTRAL} \\ &\textbf{CAUSE OF THE WORLD?} \end{aligned}} }$$
 
-$${ \Large \boxed{\begin{aligned} &\textbf{Q) Is there a} \\ &\textbf{PURPOSE OF THE WORLD?} \end{aligned}} }$$
+$${ \large \boxed{\begin{aligned} &\textbf{Q) Is there a} \\ &\textbf{PURPOSE OF THE WORLD?} \end{aligned}} }$$
 
  
 
