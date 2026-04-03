@@ -24,9 +24,11 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Zoom the above pic for more information. 
 
-Given the scale of **THE WORLD**, The Earth is almost non-existent !?  
+Given the scale of **THE WORLD**, The Earth is almost non-existent !? 
 
-$${ \Large \boxed{\begin{aligned} &\textbf{Q) What is the Purpose} \\ &\textbf{of THE WORLD?} \end{aligned}} }$$ 
+A compelling question:  
+
+$${ \Large \boxed{\begin{aligned} &\textbf{Q) What is the PURPOSE} \\ &\textbf{OF THE WORLD?} \end{aligned}} }$$ 
 
 I am curious about Value Creation and Money. 
 
