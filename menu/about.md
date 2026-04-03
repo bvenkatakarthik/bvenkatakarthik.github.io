@@ -26,11 +26,12 @@ Zoom the above pic for more information.
 
 Given the scale of **THE WORLD**, The Earth is almost non-existent !? 
 
-A compelling question:  
+Some compelling questions:  
 
-$${ \Large \boxed{\begin{aligned} &\textbf{Q) What is the PURPOSE} \\ &\textbf{OF THE WORLD?} \end{aligned}} }$$ 
+$${ \Large \boxed{\begin{aligned} &\textbf{Q) What is the} \\ &\textbf{PURPOSE OF THE WORLD?} \end{aligned}} }$$
 
-**Is Humanity aligned with the PURPOSE OF THE WORLD?**  
+$${ \Large \boxed{\begin{aligned} &\textbf{Q) Is Humanity aligned with the} \\ &\textbf{PURPOSE OF THE WORLD?} \end{aligned}} }$$
+ 
 
 I am curious about Value Creation and Money. 
 
