@@ -35,7 +35,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-$${  \Large \color{goldenrod}{ \boxed{ {\begin{aligned} &\textbf{Meditating on} \\ &\textbf{THE WORLD} \\ &\textbf{is beneficial.} \end{aligned}} } } }$$
+$${  \Large \color{goldenrod}{ \boxed{ {\begin{aligned} &\textbf{MEDITATING ON} \\ &\textbf{THE WORLD} \\ &\textbf{is beneficial.} \end{aligned}} } } }$$
 
 
 
