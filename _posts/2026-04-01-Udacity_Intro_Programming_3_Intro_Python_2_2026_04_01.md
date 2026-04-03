@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 1/4/26
+**Updated:** 3/4/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -150,6 +150,115 @@ This both moves the file (from the python directory  to the Programs directory) 
 ['my_file.txt']
 
 ```
+
+[**Relative Paths and Current Working Directory**] 
+
+```
+os.getcwd 
+```
+
+lets you get the current working directory. 
+
+```
+os.chdir 
+```
+
+lets you change it. 
+
+**Eg**: 
+
+```
+>>> os.getcwd() 
+"/Users/kelly"
+>>> os.chdir('/Users/kelly/Photos')
+```
+
+[**os functions and shell commands**] 
+
+os.getcwd -> pwd -> What's the current directory? 
+
+os.listdir -> ls -> What files are here? 
+
+os.mkdir -> mkdir -> Make a new directory 
+
+os.rename -> mv -> Move or rename file or directory
+
+Note that in Windows file names are like 
+
+```
+C:\Users\Kelly\Downloads\amazing_thing.py 
+```
+
+and in Mac or Linux file names are like 
+
+```
+/Users/Kelley/Downloads/amazing_thing.py
+```
+
+Note that 
+
+```
+os.path.join("Downloads", "amazing_things.py") 
+```
+
+appends with / on Mac or Linux and \ on Windows. 
+
+Portable code is code that will work correctly on different systems. 
+
+Python is a great language for writing portable code. 
+
+[**Get a list of the file names**] 
+
+Recall our task list 
+
+1) **Get a list of what files I have.** 
+
+2) Extract the place names from the file names. 
+
+3) Make a directory for each place name. 
+
+4) Move files into the right directories. 
+
+The code for that is 
+
+```
+import os
+
+os.chdir("notes28_photos")
+originals = os.listdir()
+
+print(originals) # Just for testing the code
+```
+
+[**Extract the place names**] 
+
+Next on our task list 
+
+1) Get a list of what files I have.
+
+2) **Extract the place names from the file names.** 
+
+3) Make a directory for each place name. 
+
+4) Move files into the right directories. 
+
+The code for that is 
+
+```
+def extract_place(filename):
+    first = filename.find("_")
+    partial = filename[first+1:]
+    second = partial.find("_")
+    return partial[:second]
+
+# Here are some calls you can use for testing:
+print(extract_place("2016-11-04_Berlin_09/42/22.jpg"))
+print(extract_place("2018-01-03_Oahu_21/51/57.jpg"))
+print(extract_place("2018-01_Scotland_11/51/27.jpg"))
+```
+
+
+
 
 
 
