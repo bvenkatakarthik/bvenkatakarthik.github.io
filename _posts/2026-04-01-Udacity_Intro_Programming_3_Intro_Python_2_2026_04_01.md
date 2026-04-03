@@ -257,6 +257,216 @@ print(extract_place("2018-01-03_Oahu_21/51/57.jpg"))
 print(extract_place("2018-01_Scotland_11/51/27.jpg"))
 ```
 
+Recall the split method on strings. 
+
+**Eg**: 
+
+```
+>>> "this and that".split(" ") 
+['this', 'and', 'that'] 
+```
+
+Here is another definition of extract_place. 
+
+```
+def extract_place(filename):
+    return filename.split("_")[1]
+```
+
+[**Make place directories**] 
+
+Next on our task list 
+
+1) Get a list of what files I have.
+
+2) Extract the place names from the file names. 
+
+3) **Make a directory for each place name.** 
+
+4) Move files into the right directories.
+
+```
+import os
+
+def extract_place(filename):
+    return filename.split('_')[1]
+
+def make_place_directories(places): # Here's the function definition
+    for place in places:
+        os.mkdir(place)
+        print(f"Created directory: {place}")
+
+# Change the current working directory to 'notes28_photos'
+os.chdir("notes28_photos")
+
+# List all items in the current directory before cleanup
+originals_before_cleanup = os.listdir()
+
+# Remove existing directories (in case there are directories from previous executions of this script)
+for item in originals_before_cleanup:
+    if os.path.isdir(item):
+        os.rmdir(item)
+        print(f"Removed directory: {item}")
+
+# Re-fetch the list of items in the directory after removing old directories
+originals_after_cleanup = os.listdir()
+
+# Initialize a list to hold the names of places
+places = []
+
+# Loop through each filename in the directory after cleanup
+for filename in originals_after_cleanup:
+    place = extract_place(filename)
+    if place not in places: 
+        places.append(place)
+
+# Now, create directories for each unique place in the places list
+make_place_directories(places)
+
+# Print the list of items in the directory to verify the changes
+print(os.listdir())
+
+
+
+```
+
+[**Move the files**] 
+
+Next on our task list 
+
+1) Get a list of what files I have.
+
+2) Extract the place names from the file names. 
+
+3) Make a directory for each place name. 
+
+4) **Move files into the right directories.**
+
+```
+import os
+
+def extract_place(filename):
+    return filename.split('_')[1]
+
+def make_place_directories(places): # Here's the function definition
+    for place in places:
+        os.mkdir(place)
+        print(f"Created directory: {place}")
+
+# Change the current working directory to 'notes28_photos'
+os.chdir("notes28_photos")
+
+# List all items in the current directory before cleanup
+originals_before_cleanup = os.listdir()
+
+# Remove existing directories (in case there are directories from previous executions of this script)
+for item in originals_before_cleanup:
+    if os.path.isdir(item):
+        os.rmdir(item)
+        print(f"Removed directory: {item}")
+
+# Re-fetch the list of items in the directory after removing old directories
+originals_after_cleanup = os.listdir()
+
+# Initialize a list to hold the names of places
+places = []
+
+# Loop through each filename in the directory after cleanup
+for filename in originals_after_cleanup:
+    place = extract_place(filename)
+    if place not in places:
+        places.append(place)
+
+# Now, create directories for each unique place in the places list
+make_place_directories(places)
+
+# Print the list of items in the directory to verify the changes
+print(os.listdir())
+
+for filename in originals_after_cleanup: 
+    place = extract_place(filename) 
+    os.rename(filename, os.path.join(place, filename)) 
+
+
+```
+
+[**The script footer**] 
+
+Suppose we want to use our notes28_organize_photos.py code in another program. Can we use an import statement to do that?
+
+It turns out yes. 
+
+When you import a module, the code in that module gets run. But we only want to use the functions of the program...
+
+Note that we can add the whole code into functions. We are left with a single execution statement in the code. 
+
+```
+import os
+
+def make_place_directories(places): # Here's the function definition
+    for place in places:
+        os.mkdir(place)
+
+def extract_place(filename):
+    return filename.split('_')[1]
+
+def organize_photos(directory):
+    os.chdir(directory)
+    originals = os.listdir()
+    places = []
+    for filename in originals:
+        place = extract_place(filename)
+        if place not in places: # This is the key change
+            places.append(place)
+
+    make_place_directories(places)
+
+    for filename in originals:
+        place = extract_place(filename)
+        os.rename(filename, os.path.join(place, filename))
+
+organize_photos("notes28_photos")
+```
+
+We now replace the execution statement as so. 
+
+```
+import os
+
+def make_place_directories(places): # Here's the function definition
+    for place in places:
+        os.mkdir(place)
+
+def extract_place(filename):
+    return filename.split('_')[1]
+
+def organize_photos(directory):
+    os.chdir(directory)
+    originals = os.listdir()
+    places = []
+    for filename in originals:
+        place = extract_place(filename)
+        if place not in places: # This is the key change
+            places.append(place)
+
+    make_place_directories(places)
+
+    for filename in originals:
+        place = extract_place(filename)
+        os.rename(filename, os.path.join(place, filename))
+
+if __name__ = '__main__':
+    organize_photos("notes28_photos")
+```
+
+Here `__name__` and `__main__` are called dunder variables (dunder is short for double underscore). 
+
+What is `__name__`?    
+Every script has its own copy of `__name__` variable. Before running the code, python assigns a value to this variable. The value it assigns depends on whether the script is being imported or getting directly executed.    
+If it is directly executed, python assigns the value `__main__` to `__name__`.    
+If we import `my_script.py` python assigns the value `my_script` to `__name__`. 
+
+
 
 
 
