@@ -8,6 +8,10 @@ Hi I am Karthik, a Math enthusiast from India.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
 
+**Speculation**: 
+
+$${  \Large \color{goldenrod} { \boxed{ {\begin{aligned} &\textbf{OBSERVING} \\ &\textbf{ROLE MODELS} \\ &\textbf{is beneficial.} \end{aligned}} } } }$$
+
 I am curious about the Nature and Purpose of **THE WORLD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
@@ -33,9 +37,6 @@ Given the scale of **THE WORLD**, The Earth is almost non-existent !?
 
 I am curious about Value Creation and Money. 
 
-**Speculation**: 
-
-$${  \Large \color{goldenrod}{ \boxed{ {\begin{aligned} &\textbf{MEDITATING ON} \\ &\textbf{THE WORLD} \\ &\textbf{is beneficial.} \end{aligned}} } } }$$
 
 
 
