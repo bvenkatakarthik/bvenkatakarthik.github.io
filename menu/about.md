@@ -8,10 +8,6 @@ Hi I am Karthik, a Math enthusiast from India.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
 
-**Speculation**: 
-
-$${  \Large \color{goldenrod} { \boxed{ {\begin{aligned} &\textbf{OBSERVING} \\ &\textbf{ROLE MODELS} \\ &\textbf{is beneficial.} \end{aligned}} } } }$$
-
 I am curious about the Nature and Purpose of **THE WORLD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
@@ -28,10 +24,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Zoom the above pic for more information. 
 
-Given the scale of **THE WORLD**, The Earth is almost non-existent !? 
-
-If the "view" of the Observable Universe is scaled down to the size of the Earth, a person appears the size 1/1,00,000 th of an electron !?    
-(Link to Reddit post: [Link](https://www.reddit.com/r/theydidthemonstermath/comments/7pmmio/if_the_observable_universe_were_scaled_down_to/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button))  
+Given the scale of **THE WORLD**, The Earth is almost non-existent !?  
 
 **Q) What is the Purpose of THE WORLD?**
 
