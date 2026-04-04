@@ -572,6 +572,18 @@ print(my_file.read())
 my_file.close()
 ```
 
+We can also use `with`. 
+
+**Eg**: 
+
+```
+with open("my_story.text") as my_story:
+    print(my_story.read())
+```
+
+As long as this block of code is running, the file will remain open. But once this block finishes, the file will get closed automatically.
+
+
 [**One word at a time**] 
 
 ```
