@@ -467,8 +467,184 @@ If it is directly executed, python assigns the value `__main__` to `__name__`.
 If we import `my_script.py` python assigns the value `my_script` to `__name__`. 
 
 
+[**The Profanity Filter Problem**] 
 
+Here is a simpler problem. 
 
+**Q**) Suppose we generate a string of 100 characters. All of these will be the letter `a` except for one, which will be the letter `b`. The position of the `b` character will be random, and our task is to find this location.
+
+**Generating the string**: 
+
+```
+import random 
+
+letters = ['a']*100
+
+b_location = random.randint(0, 99) 
+
+letters[b_location] = 'b' 
+
+letters = "".join(letters)
+
+```
+
+**Searching the string**; 
+
+```
+print("Looking for 'b' ...")
+pos = 0 # Start at position 0, the first character in the string
+while letters[pos] != 'b': # If the current character is NOT 'b', enter the loop.
+    pos += 1 # Move on to the next character.
+    print("Not yet.")
+# If we have exited the loop, that means the current character must be 'b'.
+print(f"Found it! The letter 'b' is at position {pos}." )
+
+```
+
+**But how efficient is this solution?**
+
+We will consider 2 approaches. 
+
+Design One: 
+
+* read file contents into a string 
+* for words in the rude-words list: 
+    * Is the word in the file-contents string?
+         * if so, alert!
+* at the end, print a message
+
+Design Two: 
+
+* read file contents into a string 
+* split string into a list of words 
+* for word in the file-contents list: 
+    * is the word in the rude-words list?
+         * if so, alert!
+* at the end, print a message
+
+Which approach to use? 
+
+How much work do these programs do? 
+
+**Reasonable guesswork**: 
+
+Suppose file is 1000 words and 5000 characters long. Suppose we have 10 rude words. 
+
+Program 1: Loop over rude words = 10 times, Each loop scans 5000 characters.    
+50,000 character comparisions at least. 
+
+Program 2: Loop over file words = 1000 times, Each loop checks 10 rude words.    
+10,000 comparisions at least. On average, 2 characters per comparision. Hence 20,000 character comparisions. For the original split operation, + 5000 character comparisions. Hence 25,000 character comparisions.
+
+Hence we will use the second approach. 
+
+[**Opening and reading a file**] 
+
+In our profanity problem, the text is originally stored in a text file. So before we do anything else, we need to get the text from the file into a string that we can scan.
+
+**Eg**: First, we need to tell the operating system which file we're interesting in looking at, which we do with the `open` function:
+
+```
+my_story = open('my_story.txt') 
+```
+
+Python will create a file object and store it in the `my_story` variable. We can use this file object to read the contents of the file:
+
+```
+contents = my_story.read()
+```
+
+[**Closing a file**] 
+
+When you're done using a file object, it is important to close the file. 
+
+**Eg**: 
+
+```
+my_story.close() 
+```
+
+**Eg**: 
+
+```
+my_file = open("read_me.txt")
+print(my_file.read())
+my_file.close()
+```
+
+[**One word at a time**] 
+
+```
+rude_words = ["crap", "darn", "heck", "jerk", "idiot", "butt", "devil"]
+
+def check_line(line):
+    rude_count = 0
+    words = line.split(" ")
+    for word in words:
+        if word in rude_words:
+            rude_count += 1
+            print(f"Found rude word: {word}")
+    return rude_count
+
+def check_file(filename):
+    with open(filename) as myfile:
+        rude_count = 0
+        for line in myfile:
+            rude_count += check_line(line)
+
+    if rude_count == 0:
+        print("Congratulations, your file has no rude words.")
+        print("At least, no rude words I know.")
+        
+if __name__ == '__main__':
+    check_file("my_story.txt")
+```
+
+There are bugs. For example "jerk." is not equal to "jerk", etc. 
+
+We need to take punctuation off of the string. 
+
+[**Fixing some bugs**] 
+
+Note that 
+
+```
+>>> "rudarrrcityrr".strip("r") 
+'udarrrcity'
+>>> import string 
+>>> string.punctuation
+'!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~'
+```
+
+Hence here is our fix. 
+
+```
+import string
+rude_words = ["crap", "darn", "heck", "jerk", "idiot", "butt", "devil"]
+
+def check_line(line):
+    rude_count = 0
+    words = line.split(" ")
+    for word in words:
+        word = word.strip(string.punctuation).lower()
+        if word in rude_words:
+            rude_count += 1
+            print(f"Found rude word: {word}")
+    return rude_count
+
+def check_file(filename):
+    with open(filename) as myfile:
+        rude_count = 0
+        for line in myfile:
+            rude_count += check_line(line)
+
+    if rude_count == 0:
+        print("Congratulations, your file has no rude words.")
+        print("At least, no rude words I know.")
+
+if __name__ == '__main__':
+    check_file("my_other_story.txt")
+```
 
 
 
