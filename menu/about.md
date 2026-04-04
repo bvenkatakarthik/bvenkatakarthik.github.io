@@ -9,7 +9,7 @@ Hi I am Karthik, a Math enthusiast from India.
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
 
 
-$${ \large \boxed{\begin{aligned} &\textbf{Our Reactions influence} \\ &\textbf{our Minds.} \end{aligned}} }$$
+$${ \large \boxed{\begin{aligned} &\textbf{Our REACTIONS influence} \\ &\textbf{our Minds.} \end{aligned}} }$$
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
@@ -25,17 +25,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 |:--:| 
 | ${ \Large \textbf{THE WORLD} }$  |
 
-Zoom the above pic for more information. 
-
-Given the scale of **THE WORLD**, The Earth is almost non-existent !? 
-
-Some compelling questions:  
-
-$${ \large \boxed{\begin{aligned} &\textbf{Q) Is there a CENTRAL} \\ &\textbf{CAUSE OF THE WORLD?} \end{aligned}} }$$
-
-$${ \large \boxed{\begin{aligned} &\textbf{Q) Is there a} \\ &\textbf{PURPOSE OF THE WORLD?} \end{aligned}} }$$
-
- 
+Zoom the above pic for more information.  
 
 I am curious about Value Creation and Money. 
 
