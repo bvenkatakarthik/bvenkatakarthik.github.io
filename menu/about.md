@@ -6,10 +6,9 @@ permalink: /about
 
 Hi I am Karthik, a Math enthusiast from India.
 
-[Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
+[Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
-
-$${ \large \boxed{\begin{aligned} &\textbf{POSITIVE REACTIONS} \\ &\textbf{influence our Minds positively.} \end{aligned}} }$$
+$${ \large \boxed{\begin{aligned} &\textbf{REACTIONS} \\ &\textbf{influence the Mind.} \end{aligned}} }$$
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
