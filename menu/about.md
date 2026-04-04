@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Hi I am Karthik, a Math enthusiast from India.
+Hi I am Karthik, a Math and AI enthusiast from India.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
