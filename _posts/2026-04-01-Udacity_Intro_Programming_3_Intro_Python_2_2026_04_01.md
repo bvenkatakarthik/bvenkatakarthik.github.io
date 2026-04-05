@@ -884,6 +884,20 @@ except requests.exceptions.ConnectionError:
     print("Could not connect to server.")
 ```
 
+[**What is JSON?**] 
+
+JSON: JavaScript Object Notation.
+
+**Eg**: 
+
+```
+>>> r = requests.get('https://www.metaweather.com/api/location/2455920/')
+>>> r.text 
+[We get JSON text] 
+```
+
+Like HTML text, JSON text is also structured. 
+
 
 
 
