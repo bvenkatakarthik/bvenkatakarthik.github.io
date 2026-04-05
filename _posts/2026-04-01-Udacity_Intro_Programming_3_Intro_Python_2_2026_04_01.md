@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 3/4/26
+**Updated:** 5/4/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -657,6 +657,167 @@ def check_file(filename):
 if __name__ == '__main__':
     check_file("my_other_story.txt")
 ```
+
+[**Writing output to a file**] 
+
+Consider the profanity filter problem. Say I would like the program to write a new version of my text file with any rude words bleeped out using asterix. 
+
+**Eg**: Suppose the text says `Well, darn it all to heck!`. We want the new file to say `Well, **** it all to ****!`.
+
+How to write to a file: 
+
+* Open the file in write mode
+* Write to the file 
+* Close the file 
+
+**Eg**: For opening a file in write mode, 
+
+```
+>>> writefile = open("newfile.txt", "w") 
+```
+
+**(!) When you open a file in write mode, you are telling the OS that you intend to replace the contents of the file. This means the old contents of the file will be wiped out. There is no undo button for this.**
+
+**So when you open a file in write mode, you want to use a new file name that doesn't exist yet. The open function will create the file if it does not exist and give you a file object that you can write to.**
+
+**Eg**: For writing to a file, we use the `.write` method. 
+
+```
+>>> writefile.write("writin' my file, writin' my file\n") 
+>>> writefile.write("i am so happy, writin' to my file\n") 
+```
+
+**Eg**: 
+
+```
+f = open("output.txt", "w") 
+
+for num in range(100): 
+    f.write(str(num)) 
+    f.write("\n") 
+
+f.close() 
+```
+
+We an also use `with` statements. 
+
+```
+with open("output.txt", "w") as f:
+    for num in range(100):
+        f.write(str(num)) 
+        f.write("\n")
+```
+
+The output is the list from 0 to 99. 
+
+```
+0
+1
+2
+.
+.
+.
+99
+```
+
+[**Bleeper**] 
+
+Recall the replace method on strings. 
+
+**Eg**: 
+
+```
+>>> s = "I like to eat pizza."
+>>> s = s.replace("pizza", "cake")
+>>> s
+'I like to eat cake.'
+```
+
+**Eg**: We can write a bleeper function as 
+
+```
+import string # Import the string module so we can use string.punctuation
+test_words = ["crap", "darn!", "Heck!!!", "jerk...", "idiot?", "butt", "devil"]
+
+def bleeper(word):
+    pos = 0 # Track the position (index) of the character so we can replace it
+    for character in word:
+        if character not in string.punctuation:
+            character = "*" # If it wasn't punctuation, replace it
+        word = word.replace(word[pos], character) # Replace the character at the current position
+        pos += 1 # Move to the next character position
+    return word
+
+for word in test_words:
+    print(bleeper(word))
+```
+
+**Eg**: For the profanity filter problem where we need to bleep, here is a solution. 
+
+```
+import string
+rude_words = ["crap", "darn", "heck", "jerk", "idiot", "butt", "devil"]
+
+def check_line(line):
+    rude_count = 0
+    # We'll need the position of the current word in the list
+    word_index = 0 
+    words = line.split(" ")
+    for word in words:
+        # We need to check stripped words separately now
+        stripped_word = word.strip(string.punctuation).lower() 
+        if stripped_word in rude_words:
+            rude_count += 1
+            print(f"Found rude word: {word}")
+            # Find the current word in the words list and replace it
+            # with a bleeped version. Notice we use word rather than
+            # stripped_word, in order to keep the punctuation.
+            words[word_index] = bleeper(word)
+
+        word_index += 1 # Moving on to the next word
+    line = " ".join(words)
+    # We now return both the count and the line itself, 
+    # so we can write the line to a file
+    return line, rude_count
+
+def check_file(filename):
+    with open(filename) as myfile:
+        rude_count = 0
+        # If the file has multiple lines, we will need
+        # to collect them all for the final output
+        lines = [] 
+        for line in myfile:
+            # Get the (potentially bleeped) line and 
+            # the number of rude words in that line
+            line, rude_subtotal = check_line(line)
+            # Add to the total rude lines found in the file
+            rude_count += rude_subtotal 
+            # Add the current line to the lines list
+            lines.append(line)
+
+    if rude_count == 0:
+        print("Congratulations, your file has no rude words.")
+        print("At least, no rude words I know.")
+    else:
+      # If rude words were found, write them to a new file
+      # and inform the user.
+        with open("bleeped_copy.txt", "w") as bleeped_copy:
+            bleeped_copy.write("\n".join(lines))         
+        print(f"Found {rude_count} rude words in your file. See bleeped_copy.txt for a censored copy of your file.")
+        
+def bleeper(word):
+    pos = 0 
+    for character in word:
+        if character not in string.punctuation:
+            character = "*"
+        word = word.replace(word[pos], character) 
+        pos += 1
+    return word
+
+if __name__ == '__main__':
+    check_file("my_other_story.txt")
+```
+
 
 
 
