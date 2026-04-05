@@ -818,6 +818,77 @@ if __name__ == '__main__':
     check_file("my_other_story.txt")
 ```
 
+We will consider 
+
+$${  \boxed{\textbf{Web APIs}} }$$ 
+
+Often our computer is connected to the internet, and so our code can make use of internet-connected resources. 
+
+API: Application Programming Interface. It just means a way for your code to interact with some other code or application. 
+
+[**The requests module**] 
+
+To install, use 
+
+```
+pip install requests
+```
+
+[**Making a request**] 
+
+```
+>>> import requests 
+>>> requests.get("https://www.google.com")
+<Response [200]>
+```
+Note that `<Response [200]>`is how Python displays an object that it doesn't entirely know how to display. 
+
+**Eg**: 
+
+```
+>>> import requests 
+>>> r = requests.get("https://www.google.com")
+>>> r.status_code
+200 
+>>> r.text
+[This returns a long code]
+```
+
+Here 200 is the way HTTP says that a request was completed successfully. The full name of this code is 200 okay. (If we made a request to a page that doesn't exist like google.com/monkeybagel, we will get a status code 404 as in 404 Not Found.)
+
+[**Try and Exceptions**] 
+
+**Eg**: 
+
+```
+x = int(input("Enter a number.")) 
+try:
+    print(3 / x) 
+except ZeroDivisionError:
+    print("Can't divide by zero!") 
+```
+
+This is kind of like an if else statement. 
+
+This works with NameError, IndexError, ZeroDivisionError, etc. (These are called exceptions).
+
+**Eg**: 
+
+```
+import requests
+
+try:
+    r = requests.get("https://www.udacity.com")
+    print(r) # If you did print(r.status_code), that also works!
+except requests.exceptions.ConnectionError:
+    print("Could not connect to server.")
+```
+
+
+
+
+
+
 
 
 
