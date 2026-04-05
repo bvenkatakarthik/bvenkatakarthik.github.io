@@ -896,7 +896,60 @@ JSON: JavaScript Object Notation.
 [We get JSON text] 
 ```
 
-Like HTML text, JSON text is also structured. 
+Like HTML text, JSON text is also structured.
+
+[**Dictionaries**] 
+
+In a list, the elements are indexed by 0,1, etc.
+
+In a dictionary, values are indexed by keys. 
+
+**Eg**: 
+
+```
+>>> d = {} 
+>>> d["squid"] = "A tentacled mollusk of the briny deep" 
+>>> d["squid"] 
+'A tentacled mollusk of the briny deep'
+>>> d["squad"] = "A smallish horde" 
+>>> d["squid"] = "A friendly sea monster"
+>>> d 
+{'squid': 'A friendly sea monster', 'squad': 'A smallish horde'}
+
+```
+
+The basic operations are: creating an empty dictionary, defining key value pairs, looking up a value by a key. 
+
+**Eg**; 
+
+```
+>>> d = {'key1': 'value1'}
+>>> d['key2'] = 'value2'
+>>> d['key1']
+'value1'
+>>> d['key2']
+'value2'
+>>> d
+{'key1': 'value1', 'key2': 'value2'}
+>>> d['key2'] = 'foo'
+>>> d['key2'] += 'bar'
+>>> d['key2']
+'foobar'
+>>> d
+{'key1': 'value1', 'key2': 'foobar'}
+```
+
+**Eg**: 
+
+```
+d = {'fish': 'salmon', 'cat': 'lion'}
+del d['fish']
+print(d)
+```
+
+This prints `{'cat': 'lion'}`. 
+
+ 
 
 
 
