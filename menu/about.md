@@ -10,6 +10,8 @@ Hi I am Karthik, a Math and AI enthusiast from India.
 
 $${ \Large \boxed{\begin{aligned} &\textbf{MENTAL REACTIONS} \\ &\textbf{influence the Mind.} \end{aligned}} }$$
 
+“Truth is ever to be found in the simplicity, and not in the multiplicity and confusion of things.” - Newton.
+
 I am curious about the Nature and Purpose of **THE WORLD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
