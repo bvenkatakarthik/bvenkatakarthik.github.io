@@ -8,6 +8,8 @@ Hi I am Karthik, a Math and AI enthusiast from India.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
+$${ \Large \boxed{ {\begin{aligned} &\textbf{What is the} \\ &\textbf{PURPOSE OF LIFE?} \end{aligned}}  } }$$ 
+
 I am curious about the Nature and Purpose of **THE WORLD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
