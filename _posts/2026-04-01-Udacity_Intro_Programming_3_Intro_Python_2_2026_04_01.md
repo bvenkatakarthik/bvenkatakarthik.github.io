@@ -1276,7 +1276,7 @@ if __name__ == '__main__':
         weather_dialog()
 ```
 
- 
+Link to reddit post: [Link](https://www.reddit.com/r/learnpython/comments/5uart2/trouble_understanding_while_not/). 
 
  
 
