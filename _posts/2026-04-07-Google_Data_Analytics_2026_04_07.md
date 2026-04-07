@@ -66,5 +66,26 @@ Some relevant industries for jobs:
 
 [**Data analytics in everyday life**] 
 
+Identifying patterns and relationships that you can use to make predictions about the right actions to take. 
+
+**Eg**: Your sleep cycle, how you feel after eating certain foods, what time of the day you would like to workout. 
+
+Lots of data is being created everyday. 
+
+Businesses need a way to control all that data so that they can use it to: 
+
+* Improve processes 
+
+* Identify opportunities and trends
+
+* Launch new products 
+
+* Serve customers 
+
+* Make thoughtful decisions
+
+This is the process of turning Data to Insights. 
+
+
 
 
