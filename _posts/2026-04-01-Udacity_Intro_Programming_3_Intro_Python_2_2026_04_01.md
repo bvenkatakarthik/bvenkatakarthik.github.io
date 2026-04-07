@@ -1415,7 +1415,7 @@ class Dog:
 >>> fido.speak() 
 'Woof!' 
 >>> Dog.speak(fido) 
-'Woof!1 
+'Woof!'
 ```
 
 In the last line, when we do this, it assigns the `fido` object to the `self` parameter, and this tells Python which object we want to use with the method. 
