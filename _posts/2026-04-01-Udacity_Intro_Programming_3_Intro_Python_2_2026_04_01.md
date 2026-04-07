@@ -1448,6 +1448,61 @@ Now
 
 [**Using instance-level variables**] 
 
+**Eg**: Dog names. 
+
+```
+class Dog: 
+    scientific_name = "Canis lupus familiaris"
+
+    def speak(self): 
+        print("Woof!") 
+
+    def learn_name(self, name):
+        self.name = name 
+```
+
+Here `self.name` is a variable on the specific dog object. 
+
+Now 
+
+```
+>>> import animals 
+>>> fido = animals.Dog() 
+>>> fido.learn_name("Fido") 
+>>> fido.name 
+'Fido' 
+>>> fido.scientific_name 
+'Canis lupus familiaris' 
+```
+
+**Eg**: A dog hearing its name. 
+
+```
+class Dog: 
+    scientific_name = "Canis lupus familiaris"
+
+    def speak(self): 
+        print("Woof!") 
+
+    def learn_name(self, name):
+        self.name = name 
+
+    def hear(self, words): 
+        if self.name in words: 
+            self.speak() 
+```
+
+Now 
+
+```
+>>> import animals 
+>>> fido = animals.Dog() 
+>>> fido.learn_name("Fido") 
+>>> fido.hear("The dog doesn't know we're talking about him.") 
+>>> fido.hear("Fido, say something!") 
+'Woof!' 
+```
+
 
 
 
