@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 6/4/26
+**Updated:** 7/4/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -1276,7 +1276,69 @@ if __name__ == '__main__':
         weather_dialog()
 ```
 
-Link to reddit post: [Link](https://www.reddit.com/r/learnpython/comments/5uart2/trouble_understanding_while_not/). 
+Link to reddit post: [Link](https://www.reddit.com/r/learnpython/comments/5uart2/trouble_understanding_while_not/).
+
+We will consider 
+
+$${ \boxed{\textbf{Objects and Classes}} }$$ 
+
+[**Welcome**] 
+
+Since the beginning of this course, you have been using objects in Python, objects such as turtles and strings and lists and files and functions. But so far, all of the kinds of objects that you have used have been provided for you. You have not yet created any new types of objects. Strings and lists of integers and functions are all built into the core of Python, and turtles come from the turtle module which also comes with Python. However, Python also lets you create new types of objects.
+
+Just like the built-in types, these objects will have methods on them. But now, you will be able to define your own methods for them.
+
+The subject of this section is called object oriented programming. That's just a software engineering term for programming by creating new objects as well as reusing existing ones. 
+
+The way you will create new types of objects is by writing class definitions. Just as a function definition defines a function, a class definition defines a class or a type of object.
+
+[**Objects belong to classes**] 
+
+Note that objects belong to classes. 
+
+**Eg**: Consider the code 
+
+```
+import turtle
+george = turtle.Turtle()
+for side in range(4):
+  george.forward(100)
+  george.right(90)
+```
+
+Here `george = turtle.Turtle()` is creating a new object that belongs to the turtle class. 
+
+**Eg**: 
+
+```
+name = input("What is your name?")
+```
+
+The input function always returns an object that belongs to the string class. 
+
+We can check whether an object is an instance of a class by using the `isinstance` function, which will return `True` or `False` depending on whether the given object does indeed belong to the given class:
+
+**Eg**: 
+
+```
+>>> isinstance("tomato", str)
+True
+>>> isinstance(42, str)
+False
+>>> isinstance(42, int)
+True
+```
+
+We can also use the `type` function: 
+
+**Eg**: 
+
+```
+>>> type("tomato") 
+<class 'str'>
+```
+
+
 
  
 
