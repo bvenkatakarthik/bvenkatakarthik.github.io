@@ -1421,7 +1421,32 @@ class Dog:
 In the last line, when we do this, it assigns the `fido` object to the `self` parameter, and this tells Python which object we want to use with the method. 
 
  
+[**Using class-level variables**] 
 
+We use **class-level variables** when there is some value that should be shared across every object of a given class.
+
+For example, all of our dogs should share the same scientific name:
+
+**Eg**: 
+
+```
+class Dog:
+  scientific_name = "Canis lupus familiaris"
+  
+  def speak(self):
+    print("Woof!")
+```
+
+Now 
+
+```
+>>> import animals 
+>>> fido = animals.Dog() 
+>>> fido.scientific_name 
+'Canis lupus familiaris' 
+```
+
+[**Using instance-level variables**] 
 
 
 
