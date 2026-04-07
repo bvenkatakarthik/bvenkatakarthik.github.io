@@ -1337,7 +1337,18 @@ We can also use the `type` function:
 >>> type("tomato") 
 <class 'str'>
 ```
+**Eg**: 
 
+```
+>>> import turtle 
+>>> george = turtle.Turtle() 
+>>> isinstance(george, turtle.Turtle) 
+True 
+>>> type(george) 
+<class 'tutle.Turtle'> 
+```
+
+Here `turtle.Turtle` is a class, and calling the class is a way to create new objects of that class. 
 
 
  
