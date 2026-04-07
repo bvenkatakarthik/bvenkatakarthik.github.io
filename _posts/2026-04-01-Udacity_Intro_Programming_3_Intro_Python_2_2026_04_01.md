@@ -1350,6 +1350,62 @@ True
 
 Here `turtle.Turtle` is a class, and calling the class is a way to create new objects of that class. 
 
+[**Defining a new class**] 
+
+To define a class, we use a `class` statement. Class statements are compound statements that look a lot like function definitions. 
+
+**Eg**: 
+
+```
+class Dog: 
+    def speak(self): 
+        print("Woof!") 
+```
+
+This defines a class named `dog`. Indented inside the class, there is a method definition (for a method named `speak`). 
+
+Once we have defined a class, we can then create (or instantiate) an object from that class, like this:
+
+```
+>>> import animals.py 
+>>> fido = animals.Dog() 
+```
+
+Once we have instantiated a `Dog` object and assigned it to a variable, we can then call that object's methods: 
+
+```
+>>> fido.speak() 
+Woof!
+```
+
+**Eg**: 
+
+```
+class Dog:
+    def speak(self):
+        print("Woof!")
+
+class Cat:
+    def speak(self):
+        print("Meow!")
+
+```
+
+**Eg**: 
+
+```
+class Dog:
+    def speak(self):
+        print("Woof!")
+
+    def eat(self, food):
+        if food == "biscuit":
+            print("Yummy!")
+        else:
+            print("That's not food!")
+```
+
+
 
  
 
