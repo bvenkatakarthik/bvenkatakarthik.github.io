@@ -8,7 +8,8 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
-$${ \Large \boxed{ {\begin{aligned} &\textbf{"Logic will get you} \\ &\textbf{from A to Z;} \\ &\textbf{Imagination will get you} \\ &\textbf{everywhere."} \\ &\textbf{- Einstein} \end{aligned}}  } }$$
+
+$${ \Large \boxed{ {\begin{aligned} &\textbf{IMAGINAL ACTS} \\ &\textbf{influence the mind.} \end{aligned}}  } }$$ 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
