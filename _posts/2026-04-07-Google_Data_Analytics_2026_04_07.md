@@ -86,6 +86,29 @@ Businesses need a way to control all that data so that they can use it to:
 
 This is the process of turning Data to Insights. 
 
+[**Data Types**] 
+
+Here are four most common data types you'll encounter as an analyst: 
+
+- **Numerical Data:** Data that consists of numbers that can be measured, counted, or used in mathematical calculations.
+    
+    - _Examples:_ Quantity, price, height, age.
+
+        
+- **Text Data** (or String Data): Data that consists of letters, words, sentences, or a mix of letters and numbers used as an identifier, not for calculation.
+    
+    - _Examples:_ Product name, customer address, notes, ID numbers (like a phone number or social security number, which you don't perform math on).
+        
+- **Date Data:** Data that represents a specific point in time, such as a date or a timestamp. This data type is crucial for tracking trends and events over time.
+    
+    - _Examples:_ Order date, shipping date, birth date.
+        
+- **Categorical Data:** Data that can be divided into groups or categories. This data often represents labels, names, or discrete categories.
+    
+    - _Examples:_ Product color (red, blue, green), customer loyalty status (Gold, Silver, Bronze), or a rating that uses words (Excellent, Good, Poor).
+
+
+
 
 
 
