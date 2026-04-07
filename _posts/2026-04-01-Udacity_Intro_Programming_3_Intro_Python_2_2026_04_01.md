@@ -1405,7 +1405,20 @@ class Dog:
             print("That's not food!")
 ```
 
+[**The self parameter**] 
 
+**Eg**: Consider the above `animals.py` file example. 
+
+```
+>>> import animals.py 
+>>> fido = animals.Dog() 
+>>> fido.speak() 
+'Woof!' 
+>>> Dog.speak(fido) 
+'Woof!1 
+```
+
+In the last line, when we do this, it assigns the `fido` object to the `self` parameter, and this tells Python which object we want to use with the method. 
 
  
 
