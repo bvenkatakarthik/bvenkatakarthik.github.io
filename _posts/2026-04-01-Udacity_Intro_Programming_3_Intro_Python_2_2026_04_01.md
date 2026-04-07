@@ -1503,6 +1503,56 @@ Now
 'Woof!' 
 ```
 
+[**Initializers**] 
+
+Consider the above `animals.py` example. Suppose we don't ever want to have a dog without a name. 
+
+We can do that by requiring that whenever we construct a new Dog object, we pass a name in the class call that's constructing it. The way that we do that is by creating a special method in the dog class called the dunder init method.
+
+**Eg**: 
+
+```
+class Dog: 
+    scientific_name = "Canis lupus familiaris" 
+
+    def __init__(self, name): 
+        self.name = name 
+
+    def speak(self):
+        print("Woof!") 
+
+    def hear(self, words): 
+        if self.name in words:
+            self.speak() 
+```
+
+Now 
+
+```
+>>> import animals 
+>>> misty = animals.Dog("Misty") 
+>>> misty.hear("Can Misty hear me?") 
+'Woof!' 
+```
+
+**Eg**: 
+
+```
+class Cat:
+
+    def __init__(self):
+        self.mood = "neutral"
+    
+    def speak(self):
+        if self.mood == "happy":
+            print("Purrr")
+        elif self.mood == "angry":
+            print("Hiss!")
+        else:
+            print("Meow!")
+```
+
+
 
 
 
