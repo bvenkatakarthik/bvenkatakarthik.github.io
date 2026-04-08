@@ -1683,6 +1683,72 @@ Now
 The chihuahua spins in the air and turns briefly into a chicken.
 ```
 
+[**Dog Park**] 
+
+**Eg**: 
+
+```
+import animals
+
+class DogPark:
+    def __init__(self, dogs):
+        self.dogs = dogs
+
+    def rollcall(self):
+        print("Dogs in Park:")
+        for dog in self.dogs:
+            print(f"  {dog.name}")
+        print()
+
+    def shout(self, words):
+        for dog in self.dogs:
+            dog.hear(words)
+
+    def converse(self):
+        self.rollcall()
+        while True:
+            words = input("Talk to doggos! ('quit' to quit) > ")
+            if 'quit' in words:
+                print("Bye!")
+                break
+            else:
+                # The shout method is used here.
+                self.shout(words)
+
+if __name__ == '__main__':
+    dogs = [animals.Husky("Toklat"),
+            animals.Chihuahua("Scrappy"),
+            animals.Labrador("Barrett")]
+    park = DogPark(dogs)
+    park.converse()
+```
+
+[**Using Super**] 
+
+Sometimes when we are making a subclass, we don't want to completely replace the `__init__` method on the parent class. Instead, we want to call the initializer of the parent class as the first thing that the child class does in its own initializer. We can accomplish this by using the `super` function. For example:
+
+**Eg**: 
+
+```
+import turtle 
+
+class BigOrangeTurtle(turtle.Turtle):
+    def __init__(self):
+        super().__init__()
+        self.color("orange")
+        self.width(10)
+```
+
+Now 
+
+```
+>>> import orangeturtle 
+>>> clementine = orangeturtle.BigOrangeTurtle() 
+```
+
+gives a big orange turtle. 
+
+
 
 
 
