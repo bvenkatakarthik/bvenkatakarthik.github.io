@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Introduction to Programming**
 
-**Updated:** 7/4/26
+**Updated:** 8/4/26
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -1551,6 +1551,55 @@ class Cat:
         else:
             print("Meow!")
 ```
+
+[**Storing information on instances**] 
+
+Let's teach our dogs to count. 
+
+The first time you call the count method, the dog should speak once. The second time you call the count method, the dog should speak twice. And so on. 
+
+**Eg**: 
+
+```
+class Dog:
+
+    scientific_name = "Canis lupus familiaris"
+
+    def __init__(self, name):
+        self.name = name
+        self.woofs = 0
+
+    def speak(self):
+        print("Woof!")
+
+    # def learn_name(self, foo):
+    #     self.foo = name
+
+    def hear(self, words):
+        if self.name in words:
+            self.speak()
+
+    def count(self):
+        self.woofs += 1
+        for bark in range(self.woofs):
+            self.speak()
+```
+
+Now 
+
+```
+>>> fido.count()
+Woof!
+>>> fido.count()
+Woof!
+Woof!
+>>> fido.count()
+Woof!
+Woof!
+Woof!
+```
+
+
 
 
 
