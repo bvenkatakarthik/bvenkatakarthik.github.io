@@ -9,7 +9,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
 
-$${ \Large \boxed{ {\begin{aligned} &\textbf{Learning to DO} \end{aligned}}  } }$$ 
+$${ \Large \boxed{ {\begin{aligned} &\textbf{Learning to DO.} \end{aligned}}  } }$$ 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
