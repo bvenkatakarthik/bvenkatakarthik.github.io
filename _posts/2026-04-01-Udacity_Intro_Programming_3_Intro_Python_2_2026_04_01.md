@@ -1599,6 +1599,91 @@ Woof!
 Woof!
 ```
 
+[**Inheritance**] 
+
+You can create classes based on other classes. 
+
+**Eg**: Anything true about dogs in general (for eg scientific name) is going to be true about Chihuahuas and Huskies. 
+
+```
+class Dog:
+
+    scientific_name = "Canis lupus familiaris"
+
+    def __init__(self, name):
+        self.name = name
+        self.woofs = 0
+
+    def speak(self):
+        print("Woof!")
+
+    # def learn_name(self, foo):
+    #     self.foo = name
+
+    def hear(self, words):
+        if self.name in words:
+            self.speak()
+
+    def count(self):
+        self.woofs += 1
+        for bark in range(self.woofs):
+            self.speak()
+
+
+class Chihuahua(Dog): 
+    origin = "Mexico" 
+
+    def speak(self): 
+        print("Yip!") 
+```
+
+Now 
+
+```
+>>> import animals 
+>>> scrappy = animals.Chihuahua("Scrappy") 
+>>> scrappy.hear("Scrappy is the tiniest dog!") 
+'Yip!' 
+>>> isinstance(scrappy, animals.Chihuahua) 
+True 
+>>> isinstance(scrappy, animals.Dog) 
+True 
+>>> issubclass(animals.Chihuahua, animals.Dog) 
+True 
+```
+
+**Note**: Note that `isinstance(True, int)` is True. It turns out that this is an example of subclassing that is built right into the core of Python. True and False are members of the `bool` class — but `bool` is a subclass of `int`.
+
+We will also look at methods that do nothing. 
+
+Sometimes when defining classes, you'll want to create **placeholder** methods — which don't do anything, but which can be replaced in a subclass. Python has a special do-nothing statement called `pass` which works very well for this. `pass` can be used in class or method definitions to indicate that it's intentional for the definition to do nothing: 
+
+**Eg**: 
+
+```
+class Dog:
+    def do_trick(self):
+        pass
+
+class Chihuahua(Dog):
+    pass
+
+class TrainedChihuahua(Chihuahua):
+    def do_trick(self):
+        print("The chihuahua spins in the air and turns briefly into a chicken.")
+```
+
+Now 
+
+```
+>>> fido = Dog()
+>>> fido.do_trick()
+>>> pupper = TrainedChihuahua()
+>>> pupper.do_trick()
+The chihuahua spins in the air and turns briefly into a chicken.
+```
+
+
 
 
 
