@@ -131,6 +131,51 @@ Relationship:
 We will look into this more carefully later.
 
 **Note: glossy_qty is incorrect, it is actually gloss_qty in the database**
+
+[**Why SQL is Important**] 
+
+Note that SQ**L** is a **Language**. 
+
+For this class, you can think of a database as a bunch of excel spreadsheets all sitting in one place.
+
+**Why do Data Analysts use SQL?** 
+
+Most of the world's data lives in databases, and the world's databases are accessed using structured query language, abbreviated as SQL. 
+
+SQL is popular for data analysis because: 
+
+* SQL is semantically easy to understand. 
+
+* It can be used to access large amounts of data directly where it's stored. (You don't have to copy data into other applications to view it, and you don't need to worry about your spreadsheet program crashing because of data overload.)
+
+* Easy to audit and replicate. (In a spreadsheet tool like Excel, you have to click in to each cell to know how they're calculated. With SQL, you can just read a query from top to bottom, nothing's hidden.) 
+
+*  SQL is a great tool for analyzing multiple tables at once.
+
+**Eg**: SQL vs Google Analytics. 
+
+Google Analytics: 
+
+* Which pages recieve the most traffic? 
+
+* Where does the traffic come from? 
+
+We can use SQL to answer much complex and deeper questions: 
+
+SQL: 
+
+* How many return within 1 and 3 weeks of first visit? 
+
+* What brings them back? 
+
+**Why do Businesses choose SQL?** 
+
+1. Data integrity is ensured - only the data you want to be entered is entered, and only certain users are able to enter data into the database.
+2. Data can be accessed quickly - SQL allows you to obtain results very quickly from the data stored in a database. Code can be optimized to quickly pull results.
+3. Data is easily shared - multiple individuals can access data stored in a database, and the data is the same for all users allowing for consistent results for anyone with access to your database.
+
+
+
  
 
 
