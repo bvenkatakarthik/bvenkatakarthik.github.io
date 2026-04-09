@@ -128,7 +128,10 @@ Relationship:
 |id|Unique identifier for each region|
 |name|Name of the region|
 
-We will look into this more carefully later. 
+We will look into this more carefully later.
+
+**Note: glossy_qty is incorrect, it is actually gloss_qty in the database**
+ 
 
 
 
