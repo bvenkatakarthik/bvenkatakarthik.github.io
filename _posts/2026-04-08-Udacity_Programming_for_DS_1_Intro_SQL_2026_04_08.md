@@ -28,6 +28,9 @@ Broadly speaking, both statistics and programming are foundational for analyzing
 
 * Programming gives the ability to automate processes. 
 
+We will consider 
+
+$${ \boxed{\textbf{Basic SQL}} }$$
 
 
 
