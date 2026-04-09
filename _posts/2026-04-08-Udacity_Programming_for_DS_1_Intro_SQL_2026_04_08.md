@@ -50,7 +50,7 @@ Sometimes you need lots of spreadsheets to store data from different sources.
 
 We can visualize the relationships between these spreadsheets using an ERD, namely an Entity Relationship Diagram. 
 
-An entity-relationship diagram (ERD) is a common way to view data in a database. Below is the ERD for the database we will use from Parch & Posey. These diagrams help you visualize the data you are analyzing including:
+Below is the ERD for the database we will use from Parch & Posey. These diagrams help you visualize the data you are analyzing including:
 
 1. The names of the tables.
 2. The columns in each table.
