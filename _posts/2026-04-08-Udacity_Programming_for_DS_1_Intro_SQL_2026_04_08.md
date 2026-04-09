@@ -32,6 +32,17 @@ We will consider
 
 $${ \boxed{\textbf{Basic SQL}} }$$
 
+SQL is pronounced Sequel. 
+
+[**The Parch and Posey Database**] 
+
+Parch & Posey (not a real company) is a paper company and the database includes sales data for their paper.
+
+They have 50 sales reps spread across the United States in four regions. They sell three types of paper: regular, poster, and glossy. Their clients are primarily large Fortune 100 companies whom they attract by advertising on Google, Facebook, and Twitter. 
+
+Using SQL, we will be able to help Parch and Posey answer tricky questions like: Which of their product lines is worst performing? Which of their marketing channels should they make a greater investment in? 
+
+
 
 
 
