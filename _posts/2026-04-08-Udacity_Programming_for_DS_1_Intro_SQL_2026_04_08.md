@@ -18,5 +18,17 @@ We will learn programming skills needed to uncover patterns and insights in larg
 
 $${ \underline{\textbf{Introduction to SQL}} }$$ 
 
+[**Welcome to Programming for DS**] 
+
+Why do you need programming for analysis? 
+
+Broadly speaking, both statistics and programming are foundational for analyzing data. 
+
+* Programming allows you to work with much larger datasets than is possible with spreadsheet applications.
+
+* Programming gives the ability to automate processes. 
+
+
+
 
 
