@@ -84,6 +84,40 @@ Some data sources we might encounter:
 
 Data is important, but is secondary to your question. 
 
+[**The Data Science Process**] 
+
+Every data science project starts with a question that is to be answered with data. 
+
+The second step is finding or generating data you're going to use to answer that question. 
+
+With the question solidified and data in hand, ​the data are then analyzed first by ​exploring the data and then often by modeling the data, ​which means using some statistical or machine-learning techniques ​to analyze the data and answer your question.
+
+After drawing conclusions from this analysis, ​the project has to be communicated to others by a report. 
+
+**Eg**: For this example, we're going to use ​an example analysis from a data scientist named Hilary Parker. Link to the blog post: [Link](https://hilaryparker.com/2013/01/30/hilary-the-most-poisoned-baby-name-in-us-history/).
+
+Link to github repo: [Link](https://github.com/hilaryparker/names). 
+
+The first thing she did was look at the names with ​the biggest drop in percentage from one year to the next. ​By this preliminary analysis, ​Hilary was sixth on the list. ​Meaning there were five other names that had had a single year drop in popularity ​larger than the one the name Hilary experienced from 1992-1993.
+
+
+<div align="center">
+    <img src="https://a.l3n.co/cIovUK.png" width="400" height="500"/> 
+</div>
+
+$${ }$$ 
+
+<div align="center">
+    <img src="https://a.l3n.co/cIoDAi.png"/> 
+</div>
+
+**Eg**: Analysis of Trump's tweets: [Link](http://varianceexplained.org/r/trump-tweets/). 
+
+**Eg**: Where to live in the US: [Link](https://masalmon.eu/2017/11/16/wheretoliveus/). 
+
+
+
+
 
 
 
