@@ -8,7 +8,7 @@ tags: [documentation,sample]
 
 **Programming for Data Science** 
 
-**Updated**: 8/4/26 
+**Updated**: 10/4/26 
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -173,6 +173,22 @@ SQL:
 1. Data integrity is ensured - only the data you want to be entered is entered, and only certain users are able to enter data into the database.
 2. Data can be accessed quickly - SQL allows you to obtain results very quickly from the data stored in a database. Code can be optimized to quickly pull results.
 3. Data is easily shared - multiple individuals can access data stored in a database, and the data is the same for all users allowing for consistent results for anyone with access to your database.
+
+[**How databases store data**] 
+
+Database tables are organized by column, and each column must have a unique name. 
+
+In a database table, all the data in a column must be of the same type. 
+
+A few key points about data stored in SQL databases:
+
+1. **Data in databases is stored in tables that can be thought of just like Excel spreadsheets.** For the most part, you can think of a database as a bunch of Excel spreadsheets. Each spreadsheet has rows and columns. Where each row holds data on a transaction, a person, a company, etc., while each column holds data pertaining to a particular aspect of one of the rows you care about like a name, location, a unique id, etc.
+    
+2. **All the data in the same column must match in terms of data type.**  
+    An entire column is considered quantitative, discrete, or as some sort of string. This means if you have one row with a string in a particular column, the entire column might change to a text data type. **This can be very bad if you want to do math with this column!**
+    
+3. **Consistent column types are one of the main reasons working with databases is fast.** Often databases hold a LOT of data. So, knowing that the columns are all of the same types of data means that obtaining data from a database can still be fast.
+
 
 
 
