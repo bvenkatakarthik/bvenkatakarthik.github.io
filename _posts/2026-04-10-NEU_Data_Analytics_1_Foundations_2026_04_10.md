@@ -16,5 +16,4 @@ Link to "Foundations for Data Analytics Engineering" Course: [Link](https://www.
 **ROUGH NOTES (!)**    
 Updated: 10/4/26 
 
-$${ }$$
 $${ \underline{\textbf{Foundations for Data Analytics Engineering}} }$$
