@@ -45,6 +45,47 @@ In this course, we will spend a bit of time focusing on each of these three sect
 
 [**What is Data?**] 
 
+Cambridge dictionary on Data: 
+
+"Information, especially facts or numbers, collected to be examined and used to help decision making". 
+
+Wikipedia on Data: 
+
+"A set of values of qualitative or quantitative variables". 
+
+In the Wikipedia definition: 
+
+Set: In statistics, the population you are trying to discover something about. 
+
+Variable: Measurements or characteristics of an item.  
+* Qualitative variable: Measurements or information about qualities. (Eg: Country of origin, sex, etc.)  
+* Quantitative variable: Measurements or information about quantities or numerical items. (Eg: Height, weight, etc.) 
+
+**Eg**: Data in a table. 
+
+<div align="center">
+    <img src="https://c.l3n.co/cILXUM.png" width="400" height="170"/> 
+</div>
+
+The data sets we commonly encounter are much messier. It is our job to extract information we want, gathered into something tidy like the table here, analyze it apropriately, and often visualize our results. 
+
+Some data sources we might encounter: 
+
+* Sequencing data 
+* Population census data 
+* Electronic medical records (EMR), other large databases 
+* Geographic information system (GIS) data (mapping) 
+* Image analysis and image extrapolation 
+* Language and translations 
+* Website traffic 
+* Personal/Ad data (eg: Facebook, Netflix predictions, etc.) 
+
+**Eg**: Google photos automatically recognizing faces. 
+
+Data is important, but is secondary to your question. 
+
+
+
 
 
 
