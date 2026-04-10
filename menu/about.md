@@ -25,7 +25,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 |:--:| 
 | ${ \Large \textbf{THE WORLD} }$  |
 
-A video version of the pic: [Link](https://youtu.be/x896_J1k8rM?si=HDkfeIrXs9vTbPWg).  
 
 I am curious about Value Creation and Money. 
 
