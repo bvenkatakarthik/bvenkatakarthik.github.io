@@ -99,7 +99,7 @@ Here are the column labels:
 
 * **cr_req**: Number of content removal requests made to Google by the country. (Discrete Numerical) 
 
-* **cr_comply**: Percentage of content removal requests Google complied with (Continuous Numerical)
+* **cr_comply**: Percentage of content removal requests Google complied with. (Continuous Numerical)
 
 * **ud_req**: Number of user data requests as part of a criminal investigation. (Discrete Numerical)
 
