@@ -159,8 +159,6 @@ The title says "Breakfast cereal keeps girls slim". But there may be 3 explanati
 
 **Confounding variables** are extraneous variables that affect both the explanatory and the response variable, and that make it seem like there is a relationship between them. 
 
-Here the confounding variable can be being health conscious.
-
 <div align="center">
     <img src="https://a.l3n.co/crqBbx.png"/> 
 </div>
