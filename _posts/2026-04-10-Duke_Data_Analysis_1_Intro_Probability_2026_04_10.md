@@ -58,6 +58,66 @@ We will also learn to identify scope of inference for a study (such as whether w
 
 We will also learn methods of exploratory data analysis ​such as data visualizations and summary statistics.
 
+[**Data basics**] 
+
+Consider the table from Google's Transparency Report released in 2011. 
+
+Data are organized in a data matrix, where each row represents an observation or a case, and each column represents a variable. 
+
+<div align="center">
+    <img src="https://b.l3n.co/cIxWIF.png"/> 
+</div>
+
+In general what are the various types of variables? 
+
+There are two types of **variables**: 
+
+* **Numerical** (quantitative)
+
+* **Categorical** (qualitative)
+
+Numerical variables take on numerical values. It is sensible to add, subtract, take averages, etc. with these values. 
+
+Categorical variables take on a limited number of distinct categories. Categories can be identified with numbers (eg 0 for male, 1 for female) but it's not sensible to do arithmetic operations. 
+
+**Numerical variables** can further be categorized as: 
+* **Continuous**
+* **Discrete**
+
+Continuous variables (eg height) can take on any of an infinite number of values within a given range. 
+
+Discrete variables can take on a specific set of numeric values where we're able to count all of the possibilities. Eg, number of cars a household owns. 
+
+**Categorical variables** that have ordered levels are called **Ordinal**.    
+Eg: Think about a survey question where you're asked how satisfied you are with ​the customer service you received and the options are very unsatisfied, ​unsatisfied, neutral, satisfied and very satisfied. ​These levels have an inherent ordering, ​hence the variable would be called ordinal.
+
+Let's get back to the Google Transparency Report. 
+
+Here are the column labels: 
+
+* **country**: Name of the country for which the data are gathered. 
+
+* **cr_req**: Number of content removal requests made to Google by the country. (Discrete Numerical) 
+
+* **cr_comply**: Percentage of content removal requests Google complied with (Continuous Numerical)
+
+* **ud_req**: Number of user data requests as part of a criminal investigation. (Discrete Numerical)
+
+* **ud_comply**: Percentage of user data requests Google complied with. (Continuous Numerical)
+
+* **hemisphere**: Hemisphere that the country is located in. (Categorical) 
+
+* **hdi**: Human Development Index (very high, high, medium, low). (Ordinal)
+
+We will look at relationships between variables. 
+
+Here is the relationship between ud_comply and ud_req. 
+
+<div align="center">
+    <img src="https://d.l3n.co/crVjiQ.png"/> 
+</div>
+
+
 
 
 
