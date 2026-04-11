@@ -117,6 +117,61 @@ Here is the relationship between ud_comply and ud_req.
     <img src="https://d.l3n.co/crVjiQ.png"/> 
 </div>
 
+[**Observational Studies and Experiments**] 
+
+There are two kinds of **studies**: 
+
+* **Observational study**
+* **Experimental study** 
+
+In an **observational study**, we collect data in a way that does not directly interfere with how the data arise ("observe"). Using an observational study we can only establish an association.    
+Within observational studies: Retrospective studies use past data, and prospective studies use data collected throughout the study. 
+
+In an **experimental study**, we randomly assign subjects to treatments. Using an experimental study we can establish causal connections between explanatory and response variables. 
+
+<div align="center">
+    <img src="https://c.l3n.co/crq1b3.png"/> 
+</div>
+
+**Eg**: Suppose we ​want to evaluate the relationship between regularly working out and energy level. ​We can design this study as an observational study or an experiment. 
+
+​In an **observational study**, we sampled two types of people from the population. ​Those who choose to work out and those who don't, ​then find the average energy level for the two groups of people and compare.
+
+On the other hand, in an **experiment**, we sample a group of people from ​the population, then we randomly assign these people into two groups. ​Those who will regularly work out through the course of the study and ​those who will not
+
+The difference is that the decision of whether to work out or ​not is not left up to the subjects as in the observational study, but ​is instead imposed by the researcher.
+
+At the end, when we compare the average energy levels of the two groups based on ​the **observational study** even if we find the difference between ​the average energy levels of these two groups of people, ​we can't attribute this difference solely to working out. ​Because there may be other variables that we didn't control for ​in this study, that contribute to the observed difference. ​For example, people who are in better shape might be ​more likely to regularly work out and also have higher energy levels.
+
+However, in the **experiment**, such variables that might also contribute to the outcome ​are likely equally represented in the two groups due to the random assignment. ​Therefore, if we find a difference between the two averages, we can indeed make ​a colossal statement attributing this difference to working out.
+
+**Eg**: 
+
+<div align="center">
+    <img src="https://a.l3n.co/crqd6e.png"/> 
+</div>
+
+The title says "Breakfast cereal keeps girls slim". But there may be 3 explanations: 
+
+<div align="center">
+    <img src="https://d.l3n.co/crqqzk.png"/> 
+</div>
+
+**Confounding variables** are extraneous variables that affect both the explanatory and the response variable, and that make it seem like there is a relationship between them. 
+
+Here the confounding variable can be being health conscious.
+
+<div align="center">
+    <img src="https://a.l3n.co/crqBbx.png"/> 
+</div>
+
+Note that correlation does not imply causation. Broadly speaking, observational studies allow us to make correlation statements, and experiments allow us to make causal statements. 
+
+
+
+
+
+
 
 
 
