@@ -165,6 +165,53 @@ The title says "Breakfast cereal keeps girls slim". But there may be 3 explanati
 
 Note that correlation does not imply causation. Broadly speaking, observational studies allow us to make correlation statements, and experiments allow us to make causal statements. 
 
+[**Sampling and Sources of Bias**] 
+
+Q) Wouldn't it be better to just include everyone and "sample" the entire population, i.e. conduct a **census**? 
+
+Some reasons are: 
+
+* Conducting a census takes lots of resources. 
+
+* Some individuals are hard to locate or measure.    
+Eg: Illegal immigrants are reluctant to fill out census form. 
+
+* Populations rarely stand still. 
+
+Sampling is reasonable. 
+
+For eg, while cooking, we test the taste by taking a small spoonful.    
+When you taste a spoonful of a soup and decide the spoonful you tasted isn't salty enough, you're doing exploratory analysis.    
+When you taste a spoonful of soup and decide the whole pot of soup isn't salty enough, you're doing inference. For your inference to be valid, the spoonful you've tasted (your sample) needs to be representative of your entire soup (your population). For eg, if your spoonful is taken only from the surface and salty portions collect at the bottom it might not be representative sample. On the other hand if you stir your soup thoroughly before tasting, your spoonful will be more likely to be representative of the whole pot. 
+
+A few sources of **sampling bias**: 
+
+* **Convenience sample**: Individuals who are easily accessible are more likely to be included in the sample.    
+Eg: For example, say you want to find out how ​people in your city feel about a recent increase in public transportation costs. ​If you only poll people in your neighborhood, ​as opposed to a representative sample from the whole city, ​your study would suffer from convenience bias.
+
+* **Non-response**: If only a (non random) fraction of the (initially) randomly sampled people respond to a survey such that the sample is no longer representative of the population.    
+
+* **Voluntary response**: Occurs when the sample consists of people who volunteer to respond because they have strong opinions on the issue.
+
+We will consider some sampling methods: 
+
+* **Simple Random Sample** (SRS) 
+* **Stratified Sample** 
+* **Cluster Sample** 
+* **Multistage Sample** 
+
+In **Simple Random Sampling**, we randomly select cases from the population, ​such that each case is equally likely to be selected. ​This is similar to randomly drawing names from a hat.
+
+In **Stratified Sampling**, we first divide the population into homogenous ​groups called strata, and then randomly sample from within each stratum. ​For example, if we wanted to make sure both genders are equally represented ​in a study, we might divide the population first into males and females, and ​then randomly sample from within each group.
+
+In **Cluster Sampling**, we divide the population into clusters, randomly sample ​a few clusters, and then sample all observations within these clusters.
+
+In **Multistage Sampling**, we divide the population into clusters, randomly sample ​a few clusters, and then randomly sample within these clusters.    
+For example, one might divide a city into geographic regions that are on average ​similar to each other, and then sample randomly a few of these regions, ​go to these randomly picked regions, and ​then, sample a few people from within these regions.
+
+
+
+
 
 
 
