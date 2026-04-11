@@ -8,8 +8,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
-
-$${ \large \boxed{{\begin{aligned} &\, \textbf{LIFE:} \\ &\textbf{ACTION-REWARD CYCLES}\end{aligned}}} }$$
+$${ \large \boxed{  {\begin{aligned} &\textbf{LIFE:} \\ &\textbf{ACTION-REWARD CYCLES}  \end{aligned}}  } }$$
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
