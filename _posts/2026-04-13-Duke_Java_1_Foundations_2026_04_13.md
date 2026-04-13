@@ -56,6 +56,40 @@ li {
 }
 ```
 
+[**What is HTML?**] 
+
+We will explore the language of web page creation. 
+
+Note that a webpage typically has bold text, link text, images, URL (Uniform Resource Locator).
+
+HTML (HyperText Markup Language) is a language used to create web pages. 
+
+HTML is NOT a programming language, it is a markup language (where we markup text to display information in certain ways). 
+
+HTML specifies meaning or semantics. How to display is different, here CSS helps. 
+
+HTML5 is the current standard for HTML. 
+
+**Eg**: 
+
+<div align="center">
+    <img src="https://b.l3n.co/c1Ewjb.png" /> 
+</div>
+
+Note the tags. 
+
+The `<html>` tags are used to indicate we are using HTML to define the components of a webpage. 
+
+The `<title>` tags are used to define the text shown on the tab title. 
+
+The `<body>` tags are used to define the body of the webpage. 
+
+The `<p>` tags are used to define paragraphs. 
+
+
+
+
+
 
 
 
