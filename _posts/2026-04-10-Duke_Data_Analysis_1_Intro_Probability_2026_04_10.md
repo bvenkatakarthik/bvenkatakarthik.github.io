@@ -209,6 +209,59 @@ In **Cluster Sampling**, we divide the population into clusters, randomly sample
 In **Multistage Sampling**, we divide the population into clusters, randomly sample ​a few clusters, and then randomly sample within these clusters.    
 For example, one might divide a city into geographic regions that are on average ​similar to each other, and then sample randomly a few of these regions, ​go to these randomly picked regions, and ​then, sample a few people from within these regions.
 
+[**Experimental Design**] 
+
+The 4 principles of experimental design are: 
+
+* **Control** 
+
+* **Randomize** 
+
+* **Replicate** 
+
+* **Block** 
+
+**Control**: To control means to compare treatment of interest to a control group. 
+
+**Randomize**: To randomize means to randomly assign subjects to treatments. 
+
+**Replicate**: To replicate means to collect a sufficiently large sample, or replicate the entire study. 
+
+**Block**: To block means to block for variables known or suspected to affect the outcome. 
+
+**Eg**: [More on Blocking] 
+
+We would like to: Design an experiment investigating whether energy gels help you run faster. 
+
+The treatment group gets the energy gels, and the control group does not get the energy gels. 
+
+It is suspected that energy gels might effect pro and amateur athletes differently. 
+
+Therefore we block for pro status. To do so: 
+
+* We divide the sample into pro and amateur athletes. 
+* We randomly assign pro and amateur athletes to treatment and control groups. Therefore, pro and amateur athletes are equally represented in the resulting treatment and control groups. 
+
+This way, if we do find a difference in running speed between the treatment and ​control groups we will be able to attribute it to the treatment, ​the energy gel, and ​can be assured that the difference isn't due to pro status since both pro and ​amateur athletes were equally represented in the treatment and control groups.
+
+How do we tell the difference between a blocking variable and an explanatory variable? 
+
+Explanatory variables: Conditions we can impose on experimental units. 
+
+Blocking variables: Characteristics that the experimental units come with, that we would like to control for. 
+
+We will now look at some terminology. 
+
+**Placebo**: Fake treatment, often used as the control group for medical studies. 
+
+**Placebo effect**: Showing change despite being on the placebo. 
+
+**Blinding**: Experimental units don't know which group they're in. 
+
+**Double-blind**: Both the experimental units and the researchers don't know the group assignment. 
+
+
+
 
 
 
