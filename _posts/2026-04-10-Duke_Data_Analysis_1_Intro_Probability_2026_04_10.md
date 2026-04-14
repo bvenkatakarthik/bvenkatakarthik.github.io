@@ -13,7 +13,7 @@ Link to Coursera - Duke Courses: [Link](https://www.coursera.org/search?query=du
 Link to Coursera - Duke Data Analysis Course: [Link](https://www.coursera.org/specializations/statistics). 
 
 **ROUGH NOTES (!)**    
-Updated: 11/4/26 
+Updated: 14/4/26 
 
 **INTRODUCTION TO PROBABILITY AND DATA WITH R**
 
@@ -512,6 +512,96 @@ This command add a new variable to the `arbuthnot` data frame containing the v
 **Exploratory Data Analysis and Inference**: 
 
 [**Visualizing Numerical Data**] 
+
+We will discuss scatterplots for paired data, and other visualizations for describing distributions of numerical variables. 
+
+Consider the following data from gapminder: 
+
+<div align="center">
+    <img src="https://c.l3n.co/cRtX23.png"/> 
+</div>
+
+Here is a scatterplot: 
+
+<div align="center">
+    <img src="https://b.l3n.co/cRt5RA.png"/> 
+</div>
+
+Since we might suspect that the economic wealth of a country might affect the average life expectancy of it's people, we set up our analysis with ​income as the explanatory and life expectancy as their response variable. (Note that labelling variables as explanatory and response does not imply causation.) 
+
+Note that the potential outliers (to the rough curve) are labelled. 
+
+In evaluating the relationship between two numerical variables, we must consider: 
+
+* DIrection (Is it positive or negative?) 
+* Shape (Is it linear or curved?) 
+* Strength (Is the approximation strong or weak?) 
+* Outliers
+
+<div align="center">
+    <img src="https://a.l3n.co/cRtGpM.png"/> 
+</div>
+
+Here is a histogram (number of countries vs life expectancy on the top; and number of countries vs income per person on the bottom): 
+
+<div align="center">
+    <img src="https://b.l3n.co/cRtaFQ.png"/> 
+</div>
+
+In a histogram, data are binned into intervals and height of the bars represent the number of cases that fall into each interval. 
+
+Note that a histogram provides a view of the data density. 
+
+Skewness: 
+
+Distributions are said to be skewed to the side of the long tail. 
+
+<div align="center">
+    <img src="https://a.l3n.co/cR1Aok.png"/> 
+</div>
+
+Modality: 
+
+A distribution may be unimodal with one prominent peak, or bimodal with two prominent peaks, and so on. 
+
+<div align="center">
+    <img src="https://b.l3n.co/cR1i2x.png"/> 
+</div>
+
+A bimodal distribution might indicate there are two distinct groups in your data. For eg, consider the distribution of heights of individuals at a preschool. There will be two peaks in the histogram, one for the kids and another for the teachers. 
+
+Note that the chosen bin width can alter the story the histogram is telling. Here for eg, the middle bin width is ideal. 
+
+<div align="center">
+    <img src="https://b.l3n.co/cR1tFP.png"/> 
+</div>
+
+Another visalisation technique, especially useful for highlighting outliers, is a boxplot. 
+
+<div align="center">
+    <img src="https://b.l3n.co/cR1unH.png"/> 
+</div>
+
+Here median refers to the middle value of the data. Here IQR, or Inter Quartile Range, refers to difference between data ranked at 25% rank and data ranked at 75% rank. 
+
+Here in the top box plot, it says the middle 50% of the countries have life expectancy between 65 and 77 years old. 
+
+Note the outliers as well. 
+
+Here are some box plot and histogram comparisions: 
+
+<div align="center">
+    <img src="https://a.l3n.co/cR1fOK.png"/> 
+</div>
+
+Consider the spatial map: 
+
+<div align="center">
+    <img src="https://b.l3n.co/cRRIWr.png"/> 
+</div>
+
+
+
 
 
 
