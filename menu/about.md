@@ -31,6 +31,8 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
+I am grateful for life as a "modern human" on a "modern Earth".
+
 
 
 
