@@ -8,7 +8,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".
 
-Grothendieck on being alone. [Link](https://www.reddit.com/r/math/comments/4rujne/alexander_grothendieck_on_learning_to_be_alone/). 
+Grothendieck on being alone: [Link](https://www.reddit.com/r/math/comments/4rujne/alexander_grothendieck_on_learning_to_be_alone/). 
 
 
 $${ \large \boxed{ {\begin{aligned} &\textbf{"Logic} \\ &\textbf{will get you from A to Z,} \\ &\textbf{IMAGINATION} \\ &\textbf{will get you everywhere."} \\ &\textbf{- Einstein}\end{aligned}} } }$$
