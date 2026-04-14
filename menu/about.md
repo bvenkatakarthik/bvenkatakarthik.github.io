@@ -11,7 +11,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 $${ \large \boxed{ {\begin{aligned} &\textbf{"Logic} \\ &\textbf{will get you from A to Z,} \\ &\textbf{IMAGINATION} \\ &\textbf{will get you everywhere."} \\ &\textbf{- Einstein}\end{aligned}} } }$$
 
-$${ \large \boxed{ {\begin{aligned} &\textbf{"IMAGINATION} \\ &\textbf{is the eye of the soul."} \\ &\textbf{- Joseph Joubert} \end{aligned}} } }$$
+$${ \large \boxed{ {\begin{aligned} &\textbf{"IMAGINATION} \\ &\textbf{is the eye of the SOUL."} \\ &\textbf{- Joseph Joubert} \end{aligned}} } }$$
 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
