@@ -509,6 +509,12 @@ arbuthnot <- arbuthnot %>%
 
 This command add a new variable to the `arbuthnot` data frame containing the values of either `TRUE` if that year had more boys than girls, or `FALSE` if that year did not (the answer may surprise you). This variable contains different kind of data than we have considered so far. All other columns in the `arbuthnot` data frame have values are numerical (the year, the number of boys and girls). Here, we’ve asked R to create _logical_ data, data where the values are either `TRUE` or `FALSE`. In general, data analysis will involve many different kinds of data types, and one reason for using R is that it is able to represent and compute with many of them.
 
+**Exploratory Data Analysis and Inference**: 
+
+[**Visualizing Numerical Data**] 
+
+
+
 
 
 
