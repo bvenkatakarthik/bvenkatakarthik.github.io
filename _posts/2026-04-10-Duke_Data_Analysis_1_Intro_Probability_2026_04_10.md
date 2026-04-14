@@ -17,6 +17,10 @@ Updated: 11/4/26
 
 **INTRODUCTION TO PROBABILITY AND DATA WITH R**
 
+<a name="top"></a>
+
+**Labs**: [Week 1 Lab](#1); 
+
 [**Introduction to Statistics with R**] 
 
 How does a doctor decide that a new drug is more effective than an existing drug? 
@@ -260,7 +264,11 @@ We will now look at some terminology.
 
 **Double-blind**: Both the experimental units and the researchers don't know the group assignment. 
 
+<a name="1"></a>
+
 [**Week 1 Lab**] 
+
+[Back to top](#top)
 
 First, you will need to install R and RStudio. 
 
