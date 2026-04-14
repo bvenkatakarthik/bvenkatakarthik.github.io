@@ -260,6 +260,249 @@ We will now look at some terminology.
 
 **Double-blind**: Both the experimental units and the researchers don't know the group assignment. 
 
+[**Week 1 Lab**] 
+
+First, you will need to install R and RStudio. 
+
+(R is the name of the programming language itself and RStudio is a convenient interface.)
+
+Install R packages: 
+
+First we install and load devtools:
+
+We will use the devtools package to install the statsr package associated with this course. Launch RStudio, and enter the following commands in the Console:
+
+```
+install.packages("devtools")
+
+library(devtools)
+```
+
+
+Now we install other packages: 
+
+```
+install.packages("dplyr")
+
+install.packages("ggplot2")
+
+install.packages("shiny")
+
+install_github("StatsWithR/statsr")
+```
+
+Next, download the R Markdown file linked below, open it in RStudio, and click on Knit.
+
+Link to the file: [Link](https://drive.google.com/file/d/1SfOURPlynuNAbFRfIK7NBTddMDe9SZ-h/view?usp=sharing). 
+
+On knitting, we get a HTML file in a browser. (On knitting `Duke_Intro_R.rmd` file we get `Duke_Intro_R.html` file in the same directory). 
+
+**Contents of Week 1 Lab File**: 
+
+Today we begin with the fundamental building blocks of R and RStudio: the interface, reading in data, and basic commands.
+
+**R Studio**: 
+
+Your RStudio window has four panels.
+
+Your R Markdown file (this document) is in the upper left panel.
+
+The panel on the lower left is where the action happens. It’s called the _console_. Everytime you launch RStudio, it will have the same text at the top of the console telling you the version of R that you’re running. Below that information is the _prompt_. As its name suggests, this prompt is really a request, a request for a command. Initially, interacting with R is all about typing commands and interpreting the output.
+
+The panel in the upper right contains your _workspace_ as well as a history of the commands that you’ve previously entered.
+
+Any plots that you generate will show up in the panel in the lower right corner. This is also where you can browse your files, access help, manage packages, etc.
+
+**R Packages**: 
+
+We will use the following R packages:
+
+- `statsr`: for data files and functions used in this course
+- `dplyr`: for data wrangling
+- `ggplot2`: for data visualization
+
+You should have already installed these packages using commands like `install.packages` and `install_github`.
+
+Next, you need to load the packages in your working environment. We do this with the `library` function. Note that you only need to **install** packages once, but you need to **load** them each time you relaunch RStudio.
+
+```
+library(dplyr)
+library(ggplot2)
+library(statsr)
+```
+
+To do so, you can
+
+- click on the green arrow at the top of the code chunk in the R Markdown (Rmd) file, or
+- highlight these lines, and hit the **Run** button on the upper right corner of the pane, or
+- type the code in the console.
+
+Going forward you will be asked to load any relevant packages at the beginning of each lab.
+
+**Dataset 1: Dr. Arbuthnot's Baptism Records**: 
+
+ Run the following command to load the data.
+
+```
+data(arbuthnot)
+```
+
+This command instructs R to load some data. The Arbuthnot baptism counts for boys and girls. You should see that the workspace area in the upper righthand corner of the RStudio window now lists a data set called `arbuthnot` that has 82 observations on 3 variables. As you interact with R, you will create a series of objects. Sometimes you load them as we have done here, and sometimes you create them yourself as the byproduct of a computation or some analysis you have performed.
+
+The Arbuthnot data set refers to Dr. John Arbuthnot, an 18th century physician, writer, and mathematician. He was interested in the ratio of newborn boys to newborn girls, so he gathered the baptism records for children born in London for every year from 1629 to 1710. We can take a look at the data by typing its name into the console.
+
+```
+arbuthnot
+```
+
+```
+## # A tibble: 82 × 3
+##     year  boys girls
+##    <int> <int> <int>
+##  1  1629  5218  4683
+##  2  1630  4858  4457
+##  3  1631  4422  4102
+##  4  1632  4994  4590
+##  5  1633  5158  4839
+##  6  1634  5035  4820
+##  7  1635  5106  4928
+##  8  1636  4917  4605
+##  9  1637  4703  4457
+## 10  1638  5359  4952
+## # ℹ 72 more rows
+```
+
+However printing the whole dataset in the console is not that useful. One advantage of RStudio is that it comes with a built-in data viewer. Click on the name `arbuthnot` in the _Environment_ pane (upper right window) that lists the objects in your workspace. This will bring up an alternative display of the data set in the _Data Viewer_ (upper left window). You can close the data viewer by clicking on the _x_in the upper lefthand corner.
+
+What you should see are four columns of numbers, each row representing a different year: the first entry in each row is simply the row number (an index we can use to access the data from individual years if we want), the second is the year, and the third and fourth are the numbers of boys and girls baptized that year, respectively. Use the scrollbar on the right side of the console window to examine the complete data set.
+
+Note that the row numbers in the first column are not part of Arbuthnot’s data. R adds them as part of its printout to help you make visual comparisons. You can think of them as the index that you see on the left side of a spreadsheet. In fact, the comparison to a spreadsheet will generally be helpful. R has stored Arbuthnot’s data in a kind of spreadsheet or table called a _data frame_.
+
+You can see the dimensions of this data frame by typing:
+
+```
+dim(arbuthnot)
+```
+
+```
+## [1] 82  3
+```
+
+This command should output `[1] 82 3`, indicating that there are 82 rows and 3 columns (we’ll get to what the `[1]` means in a bit), just as it says next to the object in your workspace. You can see the names of these columns (or variables) by typing:
+
+```
+names(arbuthnot)
+```
+
+```
+## [1] "year"  "boys"  "girls"
+```
+
+Let’s start to examine the data a little more closely. We can access the data in a single column of a data frame separately using a command like
+
+```
+arbuthnot$boys
+```
+
+```
+##  [1] 5218 4858 4422 4994 5158 5035 5106 4917 4703 5359 5366 5518 5470 5460 4793
+## [16] 4107 4047 3768 3796 3363 3079 2890 3231 3220 3196 3441 3655 3668 3396 3157
+## [31] 3209 3724 4748 5216 5411 6041 5114 4678 5616 6073 6506 6278 6449 6443 6073
+## [46] 6113 6058 6552 6423 6568 6247 6548 6822 6909 7577 7575 7484 7575 7737 7487
+## [61] 7604 7909 7662 7602 7676 6985 7263 7632 8062 8426 7911 7578 8102 8031 7765
+## [76] 6113 8366 7952 8379 8239 7840 7640
+```
+
+This command will only show the number of boys baptized each year. The dollar sign basically says “go to the data frame that comes before me, and find the variable that comes after me”.
+
+Notice that the way R has printed these data is different. When we looked at the complete data frame, we saw 82 rows, one on each line of the display. These data are no longer structured in a table with other variables, so they are displayed one right after another. Objects that print out in this way are called vectors; they represent a set of numbers. R has added numbers in [brackets] along the left side of the printout to indicate locations within the vector. For example, in the arbuthnot$boys vector, 5218 follows [1], indicating that 5218 is the first entry in the vector. And if [43] starts a line, then that would mean the first number on that line would represent the 43rd entry in the vector.
+
+We can create a simple plot of the number of girls baptized per year with the command
+
+```
+ggplot(data = arbuthnot, aes(x = year, y = girls)) +
+  geom_point()
+```
+
+It produces a plot of the points. 
+
+**R as a calculator**: 
+
+Now, suppose we want to plot the total number of baptisms. To compute this, we could use the fact that R is really just a big calculator. We can type in mathematical expressions like
+
+```
+5218 + 4683
+```
+
+```
+## [1] 9901
+```
+
+to see the total number of baptisms in 1629. We could repeat this once for each year, but there is a faster way. If we add the vector for baptisms for boys to that of girls, R will compute all sums simultaneously.
+
+```
+arbuthnot$boys + arbuthnot$girls
+```
+
+```
+##  [1]  9901  9315  8524  9584  9997  9855 10034  9522  9160 10311 10150 10850
+## [13] 10670 10370  9410  8104  7966  7163  7332  6544  5825  5612  6071  6128
+## [25]  6155  6620  7004  7050  6685  6170  5990  6971  8855 10019 10292 11722
+## [37]  9972  8997 10938 11633 12335 11997 12510 12563 11895 11851 11775 12399
+## [49] 12626 12601 12288 12847 13355 13653 14735 14702 14730 14694 14951 14588
+## [61] 14771 15211 15054 14918 15159 13632 13976 14861 15829 16052 15363 14639
+## [73] 15616 15687 15448 11851 16145 15369 16066 15862 15220 14928
+```
+
+What you will see are 82 numbers (in that packed display, because we aren’t looking at a data frame here), each one representing the sum we’re after. Take a look at a few of them and verify that they are right.
+
+**Adding a new variable to the data frame**: 
+
+We’ll be using this new vector to generate some plots, so we’ll want to save it as a permanent column in our data frame.
+
+```
+arbuthnot <- arbuthnot %>%
+  mutate(total = boys + girls)
+```
+
+What in the world is going on here? The `%>%` operator is called the **piping** operator. Basically, it takes the output of the current line and pipes it into the following line of code.
+
+**A note on piping:** Note that we can read these three lines of code as the following:
+
+_“Take the `arbuthnot` dataset and **pipe** it into the `mutate` function. Using this mutate a new variable called `total` that is the sum of the variables called `boys` and `girls`. Then assign this new resulting dataset to the object called `arbuthnot`, i.e. overwrite the old `arbuthnot` dataset with the new one containing the new variable.”_
+
+This is essentially equivalent to going through each row and adding up the boys and girls counts for that year and recording that value in a new column called total.
+
+**Where is the new variable?** When you make changes to variables in your dataset, click on the name of the dataset again to update it in the data viewer.
+
+You’ll see that there is now a new column called `total` that has been tacked on to the data frame. The special symbol `<-` performs an _assignment_, taking the output of one line of code and saving it into an object in your workspace. In this case, you already have an object called `arbuthnot`, so this command updates that data set with the new mutated column.
+
+We can make a plot of the total number of baptisms per year with the following command.
+
+```
+ggplot(data = arbuthnot, aes(x = year, y = total)) +
+  geom_line()
+```
+
+Note that using `geom_line()` instead of `geom_point()` results in a line plot instead of a scatter plot. You want both? Just layer them on:
+
+```
+ggplot(data = arbuthnot, aes(x = year, y = total)) +
+  geom_line() +
+  geom_point()
+```
+
+Finally, in addition to simple mathematical operators like subtraction and division, you can ask R to make comparisons like greater than, `>`, less than, `<`, and equality, `==`. For example, we can ask if boys outnumber girls in each year with the expression
+
+```
+arbuthnot <- arbuthnot %>%
+  mutate(more_boys = boys > girls)
+```
+
+This command add a new variable to the `arbuthnot` data frame containing the values of either `TRUE` if that year had more boys than girls, or `FALSE` if that year did not (the answer may surprise you). This variable contains different kind of data than we have considered so far. All other columns in the `arbuthnot` data frame have values are numerical (the year, the number of boys and girls). Here, we’ve asked R to create _logical_ data, data where the values are either `TRUE` or `FALSE`. In general, data analysis will involve many different kinds of data types, and one reason for using R is that it is able to represent and compute with many of them.
+
+
+
 
 
 
