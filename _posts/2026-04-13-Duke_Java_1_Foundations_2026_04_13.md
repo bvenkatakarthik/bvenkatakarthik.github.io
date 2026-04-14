@@ -124,7 +124,7 @@ The `<body>` tag:
 
 The `<h1>` tag: 
 * Defines the section header. 
-* We also have `<h2>, ..., <h6>`. 
+* We also have smaller headers `<h2>, ..., <h6>`. 
 
 The `<div>` tag: 
 * Defines section of web page. 
