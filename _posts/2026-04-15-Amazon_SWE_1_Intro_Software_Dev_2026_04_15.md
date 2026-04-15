@@ -76,7 +76,7 @@ You will be creating a menu-based system, which will enable you to get informati
 
 [**The role of a software developer**] 
 
-**Software development** is the process of creating, designing, implementing, and maintaining software applications or systems. 
+**Software development** is the process of designing, implementing, and maintaining software applications or systems. 
 
 We will look at the key tasks of a developer. 
 
