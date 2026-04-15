@@ -13,7 +13,7 @@ Link to Coursera - Duke Courses: [Link](https://www.coursera.org/search?query=du
 Link to Coursera - Duke Data Analysis Course: [Link](https://www.coursera.org/specializations/statistics). 
 
 **ROUGH NOTES (!)**    
-Updated: 14/4/26 
+Updated: 15/4/26 
 
 **INTRODUCTION TO PROBABILITY AND DATA WITH R**
 
@@ -599,6 +599,28 @@ Consider the spatial map:
 <div align="center">
     <img src="https://b.l3n.co/cRRIWr.png"/> 
 </div>
+
+[**Measures of Center**] 
+
+Commonly used **measures of center** are: 
+
+* **Mean**: Arithmetic average. 
+
+* **Median**: Midpoint of the distribution (50th percentile). 
+
+* **Mode**: Most frequent observation. 
+
+If these measurements are calculated from a sample, ​they're called sample statistics. ​Sample statistics are point estimates for the unknown population parameters. ​
+
+Sample mean is denoted by ${ \overline{x} .}$ Population mean is denoted by ${ \mu . }$ 
+
+**Eg**: 
+
+<div align="center">
+    <img src="https://a.l3n.co/cRbEPQ.png"/> 
+</div>
+
+
 
 
 
