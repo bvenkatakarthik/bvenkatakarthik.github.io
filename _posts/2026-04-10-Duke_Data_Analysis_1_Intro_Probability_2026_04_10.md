@@ -620,6 +620,38 @@ Sample mean is denoted by ${ \overline{x} .}$ Population mean is denoted by ${ \
     <img src="https://a.l3n.co/cRbEPQ.png"/> 
 </div>
 
+[**Measures of Spread**] 
+
+Some **measures of spread** are: 
+
+* **Range**: (max - min). Not very reliable because it depends on the two most extreme values. 
+* **Variance** 
+* **Standard Deviation** 
+* **Inter Quartile Range**
+
+We denote sample variance by ${ s ^2 }$ and population variance by ${ \sigma ^2 . }$ 
+
+Note that 
+
+$${ s ^2 = \frac{1}{n-1} \sum _{i=1} ^{n} (x _i - \overline{x}) ^2 . }$$ 
+
+**Eg**: Consider the life expectancy data. We find the variance is 
+
+$${ s ^2 = 83.06 \text{ years} ^2 .  }$$ 
+
+Standard deviation is roughly the average deviation around the mean. 
+
+We denote sample standard deviation by ${ s }$ and population standard deviation by ${ \sigma . }$ 
+
+Note that
+
+$${ s = \sqrt{s ^2} = \sqrt{\frac{1}{n-1} \sum _{i = 1} ^{n} (x _i - \overline{x}) ^2 }.  }$$ 
+
+Interquartile range is the range of the middle `50%` of the data, distance between the first quartile (`25th` percentile) and third quartile (`75th` percentile). 
+
+The reason why the IQR is a more reliable measure of spread in sample data than ​the range, which is maximum minus minimum, is that it doesn't rely on the endpoints, which may be unusual observations or potential outliers.
+
+
 
 
 
