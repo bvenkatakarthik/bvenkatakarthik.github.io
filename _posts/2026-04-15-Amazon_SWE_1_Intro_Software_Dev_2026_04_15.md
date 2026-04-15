@@ -76,3 +76,31 @@ You will be creating a menu-based system, which will enable you to get informati
 
 [**The role of a software developer**] 
 
+**Software development** is the process of creating, designing, implementing, and maintaining software applications or systems. 
+
+We will look at the key tasks of a developer. 
+
+As a developer, ​your journey often starts with
+
+* Understanding what the end users need.
+
+You'll work closely with clients or stakeholders to grasp the problem they ​want to solve or the functionality they want to achieve.
+
+Once you have a clear picture, you should look at the requirements: 
+
+* Functional requirements (Features software should have) 
+* Non-Functional requirements (How software should perform) 
+* Technical requirements (Choice of hardware and software) 
+
+**Eg**: ​Imagine you're planning a new music streaming app called Airwaves. ​Here's how you would approach it. ​To start, you'll conceptualize the overall architecture by outlining ​its core features, playlist creation, song library access, ​track search, and personalized recommendations. ​Next, we'll break down airwaves into smaller manageable components. ​These include user authentication for secure logins, ensuring data protection, ​high quality music streaming that adapts to different Internet speeds, ​playlist management for a personalized music experience, and ​recommendation algorithms that learn from your behavior to suggest new music. ​Finally, you'll determine how these **components interact** seamlessly. ​For example, once you log in, you can access your playlists, ​stream music without interruptions, manage playlists in real time, and ​receive tailored recommendations based on your listening habits.
+
+Then comes the coding part. 
+
+Once you've written the code, it's crucial to ensure that it works as intended. **​Testing** involves running various test cases to identify bugs, errors, ​or unexpected behavior. ​**Debugging**, on the other hand, ​is the process of fixing these issues by tracing through the code, ​identifying the root cause, and making the necessary corrections.
+
+**Version control** systems like git allow you to **track changes** to your code, **​collaborate with others**, and **revert to previous versions** if needed.
+
+Writing clear and concise **documentation** ensures that your code ​is understandable not only to others, but also to your future self. ​It includes things like technical documentation for fellow developers, and it also includes comments within your ​code and README files outlining how to use your software.
+
+
+
