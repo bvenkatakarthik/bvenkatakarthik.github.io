@@ -13,7 +13,7 @@ Link to Coursera - Duke Courses: [Link](https://www.coursera.org/search?query=du
 Link to Coursera - Duke Data Analysis Course: [Link](https://www.coursera.org/specializations/statistics). 
 
 **ROUGH NOTES (!)**    
-Updated: 15/4/26 
+Updated: 16/4/26 
 
 **INTRODUCTION TO PROBABILITY AND DATA WITH R**
 
