@@ -13,6 +13,10 @@ $${ \large \boxed{ {\begin{aligned} &\textbf{"Logic} \\ &\textbf{will get you fr
 
 $${ \large \boxed{ {\begin{aligned} &\textbf{"IMAGINATION} \\ &\textbf{is the eye of the SOUL."} \\ &\textbf{- Joseph Joubert} \end{aligned}} } }$$
 
+Note to self: 
+
+$${ \large \boxed{ {\begin{aligned} &\textbf{Always guard your SOUL.}   \end{aligned}} } }$$
+
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
