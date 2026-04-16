@@ -667,6 +667,44 @@ Robust statistics like median and IQR are used to study skewed data, with extrem
 
 Non-robust statistics like mean and SD are used to study symmetric distributions. 
 
+[**Transforming Data**] 
+
+A transformation is a rescaling of the data using a function. 
+
+When data are very strongly skewed, we sometimes transform them so they are easier to model. 
+
+**Log transformation** is often applied when much of the data cluster near zero (relative to the larger values in the data set) and all observations are positive. 
+
+<div align="center">
+    <img src="https://d.l3n.co/cTpPVF.png"/> 
+</div>
+
+It is also used to make the relationship between the variables more linear, and hence easier to model with simple methods. 
+
+<div align="center">
+    <img src="https://c.l3n.co/cTpfv3.png"/> 
+</div>
+
+Some other transformations are 
+
+<div align="center">
+    <img src="https://c.l3n.co/cTpcED.png"/> 
+</div>
+
+Later we will see how to pick good transformations. 
+
+Goals of transformations could be: 
+
+* To see the data structure differently. 
+
+* To reduce skew to assist in modelling. 
+
+* To straighten a nonlinear relationship in a scatterplot. 
+
+
+
+
+
 
 
 
