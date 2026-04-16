@@ -9,13 +9,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
 
 
-$${ \large \boxed{ {\begin{aligned} &\textbf{"Logic} \\ &\textbf{will get you from A to Z,} \\ &\textbf{IMAGINATION} \\ &\textbf{will get you everywhere."} \\ &\textbf{- Einstein}\end{aligned}} } }$$
-
-$${ \large \boxed{ {\begin{aligned} &\textbf{"IMAGINATION} \\ &\textbf{is the eye of the SOUL."} \\ &\textbf{- Joseph Joubert} \end{aligned}} } }$$
-
-Note to self: 
-
-$${ \large \boxed{ {\begin{aligned} &\textbf{Always guard your SOUL.}   \end{aligned}} } }$$
+$${ \large \boxed{ {\begin{aligned} &\textbf{The SELF-IMAGE is the key} \\ &\textbf{to human behaviour.}   \end{aligned}} } }$$
 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
