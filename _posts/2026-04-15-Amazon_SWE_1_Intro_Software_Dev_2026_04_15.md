@@ -138,7 +138,7 @@ Backend development is the engine room of software development! If you're fascin
     
 - **Scalability**: As web applications grow in popularity and usage, they must handle increased traffic and load. Backend developers are responsible for designing scalable architectures to accommodate growth without sacrificing performance. It's similar to adding more lanes to a highway: as traffic increases, more lanes are added to ensure smooth and efficient travel without congestion or delays.
 
-**Full Stack Development:
+**Full Stack Development**:
 
 Full-stack developers are involved in every stage of the development process, from designing user interfaces to writing server-side logic to deploying and maintaining applications. It's like being a movie director who oversees the entire film production, from scriptwriting to directing actors to editing the final cut.
 
