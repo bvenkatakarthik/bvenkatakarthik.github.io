@@ -8,7 +8,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
 
-$${ \large \boxed{ {\begin{aligned} &\textbf{"The SELF-IMAGE is the key} \\ &\textbf{to human behaviour."} \\ &\textbf{- Maxwell Maltz}   \end{aligned}} } }$$
+$${ \large \boxed{ {\begin{aligned} &\textbf{Thinking in SIMPLE STEPS.}  \end{aligned}} } }$$
 
 
 
