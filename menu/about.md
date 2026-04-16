@@ -14,6 +14,9 @@ $${ \large \boxed{ {\begin{aligned} &\textbf{"Logic} \\ &\textbf{will get you fr
 $${ \large \boxed{ {\begin{aligned} &\textbf{"IMAGINATION} \\ &\textbf{is the eye of the SOUL."} \\ &\textbf{- Joseph Joubert} \end{aligned}} } }$$
 
 
+$${ \large \boxed{ {\begin{aligned} &\textbf{Your REACTIONS} \\ &\textbf{get into your memory.}  \end{aligned}} } }$$
+
+
 I am curious about the Nature and Purpose of **THE WORLD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
