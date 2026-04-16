@@ -142,6 +142,33 @@ Backend development is the engine room of software development! If you're fascin
 
 Full-stack developers are involved in every stage of the development process, from designing user interfaces to writing server-side logic to deploying and maintaining applications. It's like being a movie director who oversees the entire film production, from scriptwriting to directing actors to editing the final cut.
 
+[**Software, day to day**] 
+
+We will see what your typical day as a software engineer might be like. 
+
+You will spend time: 
+
+* Creating new code (for the most part). 
+
+* Fixing bugs. 
+
+* Optimizing existing code. 
+
+You'll need to sync up with ​your team to discuss what you're working on, ​and draw on each other's skills and expertise. You'll also have code review sessions: In these sessions, you will review their code, ​they will review yours, ​and together, you will ensure everything is ​top notch and up to the latest standards.
+
+Your day might also include testing ​your code as you run through ​everything to ensure it works smoothly. ​
+
+As you work, you'll create guides or notes that help ​your future self and others ​understand what your code is supposed to do. ​These will be especially valuable if ​you have to revisit a project in the future. ​
+
+Depending on your specialization, ​you may need proficiency in multiple languages. ​For instance, developers use HTML, ​CSS, and JavaScript to design interactive web pages. Languages like Java and .NET are used to build the back end systems of such web pages. Python is often used to write scripts for large data processing. 
+
+Imagine working at a dynamic tech company, ​assisting in the development of ​new features for an internal tool. ​As a Java development intern, you'll write code, ​fix bugs, and collaborate closely with senior developers.
+
+Picture yourself at a healthcare startup, ​optimizing database queries for ​a patient management system. ​In this role, you will delve into ​server side programming and database management, ​learning how to create efficient, ​reliable back end systems that ​support critical health care applications.
+
+Imagine being a front end developer ​at a digital marketing agency. There, you'll create and maintain ​interactive web applications for marketing campaigns, ​crafting the latest interactive interfaces ​to engage users effectively.
+
+
 
 
 
