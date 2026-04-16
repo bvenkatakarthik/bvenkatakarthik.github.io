@@ -168,6 +168,10 @@ Picture yourself at a healthcare startup, ​optimizing database queries for �
 
 Imagine being a front end developer ​at a digital marketing agency. There, you'll create and maintain ​interactive web applications for marketing campaigns, ​crafting the latest interactive interfaces ​to engage users effectively.
 
+<div align="center">
+    <img src="https://b.l3n.co/cE2cuC.png"/> 
+</div>
+
 
 
 
