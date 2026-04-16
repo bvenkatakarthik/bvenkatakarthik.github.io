@@ -651,6 +651,26 @@ Interquartile range is the range of the middle `50%` of the data, distance betwe
 
 The reason why the IQR is a more reliable measure of spread in sample data than ​the range, which is maximum minus minimum, is that it doesn't rely on the endpoints, which may be unusual observations or potential outliers.
 
+[**Robust Statistics**] 
+
+**Robust Statistics** are measures on which extreme observations have little effect. 
+
+<div align="center">
+    <img src="https://d.l3n.co/cTmnLD.png"/> 
+</div>
+
+<div align="center">
+    <img src="https://a.l3n.co/cTmPPk.png"/> 
+</div>
+
+Robust statistics like median and IQR are used to study skewed data, with extreme observations. 
+
+Non-robust statistics like mean and SD are used to study symmetric distributions. 
+
+
+
+
+
 
 
 
