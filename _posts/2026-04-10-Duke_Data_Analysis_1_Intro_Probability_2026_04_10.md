@@ -19,7 +19,7 @@ Updated: 17/4/26
 
 <a name="top"></a>
 
-**Labs**: [Week 1 Lab](#1); 
+**Labs**: [Week 1 Lab](#1); [Week 2 Lab](#2);  
 
 [**Introduction to Statistics with R**] 
 
@@ -793,6 +793,17 @@ Summary:
 * Evaluated the probability of observing an outcome at least as extreme as the one observed in the original data. (This is called the p-value). 
 
 * If this probability is low, reject the null hypothesis in favor of the alternative. 
+
+<a name="2"></a>
+
+[**Week 2 Lab**] 
+
+[Back to top](#top)
+
+Link to the file: [Link](https://drive.google.com/file/d/1LZt6Z77YBnrmeJzhfzjxCHRngURKzDk4/view?usp=sharing). 
+
+
+Some define statistics as the field that focuses on turning information into knowledge. The first step in that process is to summarize and describe the raw information - the data. In this lab we explore flights, specifically a random sample of domestic flights that departed from the three major New York City airport in 2013. We will generate simple graphical and numerical summaries of data on these flights and explore delay times. As this is a large data set, along the way you’ll also learn the indispensable skills of data processing and subsetting.
 
 
 
