@@ -8,9 +8,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
 
-$${ \large \boxed{ {\begin{aligned} &\textbf{Thinking in SIMPLE STEPS.}  \end{aligned}} } }$$
-
-I think of myself as primarily a part of **THE WORLD**. 
+**I think of myself as primarily a part of THE WORLD**. 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
