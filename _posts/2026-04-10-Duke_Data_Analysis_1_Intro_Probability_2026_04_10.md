@@ -13,7 +13,7 @@ Link to Coursera - Duke Courses: [Link](https://www.coursera.org/search?query=du
 Link to Coursera - Duke Data Analysis Course: [Link](https://www.coursera.org/specializations/statistics). 
 
 **ROUGH NOTES (!)**    
-Updated: 16/4/26 
+Updated: 17/4/26 
 
 **INTRODUCTION TO PROBABILITY AND DATA WITH R**
 
@@ -699,7 +699,28 @@ Goals of transformations could be:
 
 * To reduce skew to assist in modelling. 
 
-* To straighten a nonlinear relationship in a scatterplot. 
+* To straighten a nonlinear relationship in a scatterplot.
+
+[**Exploring categorical variables**] 
+
+**Eg**: Frequency table and bar plot from a survey: 
+
+<div align="center">
+    <img src="https://a.l3n.co/ckOmBM.png"/> 
+</div>
+
+Note that barplots and histograms are different: 
+
+* Note that we use barplots for categorical variables, and histograms for numerical variables. 
+
+* Note that x-axis on a histogram is a number line, and the ordering of the bars are not interchangeable. 
+
+**Eg**: Consider the contingency table of the above data: 
+
+<div align="center">
+    <img src="https://b.l3n.co/ckOpek.png"/> 
+</div>
+ 
 
 
 
