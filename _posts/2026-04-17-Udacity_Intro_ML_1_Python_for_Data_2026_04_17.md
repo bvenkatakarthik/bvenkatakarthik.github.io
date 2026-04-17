@@ -189,6 +189,130 @@ We also have `-=` operator.
 Note that Python uses scientific notation to define large numbers. For example, `4.445e8` is equal to `4.445 * 10**8` which is equal to `444500000.0`.
 
 
+[**Integers and Floats**] 
+
+**Eg**: 
+
+```
+print(3/4) 
+```
+
+gives the output 
+
+```
+0.75 
+```
+
+Here `0.75` is a float. 
+
+A float is a real number that uses a decimal point. 
+
+**Eg**: 
+
+```
+print(16/4)
+```
+
+gives the output 
+
+```
+4.0 
+```
+
+Here `4.0` is a float. 
+
+Note that `int` and `float` are two kinds of data types. 
+
+`type()` is a built in function that returns the type of an object. 
+
+**Eg**: 
+
+```
+print(type(4)) 
+```
+
+gives the output 
+
+```
+<class 'int'> 
+```
+
+**Eg**: 
+
+```
+print(type(4.3)) 
+```
+
+gives the output 
+
+```
+<class 'float'> 
+```
+
+**Eg**: Converting a float to an int (The part of the number after the decimal point is cut off). 
+
+```
+print(int(49.7)) 
+```
+
+gives the output 
+
+```
+49 
+```
+
+**Eg**: 
+
+```
+print(int(-49.7)) 
+```
+
+gives the output 
+
+```
+-49 
+```
+
+**Eg**: Converting an int to a float. 
+
+```
+print(float(3520 + 3239)) 
+```
+
+gives the output 
+
+```
+6759.0 
+```
+
+Floating point numbers are approximations. 
+
+This has surprising results. 
+
+**Eg**: 
+
+```
+print(0.1 + 0.1 + 0.1) 
+```
+
+gives the output 
+
+```
+0.30000000000000004
+```
+
+In most contexts, these small differences are irrelevant. 
+
+In general, there are two types of errors to look out for: 
+
+* **Exceptions**
+* **Syntax Errors**
+
+An **Exception** is a problem that occurs when the code is running, but a **Syntax Error** is a problem detected when Python checks the code before it runs it.
+
+
+
+
 
 
 
