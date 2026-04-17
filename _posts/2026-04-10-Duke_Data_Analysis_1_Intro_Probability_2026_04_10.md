@@ -720,6 +720,83 @@ Note that barplots and histograms are different:
 <div align="center">
     <img src="https://b.l3n.co/ckOpek.png"/> 
 </div>
+
+[**Introduction to Inference**] 
+
+We will look at a case study on gender discrimination. 
+
+In 1972, as part of a study on gender discrimination, 48 male bank ​supervisors were each given the same personnel file, and asked to judge whether ​the person should be promoted to a branch manager job that was described as routine. ​The files were identical except that half of the supervisors had files showing ​the person was male while the other half had files showing the person was female. ​It was randomly determined which supervisors got male applications and ​which got female applications. ​Of the 48 files reviewed 35 were promoted. ​The study is testing whether females are unfairly discriminated against.
+
+Here is the data: 
+
+<div align="center">
+    <img src="https://a.l3n.co/ckuPOM.png"/> 
+</div>
+
+There are two possible explanations / competing claims: 
+
+1) **Null hypothesis**: "**There is nothing going on**". Promotion and gender are independent, there is no gender discrimination. The observed difference in proportions is simply due to chance. 
+
+2) **Alternative hypothesis**: "**There is something going on**". Promotion and gender are dependent, there is gender discrimination. The observed difference in proportions is not due to chance. 
+
+**Eg**: Court case: 
+
+Consider 
+
+* ${ H _0 }$: Defendant is innocent. 
+* ${ H _A }$: Defendant is guilty. 
+
+We collect the data. 
+
+We judge the evidence: "Could these data plausibly have happened by chance if the null hypothesis were true?" 
+
+If yes, we fail to reject ${ H _0 . }$ 
+
+If no, we reject ${ H _0 . }$ 
+
+<div align="center">
+    <img src="https://d.l3n.co/ckNGFP.png"/> 
+</div>
+
+Recap: Hypothesis testing framework. 
+
+* Start with a null hypothesis (${ H _0 }$) that represents the status quo. 
+
+* Set an alternative hypothesis (${ H _A }$) that represents the research question, i.e. what we're testing for. 
+
+* Conduct a hypothesis test under the assumption that the null hypothesis is true, either via simulation or theoretical methods. 
+
+    * If the test results suggest that the data do not provide convincing evidence for the alternative hypothesis, stick with the null hypothesis. 
+    * If they do, then reject the null hypothesis in favor of the alternative. 
+
+**Eg**: Back to the gender discrimination case study.
+
+Assuming the null hypothesis, we can run a simulation (say 100 times) that satisfies the null and studies the difference in promotion rates. 
+
+We get a dot plot like below: 
+
+
+<div align="center">
+    <img src="https://d.l3n.co/ckPBZQ.png"/> 
+</div>
+
+The observed difference in promotion rates is in the "rare zone" labelled yellow above. 
+
+Hence we reject the null hypothesis. The data shows convincing evidence of an association ​between gender and promotion decisions made by male bank supervisors.
+
+Summary: 
+
+* Set a null and an alternative hypothesis. 
+
+* Simulate the experiment assuming that the null hypothesis is true. 
+
+* Evaluated the probability of observing an outcome at least as extreme as the one observed in the original data. (This is called the p-value). 
+
+* If this probability is low, reject the null hypothesis in favor of the alternative. 
+
+
+
+
  
 
 
