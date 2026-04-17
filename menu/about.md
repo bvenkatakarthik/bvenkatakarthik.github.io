@@ -8,6 +8,10 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
 
+Note to self: 
+
+$${ \large \boxed{ {\begin{aligned} &\textbf{Remember THE WORLD.}   \end{aligned}} } }$$
+
 **I think of myself as primarily a part of THE WORLD**. 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
