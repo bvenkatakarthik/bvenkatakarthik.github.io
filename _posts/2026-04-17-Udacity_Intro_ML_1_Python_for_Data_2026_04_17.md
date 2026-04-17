@@ -113,6 +113,84 @@ gives output
 -4
 ```
 
+[**Variables and Assignment Operators**] 
+
+**Eg**: Here is a variable which stores the populatio of Mountain View. 
+
+```
+mv_population = 74728 
+```
+
+Here `mv_population` is the variable name, `=` is the assignment operator, and `74728` is the value of the variable.
+
+In Python, the equal sign `=` is an operator that assigns the value on the right to the variable name on the left. 
+
+**Eg**: 
+
+```
+x = 2 
+y = x 
+print(y)
+```
+
+gives output 
+
+```
+2
+```
+
+**Eg**: 
+
+```
+x = 2 
+y = 3
+z = 5
+```
+
+can be abbreviated as 
+
+```
+x, y, z = 2, 3, 5
+```
+
+**Eg**: Name variables well. For example, 
+
+```
+mv_population = 74728 
+mv_area = 11.995 
+mv_density = mv_population / mv_area 
+print(mv_density) 
+```
+
+**Eg**: Updating a variable. 
+
+```
+mv_population = 74728 
+mv_population = mv_population + 4000 - 600 
+print(mv_population) 
+```
+
+gives output 
+
+```
+78128 
+```
+
+The same code can also be written as 
+
+```
+mv_population = 74728 
+mv_population += 4000 - 600 
+print(mv_population) 
+```
+
+We also have `-=` operator. 
+
+Note that Python uses scientific notation to define large numbers. For example, `4.445e8` is equal to `4.445 * 10**8` which is equal to `444500000.0`.
+
+
+
+
 
 
 
