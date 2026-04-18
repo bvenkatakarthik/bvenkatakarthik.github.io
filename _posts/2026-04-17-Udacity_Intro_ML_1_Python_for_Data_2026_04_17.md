@@ -456,6 +456,71 @@ gives the output
 7 
 ```
 
+[**Type and Type Conversion**] 
+
+**Eg**: Checking type. 
+
+```
+print(type(633)) 
+print(type("633")) 
+print(type(633.0)) 
+```
+
+gives the output 
+
+```
+<class 'int'> 
+<class 'str'>
+<class 'float'> 
+```
+
+Here the type function is run first and then its output is printed. 
+
+**Eg**: Changing type. 
+
+```
+count = int(4.0) 
+print(count) 
+print(type(count)) 
+```
+
+gives the output 
+
+```
+4
+<class 'int'> 
+```
+
+**Eg**: Changing int to str to print house address. 
+
+```
+house_number = 13 
+street_name = "The Crescent" 
+town_name = "Belmont" 
+print(type(house_number)) 
+
+address = str(house_number) + " " + street_name + ", " + town_name 
+print(address)
+```
+
+**Eg**: Changing str to float. 
+
+```
+grams = "35.0" 
+print(type(grams)) 
+grams = float(grams) 
+print(type(grams)) 
+```
+
+gives the output 
+
+```
+<class 'str'> 
+<class 'float'> 
+```
+
+
+
 
 
 
