@@ -8,7 +8,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
 
-Note to self: 
+**Note to self**: 
 
 $${ \color{black} { \large \boxed{ {\begin{aligned} &\textbf{Remember THE WORLD.}   \end{aligned}} } } }$$
 
