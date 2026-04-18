@@ -12,6 +12,9 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 $${ \color{black} { \large \boxed{ {\begin{aligned} &\textbf{Remember THE WORLD.}   \end{aligned}} } } }$$
 
+$${ \color{black} { \large \boxed{ {\begin{aligned} &\textbf{Remember your ROLE MODELS.}   \end{aligned}} } } }$$
+
+
 
 **I think of myself primarily as a part of THE WORLD**. 
 
