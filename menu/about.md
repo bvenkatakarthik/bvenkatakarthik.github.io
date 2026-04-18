@@ -10,7 +10,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 Note to self: 
 
-$${ \large \boxed{ {\begin{aligned} &\textbf{Remember THE WORLD.}   \end{aligned}} } }$$
+$${ \large \boxed{ {\begin{aligned} &\underline{\textbf{Remember THE WORLD.}}   \end{aligned}} } }$$
 
 **I think of myself as primarily a part of THE WORLD**. 
 
