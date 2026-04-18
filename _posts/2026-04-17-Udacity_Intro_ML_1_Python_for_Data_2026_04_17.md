@@ -13,7 +13,7 @@ Link to Udacity MS AI curriculum: [Link](https://www.udacity.com/masters-artific
 **INTRODUCTION TO MACHINE LEARNING WITH PYTORCH** 
 
 **ROUGH NOTES (!)**    
-Updated: 17/4/26 
+Updated: 19/4/26 
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
