@@ -310,6 +310,154 @@ In general, there are two types of errors to look out for:
 
 An **Exception** is a problem that occurs when the code is running, but a **Syntax Error** is a problem detected when Python checks the code before it runs it.
 
+[**Booleans, Comparision Operators, Logical Operators**] 
+
+We've seen ints and floats so far. And we've used arithmetic operators to work with these values. 
+
+Another type is `bool`. A boolean is a data type that can have a value of True or False. 
+
+(Boolean algebra is a branch of algebra dealing with variables whose values are True or False.) 
+
+Boolean logic underpins all digital devices. 
+
+**Eg**:  We can assign Boolean values like this. 
+
+```
+the_sun_is_up = True 
+the_sun_is_blue = False 
+```
+
+**Eg**: We can use comparision operators to compare values and produce a Boolean result. 
+
+```
+x = 42 > 43 
+print(x) 
+```
+
+gives the output 
+
+```
+False 
+```
+
+The list of comparision operators are: 
+
+* `<`: less than 
+* `>`: greater than 
+* `<=`: less than or equal to 
+* `>=`: greater than or equal to 
+* `==`: equal to 
+* `!=`: not equal to 
+
+We also have logical operators: 
+
+* `and`: evaluates if both sides are true 
+* `or`: evaluates if atleast one side is true 
+* `not`: inverses a Boolean type
+
+**Eg**: 
+
+```
+age = 14 
+is_teen = age > 12 and age < 20 
+print(is_teen) 
+```
+
+gives the output 
+
+```
+True 
+```
+
+[**Strings**] 
+
+A string is a data type for immutable ordered sequences of characters (eg letters, numbers, spaces, and symbols). 
+
+**Eg**: Creating a string. 
+
+```
+print("hello") 
+```
+
+gives the output 
+
+```
+hello 
+```
+
+**Eg**: Using quotation marks in a string. 
+
+```
+salesman = "\"I think you\'re an encyclopaedia salesman\""
+print(salesman) 
+```
+
+gives the output 
+
+```
+"I think you're an encyclopaedia salesman"
+```
+
+We can use `+` to combine strings. We can use `*` to repeat strings. 
+
+**Eg**: 
+
+```
+first_word = "Hello"
+second_word = "There" 
+print(first_word + second_word) 
+```
+
+gives the output 
+
+```
+HelloThere 
+```
+
+**Eg**: 
+
+```
+first_word = "Hello"
+second_word = "There" 
+print(first_word + " " + second_word) 
+```
+
+gives the output 
+
+```
+Hello There 
+```
+
+**Eg**: 
+
+```
+word = "Hello" 
+print(word * 5) 
+```
+
+gives the output 
+
+```
+HelloHelloHelloHelloHello
+```
+
+`len()` is a built in function that returns the length of an object. 
+
+**Eg**: 
+
+```
+udacity_length = len("Udacity") 
+print(udacity_length) 
+```
+
+gives the output 
+
+```
+7 
+```
+
+
+
 
 
 
