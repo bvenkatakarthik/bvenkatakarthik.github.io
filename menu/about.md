@@ -14,8 +14,6 @@ $${ \color{black} { \large \boxed{ {\begin{aligned} &\textbf{Remember THE WORLD.
 
 $${ \color{black} { \large \boxed{ {\begin{aligned} &\textbf{Remember your ROLE MODELS.}   \end{aligned}} } } }$$
 
-**I think of myself as primarily being a part of THE WORLD**. 
-
 I am curious about the Nature and Purpose of **THE WORLD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
