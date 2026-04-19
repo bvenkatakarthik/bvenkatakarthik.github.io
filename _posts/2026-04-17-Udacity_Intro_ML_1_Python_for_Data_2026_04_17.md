@@ -519,6 +519,103 @@ gives the output
 <class 'float'> 
 ```
 
+[**String Methods**] 
+
+**Eg**: `.title()` method. 
+
+```
+print("sebastian thrun".title()) 
+```
+
+gives the output 
+
+```
+Sebastian Thrun 
+```
+
+A method is a function that "belongs" to an object. 
+
+**Eg**: `.islower()` method. 
+
+```
+full_name = "sebastian thrun" 
+print(full_name.islower()) 
+```
+
+gives the output 
+
+```
+True 
+```
+
+**Eg**: `.count()` method. 
+
+```
+print("One fish, two fish, red fish, blue fish.".count("fish")) 
+```
+
+gives the output 
+
+```
+4
+```
+
+**Eg**: `.format()` method. 
+
+```
+print("Mohammed has {} balloons".format(27))
+```
+
+gives the output 
+
+```
+Mohammed has 27 balloons. 
+```
+
+**Eg**: 
+
+```
+animal = "dog" 
+action = "bite" 
+print("Does your {} {}?".format(animal, action))
+```
+
+gives the output 
+
+```
+Does your dog bite? 
+```
+
+F-string, or "Formatted String Literals" is a method of string formatting. 
+
+**Eg**: 
+
+```
+name = "John" 
+print(f"Hello, {name}") 
+```
+
+gives the output 
+
+```
+Hello, John 
+```
+
+**Eg**: 
+
+```
+a = 5 
+b = 3 
+print(f"The sum of {a} and {b} is {a+b}") 
+```
+
+gives the output 
+
+```
+The sum of 5 and 3 is 8
+```
+
+
 
 
 
