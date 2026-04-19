@@ -13,7 +13,9 @@ Hi I am Karthik, a Math and AI enthusiast.
 $${ \color{black} { \large  \boxed{ {\begin{aligned} &\textbf{Remember THE WORLD.}   \end{aligned}}  } } }$$
 
 
-$${ \color{black} { \large \boxed{ {\begin{aligned} &\textbf{Remember your ROLE MODELS.}   \end{aligned}} } } }$$ 
+$${ \color{black} { \large \boxed{ {\begin{aligned} &\textbf{Remember your role models.}   \end{aligned}} } } }$$
+
+$${ \color{black} { \large \boxed{ {\begin{aligned} &\textbf{See the best in everyone.}   \end{aligned}} } } }$$
 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
