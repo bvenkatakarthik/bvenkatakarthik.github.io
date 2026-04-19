@@ -17,7 +17,7 @@ $${ \color{black} { \large \boxed{ {\begin{aligned} &\textbf{Remember your ROLE 
 
 **I keep thinking: Am I missing something simple?**
 
-I believe circumstances make people. 
+**I believe circumstances make people.** 
 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
