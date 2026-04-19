@@ -15,7 +15,9 @@ $${ \color{black} { \large  \boxed{ {\begin{aligned} &\textbf{Remember THE WORLD
 
 $${ \color{black} { \large \boxed{ {\begin{aligned} &\textbf{Remember your role models.}   \end{aligned}} } } }$$
 
-**There are problems on THE EARTH. I keep thinking: Are we missing something simple?**
+**I keep thinking:**
+
+$${ \color{black} { \large \boxed{ {\begin{aligned} &\textbf{Am I missing something simple?}   \end{aligned}} } } }$$
 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
