@@ -15,6 +15,8 @@ $${ \color{black} { \large  \boxed{ \boxed{ {\begin{aligned} &\textbf{Remember y
 
 
 **I keep thinking: Am I missing something simple?**
+
+I am grateful to people who have substantially contributed to improve human understanding.  
  
 
 
