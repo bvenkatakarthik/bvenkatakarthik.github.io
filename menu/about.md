@@ -10,7 +10,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **Note to self**: 
 
-$${ \color{black} { \large  \boxed{ \boxed{ {\begin{aligned} &\textbf{Remember your ROLE MODEL(S).}   \end{aligned}} } } } }$$
+$${ \color{black} { \large  \boxed{ \boxed{ {\begin{aligned} &\textbf{REMEMBER YOUR ROLE MODELS.}   \end{aligned}} } } } }$$
 
 
 
