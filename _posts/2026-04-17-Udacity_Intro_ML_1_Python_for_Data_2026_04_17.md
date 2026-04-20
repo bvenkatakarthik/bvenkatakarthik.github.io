@@ -652,6 +652,53 @@ We will now consider
 
 $${ \boxed{\textbf{Control Flow}} }$$ 
 
+[**Introduction**] 
+
+Control flow describes the order in which your lines of code are run. This order is usually different than the sequence in which the lines of code appear! Execution can flow from one place in the code to another. 
+
+[**Conditional Statements**] 
+
+**Eg**: 
+
+```
+if phone_balance < 5: 
+    phone_balance += 10 
+    bank_balance -= 10 
+```
+
+An `if` statement is a conditional statement that runs or skips code based on whether a condition is True or False. The condition is specified in a boolean expression that evaluates to either True or False. (In the above example, the condition is `phone_balance < 5`.) 
+
+**Eg**: 
+
+```
+if n % 2 == 0: 
+    print("Number " + str(n) + " is even.") 
+else: 
+    print("Number " + str(n) + " is odd.") 
+```
+
+**Eg**: 
+
+```
+season = "fall" 
+
+if season == "spring": 
+    print("plant the garden!") 
+elif season == "summer": 
+    print("water the garden!") 
+elif season == "fall": 
+    print("harvest the garden!") 
+elif season == "winter": 
+    print("stay indoors!") 
+else: 
+    print("unrecognized season") 
+```
+
+In Python, indents conventionally come in multiples of four spaces.
+
+
+
+
 
 
 
