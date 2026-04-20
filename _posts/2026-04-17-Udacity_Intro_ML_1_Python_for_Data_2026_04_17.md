@@ -13,7 +13,7 @@ Link to Udacity MS AI curriculum: [Link](https://www.udacity.com/masters-artific
 **INTRODUCTION TO MACHINE LEARNING WITH PYTORCH** 
 
 **ROUGH NOTES (!)**    
-Updated: 19/4/26 
+Updated: 20/4/26 
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -614,6 +614,46 @@ gives the output
 ```
 The sum of 5 and 3 is 8
 ```
+
+[**Another string method - Split**] 
+
+Consider the `.split()` method. This function or method returns a data container called a list that contains the words from the input string.
+
+The split method has two arguments (_sep_ and _maxsplit_). The sep argument stands for "separator". It can be used to identify how the string should be split up (e.g., whitespace characters like space, tab, return, newline; specific punctuation (e.g., comma, dashes)). If the _sep_ argument is not provided, the default separator is whitespace.
+
+The _maxsplit_ argument provides the maximum number of splits. The argument gives maxsplit + 1 number of elements in the new list, with the remaining string being returned as the last element in the list.
+
+**Eg**: 
+
+```
+new_str = "The cow jumped over the moon." 
+new_str.split()
+```
+
+gives the output 
+
+```
+['The', 'cow', 'jumped', 'over', 'the', 'moon.']
+```
+
+**Eg**: 
+
+```
+new_str.split(' ', 3)
+```
+
+gives the output 
+
+```
+['The', 'cow', 'jumped', 'over the moon.']
+```
+
+We will now consider 
+
+$${ \boxed{\textbf{Control Flow}} }$$ 
+
+
+
 
 
 
