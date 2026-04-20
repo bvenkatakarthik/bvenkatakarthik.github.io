@@ -18,6 +18,8 @@ $${ \color{black} { \large  \boxed{ \boxed{ {\begin{aligned} &\textbf{Remember y
 
 I am grateful to the people who have substantially contributed to modern humanity. 
 
+I also believe mostly circumstances make people. 
+
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
