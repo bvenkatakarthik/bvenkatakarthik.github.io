@@ -16,7 +16,7 @@ $${ \color{black} { \large  \boxed{ \boxed{ {\begin{aligned} &\textbf{Remember y
 
 **I keep thinking: Am I missing something simple?**  
 
-I am grateful to all the people who have substantially contributed to modern humanity.  
+**I am grateful to all the people who have substantially contributed to modern humanity.**  
 
 
 I am curious about the Nature and Purpose of **THE WORLD**.
