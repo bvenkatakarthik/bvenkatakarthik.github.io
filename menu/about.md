@@ -32,7 +32,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**:
 
-$${ \color{black} { \large  \boxed{ {\begin{aligned} &\textbf{IMAGINAL ACTIONS} \\ &\textbf{influence the mind.}   \end{aligned}}  } } }$$
+**Imaginal Actions influence the mind.** 
 
 
 
