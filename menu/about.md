@@ -30,9 +30,10 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
-Speculation:
+**Speculation**:
 
-**Imaginal Actions influence the mind.**
+$${ \color{black} { \large  \boxed{ {\begin{aligned} &\textbf{IMAGINAL ACTIONS} \\ &\textbf{influence the mind.}   \end{aligned}}  } } }$$
+
 
 
 
