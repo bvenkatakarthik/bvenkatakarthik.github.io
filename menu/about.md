@@ -8,12 +8,6 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem". 
 
-**Note to self**: 
-
-$${ \color{black} { \large  \boxed{ \boxed{ {\begin{aligned} &\textbf{Remember your Role Models.}   \end{aligned}} } } } }$$
-
-
-
 **I keep thinking: Am I missing something simple?**  
 
 **I am grateful to all the people who have substantially contributed to modern humanity.**  
