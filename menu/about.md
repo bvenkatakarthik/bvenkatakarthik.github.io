@@ -34,7 +34,7 @@ I am curious about Value Creation and Money.
 
 **If yes, what is the purpose of THE WORLD?**
 
-Speculation: Meditating on **THE WORLD** is beneficial.
+
 
 
 
