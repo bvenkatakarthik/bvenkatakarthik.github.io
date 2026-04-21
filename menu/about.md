@@ -28,6 +28,8 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
+**"Imagination is the eye of the soul." - Joseph Joubert.**
+
 
 
 
