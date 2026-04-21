@@ -30,7 +30,7 @@ I am curious about Value Creation and Money.
 
 Speculation:
 
-**Imaginal actions influence the mind.**
+**Imaginal Actions influence the mind.**
 
 
 
