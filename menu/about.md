@@ -28,6 +28,11 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 | ${ \Large \textbf{THE WORLD} }$  |
 
 
+| ![](https://c.l3n.co/cVwuGA.jpg) | 
+|:--:| 
+| ${ \Large \textbf{TIME SCALE} }$  |
+
+
 I am curious about Value Creation and Money. 
 
 Note to self:
