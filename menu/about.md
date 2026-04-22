@@ -13,9 +13,9 @@ Hi I am Karthik, a Math and AI enthusiast.
 **Likewise I am sad about all the people pulling modern humanity backwards.** 
 
 
-I am curious about the Nature and Purpose of **THE WORLD**.
+I am curious about the **Nature and Purpose of THE WORLD**.
 
-I am curious about the characteristics of **GOD**.
+I am curious about the **Characteristics of GOD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
 
