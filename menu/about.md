@@ -39,7 +39,7 @@ I am curious about Value Creation and Money.
 
 Note to self: 
 
-**Meditate on THE WORLD.**
+**Remember your ROLE MODELS.**
 
 
 
