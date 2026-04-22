@@ -45,6 +45,10 @@ A question:
 
 **Some say this "COMMON, PURE, CORE LIFE FORCE" is the cause of THE WORLD, namely GOD**.
 
+In other words: 
+
+$${ \large \boxed{ \textbf{Is PURE CONSCIOUSNESS = GOD?}}  }$$
+
 
 
 
