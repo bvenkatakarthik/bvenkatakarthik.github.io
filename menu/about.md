@@ -41,6 +41,12 @@ Note to self:
 
 **Remember your role models.** 
 
+A question: 
+
+**Is there a common source of all "core life force"? Or are there individual "core life forces" in each living being?** 
+
+**In case there is a common source of "core life force", there is no individual birth or death to be taken very seriously. That common "core life force" will continue to exist.**
+
 
 
 
