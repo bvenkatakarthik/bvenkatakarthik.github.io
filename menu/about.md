@@ -37,25 +37,9 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
-**QUESTION, SPECULATION (!)**: 
-
-**Is there a common source of all "PURE CONSCIOUSNESS"? Or are there individual "PURE CONSCIOUSNESSES" in each living being?** 
-
-**In case there is a common "PURE CONSCIOUSNESS", there is no individual birth or death to be taken very seriously. That common "PURE CONSCIOUSNESS" will continue to exist, no matter what!**
-
-**Some say this "PURE CONSCIOUSNESS" is the cause of THE WORLD, namely GOD**.
-
-In other words: 
-
-$${ \large \boxed{ \textbf{Is PURE CONSCIOUSNESS = GOD?}}  }$$
-
 Note to self: 
 
-**Think about PURE CONSCIOUSNESS**.
-
-
-
-
+**Meditate on THE WORLD.**
 
 
 
