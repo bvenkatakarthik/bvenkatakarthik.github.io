@@ -37,10 +37,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
-Note to self: 
-
-**Remember your ROLE MODELS.** 
-
 A question: 
 
 **Is there a common source of all "CORE LIFE FORCE"? Or are there individual "CORE LIFE FORCES" in each living being?** 
