@@ -37,7 +37,7 @@ I am curious about Value Creation and Money.
 
 Note to self: 
 
-**Humans partly learn from example. Remember your ROLE MODELS.**
+**Remember THE WORLD.**
 
 
 
