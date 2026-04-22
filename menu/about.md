@@ -49,6 +49,10 @@ In other words:
 
 $${ \large \boxed{ \textbf{Is PURE CONSCIOUSNESS = GOD?}}  }$$
 
+Note to self: 
+
+**Think about PURE CONSCIOUSNESS**.
+
 
 
 
