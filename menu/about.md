@@ -30,7 +30,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 | ![](https://c.l3n.co/cVwuGA.jpg) | 
 |:--:| 
-| ${ \Large \textbf{TIME SCALE} }$  |
+| ${ \Large \textbf{TIME Scale} }$  |
 
 
 I am curious about Value Creation and Money. 
