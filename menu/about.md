@@ -15,6 +15,8 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 I am curious about the Nature and Purpose of **THE WORLD**.
 
+I am curious about the characteristics of **GOD**.
+
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
 
 I am curious about artificial, scalable forms of Intelligence.   
