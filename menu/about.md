@@ -37,7 +37,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
-A question: 
+**QUESTION, SPECULATION (!)**: 
 
 **Is there a common source of all "PURE CONSCIOUSNESS"? Or are there individual "PURE CONSCIOUSNESSES" in each living being?** 
 
@@ -52,7 +52,6 @@ $${ \large \boxed{ \textbf{Is PURE CONSCIOUSNESS = GOD?}}  }$$
 Note to self: 
 
 **Think about PURE CONSCIOUSNESS**.
-
 
 
 
