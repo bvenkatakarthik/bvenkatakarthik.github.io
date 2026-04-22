@@ -10,7 +10,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **I am forever grateful to all the people who have substantially contributed to modern humanity.** 
 
-**Likewise I am sad about all the people pulling modern humanity backwards.** 
+**Likewise I am slightly sad about all the people pulling modern humanity backwards.** 
 
 
 I am curious about the **Nature and Purpose of THE WORLD**.
