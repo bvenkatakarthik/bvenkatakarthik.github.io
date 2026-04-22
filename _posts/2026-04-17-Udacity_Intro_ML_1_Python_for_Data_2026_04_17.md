@@ -696,6 +696,34 @@ else:
 
 In Python, indents conventionally come in multiples of four spaces.
 
+[**Boolean Expressions for Conditions**] 
+
+**Eg**: 
+
+```
+weight = 55 
+height = 164 
+
+if 18.5 <= weight / height**2 < 25: 
+    print("BMI is considered 'normal'")
+
+```
+
+gives the output 
+
+```
+BMI is considered 'normal'
+```
+
+**Eg**: 
+
+```
+if is_raining and is_sunny: 
+    print("Is there a rainbow?") 
+```
+
+
+
 
 
 
