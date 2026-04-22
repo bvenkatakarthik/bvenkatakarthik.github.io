@@ -43,6 +43,8 @@ A question:
 
 **In case there is a common "CORE LIFE FORCE", there is no individual birth or death to be taken very seriously. That common "CORE LIFE FORCE" will continue to exist!**
 
+**Some say this common "CORE LIFE FORCE" is the cause of THE WORLD, namely GOD**. 
+
 
 
 
