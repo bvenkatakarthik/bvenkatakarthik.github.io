@@ -39,7 +39,7 @@ I am curious about Value Creation and Money.
 
 Note to self: 
 
-**Remember your role models.** 
+**Remember your ROLE MODELS.** 
 
 A question: 
 
