@@ -43,9 +43,9 @@ Note to self:
 
 A question: 
 
-**Is there a common source of all "core life force"? Or are there individual "core life forces" in each living being?** 
+**Is there a common source of all "CORE LIFE FORCE"? Or are there individual "CORE LIFE FORCES" in each living being?** 
 
-**In case there is a common "core life force", there is no individual birth or death to be taken very seriously. That common "core life force" will continue to exist!**
+**In case there is a common "CORE LIFE FORCE", there is no individual birth or death to be taken very seriously. That common "CORE LIFE FORCE" will continue to exist!**
 
 
 
