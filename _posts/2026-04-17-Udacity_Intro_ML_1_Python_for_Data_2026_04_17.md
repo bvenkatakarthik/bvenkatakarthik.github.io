@@ -13,7 +13,7 @@ Link to Udacity MS AI curriculum: [Link](https://www.udacity.com/masters-artific
 **INTRODUCTION TO MACHINE LEARNING WITH PYTORCH** 
 
 **ROUGH NOTES (!)**    
-Updated: 20/4/26 
+Updated: 22/4/26 
 
 Link to Udacity subscription: [Link](https://www.udacity.com/plans). 
 
@@ -721,6 +721,94 @@ BMI is considered 'normal'
 if is_raining and is_sunny: 
     print("Is there a rainbow?") 
 ```
+
+[**For loops**] 
+
+Loops allow us to repeat blocks of code. 
+
+Python has two kinds of loops - `for` loops and `while` loops.
+
+A `for` loop is used to "iterate", or do something repeatedly, over an **iterable**. An **iterable** is an object that can return one of its elements at a time. (This can include sequence types, such as strings, lists, and tuples, as well as non-sequence types, such as dictionaries and files.)
+
+**Eg**: 
+
+```
+cities = ['new york city', 'mountain view', 'chicago', 'los angeles'] 
+
+for city in cities: 
+    print(city.title())
+```
+
+gives the output 
+
+```
+New York City 
+Mountain View 
+Chicago 
+Los Angeles 
+```
+
+**Eg**: 
+
+```
+cities = ['new york city', 'mountain view', 'chicago', 'los angeles']
+capitalized_cities = []
+
+for city in cities:
+    capitalized_cities.append(city.title())
+
+```
+
+**Eg**: 
+
+```
+cities = ['new york city', 'mountain view', 'chicago', 'los angeles']
+
+for index in range(len(cities)):
+    cities[index] = cities[index].title()
+
+```
+
+Recall the range function. The syntax is `range(start, stop, step)`. 
+
+**Eg**: 
+
+```
+print(list(range(4)) 
+```
+
+gives the output 
+
+```
+[0, 1, 2, 3] 
+```
+
+**Eg**: 
+
+```
+print(list(range(2, 6))) 
+```
+
+gives the output 
+
+```
+[2, 3, 4, 5] 
+```
+
+**Eg**: 
+
+```
+print(list(range(1, 10, 2))) 
+```
+
+gives the output 
+
+```
+[1, 3, 5, 7, 9] 
+```
+
+
+
 
 
 
