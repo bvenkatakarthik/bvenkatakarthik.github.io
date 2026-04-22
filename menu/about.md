@@ -39,16 +39,15 @@ I am curious about Value Creation and Money.
 
 A question: 
 
-**Is there a common source of all "PURE, CORE LIFE FORCE"? Or are there individual "PURE, CORE LIFE FORCES" in each living being?** 
+**Is there a common source of all "PURE CONSCIOUSNESS"? Or are there individual "PURE CONSCIOUSNESSES" in each living being?** 
 
-**In case there is a common "PURE, CORE LIFE FORCE", there is no individual birth or death to be taken very seriously. That common "PURE, CORE LIFE FORCE" will continue to exist!**
+**In case there is a common "PURE CONSCIOUSNESS", there is no individual birth or death to be taken very seriously. That common "PURE CONSCIOUSNESS" will continue to exist no matter what!**
 
-**Some say this "COMMON, PURE, CORE LIFE FORCE" is the cause of THE WORLD, namely GOD**.
+**Some say this "PURE CONSCIOUSNESS" is the cause of THE WORLD, namely GOD**.
 
 In other words: 
 
 $${ \large \boxed{ \textbf{Is PURE CONSCIOUSNESS = GOD?}}  }$$
-
 
 
 
