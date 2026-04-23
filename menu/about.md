@@ -4,11 +4,11 @@ title: About
 permalink: /about
 ---
 
-Hi I am Karthik, a Math and AI enthusiast. 
-
 Speculation: 
 
 **WHAT YOU MENTALLY REACT TO GETS INTO YOUR MEMORY.**
+
+Hi I am Karthik, a Math and AI enthusiast. 
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
 
