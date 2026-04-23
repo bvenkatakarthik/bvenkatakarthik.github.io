@@ -47,7 +47,7 @@ A question:
 
 **Some say this "COMMON SOUL" is the cause of THE WORLD, namely GOD.**
 
-| ![](https://b.l3n.co/c9N9ei.jpeg) | 
+| ![](https://d.l3n.co/c9Npoz.png) | 
 |:--:| 
 | ${ \Large \textbf{COMMON SOUL} }$  |
 
