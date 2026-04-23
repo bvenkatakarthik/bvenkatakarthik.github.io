@@ -35,10 +35,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
-Note to self: 
-
-**Remember THE WORLD.**
-
 A question: 
 
 **Is there a common source of "SOUL"? Or are there individual "SOULS" in each living being?** 
