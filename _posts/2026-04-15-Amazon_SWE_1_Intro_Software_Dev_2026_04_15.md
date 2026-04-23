@@ -11,7 +11,7 @@ tags: [documentation,sample]
 Link to the course: [Link](https://www.coursera.org/professional-certificates/amazon-junior-software-developer). 
 
 **ROUGH NOTES (!)**    
-Updated: 16/4/28 
+Updated: 16/4/26 
 
 **INTRODUCTION TO SOFTWARE DEVELOPMENT**  
 
