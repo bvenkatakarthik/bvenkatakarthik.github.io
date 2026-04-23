@@ -10,6 +10,8 @@ permalink: /about
 
 **SPEND INTENSE REACTIONS WISELY!**  
 
+**DEAL INTENSELY WITH HAPPY THINGS. DEAL SOBERLY WITH SAD THINGS.** 
+
 Hi I am Karthik, a Math and AI enthusiast. 
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
