@@ -49,7 +49,7 @@ A question:
 
 | ![](https://d.l3n.co/c9Npoz.png) | 
 |:--:| 
-| ${ \Large \textbf{COMMON SOUL} }$  |
+| ${ \Large \textbf{COMMON SOUL?} }$  |
 
 
 
