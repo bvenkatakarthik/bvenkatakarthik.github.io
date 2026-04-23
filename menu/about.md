@@ -8,7 +8,7 @@ permalink: /about
 
 **What you intensely react to gets into your memory.** 
 
-$${ \large \boxed{\textbf{REACT WISELY!}} }$$  
+$${ \large \boxed{\textbf{SPEND INTENSE REACTIONS WISELY!}} }$$  
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
