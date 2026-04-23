@@ -4,11 +4,9 @@ title: About
 permalink: /about
 ---
 
-**Speculation, to form memories**: 
+**Speculation**: 
 
-**WHAT YOU MENTALLY REACT TO GETS INTO YOUR MEMORY.**
-
-**FORM GOOD MEMORIES.**
+**WHAT YOU MENTALLY REACT TO gets into your memory.**
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
