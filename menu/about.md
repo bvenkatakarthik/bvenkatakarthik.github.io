@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Speculation: 
+Speculation, to form memories: 
 
 **WHAT YOU MENTALLY REACT TO GETS INTO YOUR MEMORY.**
 
