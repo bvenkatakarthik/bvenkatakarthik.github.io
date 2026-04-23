@@ -6,7 +6,7 @@ permalink: /about
 
 **Note to self**: 
 
-**What you intensely react to gets into your memory.** 
+**REACTIONS ARE A FORM OF MENTAL CURRENCY.** 
 
 **SPEND INTENSE REACTIONS WISELY!**  
 
