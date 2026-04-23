@@ -8,7 +8,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
 
-I am grateful to all the people who have substantially contributed to modern humanity.
+**I am grateful to all the people who have substantially contributed to modern humanity.**
 
 
 I am curious about the **Nature and Purpose of THE WORLD**.
@@ -35,19 +35,9 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
-A question: 
-
-**Is there a common source of "SOUL"? Or are there individual "SOULS" in each living being?** 
-
-**Some say this "COMMON SOUL" is the cause of THE WORLD, namely GOD.**
-
-| ![](https://d.l3n.co/c9Npoz.png) | 
-|:--:| 
-| ${ \Large \textbf{COMMON SOUL?} }$  |
-
 Note to self: 
 
-**Pay attention to the COMMON SOUL everywhere.**
+**Remembering THE WORLD simplifies life.**
 
 
 
