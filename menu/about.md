@@ -10,9 +10,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **I am grateful to all the people who have substantially contributed to modern humanity!**
 
-**Likewise I am sad about all the people who are pulling modern humanity backwards.**  
-
-Grothendieck on being alone: [Link](https://www.reddit.com/r/math/comments/4rujne/alexander_grothendieck_on_learning_to_be_alone/).  
+**Likewise I am sad about all the people who are pulling modern humanity backwards.**    
 
 I am curious about the **Nature and Purpose of THE WORLD**.
 
