@@ -8,6 +8,8 @@ permalink: /about
 
 **WHAT YOU MENTALLY REACT TO GETS INTO YOUR MEMORY.**
 
+**FORM GOOD MEMORIES.**
+
 Hi I am Karthik, a Math and AI enthusiast. 
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
