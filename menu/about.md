@@ -14,7 +14,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
 
-**I am grateful to all the people who have substantially contributed to modern humanity! They are my role models!**
+**I am grateful to all the people who have substantially contributed to modern humanity!**
 
 Likewise I am sad about all the people who are pulling modern humanity backwards.   
 
