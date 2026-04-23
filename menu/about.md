@@ -51,6 +51,10 @@ A question:
 |:--:| 
 | ${ \Large \textbf{COMMON SOUL?} }$  |
 
+Note to self: 
+
+**Pay attention to the COMMON SOUL everywhere.**
+
 
 
 
