@@ -47,6 +47,8 @@ A question:
 
 **Some say this "COMMON SOUL" is the cause of THE WORLD, namely GOD.**
 
+**Supposing the "COMMON SOUL", many questions still exist. Why does the "COMMON SOUL" manifest in so many forms? Etc.**
+
 
 
 
