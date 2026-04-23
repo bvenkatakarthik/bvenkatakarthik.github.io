@@ -38,7 +38,7 @@ I am curious about Value Creation and Money.
 
 Speculation: 
 
-**What you react to gets into your memory.**
+**WHAT YOU MENTALLY REACT TO GETS INTO YOUR MEMORY.**
 
 
 
