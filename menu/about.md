@@ -4,9 +4,11 @@ title: About
 permalink: /about
 ---
 
-**Speculation**: 
+**Note to self**: 
 
-**What you intensely react to gets into your memory. REACT WISELY.** 
+**What you intensely react to gets into your memory.** 
+
+$${ \large \boxed{\textbf{REACT WISELY.}} }$$  
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
