@@ -14,6 +14,8 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **I hope humanity continues to rise in happiness and knowledge.** 
 
+Some thoughts on money: [Link](https://bvenkatakarthik.github.io/Money_2026_03_06). 
+
 I am curious about the **Nature and Purpose of THE WORLD**.
 
 I am curious about the **Characteristics of GOD**.
