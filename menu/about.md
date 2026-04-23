@@ -6,6 +6,10 @@ permalink: /about
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
+Speculation: 
+
+**WHAT YOU MENTALLY REACT TO GETS INTO YOUR MEMORY.**
+
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
 
 **I am grateful to all the people who have substantially contributed to modern humanity!**
