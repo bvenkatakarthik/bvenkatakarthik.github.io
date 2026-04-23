@@ -38,7 +38,7 @@ I am curious about Value Creation and Money.
 
 Note to self: 
 
-**Remember THE WORLD.**
+**REMEMBER THE WORLD.**
 
 
 
