@@ -35,7 +35,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
-Note to self: 
+Speculation: 
 
 **Remembering THE WORLD simplifies life.**
 
