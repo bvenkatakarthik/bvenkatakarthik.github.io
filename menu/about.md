@@ -6,9 +6,7 @@ permalink: /about
 
 **Speculation**: 
 
-**What you intensely react to gets into your memory.**
-
-**REACT WISELY.** 
+**What you intensely react to gets into your memory. REACT WISELY.** 
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
@@ -16,7 +14,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **I am grateful to all the people who have substantially contributed to modern humanity!**
 
-Likewise I am sad about all the people who are pulling modern humanity backwards.   
+Likewise I am sad about all the people who are pulling modern humanity backwards. 
 
 I am curious about the **Nature and Purpose of THE WORLD**.
 
