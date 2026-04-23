@@ -12,9 +12,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **Likewise I am sad about all the people who are not only not contributing but are pulling modern humanity backwards.** 
 
-**I hope we rise in happiness and knowledge.**
-
-
+**I hope humanity continues to rise in happiness and knowledge.** 
 
 I am curious about the **Nature and Purpose of THE WORLD**.
 
