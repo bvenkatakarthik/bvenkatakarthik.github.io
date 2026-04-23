@@ -8,7 +8,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
 
-**I am forever grateful to all the people who have substantially contributed to modern humanity.** 
+**I am forever grateful to all the people who have substantially contributed to modern humanity!** 
 
 
 I am curious about the **Nature and Purpose of THE WORLD**.
