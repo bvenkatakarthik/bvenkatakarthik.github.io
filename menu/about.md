@@ -37,7 +37,7 @@ I am curious about Value Creation and Money.
 
 Speculation: 
 
-**Remembering THE WORLD simplifies life.**
+**Remember THE WORLD.**
 
 
 
