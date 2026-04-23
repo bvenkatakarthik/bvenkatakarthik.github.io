@@ -14,7 +14,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **I am also sad about wasted potential (including myself).**
 
-**I hope humanity continues to rise in knowledge.** 
+**I hope modern humanity continues to rise in knowledge.** 
 
 Grothendieck on being alone: [Link](https://www.reddit.com/r/math/comments/4rujne/alexander_grothendieck_on_learning_to_be_alone/).  
 
