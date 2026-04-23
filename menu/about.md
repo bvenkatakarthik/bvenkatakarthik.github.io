@@ -8,13 +8,9 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
 
-**I am grateful to all the people who have substantially contributed to modern humanity!**
+**I am grateful to all the people who have substantially contributed to modern humanity.**
 
-**Likewise I am sad about all the people who are not only not contributing but are pulling modern humanity backwards.** 
-
-**I am also sad about wasted potential (including myself).**
-
-**I hope modern humanity continues to rise in knowledge.** 
+**Likewise I am sad about all the people who are not only not contributing but are pulling modern humanity backwards.**  
 
 Grothendieck on being alone: [Link](https://www.reddit.com/r/math/comments/4rujne/alexander_grothendieck_on_learning_to_be_alone/).  
 
