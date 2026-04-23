@@ -16,7 +16,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **I hope humanity continues to rise in knowledge.** 
 
-Some thoughts on money: [Link](https://bvenkatakarthik.github.io/Money_2026_03_06). 
+Grothendieck on being alone: [Link](https://www.reddit.com/r/math/comments/4rujne/alexander_grothendieck_on_learning_to_be_alone/).  
 
 I am curious about the **Nature and Purpose of THE WORLD**.
 
