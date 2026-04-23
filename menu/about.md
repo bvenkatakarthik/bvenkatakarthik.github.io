@@ -39,6 +39,14 @@ Note to self:
 
 **Remember THE WORLD.**
 
+A question: 
+
+**Is there a common source of "SOUL"? Or are there individual "SOULS" in each living being?** 
+
+**In case there is a common source of "SOUL", there is no individual birth or death to be taken very seriously. That "COMMON SOUL" will continue to exist.**
+
+**Some say this "COMMON SOUL" is the cause of THE WORLD, namely GOD.**
+
 
 
 
