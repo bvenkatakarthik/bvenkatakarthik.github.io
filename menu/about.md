@@ -40,9 +40,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
-Speculation: 
 
-**WHAT YOU MENTALLY REACT TO GETS INTO YOUR MEMORY.**
 
 
 
