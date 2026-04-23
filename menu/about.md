@@ -12,6 +12,8 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **Likewise I am sad about all the people who are not only not contributing but are pulling modern humanity backwards.** 
 
+**I am also sad about wasted potential (including mmyself).**
+
 **I hope humanity continues to rise in knowledge.** 
 
 Some thoughts on money: [Link](https://bvenkatakarthik.github.io/Money_2026_03_06). 
