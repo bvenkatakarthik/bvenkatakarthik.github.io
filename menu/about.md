@@ -38,7 +38,7 @@ I am curious about Value Creation and Money.
 
 Note to self: 
 
-**REMEMBER THE SCALE OF THE WORLD.**
+**REMEMBER THE SCALE OF THE WORLD. FACTUALLY OUR LIVES ARE ALMOST NON-EXISTENT.**
 
 
 
