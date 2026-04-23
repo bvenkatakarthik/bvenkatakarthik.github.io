@@ -6,7 +6,9 @@ permalink: /about
 
 **Speculation**: 
 
-**WHAT YOU MENTALLY REACT TO gets into your memory.**
+**What you intensely react to gets into your memory.**
+
+**REACT WISELY.** 
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
