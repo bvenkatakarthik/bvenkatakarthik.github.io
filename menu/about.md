@@ -47,6 +47,10 @@ A question:
 
 **Some say this "COMMON SOUL" is the cause of THE WORLD, namely GOD.**
 
+I often think: 
+
+$${ \Large \boxed{ \textbf{WHY?} } }$$
+
 
 
 
