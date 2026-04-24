@@ -4,9 +4,9 @@ title: About
 permalink: /about
 ---
 
-**Note to self**: 
+**I am primarily obsessed by one question:** 
 
-**REMEMBER YOUR ROLE MODELS.**
+**WHAT IS THE PURPOSE OF THE WORLD?**
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
