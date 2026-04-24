@@ -18,7 +18,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **"Never play chess with a pigeon. The pigeon just knocks all the pieces over. Then shits all over the board. Then struts around like it won."** 
 
-**I believe that human POTENTIAL is almost equally present in different groups, irrespective of geographic, demographic and economic boundaries.**
+**I believe that HUMAN POTENTIAL is almost equally present in different groups, irrespective of geographic, demographic and economic boundaries.**
 
 
 I am curious about the **Nature and Purpose of THE WORLD**.
