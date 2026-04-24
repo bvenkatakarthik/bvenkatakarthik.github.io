@@ -14,7 +14,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **I am grateful to all the PEOPLE WHO HAVE SUBSTANTIALLY CONTRIBUTED TO MODERN HUMANITY!**
 
-**Likewise I am sad about all the people and mobs pulling modern humanity backwards. I believe they can get better.**  
+**Likewise I am sad about all the people pulling modern humanity backwards. I believe they can get better.**  
 
 **I believe that HUMAN POTENTIAL is almost equally present in different groups, irrespective of geographic, demographic and economic boundaries.** 
  
