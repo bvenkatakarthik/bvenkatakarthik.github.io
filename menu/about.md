@@ -40,6 +40,10 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 |:--:| 
 | ${ \Large \textbf{TIME Scale} }$  |
 
+| ![](https://d.l3n.co/cqdZb3.jpg) | 
+|:--:| 
+| ${ \Large \textbf{MATTER} }$  |
+
 
 I am curious about Value Creation and Money. 
 
