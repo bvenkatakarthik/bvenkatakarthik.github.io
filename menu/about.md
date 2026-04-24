@@ -14,12 +14,9 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **I am grateful to all the people who have substantially contributed to modern humanity!**
 
-**Likewise I am sad about all the people and mobs pulling modern humanity backwards. I still hope they get better.** 
-
-**"Never play chess with a pigeon. The pigeon just knocks all the pieces over. Then shits all over the board. Then struts around like it won."** 
+**Likewise I am sad about all the people and mobs pulling modern humanity backwards. I believe they can get better.**  
 
 **I believe that HUMAN POTENTIAL is almost equally present in different groups, irrespective of geographic, demographic and economic boundaries.** 
- 
 
 
 I am curious about the **Nature and Purpose of THE WORLD**.
