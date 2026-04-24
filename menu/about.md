@@ -4,6 +4,9 @@ title: About
 permalink: /about
 ---
 
+**Note to self**: 
+
+**REMEMBER YOUR ROLE MODELS.**
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
@@ -35,9 +38,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
-**Note to self**: 
 
-**REMEMBER YOUR ROLE MODELS.**
 
 
 
