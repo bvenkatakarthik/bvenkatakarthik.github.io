@@ -47,6 +47,10 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
+**I am primarily obsessed by one question:** 
+
+**WHAT IS THE PURPOSE OF THE WORLD?**
+
 
 
 
