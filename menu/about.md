@@ -6,7 +6,7 @@ permalink: /about
 
 **Note to self**: 
 
-$${ \large \boxed{ \textbf{REMEMBER YOUR ROLE MODELS.} } }$$
+**REMEMBER YOUR ROLE MODELS.**
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
