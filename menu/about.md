@@ -44,6 +44,10 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 |:--:| 
 | ${ \Large \textbf{MATTER} }$  |
 
+| ![](https://d.l3n.co/c9Npoz.png) | 
+|:--:| 
+| ${ \Large \textbf{LIFE} }$  |
+
 
 I am curious about Value Creation and Money. 
 
