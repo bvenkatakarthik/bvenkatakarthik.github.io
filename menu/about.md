@@ -4,18 +4,26 @@ title: About
 permalink: /about
 ---
 
+**A question:**
+
+**WHY DO WE HAVE THE WORLD?** 
+
+**WHY DO WE HAVE THE WORLD?** 
+
+**WHY DO WE HAVE THE WORLD?** 
+
+...
+
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
 
-**I am grateful to all the PEOPLE WHO HAVE SUBSTANTIALLY CONTRIBUTED TO MODERN HUMANITY.**
+I am grateful to all the PEOPLE WHO HAVE SUBSTANTIALLY CONTRIBUTED TO MODERN HUMANITY.
 
-**Likewise there are PEOPLE PULLING MODERN HUMANITY BACKWARDS. YOU KIND OF WIN BY NOT BEING LIKE THEM.**  
+Likewise there are PEOPLE PULLING MODERN HUMANITY BACKWARDS. YOU KIND OF WIN BY NOT BEING LIKE THEM.  
 
-**I believe that HUMAN POTENTIAL is almost equally present in different groups, irrespective of geographic, demographic and economic boundaries.** 
-
-$${ \large \boxed{ \textbf{REMEMBER YOUR ROLE MODELS.}} }$$  
+I believe that HUMAN POTENTIAL is almost equally present in different groups, irrespective of geographic, demographic and economic boundaries.  
 
 
 I am curious about the **NATURE AND PURPOSE OF THE WORLD**.
@@ -52,15 +60,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money. 
 
-**Note to self**: 
-
-**REMEMBER YOUR ROLE MODELS.**
-
-**REMEMBER YOUR ROLE MODELS.**
-
-**REMEMBER YOUR ROLE MODELS.**
-
-. . . 
 
 **A question:**
 
