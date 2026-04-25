@@ -8,7 +8,6 @@ permalink: /about
 
 **WHAT IS THE PURPOSE OF THE WORLD?**
 
-**WHY THE WORLD?** 
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
@@ -68,20 +67,6 @@ I am curious about Value Creation and Money.
 **WHAT IS THE PURPOSE OF THE WORLD?**
 
 ....
-
-**WHY THE WORLD?** 
-
-**WHY THE WORLD?** 
-
-**WHY THE WORLD?** 
-
-**WHY THE WORLD?** 
-
-**WHY THE WORLD?** 
-
-**WHY THE WORLD?** 
-
-...
 
 
 
