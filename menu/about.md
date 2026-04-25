@@ -67,6 +67,8 @@ I am curious about Value Creation and Money.
 
 ....
 
+Definitively knowing **THE PURPOSE oF THE WORLD** might give purpose to our lives.
+
 
 
 
