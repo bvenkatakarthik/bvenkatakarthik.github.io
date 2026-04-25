@@ -30,8 +30,6 @@ I am curious about the **NATURE AND PURPOSE OF THE WORLD**.
 
 $${ \large \boxed{\textbf{WHY DO WE HAVE THE WORLD?}} }$$ 
 
-I am curious about the **CHARACTERISTICS OF GOD**.
-
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
 
 I am curious about artificial, scalable forms of Intelligence.   
