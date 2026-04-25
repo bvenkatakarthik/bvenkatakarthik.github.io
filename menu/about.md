@@ -68,6 +68,12 @@ I am curious about Value Creation and Money.
 
 ....
 
+**Note to self:** 
+
+**REMEMBER YOUR ROLE MODELS.** 
+
+
+
 
 
 
