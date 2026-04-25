@@ -13,9 +13,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
 
-**I am grateful to all the PEOPLE WHO HAVE SUBSTANTIALLY CONTRIBUTED TO MODERN HUMANITY.**
-
-**Likewise I am sad about all the people pulling modern humanity backwards. You kind of win by not being like them.**  
+**I am grateful to all the PEOPLE WHO HAVE SUBSTANTIALLY CONTRIBUTED TO MODERN HUMANITY.** 
 
 **I believe that HUMAN POTENTIAL is almost equally present in different groups, irrespective of geographic, demographic and economic boundaries.** 
 
