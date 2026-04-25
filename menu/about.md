@@ -15,12 +15,12 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 **I believe that HUMAN POTENTIAL is almost equally present in different groups, irrespective of geographic, demographic and economic boundaries.** 
 
-$${ \boxed{ \textbf{REMEMBER YOUR ROLE MODELS.}} }$$  
+$${ \large \boxed{ \textbf{REMEMBER YOUR ROLE MODELS.}} }$$  
 
 
 I am curious about the **NATURE AND PURPOSE OF THE WORLD**.
 
-$${ \boxed{\textbf{WHY DO WE HAVE THE WORLD?}} }$$ 
+$${ \large \boxed{\textbf{WHY DO WE HAVE THE WORLD?}} }$$ 
 
 I am curious about the **CHARACTERISTICS OF GOD**.
 
