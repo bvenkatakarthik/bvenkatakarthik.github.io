@@ -58,13 +58,7 @@ I am curious about Value Creation and Money.
 
 **REMEMBER YOUR ROLE MODELS.**
 
-**REMEMBER YOUR ROLE MODELS.**
-
-**REMEMBER YOUR ROLE MODELS.**
-
-**REMEMBER YOUR ROLE MODELS.**
-
-...
+. . . 
 
 
 
