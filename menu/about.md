@@ -18,9 +18,9 @@ Hi I am Karthik, a Math and AI enthusiast.
 **REMEMBER YOUR ROLE MODELS.** 
 
 
-I am curious about the **Nature and Purpose of THE WORLD**.
+I am curious about the **NATURE AND PURPOSE OF THE WORLD**.
 
-I am curious about the **Characteristics of GOD**.
+I am curious about the **CHARACTERISTICS OF GOD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
 
