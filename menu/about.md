@@ -8,7 +8,7 @@ permalink: /about
 
 **WHAT IS THE PURPOSE OF THE WORLD?**
 
-**Definitively knowing THE PURPOSE oF THE WORLD might give purpose to our lives.**
+**Definitively knowing THE PURPOSE OF THE WORLD might give purpose to our lives.**
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
@@ -69,17 +69,17 @@ I am curious about Value Creation and Money.
 
 ....
 
-**Definitively knowing THE PURPOSE oF THE WORLD might give purpose to our lives.**
+**Definitively knowing THE PURPOSE OF THE WORLD might give purpose to our lives.**
 
-**Definitively knowing THE PURPOSE oF THE WORLD might give purpose to our lives.**
+**Definitively knowing THE PURPOSE OF THE WORLD might give purpose to our lives.**
 
-**Definitively knowing THE PURPOSE oF THE WORLD might give purpose to our lives.**
+**Definitively knowing THE PURPOSE OF THE WORLD might give purpose to our lives.**
 
-**Definitively knowing THE PURPOSE oF THE WORLD might give purpose to our lives.**
+**Definitively knowing THE PURPOSE OF THE WORLD might give purpose to our lives.**
 
-**Definitively knowing THE PURPOSE oF THE WORLD might give purpose to our lives.**
+**Definitively knowing THE PURPOSE OF THE WORLD might give purpose to our lives.**
 
-**Definitively knowing THE PURPOSE oF THE WORLD might give purpose to our lives.**
+**Definitively knowing THE PURPOSE OF THE WORLD might give purpose to our lives.**
 
 ... 
 
