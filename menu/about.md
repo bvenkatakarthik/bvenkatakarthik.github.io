@@ -8,6 +8,8 @@ permalink: /about
 
 **WHAT IS THE PURPOSE OF THE WORLD?**
 
+**WHY THE WORLD?** 
+
 Hi I am Karthik, a Math and AI enthusiast. 
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
@@ -67,7 +69,19 @@ I am curious about Value Creation and Money.
 
 ....
 
+**WHY THE WORLD?** 
 
+**WHY THE WORLD?** 
+
+**WHY THE WORLD?** 
+
+**WHY THE WORLD?** 
+
+**WHY THE WORLD?** 
+
+**WHY THE WORLD?** 
+
+...
 
 
 
