@@ -62,6 +62,16 @@ I am curious about Value Creation and Money.
 
 . . . 
 
+**A question:**
+
+**WHY DO WE HAVE THE WORLD?** 
+
+**WHY DO WE HAVE THE WORLD?** 
+
+**WHY DO WE HAVE THE WORLD?** 
+
+. . . 
+
 
 
 
