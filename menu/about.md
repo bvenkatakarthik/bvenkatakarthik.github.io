@@ -37,7 +37,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 | ![](https://c.l3n.co/cVwuGA.jpg) | 
 |:--:| 
-| ${ \Large \textbf{TIME Scale} }$  |
+| ${ \Large \textbf{TIME SCALE} }$  |
 
 | ![](https://d.l3n.co/cqdZb3.jpg) | 
 |:--:| 
