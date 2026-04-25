@@ -20,6 +20,8 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 I am curious about the **NATURE AND PURPOSE OF THE WORLD**.
 
+**WHY DO WE HAVE THE WORLD?** 
+
 I am curious about the **CHARACTERISTICS OF GOD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
