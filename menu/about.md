@@ -4,6 +4,7 @@ title: About
 permalink: /about
 --- 
 
+“Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein.
 
 **A question:**
 
