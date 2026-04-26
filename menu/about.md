@@ -6,7 +6,7 @@ permalink: /about
 
 **Note to self**: 
 
-**WHAT YOU REACT TO INTENSELY GETS INTO YOUR MIND.** 
+**WHAT YOU REACT TO INTENSELY** gets into your mind. 
 
 
 **A question:**
@@ -65,7 +65,7 @@ I am curious about Value Creation and Money.
 
 **Note to self**: 
 
-**WHAT YOU REACT TO INTENSELY GETS INTO YOUR MIND.** 
+**WHAT YOU REACT TO INTENSELY** gets into your mind. 
 
 
 
