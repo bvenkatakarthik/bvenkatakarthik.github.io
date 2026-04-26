@@ -5,15 +5,14 @@ permalink: /about
 --- 
 
 
-**IMAGINATION is the best source of HAPPINESS.**
-
-
 **A question I am obsessed by:**
 
 **WHY DO WE HAVE THE WORLD?** 
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
+
+I seek **HAPPINESS** and **KNOWLEDGE**. 
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
 
@@ -52,7 +51,9 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**IMAGINATION is the best source of HAPPINESS.** 
+I seek **HAPPINESS** and **KNOWLEDGE**.
+
+
 
 
 
