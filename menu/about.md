@@ -9,11 +9,6 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**WHY DO WE HAVE THE WORLD?** 
-
-**WHY DO WE HAVE THE WORLD?** 
-
-...
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -55,11 +50,6 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**WHY DO WE HAVE THE WORLD?** 
-
-**WHY DO WE HAVE THE WORLD?** 
-
-...
 
 
 
