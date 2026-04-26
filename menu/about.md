@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-“Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein.
+
 
 **A question I am obsessed by:**
 
@@ -52,8 +52,6 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?** 
 
-
-“Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein.
 
 
 
