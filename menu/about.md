@@ -4,6 +4,10 @@ title: About
 permalink: /about
 ---
 
+**Note to self**: 
+
+**WHAT YOU REACT TO INTENSELY GETS INTO YOUR MIND.** 
+
 **A question:**
 
 **WHY DO WE HAVE THE WORLD?** 
@@ -81,6 +85,9 @@ I am curious about Value Creation and Money.
 
 . . . 
 
+**Note to self**: 
+
+**WHAT YOU REACT TO INTENSELY GETS INTO YOUR MIND.** 
 
 
 
