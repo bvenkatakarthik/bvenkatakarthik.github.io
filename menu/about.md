@@ -4,17 +4,13 @@ title: About
 permalink: /about
 --- 
 
-**“Logic will get you from A to Z; IMAGINATION will get you everywhere.” - Einstein.**
+“Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein.
 
 **A question I am obsessed by:**
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**WHY DO WE HAVE THE WORLD?** 
 
-**WHY DO WE HAVE THE WORLD?** 
-
-...
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -56,13 +52,8 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**WHY DO WE HAVE THE WORLD?**
 
-**WHY DO WE HAVE THE WORLD?**
-
-...
-
-**“Logic will get you from A to Z; IMAGINATION will get you everywhere.” - Einstein.**
+“Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein.
 
 
 
