@@ -38,10 +38,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 |:--:| 
 | ${ \Large \textbf{TIME SCALE} }$  |
 
-| ![](https://d.l3n.co/cqdZb3.jpg) | 
-|:--:| 
-| ${ \Large \textbf{MATTER} }$  |
-
 | ![](https://d.l3n.co/c9Npoz.png) | 
 |:--:| 
 | ${ \Large \textbf{LIFE} }$  |
