@@ -23,7 +23,7 @@ I am grateful to all the **PEOPLE WHO HAVE SUBSTANTIALLY CONTRIBUTED TO MODERN H
 
 Likewise there are PEOPLE PULLING MODERN HUMANITY BACKWARDS. YOU KIND OF WIN BY NOT BEING LIKE THEM.  
 
-Nevertheless I believe that **HUMAN POTENTIAL** is almost equally present in different groups, irrespective of geographic, demographic and economic boundaries.  
+I believe that **HUMAN POTENTIAL** is almost equally present in different groups, irrespective of geographic, demographic and economic boundaries.  
 
 
 I am curious about the **NATURE AND PURPOSE OF THE WORLD**.
