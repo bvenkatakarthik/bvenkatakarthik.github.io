@@ -5,12 +5,12 @@ permalink: /about
 --- 
 
 
+**IMAGINATION is the best source of happiness.**
+
 
 **A question I am obsessed by:**
 
 **WHY DO WE HAVE THE WORLD?** 
-
-
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -51,6 +51,8 @@ I am curious about Value Creation and Money.
 **A question I am obsessed by:**
 
 **WHY DO WE HAVE THE WORLD?** 
+
+**IMAGINATION is the best source of happiness.** 
 
 
 
