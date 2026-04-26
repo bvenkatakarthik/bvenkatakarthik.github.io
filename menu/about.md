@@ -5,7 +5,7 @@ permalink: /about
 --- 
 
 
-**IMAGINATION is the best source of happiness.**
+**IMAGINATION is the best source of HAPPINESS.**
 
 
 **A question I am obsessed by:**
@@ -52,7 +52,7 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**IMAGINATION is the best source of happiness.** 
+**IMAGINATION is the best source of HAPPINESS.** 
 
 
 
