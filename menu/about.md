@@ -4,9 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Note to self**: 
-
-Your **REACTIONS** influence your mind. 
+“Logic can get you from A to Z; **IMAGINATION can get you everywhere.**” - Einstein.
  
 
 
@@ -44,9 +42,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 I am curious about Value Creation and Money. 
 
 
-**Note to self**: 
-
-Your **REACTIONS** influence your mind. 
+“Logic can get you from A to Z; **IMAGINATION can get you everywhere.**” - Einstein.
 
 
 
