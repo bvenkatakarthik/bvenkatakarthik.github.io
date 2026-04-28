@@ -19,7 +19,7 @@ I am curious about the **NATURE AND PURPOSE OF THE WORLD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.
 
-I am curious about **USING IMAGINATION**. 
+I am curious about **IMAGINATION**. 
 
 I am curious about artificial, scalable forms of Intelligence.   
 
