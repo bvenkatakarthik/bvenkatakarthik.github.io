@@ -4,9 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Note to self**:
 
-**IMAGINATION IS A GREAT SOURCE OF HAPPINESS**.
  
 
 
@@ -46,9 +44,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 I am curious about Value Creation and Money. 
 
 
-**Note to self**:
-
-**IMAGINATION IS A GREAT SOURCE OF HAPPINESS**.
 
 
 
