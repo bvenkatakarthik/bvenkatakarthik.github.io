@@ -20,9 +20,7 @@ I am forever grateful to all the **PEOPLE WHO HAVE SUBSTANTIALLY CONTRIBUTED TO 
 
 I am curious about the **NATURE AND PURPOSE OF THE WORLD**. 
 
-I am curious about the Brain, the foundation of Reality Experience and Intelligence.
-
-I am curious about **IMAGINATION**. 
+I am curious about the Brain, the foundation of Reality Experience and Intelligence. 
 
 I am curious about artificial, scalable forms of Intelligence.   
 
