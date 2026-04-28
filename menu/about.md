@@ -4,7 +4,9 @@ title: About
 permalink: /about
 --- 
 
-“Logic can get you from A to Z; **IMAGINATION** can get you everywhere.” - Einstein.
+**Note to self**:
+
+**IMAGINATION IS A GREAT SOURCE OF HAPPINESS**.
  
 
 
@@ -44,10 +46,9 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 I am curious about Value Creation and Money. 
 
 
-“Logic can get you from A to Z; **IMAGINATION** can get you everywhere.” - Einstein.
+**Note to self**:
 
-
-
+**IMAGINATION IS A GREAT SOURCE OF HAPPINESS**.
 
 
 
