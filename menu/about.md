@@ -4,6 +4,9 @@ title: About
 permalink: /about
 --- 
 
+**Note to self**: 
+
+**ACTION-REWARD CYCLES are the essence of LIFE**. 
 
  
 
@@ -42,6 +45,11 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 
 I am curious about Value Creation and Money. 
+
+**Note to self**: 
+
+**ACTION-REWARD CYCLES are the essence of LIFE**. 
+
 
 
 
