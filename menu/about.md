@@ -7,10 +7,6 @@ permalink: /about
 
 “**ACTION** is the foundational key to all success.” - Picasso.
  
-**Note to self**: 
-
-**SOBER ACTIONS** influence the mind. 
-
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -43,11 +39,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 | ${ \Large \textbf{LIFE} }$  |
 
 
-I am curious about Value Creation and Money. 
-
-**Note to self**: 
-
-**SOBER ACTIONS** influence the mind. 
+I am curious about Value Creation and Money.  
 
 
 “**ACTION** is the foundational key to all success.” - Picasso.
