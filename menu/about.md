@@ -6,8 +6,7 @@ permalink: /about
 
 **Note to self**: 
 
-**ACTION-REACTION CYCLES get into your mind.** 
-
+**INTENSE ACTIONS influence your mind.** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -46,8 +45,7 @@ I am curious about Value Creation and Money.
 
 **Note to self**: 
 
-**ACTION-REACTION CYCLES get into your mind.** 
-
+**INTENSE ACTIONS influence your mind.** 
 
 
 
