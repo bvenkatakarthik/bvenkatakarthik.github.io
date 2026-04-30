@@ -6,7 +6,7 @@ permalink: /about
 
 **Speculation**: 
 
-**INTENSE REACTIONS influence your mind.** 
+**Your REACTIONS influence your mind.** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -44,7 +44,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**INTENSE REACTIONS influence your mind.** 
+**Your REACTIONS influence your mind.** 
 
 
 
