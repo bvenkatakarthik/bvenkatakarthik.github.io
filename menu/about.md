@@ -4,9 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Note to self**: 
-
-**REMEMBER YOUR ROLE MODELS**.
+“Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -18,7 +16,9 @@ I am forever grateful to all the **PEOPLE WHO HAVE SUBSTANTIALLY CONTRIBUTED TO 
 
 I am curious about the **NATURE AND PURPOSE OF THE WORLD**. 
 
-I am curious about the Brain, the foundation of Reality Experience and Intelligence. 
+I am curious about the Brain, the foundation of Reality Experience and Intelligence.
+
+I am curious about **IMAGINATION**.  
 
 I am curious about artificial, scalable forms of Intelligence.   
 
@@ -42,9 +42,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money.  
 
-**Note to self**: 
-
-**REMEMBER YOUR ROLE MODELS**.
+“Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
 
 
 
