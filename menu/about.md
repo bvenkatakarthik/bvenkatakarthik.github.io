@@ -4,7 +4,9 @@ title: About
 permalink: /about
 --- 
 
-“**ACTION** is the foundational key to all success.” - Picasso.
+**Note to self**: 
+
+**Remember your ROLE MODELS**.
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -40,10 +42,9 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money.  
 
-“**ACTION** is the foundational key to all success.” - Picasso. 
+**Note to self**: 
 
-
-
+**Remember your ROLE MODELS**.
 
 
 
