@@ -6,7 +6,7 @@ permalink: /about
 
 **Note to self**: 
 
-**Remember your ROLE MODELS**.
+**REMEMBER YOUR ROLE MODELS**.
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -44,7 +44,7 @@ I am curious about Value Creation and Money.
 
 **Note to self**: 
 
-**Remember your ROLE MODELS**.
+**REMEMBER YOUR ROLE MODELS**.
 
 
 
