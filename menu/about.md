@@ -8,6 +8,9 @@ permalink: /about
 
 **Remember your ROLE MODELS**. 
 
+On Observational Learning: [Link](https://en.wikipedia.org/wiki/Observational_learning).  
+
+
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -47,6 +50,9 @@ I am curious about Value Creation and Money.
 **Note to self**: 
 
 **Remember your ROLE MODELS**. 
+
+On Observational Learning: [Link](https://en.wikipedia.org/wiki/Observational_learning).  
+
 
 
 
