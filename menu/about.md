@@ -6,7 +6,7 @@ permalink: /about
  
 
 
-
+“Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -19,6 +19,8 @@ I am grateful to all the **PEOPLE WHO HAVE SUBSTANTIALLY CONTRIBUTED TO MODERN H
 I am curious about the **NATURE AND PURPOSE OF THE WORLD**. 
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.  
+
+I am curious about **IMAGINATION**. 
 
 I am curious about artificial, scalable forms of Intelligence.   
 
@@ -41,6 +43,8 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 
 I am curious about Value Creation and Money.  
+
+“Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
 
 
  
