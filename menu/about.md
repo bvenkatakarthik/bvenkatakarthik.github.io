@@ -6,7 +6,6 @@ permalink: /about
  
 
 
-“Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein.
 
 **A question I am obsessed by**: 
 
@@ -48,7 +47,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money.  
 
-“Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
 
 **A question I am obsessed by**: 
 
