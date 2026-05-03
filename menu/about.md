@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
  
-
+“**ACTION** is the foundational key to all success.” - Picasso. 
 
 
 **A question I am obsessed by**: 
@@ -49,6 +49,8 @@ I am curious about Value Creation and Money.
 **A question I am obsessed by**: 
 
 **WHY DO WE HAVE THE WORLD?** 
+
+“**ACTION** is the foundational key to all success.” - Picasso. 
 
 
  
