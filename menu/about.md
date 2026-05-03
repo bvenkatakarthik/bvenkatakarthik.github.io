@@ -5,12 +5,6 @@ permalink: /about
 --- 
  
 “**ACTION** is the foundational key to all success.” - Picasso. 
-
-**Speculation**: 
-
-**IMAGINAL ACTS** influence the mind. 
-
-
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -48,9 +42,7 @@ I am curious about Value Creation and Money.
 
 “**ACTION** is the foundational key to all success.” - Picasso. 
 
-**Speculation**: 
 
-**IMAGINAL ACTS** influence the mind. 
 
 
 
