@@ -7,6 +7,8 @@ permalink: /about
 **An important question**: 
 
 **WHY DO WE HAVE THE WORLD?** 
+
+**ESPECIALLY WHY THESE CHARACTERISTICS?** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -45,6 +47,8 @@ I am curious about Value Creation and Money.
 **An important question**: 
 
 **WHY DO WE HAVE THE WORLD?** 
+
+**ESPECIALLY WHY THESE CHARACTERISTICS?** 
 
 
 
