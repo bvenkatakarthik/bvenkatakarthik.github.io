@@ -4,9 +4,9 @@ title: About
 permalink: /about
 --- 
  
-**Speculation**: 
+**An important question**: 
 
-**IMAGINAL ACTS** influence the mind. 
+**WHY DO WE HAVE THE WORLD?** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -42,9 +42,9 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money.  
 
-**Speculation**: 
+**An important question**: 
 
-**IMAGINAL ACTS** influence the mind. 
+**WHY DO WE HAVE THE WORLD?** 
 
 
 
