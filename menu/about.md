@@ -9,6 +9,10 @@ permalink: /about
 **WHY DO WE HAVE THE WORLD?** 
 
 **ESPECIALLY WHY THESE CHARACTERISTICS?** 
+
+**Opinion**: 
+
+**Education should focus more on the questions than the answers.** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -49,6 +53,10 @@ I am curious about Value Creation and Money.
 **WHY DO WE HAVE THE WORLD?** 
 
 **ESPECIALLY WHY THESE CHARACTERISTICS?** 
+
+**Opinion**: 
+
+**Education should focus more on the questions than the answers.** 
 
 
 
