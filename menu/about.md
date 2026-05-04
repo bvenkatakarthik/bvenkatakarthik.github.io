@@ -16,7 +16,7 @@ permalink: /about
 
 **Note to self**: 
 
-**Across any life form, one is primarily an observer.** 
+**Across any life form, one is primarily an OBSERVER.** 
 
  
 
@@ -65,7 +65,7 @@ I am curious about Value Creation and Money.
 
 **Note to self**: 
 
-**Across any life form, one is primarily an observer.** 
+**Across any life form, one is primarily an OBSERVER.** 
 
 
 
