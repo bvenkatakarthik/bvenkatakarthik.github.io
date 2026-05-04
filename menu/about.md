@@ -16,7 +16,8 @@ permalink: /about
 
 **Note to self**: 
 
-**You are primarily an observer.** 
+**Across any life form, one is primarily an observer.** 
+
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -64,7 +65,8 @@ I am curious about Value Creation and Money.
 
 **Note to self**: 
 
-**You are primarily an observer.** 
+**Across any life form, one is primarily an observer.** 
+
 
 
 
