@@ -16,7 +16,9 @@ permalink: /about
 
 **Note to self**: 
 
-**Across any life form, one is primarily an [OBSERVER](https://en.wikipedia.org/wiki/Advaita_Vedanta).** 
+**Across any life form, one is primarily an OBSERVER.** 
+
+**".. I am pure awareness .." - Adi Shankara.** 
 
  
 
@@ -65,7 +67,9 @@ I am curious about Value Creation and Money.
 
 **Note to self**: 
 
-**Across any life form, one is primarily an [OBSERVER](https://en.wikipedia.org/wiki/Advaita_Vedanta).** 
+**Across any life form, one is primarily an OBSERVER.** 
+
+**".. I am pure awareness .." - Adi Shankara.** 
 
 
 
