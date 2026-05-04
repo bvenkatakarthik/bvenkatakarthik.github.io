@@ -16,8 +16,6 @@ permalink: /about
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
-
-I seek to live a life of primarily asking questions. 
  
 
 [Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
