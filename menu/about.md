@@ -13,6 +13,10 @@ permalink: /about
 **Opinion**: 
 
 **Education should focus more on the questions than the answers.** 
+
+**Note to self**: 
+
+**You are primarily an observer.** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -57,6 +61,10 @@ I am curious about Value Creation and Money.
 **Opinion**: 
 
 **Education should focus more on the questions than the answers.** 
+
+**Note to self**: 
+
+**You are primarily an observer.** 
 
 
 
