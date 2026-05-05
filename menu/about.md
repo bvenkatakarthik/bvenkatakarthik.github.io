@@ -16,7 +16,9 @@ permalink: /about
 
 **Note to self**: 
 
-**Across any life form, one is primarily an OBSERVER.** 
+**Across any life form, one is primarily AWARE.** 
+
+**".. I am pure awareness .. " - Adi Shankara**
 
  
 
@@ -65,7 +67,9 @@ I am curious about Value Creation and Money.
 
 **Note to self**: 
 
-**Across any life form, one is primarily an OBSERVER.** 
+**Across any life form, one is primarily AWARE.**
+
+**".. I am pure awareness .. " - Adi Shankara** 
 
 
 
