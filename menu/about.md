@@ -12,7 +12,7 @@ permalink: /about
 
 **Opinion**: 
 
-**Education should focus more on the QUESTIONS than the ANSWERS.** 
+**Education should focus on the QUESTIONS more than the ANSWERS.** 
 
 **Note to self**: 
 
@@ -61,7 +61,7 @@ I am curious about Value Creation and Money.
 
 **Opinion**: 
 
-**Education should focus more on the QUESTIONS than the ANSWERS.** 
+**Education should focus on the QUESTIONS more than the ANSWERS.** 
 
 **Note to self**: 
 
