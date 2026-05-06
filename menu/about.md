@@ -8,9 +8,9 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**Obs**: 
+**Opinion**: 
 
-**THE WORLD runs because of DESIRES.** 
+**Education should focus on the QUESTIONS more than the ANSWERS.** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -50,11 +50,9 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?** 
 
+**Opinion**: 
 
-**Obs**: 
-
-**THE WORLD runs because of DESIRES.** 
-
+**Education should focus on the QUESTIONS more than the ANSWERS.** 
  
 
 
