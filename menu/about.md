@@ -6,11 +6,7 @@ permalink: /about
  
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD?** 
-
-**Opinion**: 
-
-**Education should focus on the QUESTIONS more than the ANSWERS (?)** 
+**WHY DO WE HAVE THE WORLD?**  
 
 **Obs**: 
 
@@ -52,11 +48,7 @@ I am curious about Value Creation and Money.
 
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD?** 
-
-**Opinion**: 
-
-**Education should focus on the QUESTIONS more than the ANSWERS (?)** 
+**WHY DO WE HAVE THE WORLD?**  
 
 **Obs**: 
 
