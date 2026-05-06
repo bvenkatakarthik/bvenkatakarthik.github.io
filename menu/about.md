@@ -18,8 +18,6 @@ permalink: /about
 
 **Across any life form, one is primarily AWARE.** 
 
-**".. I am pure awareness .. " - Adi Shankara**
-
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -69,7 +67,6 @@ I am curious about Value Creation and Money.
 
 **Across any life form, one is primarily AWARE.**
 
-**".. I am pure awareness .. " - Adi Shankara** 
 
 
 
