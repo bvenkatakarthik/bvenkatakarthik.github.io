@@ -8,13 +8,6 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**ESPECIALLY WHY THESE CHARACTERISTICS?** 
-
-**Opinion**: 
-
-**Education should focus on the QUESTIONS more than the ANSWERS.** 
-
-**(Unfortunately, not all life forms can ask questions.)**
 
 **Note to self**: 
 
@@ -58,14 +51,6 @@ I am curious about Value Creation and Money.
 **An important question**: 
 
 **WHY DO WE HAVE THE WORLD?** 
-
-**ESPECIALLY WHY THESE CHARACTERISTICS?** 
-
-**Opinion**: 
-
-**Education should focus on the QUESTIONS more than the ANSWERS.** 
-
-**(Unfortunately, not all life forms can ask questions.)**
 
 **Note to self**: 
 
