@@ -10,7 +10,11 @@ permalink: /about
 
 **Opinion**: 
 
-**Education should focus on the QUESTIONS more than the ANSWERS.** 
+**Education should focus on the QUESTIONS more than the ANSWERS (?)** 
+
+**Obs**: 
+
+**Every life form is primarily an OBSERVER.** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -52,7 +56,11 @@ I am curious about Value Creation and Money.
 
 **Opinion**: 
 
-**Education should focus on the QUESTIONS more than the ANSWERS.** 
+**Education should focus on the QUESTIONS more than the ANSWERS (?)** 
+
+**Obs**: 
+
+**Every life form is primarily an OBSERVER.** 
  
 
 
