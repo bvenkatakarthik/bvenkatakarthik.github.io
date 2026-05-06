@@ -8,11 +8,6 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?** 
 
-
-**Note to self**: 
-
-**Across any life form, one is primarily AWARE.** 
-
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -52,9 +47,6 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**Note to self**: 
-
-**Across any life form, one is primarily AWARE.**
 
 
 
