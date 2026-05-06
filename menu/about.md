@@ -14,6 +14,8 @@ permalink: /about
 
 **Education should focus on the QUESTIONS more than the ANSWERS.** 
 
+(Unfortunately, not all life forms can ask questions.)
+
 **Note to self**: 
 
 **Across any life form, one is primarily AWARE.** 
@@ -62,6 +64,8 @@ I am curious about Value Creation and Money.
 **Opinion**: 
 
 **Education should focus on the QUESTIONS more than the ANSWERS.** 
+
+(Unfortunately, not all life forms can ask questions.)
 
 **Note to self**: 
 
