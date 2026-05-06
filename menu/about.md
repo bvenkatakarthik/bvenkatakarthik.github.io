@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
  
-**An important question**: 
+**The most important question**: 
 
 **WHY DO WE HAVE THE WORLD?** 
 
@@ -46,7 +46,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 I am curious about Value Creation and Money.  
 
-**An important question**: 
+**The most important question**: 
 
 **WHY DO WE HAVE THE WORLD?** 
 
