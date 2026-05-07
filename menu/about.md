@@ -11,6 +11,10 @@ permalink: /about
 **Obs**: 
 
 **Every life form is primarily an OBSERVER.** 
+
+**Note to self**: 
+
+**OBSERVE, OBSERVE, OBSERVE.**
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -53,6 +57,10 @@ I am curious about Value Creation and Money.
 **Obs**: 
 
 **Every life form is primarily an OBSERVER.** 
+
+**Note to self**: 
+
+**OBSERVE, OBSERVE, OBSERVE.**
  
 
 
