@@ -8,9 +8,13 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?**  
 
-**Speculation**: 
+**Obs**: 
 
-**IMAGINAL ACTS influence the mind.**
+**Every life form is primarily an OBSERVER.** 
+
+**Note to self**: 
+
+**OBSERVE, OBSERVE, OBSERVE.**
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -49,10 +53,13 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?**  
 
-**Speculation**: 
+**Obs**: 
 
-**IMAGINAL ACTS influence the mind.**
+**Every life form is primarily an OBSERVER.** 
 
+**Note to self**: 
+
+**OBSERVE, OBSERVE, OBSERVE.**
 
 
 
