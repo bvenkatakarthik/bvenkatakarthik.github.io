@@ -19,6 +19,8 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 I am grateful to all the PEOPLE WHO HAVE SUBSTANTIALLY CONTRIBUTED TO MODERN HUMANITY.
 
+"Never play chess with a pigeon. The pigeon just knocks all the pieces over. Then shits all over the board. Then struts around like it won." It's a waste of your life energy. 
+
 I am curious about the **NATURE AND PURPOSE OF THE WORLD**. 
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.  
