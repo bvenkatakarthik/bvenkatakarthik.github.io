@@ -8,6 +8,11 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?**  
 
+**Guess**: 
+
+There is a Purpose of **THE WORLD**, but we do not know it. There must be a reason why groups of atoms formed these highly structured life forms. 
+
+
 "Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -47,6 +52,11 @@ I am curious about Value Creation and Money.
 **The most important question**: 
 
 **WHY DO WE HAVE THE WORLD?**  
+
+**Guess**: 
+
+There is a Purpose of **THE WORLD**, but we do not know it. There must be a reason why groups of atoms formed these highly structured life forms. 
+
 
 "Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
 
