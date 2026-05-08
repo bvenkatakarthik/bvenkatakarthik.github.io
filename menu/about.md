@@ -12,6 +12,8 @@ permalink: /about
 
 There is a Purpose of **THE WORLD**, but we do not know it. There must be a Reason why groups of atoms formed these highly structured life forms!?!? 
 
+**THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
+
 
 "Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
 
@@ -56,6 +58,8 @@ I am curious about Value Creation and Money.
 **Guess**: 
 
 There is a Purpose of **THE WORLD**, but we do not know it. There must be a Reason why groups of atoms formed these highly structured life forms!?!?
+
+**THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 
 "Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
