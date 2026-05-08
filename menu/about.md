@@ -8,7 +8,7 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?**   
 
-**THE BIRTH OF THE WORLD, as we (surprisingly) know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
+**THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 
 "Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
@@ -51,7 +51,7 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?**  
 
-**THE BIRTH OF THE WORLD, as we (surprisingly) know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
+**THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 
 "Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
