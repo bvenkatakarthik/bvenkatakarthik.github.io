@@ -17,8 +17,6 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 I am grateful to all the PEOPLE WHO HAVE SUBSTANTIALLY CONTRIBUTED TO MODERN HUMANITY.
 
-Some AI for Math efforts: [Link](https://bvenkatakarthik.github.io/Reddit_AI_for_Math_2026_03_04). 
-
 
 I am curious about the **NATURE AND PURPOSE OF THE WORLD**. 
 
