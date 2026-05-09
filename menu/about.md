@@ -8,7 +8,7 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?**
 
-**WHY THESE CHARACTERISTICS?**   
+**WHY ALL THESE CHARACTERISTICS?**   
 
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
@@ -54,7 +54,7 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?**
 
-**WHY THESE CHARACTERISTICS?**   
+**WHY ALL THESE CHARACTERISTICS?**   
  
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
