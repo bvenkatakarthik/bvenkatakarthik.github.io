@@ -18,7 +18,7 @@ permalink: /about
 
 **Speculation**: 
 
-**Living beings can often choose to be happy!?!?**
+**Living beings can often choose to be happy?**
 
 
 
@@ -71,7 +71,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**Living beings can often choose to be happy!?!?**
+**Living beings can often choose to be happy?**
 
 
 
