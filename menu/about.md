@@ -6,7 +6,9 @@ permalink: /about
  
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD?**  
+**WHY DO WE HAVE THE WORLD?**
+
+**WHY THESE CHARACTERISTICS?**   
 
 **(WHY SPACE? WHY TIME? WHY GRAVITY? WHY LIFE? ...)**
 
@@ -52,7 +54,9 @@ I am curious about Value Creation and Money.
 
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD?**  
+**WHY DO WE HAVE THE WORLD?**
+
+**WHY THESE CHARACTERISTICS?**   
 
 **(WHY SPACE? WHY TIME? WHY GRAVITY? WHY LIFE? ...)**
  
