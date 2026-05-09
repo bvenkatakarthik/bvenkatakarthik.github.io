@@ -12,7 +12,7 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
-**Guess**: **There is a full answer.** 
+**Guess**: **There is a fundamental answer.** 
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -57,7 +57,7 @@ I am curious about Value Creation and Money.
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
-**Guess**: **There is a full answer.** 
+**Guess**: **There is a fundamental answer.** 
 
 
 
