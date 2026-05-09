@@ -10,9 +10,10 @@ permalink: /about
 
 **WHY ALL THIS?** 
 
+(For that matter: Why does the notion of Why exist? :P)
+
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
-**Guess**: **There is a good answer.** 
 
  
 
@@ -56,10 +57,10 @@ I am curious about Value Creation and Money.
 
 **WHY ALL THIS?** 
  
+(For that matter: Why does the notion of Why exist? :P)
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
-
-**Guess**: **There is a good answer.** 
+ 
 
 
 
