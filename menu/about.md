@@ -14,6 +14,11 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
+**Speculation**: 
+
+**Every life form has access to UNCONDITIONAL HAPPINESS from within!?!?**
+
+
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -58,6 +63,11 @@ I am curious about Value Creation and Money.
 (For that matter: Why does the notion of Why exist? :P)
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
+
+**Speculation**: 
+
+**Every life form has access to UNCONDITIONAL HAPPINESS from within!?!?**
+
 
 
 
