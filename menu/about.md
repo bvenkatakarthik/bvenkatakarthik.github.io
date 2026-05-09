@@ -10,8 +10,6 @@ permalink: /about
 
 **WHY ALL THIS?** 
 
-(On a lighter note: Why does the notion of Why exist?) 
-
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -53,8 +51,6 @@ I am curious about Value Creation and Money.
 **WHY DO WE HAVE THE WORLD?** 
 
 **WHY ALL THIS?** 
-
-(On a lighter note: Why does the notion of Why exist?) 
  
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
