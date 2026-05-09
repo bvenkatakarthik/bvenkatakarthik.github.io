@@ -8,6 +8,8 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?**
 
+**WHY ALL THIS?** 
+
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 
@@ -50,6 +52,8 @@ I am curious about Value Creation and Money.
 **The most important question**: 
 
 **WHY DO WE HAVE THE WORLD?** 
+
+**WHY ALL THIS?** 
  
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
