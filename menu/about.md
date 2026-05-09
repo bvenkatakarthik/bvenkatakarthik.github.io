@@ -16,7 +16,8 @@ permalink: /about
 
 **Speculation**: 
 
-**Every life form has access to UNCONDITIONAL HAPPINESS from within!?!?**
+**Living beings can often choose to be happy!?!?**
+
 
 
 
@@ -66,9 +67,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**Every life form has access to UNCONDITIONAL HAPPINESS from within!?!?**
-
-
+**Living beings can often choose to be happy!?!?**
 
 
 
