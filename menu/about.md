@@ -14,6 +14,8 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
+**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd). 
+
 **Speculation**: 
 
 **Living beings can often choose to be happy!?!?**
@@ -64,6 +66,8 @@ I am curious about Value Creation and Money.
 (For that matter: Why does the notion of Why exist? :P)
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
+
+**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd). 
 
 **Speculation**: 
 
