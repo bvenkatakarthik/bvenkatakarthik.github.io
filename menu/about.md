@@ -10,6 +10,9 @@ permalink: /about
 
 **WHY THESE CHARACTERISTICS?** 
 
+**(WHY SPACE? WHY TIME? WHY GRAVITY? WHY LIFE? ...)**
+
+
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 
@@ -53,7 +56,10 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**WHY THESE CHARACTERISTICS?**  
+**WHY THESE CHARACTERISTICS?** 
+
+**(WHY SPACE? WHY TIME? WHY GRAVITY? WHY LIFE? ...)**
+ 
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
