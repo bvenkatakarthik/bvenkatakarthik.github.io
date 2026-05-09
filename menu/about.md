@@ -8,7 +8,7 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?**  
 
-**WHY THESE CHARACTERISTICS?** 
+**(WHY THESE CHARACTERISTICS?)** 
 
 **(WHY SPACE? WHY TIME? WHY GRAVITY? WHY LIFE? ...)**
 
@@ -56,7 +56,7 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**WHY THESE CHARACTERISTICS?** 
+**(WHY THESE CHARACTERISTICS?)** 
 
 **(WHY SPACE? WHY TIME? WHY GRAVITY? WHY LIFE? ...)**
  
