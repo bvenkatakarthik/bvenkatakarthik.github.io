@@ -6,9 +6,7 @@ permalink: /about
  
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD?** 
-
-**WHY THESE SPECIFIC CHARACTERISTICS?**  
+**WHY DO WE HAVE THE WORLD?**  
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
@@ -52,8 +50,6 @@ I am curious about Value Creation and Money.
 **The most important question**: 
 
 **WHY DO WE HAVE THE WORLD?**  
-
-**WHY THESE SPECIFIC CHARACTERISTICS?**
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
