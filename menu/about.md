@@ -12,9 +12,6 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
-
-"Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
-
 Hi I am Karthik, a Math and AI enthusiast. 
  
 
@@ -57,9 +54,6 @@ I am curious about Value Creation and Money.
  
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
-
-
-"Logic will get you from A to Z; **IMAGINATION** will get you everywhere.” - Einstein. 
 
 
 
