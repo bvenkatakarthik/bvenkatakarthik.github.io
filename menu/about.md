@@ -6,9 +6,9 @@ permalink: /about
  
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD?**
+**WHY DO WE HAVE THE WORLD??**
 
-**WHY ALL THIS!?!?** 
+**WHY ALL THIS??** 
 
 (For that matter: Why does the notion of Why exist? :P)
 
@@ -22,7 +22,7 @@ permalink: /about
 
 **The goal is to understand HIGHER TRUTHS.** 
 
-**WHY ALL THIS!?!? WHY ALL THIS!?!? WHY ALL THIS!?!?** 
+**WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??** 
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -61,9 +61,9 @@ I am curious about Value Creation and Money.
 
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD?** 
+**WHY DO WE HAVE THE WORLD??** 
 
-**WHY ALL THIS!?!?** 
+**WHY ALL THIS??** 
  
 (For that matter: Why does the notion of Why exist? :P)
 
@@ -77,7 +77,7 @@ I am curious about Value Creation and Money.
 
 **The goal is to understand HIGHER TRUTHS.** 
 
-**WHY ALL THIS!?!? WHY ALL THIS!?!? WHY ALL THIS!?!?** 
+**WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??** 
 
 
 
