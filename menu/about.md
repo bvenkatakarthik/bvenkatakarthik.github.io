@@ -16,6 +16,8 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd). 
 
+**The goal is to keep getting closer to HIGHER TRUTHS**.
+
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -61,7 +63,9 @@ I am curious about Value Creation and Money.
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
 
-**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd). 
+**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
+
+**The goal is to keep getting closer to HIGHER TRUTHS**. 
 
 
 
