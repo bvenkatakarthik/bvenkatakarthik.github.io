@@ -21,7 +21,7 @@ permalink: /about
 **Living beings can often choose to be happy?**
 
 
-
+May we keep getting closer to **TRUTH**. 
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -72,6 +72,8 @@ I am curious about Value Creation and Money.
 **Speculation**: 
 
 **Living beings can often choose to be happy?**
+
+May we keep getting closer to **TRUTH**. 
 
 
 
