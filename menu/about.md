@@ -22,6 +22,8 @@ permalink: /about
 
 **The goal is to understand HIGHER TRUTHS.** 
 
+**WHY ALL THIS? WHY ALL THIS? WHY ALL THIS?** 
+
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -74,6 +76,8 @@ I am curious about Value Creation and Money.
 **Every life form has access to a blissful kind of happiness?** 
 
 **The goal is to understand HIGHER TRUTHS.** 
+
+**WHY ALL THIS? WHY ALL THIS? WHY ALL THIS?** 
 
 
 
