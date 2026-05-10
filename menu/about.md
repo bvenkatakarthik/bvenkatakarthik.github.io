@@ -20,7 +20,7 @@ permalink: /about
 
 **Every life form has access to a blissful kind of happiness?**  
 
-**May we get closer to HIGHER TRUTHS.** 
+**May we get closer to understanding HIGHER TRUTHS.** 
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -73,7 +73,7 @@ I am curious about Value Creation and Money.
 
 **Every life form has access to a blissful kind of happiness?** 
 
-**May we get closer to HIGHER TRUTHS.** 
+**May we get closer to understanding HIGHER TRUTHS.** 
 
 
 
