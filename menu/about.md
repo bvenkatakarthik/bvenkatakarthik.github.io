@@ -8,7 +8,7 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?**
 
-**WHY ALL THIS?** 
+**WHY ALL THIS!?!?** 
 
 (For that matter: Why does the notion of Why exist? :P)
 
@@ -63,7 +63,7 @@ I am curious about Value Creation and Money.
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**WHY ALL THIS?** 
+**WHY ALL THIS!?!?** 
  
 (For that matter: Why does the notion of Why exist? :P)
 
