@@ -18,7 +18,7 @@ permalink: /about
 
 **Speculation**: 
 
-**Every living being has access to a blissful kind of happiness?**  
+**Every life form has access to a blissful kind of happiness?**  
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -69,7 +69,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**Every living being has access to a blissful kind of happiness?** 
+**Every life form has access to a blissful kind of happiness?** 
 
 
 
