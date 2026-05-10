@@ -18,7 +18,7 @@ permalink: /about
 
 **Speculation**: 
 
-**Living beings can often choose to be happy?**
+**Living beings have access to UNCONDITIONAL HAPPINESS?**
 
 
 **May we keep getting closer to HIGHER TRUTHS**. 
@@ -72,7 +72,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**Living beings can often choose to be happy?**
+**Living beings have access to UNCONDITIONAL HAPPINESS?**
 
 **May we keep getting closer to HIGHER TRUTHS**. 
 
