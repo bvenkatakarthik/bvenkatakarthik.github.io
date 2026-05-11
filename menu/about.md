@@ -20,10 +20,6 @@ permalink: /about
 
 **But specifically WHY ALL THIS??** 
 
-**Obs**: 
-
-**Whatever fundamental reasons we might find, we can always further question why do they exist. In general it is very hard to "fully answer" any WHY question. The goal is to get close to an answer.** 
-
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -74,13 +70,6 @@ I am curious about Value Creation and Money.
 **One can think of many "WORLD DESIGNS".**
 
 **But specifically WHY ALL THIS??**  
-
-**Obs**: 
-
-**Whatever fundamental reasons we might find, we can always further question why do they exist. In general it is very hard to "fully answer" any WHY question. The goal is to get close to an answer.** 
- 
-
-
 
 
 
