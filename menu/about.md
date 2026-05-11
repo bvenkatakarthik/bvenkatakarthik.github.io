@@ -16,10 +16,6 @@ permalink: /about
 
 **WHY ALL THIS?**  
 
-**Speculation**: 
-
-**"ACTION is the foundational key to all success." - Picasso.** 
-
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -67,9 +63,7 @@ I am curious about Value Creation and Money.
 
 **WHY ALL THIS?**  
 
-**Speculation**: 
 
-**"ACTION is the foundational key to all success." - Picasso.** 
   
 
 
