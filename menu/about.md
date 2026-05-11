@@ -21,6 +21,10 @@ permalink: /about
 
 **WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??** 
 
+**One can think of many "WORLD DESIGNS".** 
+
+**But WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??**
+
 
 
 
@@ -74,6 +78,10 @@ I am curious about Value Creation and Money.
 **The goal is to understand HIGHER TRUTHS.** 
 
 **WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??** 
+
+**One can think of many "WORLD DESIGNS".** 
+
+**But WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??**
 
 
 
