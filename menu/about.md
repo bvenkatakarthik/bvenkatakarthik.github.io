@@ -25,6 +25,11 @@ permalink: /about
 
 **Observing another's feelings influences your own feelings? (This fact can be used in a therapeutic way?)** 
 
+**Speculation**: 
+
+**In a dream, we are often emotional but not very logical. We as humans are lucky to be able to think logically.**  
+
+
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -81,6 +86,10 @@ I am curious about Value Creation and Money.
 **Speculation**: 
 
 **Observing another's feelings influences your own feelings? (This fact can be used in a therapeutic way?)** 
+
+**Speculation**: 
+
+**In a dream, we are often emotional but not very logical. We as humans are lucky to be able to think logically.**  
 
 
 
