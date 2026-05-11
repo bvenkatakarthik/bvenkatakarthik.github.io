@@ -21,14 +21,6 @@ permalink: /about
 
 **WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??** 
 
-**Speculation**: 
-
-**Observing another's feelings influences your own feelings? (This fact can be used in a therapeutic way?)** 
-
-**Speculation**: 
-
-**In a dream, we are often emotional but not very logical. We as humans are lucky to be able to think logically.**  
-
 
 
 
@@ -83,13 +75,7 @@ I am curious about Value Creation and Money.
 
 **WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??** 
 
-**Speculation**: 
 
-**Observing another's feelings influences your own feelings? (This fact can be used in a therapeutic way?)** 
-
-**Speculation**: 
-
-**In a dream, we are often emotional but not very logical. We as humans are lucky to be able to think logically.**  
 
 
 
