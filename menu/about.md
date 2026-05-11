@@ -16,7 +16,11 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd). 
 
-**WHY ALL THIS??** 
+**One can think of many "WORLD DESIGNS".**
+
+**But specifically WHY ALL THIS??** 
+
+**(There might be an element of chance)** 
 
 **Obs**: 
 
@@ -69,7 +73,11 @@ I am curious about Value Creation and Money.
 
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd). 
 
-**WHY ALL THIS??** 
+**One can think of many "WORLD DESIGNS".**
+
+**But specifically WHY ALL THIS??** 
+
+**(There might be an element of chance)**  
 
 **Obs**: 
 
