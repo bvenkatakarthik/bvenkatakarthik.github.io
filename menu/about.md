@@ -23,7 +23,7 @@ permalink: /about
 
 **One can think of many "WORLD DESIGNS".** 
 
-**But WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??**
+**But specifically WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??**
 
 
 
@@ -81,7 +81,7 @@ I am curious about Value Creation and Money.
 
 **One can think of many "WORLD DESIGNS".** 
 
-**But WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??**
+**But specifically WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??**
 
 
 
