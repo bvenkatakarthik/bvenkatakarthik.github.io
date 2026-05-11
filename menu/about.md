@@ -18,8 +18,6 @@ permalink: /about
 
 **WHY ALL THIS??** 
 
-**The goal is to understand THE REASON.** 
-
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -68,8 +66,7 @@ I am curious about Value Creation and Money.
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd). 
 
 **WHY ALL THIS??** 
-
-**The goal is to understand THE REASON.** 
+ 
 
 
 
