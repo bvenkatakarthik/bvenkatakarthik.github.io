@@ -20,7 +20,7 @@ permalink: /about
 
 **Obs**: 
 
-**Whatever fundamental reasons we might find, we can always further question why do they exist. Perhaps it is simply beyond us. In general it is very hard to "fully answer" any WHY question.** 
+**Whatever fundamental reasons we might find, we can always further question why do they exist. Perhaps it is simply beyond us. In general it is very hard to "fully answer" any WHY question. The goal is to get close to an answer.** 
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -73,7 +73,7 @@ I am curious about Value Creation and Money.
 
 **Obs**: 
 
-**Whatever fundamental reasons we might find, we can always further question why do they exist. Perhaps it is simply beyond us. In general it is very hard to "fully answer" any WHY question.** 
+**Whatever fundamental reasons we might find, we can always further question why do they exist. Perhaps it is simply beyond us. In general it is very hard to "fully answer" any WHY question. The goal is to get close to an answer.** 
  
 
 
