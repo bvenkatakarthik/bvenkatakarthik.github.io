@@ -16,6 +16,8 @@ permalink: /about
 
 **WHY ALL THIS?**  
 
+**Speculation**: 
+
 **"ACTION is the foundational key to all success." - Picasso.** 
 
 
@@ -64,6 +66,8 @@ I am curious about Value Creation and Money.
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
 
 **WHY ALL THIS?**  
+
+**Speculation**: 
 
 **"ACTION is the foundational key to all success." - Picasso.** 
   
