@@ -21,12 +21,6 @@ permalink: /about
 
 **WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??** 
 
-**One can think of many "WORLD DESIGNS".** 
-
-**But specifically WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??**
-
-
-
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -78,11 +72,6 @@ I am curious about Value Creation and Money.
 **The goal is to understand HIGHER TRUTHS.** 
 
 **WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??** 
-
-**One can think of many "WORLD DESIGNS".** 
-
-**But specifically WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??**
-
 
 
 
