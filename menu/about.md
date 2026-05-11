@@ -18,7 +18,7 @@ permalink: /about
 
 **One can think of many "WORLD DESIGNS".**
 
-**But specifically WHY ALL THIS??** 
+**But specifically WHY THIS DESIGN??** 
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -69,7 +69,7 @@ I am curious about Value Creation and Money.
 
 **One can think of many "WORLD DESIGNS".**
 
-**But specifically WHY ALL THIS??**  
+**But specifically WHY THIS DESIGN??**  
 
 
 
