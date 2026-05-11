@@ -20,6 +20,8 @@ permalink: /about
 
 **But specifically WHY THIS DESIGN??** 
 
+**"ACTION is the foundational key to all success." - Picasso.** 
+
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -69,7 +71,10 @@ I am curious about Value Creation and Money.
 
 **One can think of many "WORLD DESIGNS".**
 
-**But specifically WHY THIS DESIGN??**  
+**But specifically WHY THIS DESIGN??** 
+
+**"ACTION is the foundational key to all success." - Picasso.** 
+  
 
 
 
