@@ -20,8 +20,6 @@ permalink: /about
 
 **But specifically WHY ALL THIS??** 
 
-**(There might be an element of chance ...)** 
-
 **Obs**: 
 
 **Whatever fundamental reasons we might find, we can always further question why do they exist. In general it is very hard to "fully answer" any WHY question. The goal is to get close to an answer.** 
@@ -75,9 +73,7 @@ I am curious about Value Creation and Money.
 
 **One can think of many "WORLD DESIGNS".**
 
-**But specifically WHY ALL THIS??** 
-
-**(There might be an element of chance ...)**  
+**But specifically WHY ALL THIS??**  
 
 **Obs**: 
 
