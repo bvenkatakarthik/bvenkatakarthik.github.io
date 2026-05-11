@@ -6,7 +6,7 @@ permalink: /about
  
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD??**
+**WHY DO WE HAVE THE WORLD?**
 
 (For that matter: Why does the notion of Why exist? :P)
 
@@ -53,7 +53,7 @@ I am curious about Value Creation and Money.
 
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD??** 
+**WHY DO WE HAVE THE WORLD?** 
  
 (For that matter: Why does the notion of Why exist? :P)
 
