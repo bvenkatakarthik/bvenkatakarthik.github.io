@@ -14,10 +14,7 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
-**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
-
-
-**The goal is to understand HIGHER TRUTHS.** 
+**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd). 
 
 **WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??** 
 
@@ -66,10 +63,7 @@ I am curious about Value Creation and Money.
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
 
-**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
-
-
-**The goal is to understand HIGHER TRUTHS.** 
+**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd). 
 
 **WHY ALL THIS?? WHY ALL THIS?? WHY ALL THIS??** 
 
