@@ -20,7 +20,7 @@ permalink: /about
 
 **But specifically WHY ALL THIS??** 
 
-**(There might be an element of chance)** 
+**(There might be an element of chance ...)** 
 
 **Obs**: 
 
@@ -77,7 +77,7 @@ I am curious about Value Creation and Money.
 
 **But specifically WHY ALL THIS??** 
 
-**(There might be an element of chance)**  
+**(There might be an element of chance ...)**  
 
 **Obs**: 
 
