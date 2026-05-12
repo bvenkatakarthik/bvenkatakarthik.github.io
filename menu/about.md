@@ -20,10 +20,6 @@ permalink: /about
 
 **There is something outside the material world which is more fundamental than MATTER and is the fundamental cause of THE WORLD.** 
 
-**Speculation**: 
-
-**CONSCIOUSNESS is more fundamental than MATTER.** 
-
 Hi I am Karthik, a Math and AI enthusiast. 
  
 
@@ -73,11 +69,6 @@ I am curious about Value Creation and Money.
 **Speculation**: 
 
 **There is something outside the material world which is more fundamental than MATTER and is the fundamental cause of THE WORLD.** 
-
-**Speculation**: 
-
-**CONSCIOUSNESS is more fundamental than MATTER.** 
-
 
 
 
