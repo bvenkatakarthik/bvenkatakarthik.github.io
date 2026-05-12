@@ -20,7 +20,7 @@ permalink: /about
 
 **Speculation**: 
 
-**Meditating on your CONSCIOUSNESS is beneficial.** 
+**IMAGINATION influences the mind.** 
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -73,7 +73,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**Meditating on your CONSCIOUSNESS is beneficial.** 
+**IMAGINATION influences the mind.**
 
 
 
