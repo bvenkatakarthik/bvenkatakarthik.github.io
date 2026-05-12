@@ -14,7 +14,9 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
 
-**EVERYTHING IS CONNECTED, a video**: [Link](https://youtu.be/rPh3c8Sa37M?si=Dc6dJVShIkLL8YsZ).   
+**EVERYTHING IS CONNECTED, a video**: [Link](https://youtu.be/rPh3c8Sa37M?si=Dc6dJVShIkLL8YsZ).
+
+**THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/dGiQaabX3_o?si=zsQsi0TUtkYZMOII).    
 
 **WHY THIS DESIGN????** 
 
@@ -66,7 +68,9 @@ I am curious about Value Creation and Money.
 
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
 
-**EVERYTHING IS CONNECTED, a video**: [Link](https://youtu.be/rPh3c8Sa37M?si=Dc6dJVShIkLL8YsZ).  
+**EVERYTHING IS CONNECTED, a video**: [Link](https://youtu.be/rPh3c8Sa37M?si=Dc6dJVShIkLL8YsZ). 
+
+**THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/dGiQaabX3_o?si=zsQsi0TUtkYZMOII).  
 
 
 **WHY THIS DESIGN????** 
