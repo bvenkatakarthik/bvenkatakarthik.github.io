@@ -24,7 +24,7 @@ permalink: /about
 
 **Speculation**: 
 
-**What you experience in IMAGINATION influences you.** 
+**IMAGINAL EXPERIENCES influence you.** 
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -80,7 +80,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**What you experience in IMAGINATION influences you.** 
+**IMAGINAL EXPERIENCES influence you.**
 
 
 
