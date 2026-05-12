@@ -20,6 +20,8 @@ permalink: /about
 
 **There is something outside the material world which is more fundamental than MATTER and is the fundamental cause of THE WORLD.** 
 
+**But still: WHY THESE DESIGN CHOICES?** 
+
 **Speculation**: 
 
 **What you experience in IMAGINATION influences you.** 
@@ -73,6 +75,8 @@ I am curious about Value Creation and Money.
 **Speculation**: 
 
 **There is something outside the material world which is more fundamental than MATTER and is the fundamental cause of THE WORLD.** 
+
+**But still: WHY THESE DESIGN CHOICES?** 
 
 **Speculation**: 
 
