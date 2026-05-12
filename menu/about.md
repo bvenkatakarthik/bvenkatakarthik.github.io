@@ -14,7 +14,7 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).  
 
-**WHY THESE DESIGN CHOICES?** 
+**WHY THIS DESIGN?** 
 
 **Speculation**: 
 
@@ -65,7 +65,7 @@ I am curious about Value Creation and Money.
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd). 
 
 
-**WHY THESE DESIGN CHOICES?** 
+**WHY THIS DESIGN?** 
 
 **Speculation**: 
 
