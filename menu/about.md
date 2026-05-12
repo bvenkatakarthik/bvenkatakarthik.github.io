@@ -18,10 +18,6 @@ permalink: /about
 
 **WHY THESE DESIGN CHOICES?** 
 
-**Speculation**: 
-
-**IMAGINAL EXPERIENCES influence you.** 
-
 Hi I am Karthik, a Math and AI enthusiast. 
  
 
@@ -70,9 +66,7 @@ I am curious about Value Creation and Money.
 
 **WHY THESE DESIGN CHOICES?** 
 
-**Speculation**: 
 
-**IMAGINAL EXPERIENCES influence you.**
 
 
 
