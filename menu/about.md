@@ -16,7 +16,7 @@ permalink: /about
 
 **EVERYTHING IS CONNECTED, a video**: [Link](https://youtu.be/rPh3c8Sa37M?si=Dc6dJVShIkLL8YsZ).   
 
-**WHY THIS DESIGN?** 
+**WHY THIS DESIGN????** 
 
 **Speculation**: 
 
@@ -69,7 +69,7 @@ I am curious about Value Creation and Money.
 **EVERYTHING IS CONNECTED, a video**: [Link](https://youtu.be/rPh3c8Sa37M?si=Dc6dJVShIkLL8YsZ).  
 
 
-**WHY THIS DESIGN?** 
+**WHY THIS DESIGN????** 
 
 **Speculation**: 
 
