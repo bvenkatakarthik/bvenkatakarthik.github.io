@@ -20,10 +20,6 @@ permalink: /about
 
 **WHY THIS DESIGN????** 
 
-**Speculation**: 
-
-**Using IMAGINATION as a source of HAPPINESS is beneficial.** 
-
 Hi I am Karthik, a Math and AI enthusiast. 
  
 
@@ -74,9 +70,6 @@ I am curious about Value Creation and Money.
 
 **WHY THIS DESIGN????** 
 
-**Speculation**: 
-
-**Using IMAGINATION as a source of HAPPINESS is beneficial.** 
 
 
 
