@@ -16,11 +16,7 @@ permalink: /about
 
 **WHY ALL THIS?**  
 
-**Speculation**: 
-
-**There is something outside the material world which is more fundamental than MATTER and is the fundamental cause of THE WORLD.** 
-
-**But still: WHY THESE DESIGN CHOICES? (AND WHAT EXACTLY ARE THE DESIGN CHOICES?)** 
+**WHY THESE DESIGN CHOICES? (AND WHAT EXACTLY ARE THE DESIGN CHOICES?)** 
 
 **Speculation**: 
 
@@ -72,11 +68,7 @@ I am curious about Value Creation and Money.
 
 **WHY ALL THIS?**  
 
-**Speculation**: 
-
-**There is something outside the material world which is more fundamental than MATTER and is the fundamental cause of THE WORLD.** 
-
-**But still: WHY THESE DESIGN CHOICES? (AND WHAT EXACTLY ARE THE DESIGN CHOICES?)** 
+**WHY THESE DESIGN CHOICES? (AND WHAT EXACTLY ARE THE DESIGN CHOICES?)** 
 
 **Speculation**: 
 
