@@ -14,7 +14,9 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
 
-**THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4).    
+**THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
+
+**WHY ALL THIS????**    
 
 **WHY THIS DESIGN????** 
 
@@ -68,6 +70,7 @@ I am curious about Value Creation and Money.
 
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4).  
 
+**WHY ALL THIS????**
 
 **WHY THIS DESIGN????** 
 
