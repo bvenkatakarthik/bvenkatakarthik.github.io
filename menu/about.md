@@ -18,6 +18,11 @@ permalink: /about
 
 **WHY THESE DESIGN CHOICES?** 
 
+**Speculation**: 
+
+**Meditating on your CONSCIOUSNESS is beneficial.** 
+
+
 Hi I am Karthik, a Math and AI enthusiast. 
  
 
@@ -65,6 +70,10 @@ I am curious about Value Creation and Money.
 **WHY ALL THIS?**
 
 **WHY THESE DESIGN CHOICES?** 
+
+**Speculation**: 
+
+**Meditating on your CONSCIOUSNESS is beneficial.** 
 
 
 
