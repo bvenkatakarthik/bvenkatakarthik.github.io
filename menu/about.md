@@ -16,7 +16,7 @@ permalink: /about
 
 **WHY ALL THIS?**  
 
-**WHY THESE DESIGN CHOICES? (AND WHAT EXACTLY ARE THE DESIGN CHOICES?)** 
+**WHY THESE DESIGN CHOICES?** 
 
 **Speculation**: 
 
@@ -68,7 +68,7 @@ I am curious about Value Creation and Money.
 
 **WHY ALL THIS?**  
 
-**WHY THESE DESIGN CHOICES? (AND WHAT EXACTLY ARE THE DESIGN CHOICES?)** 
+**WHY THESE DESIGN CHOICES?** 
 
 **Speculation**: 
 
