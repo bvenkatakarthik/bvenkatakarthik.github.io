@@ -24,7 +24,7 @@ permalink: /about
 
 **Speculation**: 
 
-**IMAGINATION can be a boon. What you experience in IMAGINATION influences you.** 
+**What you experience in IMAGINATION influences you.** 
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -80,7 +80,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**IMAGINATION can be a boon. What you experience in IMAGINATION influences you.** 
+**What you experience in IMAGINATION influences you.** 
 
 
 
