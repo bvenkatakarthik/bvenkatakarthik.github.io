@@ -22,6 +22,10 @@ permalink: /about
 
 **Can we understand such HIGHER TRUTHS????** 
 
+**Can we understand such HIGHER TRUTHS????**
+
+**Can we understand such HIGHER TRUTHS????**
+
 
 **Speculation**: 
 
@@ -79,6 +83,10 @@ I am curious about Value Creation and Money.
 **WHY THIS DESIGN????** 
 
 **Can we understand such HIGHER TRUTHS????** 
+
+**Can we understand such HIGHER TRUTHS????**
+
+**Can we understand such HIGHER TRUTHS????**
 
 
 **Speculation**: 
