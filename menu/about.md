@@ -25,11 +25,7 @@ permalink: /about
 **Can we understand such HIGHER TRUTHS????**
 
 **Can we understand such HIGHER TRUTHS????**
-
-
-**Speculation**: 
-
-**"ACTION is the foundational key to all success." - Picasso.**  
+ 
 
 Hi I am Karthik, a Math and AI enthusiast. 
  
@@ -87,14 +83,6 @@ I am curious about Value Creation and Money.
 **Can we understand such HIGHER TRUTHS????**
 
 **Can we understand such HIGHER TRUTHS????**
-
-
-**Speculation**: 
-
-**"ACTION is the foundational key to all success." - Picasso.** 
-
-
-
 
 
 
