@@ -10,20 +10,11 @@ permalink: /about
 
 (For that matter: Why does the notion of Why exist? :P)
 
-**About ${ \large \mathbf{13800000000} }$ years ago...**
-
-**Perhaps for some REASON?...**
-
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
 
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4).    
-
-**WHY THIS DESIGN?**
-
-**Can we understand such HIGHER TRUTHS?** 
-
 
  
 
@@ -67,9 +58,6 @@ I am curious about Value Creation and Money.
  
 (For that matter: Why does the notion of Why exist? :P)
 
-**About ${ \large \mathbf{13800000000} }$ years ago...**
-
-**Perhaps for some REASON?...**
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
 
@@ -78,9 +66,6 @@ I am curious about Value Creation and Money.
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
 
-**WHY THIS DESIGN?** 
-
-**Can we understand such HIGHER TRUTHS?** 
 
 
 
