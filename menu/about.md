@@ -12,7 +12,7 @@ permalink: /about
 
 **About ${ \large \mathbf{13800000000} }$ years ago...**
 
-**Perhaps for some REASON...**
+**Perhaps for some REASON????...**
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
@@ -71,7 +71,7 @@ I am curious about Value Creation and Money.
 
 **About ${ \large \mathbf{13800000000} }$ years ago...**
 
-**Perhaps for some REASON...**
+**Perhaps for some REASON????...**
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
 
