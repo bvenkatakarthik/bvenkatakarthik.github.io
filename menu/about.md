@@ -24,8 +24,6 @@ permalink: /about
 
 **Can we understand such HIGHER TRUTHS?** 
 
-**“Logic will get you from A to Z; IMAGINATION will get you everywhere.” ― Einstein.**
-
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -83,7 +81,6 @@ I am curious about Value Creation and Money.
 
 **Can we understand such HIGHER TRUTHS?** 
 
-**“Logic will get you from A to Z; IMAGINATION will get you everywhere.” ― Einstein.**
 
 
 
