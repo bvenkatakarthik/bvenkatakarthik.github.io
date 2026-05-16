@@ -15,6 +15,9 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
 
+**THE BIRTH OF THE ELEMENTS, a video**: [Link](https://youtu.be/6yLGeviU8FM?si=Yl2ErC6XAf_tJHXY). 
+
+
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4).
 
 **"ACTION is the foundational key to all success." - Picasso.**    
@@ -65,6 +68,9 @@ I am curious about Value Creation and Money.
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
 
 **THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
+
+**THE BIRTH OF THE ELEMENTS, a video**: [Link](https://youtu.be/6yLGeviU8FM?si=Yl2ErC6XAf_tJHXY). 
+
 
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
