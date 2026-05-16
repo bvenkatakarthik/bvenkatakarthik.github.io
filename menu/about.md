@@ -24,9 +24,6 @@ permalink: /about
 
 **Can we understand such HIGHER TRUTHS?** 
 
-**Can we understand such HIGHER TRUTHS?** 
-
-**Can we understand such HIGHER TRUTHS?** 
 
  
 
@@ -85,9 +82,6 @@ I am curious about Value Creation and Money.
 
 **Can we understand such HIGHER TRUTHS?** 
 
-**Can we understand such HIGHER TRUTHS?** 
-
-**Can we understand such HIGHER TRUTHS?** 
 
 
 
