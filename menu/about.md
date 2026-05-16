@@ -6,13 +6,13 @@ permalink: /about
  
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD????**
+**WHY DO WE HAVE THE WORLD?**
 
 (For that matter: Why does the notion of Why exist? :P)
 
 **About ${ \large \mathbf{13800000000} }$ years ago...**
 
-**Perhaps for some REASON????...**
+**Perhaps for some REASON?...**
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
@@ -20,13 +20,13 @@ permalink: /about
 
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4).    
 
-**WHY THIS DESIGN????**
+**WHY THIS DESIGN?**
 
-**Can we understand such HIGHER TRUTHS????** 
+**Can we understand such HIGHER TRUTHS?** 
 
-**Can we understand such HIGHER TRUTHS????** 
+**Can we understand such HIGHER TRUTHS?** 
 
-**Can we understand such HIGHER TRUTHS????** 
+**Can we understand such HIGHER TRUTHS?** 
 
  
 
@@ -66,13 +66,13 @@ I am curious about Value Creation and Money.
 
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD????** 
+**WHY DO WE HAVE THE WORLD?** 
  
 (For that matter: Why does the notion of Why exist? :P)
 
 **About ${ \large \mathbf{13800000000} }$ years ago...**
 
-**Perhaps for some REASON????...**
+**Perhaps for some REASON?...**
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
 
@@ -81,13 +81,13 @@ I am curious about Value Creation and Money.
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
 
-**WHY THIS DESIGN????** 
+**WHY THIS DESIGN?** 
 
-**Can we understand such HIGHER TRUTHS????** 
+**Can we understand such HIGHER TRUTHS?** 
 
-**Can we understand such HIGHER TRUTHS????** 
+**Can we understand such HIGHER TRUTHS?** 
 
-**Can we understand such HIGHER TRUTHS????** 
+**Can we understand such HIGHER TRUTHS?** 
 
 
 
