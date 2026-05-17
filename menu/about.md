@@ -24,6 +24,8 @@ permalink: /about
 
 (Humans are fortunate to be able to ask questions...) 
 
+**Speculation**: 
+
 **"ACTION is the foundational key to all success." - Picasso.**    
 
  
@@ -85,6 +87,8 @@ I am curious about Value Creation and Money.
 **WHY THIS DESIGN?** 
 
 (Humans are fortunate to be able to ask questions...)  
+
+**Speculation**: 
 
 **"ACTION is the foundational key to all success." - Picasso.**
 
