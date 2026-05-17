@@ -24,7 +24,7 @@ permalink: /about
 
 **Speculation**: 
 
-**"${ \Large \textbf{ACTION} }$ is the foundational key to all success." - Picasso.**    
+**"ACTION is the foundational key to all success." - Picasso.**    
 
  
 
@@ -86,7 +86,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**"${ \Large \textbf{ACTION} }$ is the foundational key to all success." - Picasso.**
+**"ACTION is the foundational key to all success." - Picasso.**
 
 
 
