@@ -10,6 +10,8 @@ permalink: /about
 
 (For that matter: Why does the notion of Why exist? :P)
 
+(Humans are fortunate to be able to ask questions...) 
+
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
@@ -19,10 +21,6 @@ permalink: /about
 
 
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4).
-
-**WHY THIS DESIGN?** 
-
-(Humans are fortunate to be able to ask questions...) 
 
 **Speculation**: 
 
@@ -74,6 +72,8 @@ I am curious about Value Creation and Money.
  
 (For that matter: Why does the notion of Why exist? :P)
 
+(Humans are fortunate to be able to ask questions...) 
+
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
 
@@ -82,11 +82,7 @@ I am curious about Value Creation and Money.
 **THE BIRTH OF THE ELEMENTS, a video**: [Link](https://youtu.be/6yLGeviU8FM?si=Yl2ErC6XAf_tJHXY). 
 
 
-**THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4).
-
-**WHY THIS DESIGN?** 
-
-(Humans are fortunate to be able to ask questions...)  
+**THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
 **Speculation**: 
 
