@@ -24,7 +24,7 @@ permalink: /about
 
 **Speculation**: 
 
-**Using internal sources of happiness is beneficial.** 
+**We can often choose to be happy.** 
    
 
  
@@ -89,7 +89,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**Using internal sources of happiness is beneficial.** 
+**We can often choose to be happy.** 
    
 
 
