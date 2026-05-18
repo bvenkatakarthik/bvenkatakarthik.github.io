@@ -53,10 +53,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 | ${ \Large \textbf{THE WORLD: SIZE} }$  |
 
 
-| ![](https://c.l3n.co/cVwuGA.jpg) | 
-|:--:| 
-| ${ \Large \textbf{THE WORLD: TIME} }$  |
-
 | ![](https://c.l3n.co/cFmQvP.gif) | 
 |:--:| 
 | ${ \Large \textbf{THE WORLD: ELEMENTS} }$  |
