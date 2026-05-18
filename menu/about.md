@@ -46,20 +46,20 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 | ![](https://b.l3n.co/oKOJnH.jpg) | 
 |:--:| 
-| ${ \Large \textbf{THE WORLD} }$  |
+| ${ \Large \textbf{THE WORLD: SIZE} }$  |
 
 
 | ![](https://c.l3n.co/cVwuGA.jpg) | 
 |:--:| 
-| ${ \Large \textbf{TIME SCALE} }$  |
+| ${ \Large \textbf{THE WORLD: TIME} }$  |
 
 | ![](https://c.l3n.co/cFmQvP.gif) | 
 |:--:| 
-| ${ \Large \textbf{BIRTH OF ELEMENTS} }$  |
+| ${ \Large \textbf{THE WORLD: ELEMENTS} }$  |
 
 | ![](https://d.l3n.co/c9Npoz.png) | 
 |:--:| 
-| ${ \Large \textbf{LIFE} }$  |
+| ${ \Large \textbf{THE WORLD: LIFE} }$  |
 
 
 I am curious about Value Creation and Money.  
