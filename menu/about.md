@@ -25,7 +25,9 @@ permalink: /about
 **I hope we continue trying to understand HIGHER TRUTHS...** 
    
    
+**Speculation**: 
 
+**Using IMAGINATION as a source of happiness is beneficial.** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -87,6 +89,10 @@ I am curious about Value Creation and Money.
 **WHY ALL THIS? (We don't seem to have a good answer...)**   
 
 **I hope we continue trying to understand HIGHER TRUTHS...** 
+
+**Speculation**: 
+
+**Using IMAGINATION as a source of happiness is beneficial.** 
    
    
 
