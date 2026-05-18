@@ -22,9 +22,7 @@ permalink: /about
 
 **WHY ALL THIS? (We don't seem to have a good answer...)**     
 
-**Speculation**: 
-
-**We can often choose to be happy.** 
+**I don't fully understand the ways of THE WORLD...** 
    
 
  
@@ -87,9 +85,7 @@ I am curious about Value Creation and Money.
 
 **WHY ALL THIS? (We don't seem to have a good answer...)**  
 
-**Speculation**: 
-
-**We can often choose to be happy.** 
+**I don't fully understand the ways of THE WORLD...** 
    
 
 
