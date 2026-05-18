@@ -20,11 +20,10 @@ permalink: /about
 
 **(LIFE evolved over ${ \mathbf{1000000000} }$s of years of a survival game...)**
 
-**WHY ALL THIS? (We don't seem to have a good answer...)**     
+**WHY ALL THIS? (We don't seem to have a good answer...)**      
 
-**I don't fully understand the ways of THE WORLD...** 
-
-${  \large \textbf{I hope we continue trying to understand HIGHER TRUTHS...}  }$
+**I hope we continue trying to understand HIGHER TRUTHS...** 
+   
    
 
  
@@ -85,11 +84,10 @@ I am curious about Value Creation and Money.
 
 **(LIFE evolved over ${ \mathbf{1000000000} }$s of years of a survival game...)**
 
-**WHY ALL THIS? (We don't seem to have a good answer...)**  
+**WHY ALL THIS? (We don't seem to have a good answer...)**   
 
-**I don't fully understand the ways of THE WORLD...** 
-
-${  \large \textbf{I hope we continue trying to understand HIGHER TRUTHS...}  }$
+**I hope we continue trying to understand HIGHER TRUTHS...** 
+   
    
 
 
