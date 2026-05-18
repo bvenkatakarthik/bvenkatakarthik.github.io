@@ -8,9 +8,9 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?**
 
-**WHY THIS DESIGN?**
-
 (For that matter: Why does the notion of Why exist? :P)
+
+**About ${ \large \mathbf{13800000000} }$ years ago...**
 
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
@@ -76,10 +76,10 @@ I am curious about Value Creation and Money.
 **The most important question**: 
 
 **WHY DO WE HAVE THE WORLD?** 
-
-**WHY THIS DESIGN?**
  
 (For that matter: Why does the notion of Why exist? :P)
+
+**About ${ \large \mathbf{13800000000} }$ years ago...**
 
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
