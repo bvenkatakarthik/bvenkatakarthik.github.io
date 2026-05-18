@@ -20,12 +20,7 @@ permalink: /about
 
 **(LIFE evolved over ${ \mathbf{1000000000} }$s of years of a survival game...)**
 
-**WHY ALL THIS? (We don't seem to have a good answer...)**   
- 
-
-**Speculation**: 
-
-**"ACTION is the foundational key to all success." - Picasso.**    
+**WHY ALL THIS? (We don't seem to have a good answer...)**     
 
  
 
@@ -88,9 +83,6 @@ I am curious about Value Creation and Money.
 **WHY ALL THIS? (We don't seem to have a good answer...)**  
 
 
-**Speculation**: 
-
-**"ACTION is the foundational key to all success." - Picasso.**
 
 
 
