@@ -22,11 +22,7 @@ permalink: /about
 
 **(LIFE evolved over a "long" and "brutal" survival game...)**
 
-**WHY ALL THIS? (We don't seem to have a good answer...)**  
-
-**I do not understand THE WORLD'S ways...** 
-
-**But I bow down to it...**  
+**WHY ALL THIS? (We don't seem to have a good answer...)**   
  
 
 **Speculation**: 
@@ -93,10 +89,6 @@ I am curious about Value Creation and Money.
 **(LIFE evolved over a "long" and "brutal" survival game...)**
 
 **WHY ALL THIS? (We don't seem to have a good answer...)**  
-
-**I do not understand THE WORLD'S ways...** 
-
-**But I bow down to it...**  
 
 
 **Speculation**: 
