@@ -13,7 +13,7 @@ permalink: /about
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
-**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
+**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=q_YeFKfZXLOjyFNY).
 
 **THE BIRTH OF THE ELEMENTS, a video**: [Link](https://youtu.be/6yLGeviU8FM?si=Yl2ErC6XAf_tJHXY). 
 
@@ -73,7 +73,7 @@ I am curious about Value Creation and Money.
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
 
-**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/TBikbn5XJhg?si=QDOh29B6w3Z_EuUd).
+**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=q_YeFKfZXLOjyFNY).
 
 **THE BIRTH OF THE ELEMENTS, a video**: [Link](https://youtu.be/6yLGeviU8FM?si=Yl2ErC6XAf_tJHXY). 
 
