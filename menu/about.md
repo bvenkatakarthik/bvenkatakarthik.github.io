@@ -22,6 +22,8 @@ permalink: /about
 
 **(By current standards: The history of life is "long" and "brutal"...)**
 
+**WHY ALL THIS?** 
+
 **Speculation**: 
 
 **"ACTION is the foundational key to all success." - Picasso.**    
@@ -84,6 +86,8 @@ I am curious about Value Creation and Money.
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
 **(By current standards: The history of life is "long" and "brutal"...)**
+
+**WHY ALL THIS?** 
 
 **Speculation**: 
 
