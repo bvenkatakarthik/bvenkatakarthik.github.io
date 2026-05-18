@@ -24,7 +24,7 @@ permalink: /about
 
 **I don't fully understand the ways of THE WORLD...** 
 
-**I hope we continue trying to understand HIGHER TRUTHS...**
+${  \large \textbf{I hope we continue trying to understand HIGHER TRUTHS...}  }$
    
 
  
@@ -89,7 +89,7 @@ I am curious about Value Creation and Money.
 
 **I don't fully understand the ways of THE WORLD...** 
 
-**I hope we continue trying to understand HIGHER TRUTHS...**
+${  \large \textbf{I hope we continue trying to understand HIGHER TRUTHS...}  }$
    
 
 
