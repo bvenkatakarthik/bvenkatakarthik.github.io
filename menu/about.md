@@ -22,6 +22,10 @@ permalink: /about
 
 **WHY ALL THIS? (We don't seem to have a good answer...)**     
 
+**Speculation**: 
+
+**Using internal sources of happiness is beneficial.** 
+
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -81,6 +85,10 @@ I am curious about Value Creation and Money.
 **(LIFE evolved over ${ \mathbf{1000000000} }$s of years of a survival game...)**
 
 **WHY ALL THIS? (We don't seem to have a good answer...)**  
+
+**Speculation**: 
+
+**Using internal sources of happiness is beneficial.** 
 
 
 
