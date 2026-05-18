@@ -24,7 +24,7 @@ permalink: /about
 
 **Speculation**: 
 
-**Using IMAGINATION as a source of happiness is beneficial.** 
+**Using internal sources of happiness is beneficial.** 
    
 
  
@@ -89,7 +89,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**Using IMAGINATION as a source of happiness is beneficial.** 
+**Using internal sources of happiness is beneficial.** 
    
 
 
