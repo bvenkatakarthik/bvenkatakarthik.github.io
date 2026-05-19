@@ -22,11 +22,11 @@ permalink: /about
 
 **WHY ALL THIS? (We don't seem to have a good answer...)**      
 
-**I hope we continue trying to understand ${ \Huge \textbf{HIGHER TRUTHS} }$...** 
+**I hope we continue trying to understand HIGHER TRUTHS...** 
 
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
-**Obs: GOING BACK ENOUGH IN TIME, WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE} }$.**
+**Obs: GOING BACK ENOUGH IN TIME, WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE.} }$**
 
 **Speculation:** 
 
@@ -86,11 +86,11 @@ I am curious about Value Creation and Money.
 
 **WHY ALL THIS? (We don't seem to have a good answer...)**   
 
-**I hope we continue trying to understand ${ \Huge \textbf{HIGHER TRUTHS} }$...** 
+**I hope we continue trying to understand HIGHER TRUTHS...** 
 
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
-**Obs: GOING BACK ENOUGH IN TIME, WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE} }$.**
+**Obs: GOING BACK ENOUGH IN TIME, WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE.} }$**
 
 **Speculation:** 
 
