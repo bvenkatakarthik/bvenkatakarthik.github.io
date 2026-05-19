@@ -27,7 +27,7 @@ permalink: /about
    
 **Speculation**: 
 
-**Attention is a valuable commodity in life.** 
+**One's Attention is a valuable thing in life.** 
 
 **“If I have ever made any valuable discoveries, it has been due more to patient attention, than to any other talent.” - Newton.**
  
@@ -94,7 +94,7 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**Attention is a valuable commodity in life.** 
+**One's Attention is a valuable thing in life.** 
 
 **“If I have ever made any valuable discoveries, it has been due more to patient attention, than to any other talent.” - Newton.**
    
