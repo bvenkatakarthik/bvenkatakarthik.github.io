@@ -24,10 +24,9 @@ permalink: /about
 
 **I hope we continue trying to understand HIGHER TRUTHS...** 
 
-**Speculation**:
+**Newton's advice**:  
 
-**Using internal sources of happiness is beneficial.**
-   
+**“If I have ever made any valuable discoveries, it has been due more to patient attention, than to any other talent.” - Newton.**
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -85,10 +84,9 @@ I am curious about Value Creation and Money.
 
 **I hope we continue trying to understand HIGHER TRUTHS...** 
 
-**Speculation**:
+**Newton's advice**:  
 
-**Using internal sources of happiness is beneficial.**
-
+**“If I have ever made any valuable discoveries, it has been due more to patient attention, than to any other talent.” - Newton.**
 
 
 
