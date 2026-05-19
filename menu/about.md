@@ -27,7 +27,9 @@ permalink: /about
    
 **Speculation**: 
 
-**Using IMAGINATION as a source of happiness is beneficial.** 
+**Attention is a valuable commodity in life.** 
+
+**“If I have ever made any valuable discoveries, it has been due more to patient attention, than to any other talent.” - Newton.**
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -92,8 +94,9 @@ I am curious about Value Creation and Money.
 
 **Speculation**: 
 
-**Using IMAGINATION as a source of happiness is beneficial.** 
-   
+**Attention is a valuable commodity in life.** 
+
+**“If I have ever made any valuable discoveries, it has been due more to patient attention, than to any other talent.” - Newton.**
    
 
 
