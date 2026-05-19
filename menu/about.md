@@ -27,11 +27,6 @@ permalink: /about
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
- 
-
-[Esse quam videri](https://en.wikipedia.org/wiki/Esse_quam_videri). "To be, rather than to seem".  
-
-I am grateful to all the PEOPLE WHO HAVE SUBSTANTIALLY PURSUED TRUTH AND CONTRIBUTED TO MODERN HUMANITY.
 
 
 I am curious about the **NATURE AND PURPOSE OF THE WORLD**. 
