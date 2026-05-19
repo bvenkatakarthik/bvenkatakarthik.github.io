@@ -27,10 +27,6 @@ permalink: /about
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
 **Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE.} }$**
-
-**Speculation:** 
-
-**Using IMAGINATION as a source of happiness is beneficial.**
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -91,10 +87,6 @@ I am curious about Value Creation and Money.
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
 **Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE.} }$**
-
-**Speculation:** 
-
-**Using IMAGINATION as a source of happiness is beneficial.**
 
 
 
