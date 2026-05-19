@@ -24,9 +24,9 @@ permalink: /about
 
 **I hope we continue trying to understand HIGHER TRUTHS...** 
 
-**Newton's advice**:  
+**Speculation:** 
 
-**“If I have ever made any valuable discoveries, it has been due more to patient attention, than to any other talent.” - Newton.**
+**Using IMAGINATION as a source of happiness is beneficial.**
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -84,10 +84,9 @@ I am curious about Value Creation and Money.
 
 **I hope we continue trying to understand HIGHER TRUTHS...** 
 
-**Newton's advice**:  
+**Speculation:** 
 
-**“If I have ever made any valuable discoveries, it has been due more to patient attention, than to any other talent.” - Newton.**
-
+**Using IMAGINATION as a source of happiness is beneficial.**
 
 
 
