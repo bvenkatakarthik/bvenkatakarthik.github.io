@@ -27,11 +27,7 @@ permalink: /about
 
 **Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE.} }$**
 
-**I hope we continue trying to understand HIGHER TRUTHS...** 
-
-**I hope we continue trying to understand HIGHER TRUTHS...** 
-
-**I hope we continue trying to understand HIGHER TRUTHS...** 
+**I hope we continue trying to understand ${ \Huge \textbf{HIGHER TRUTHS} }$...** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -92,11 +88,7 @@ I am curious about Value Creation and Money.
 
 **Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE.} }$**
 
-**I hope we continue trying to understand HIGHER TRUTHS...** 
-
-**I hope we continue trying to understand HIGHER TRUTHS...** 
-
-**I hope we continue trying to understand HIGHER TRUTHS...** 
+**I hope we continue trying to understand ${ \Huge \textbf{HIGHER TRUTHS} }$...** 
 
 
 
