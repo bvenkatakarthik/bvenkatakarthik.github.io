@@ -28,7 +28,7 @@ permalink: /about
 
 **I bow down to ${ \Huge \textbf{THE SOURCE.} }$** 
 
-**I humbly hope to understand it better.**
+**I humbly hope to understand IT better.**
 
  
 
@@ -90,7 +90,7 @@ I am curious about Value Creation and Money.
 
 **I bow down to ${ \Huge \textbf{THE SOURCE.} }$** 
 
-**I humbly hope to understand it better.**
+**I humbly hope to understand IT better.**
 
 
 
