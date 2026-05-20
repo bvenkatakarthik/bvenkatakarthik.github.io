@@ -6,28 +6,30 @@ permalink: /about
  
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD?**
+**I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
-(For that matter: Why does the notion of Why exist? :P)
+(For that matter: Why does the notion of Why exist?) 
 
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
-**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=q_YeFKfZXLOjyFNY).
 
+**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
 
-**THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4).
+**THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
-**(LIFE evolved over ${ \mathbf{1000000000} }$s of years of a survival game...)**
+**(LIFE evolved over ${  \mathbf{1000000000} }$s of years of a survival game...)**
 
-**WHY ALL THIS? (We don't seem to have a good answer...)**      
-
+**I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)**  
 
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
-**Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE.} }$**
+**Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE.} }$** 
 
-**I hope we continue trying to understand ${ \Huge \textbf{HIGHER TRUTHS} }$...** 
+**I bow down to ${ \Huge \textbf{THE SOURCE.} }$** 
+
+**I humbly hope to understand it better.**
+
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
@@ -66,37 +68,29 @@ I am curious about Value Creation and Money.
 
 **The most important question**: 
 
-**WHY DO WE HAVE THE WORLD?** 
- 
-(For that matter: Why does the notion of Why exist? :P)
+**I humbly ask: WHY DO WE HAVE THE WORLD?** 
+
+(For that matter: Why does the notion of Why exist?) 
 
 
-**THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe).
-
-**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=q_YeFKfZXLOjyFNY).
+**THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 
+**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
 
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
-**(LIFE evolved over ${ \mathbf{1000000000} }$s of years of a survival game...)**
+**(LIFE evolved over ${  \mathbf{1000000000} }$s of years of a survival game...)**
 
-**WHY ALL THIS? (We don't seem to have a good answer...)**   
-
+**I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)**  
 
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
-**Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE.} }$**
+**Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE.} }$** 
 
-**I hope we continue trying to understand ${ \Huge \textbf{HIGHER TRUTHS} }$...** 
+**I bow down to ${ \Huge \textbf{THE SOURCE.} }$** 
 
-
-
-
-
-
-
-
+**I humbly hope to understand it better.**
 
 
 
