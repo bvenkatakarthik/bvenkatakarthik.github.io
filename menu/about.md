@@ -18,7 +18,7 @@ permalink: /about
 
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
-**(LIFE evolved over ${  \mathbf{1000000000} }$s of years of a survival game...)**
+**(LIFE evolved over ${  \mathbf{1000000000} }$s of years of a survival game... It must've been tough for many life forms...)**
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)**  
 
@@ -80,7 +80,7 @@ I am curious about Value Creation and Money.
 
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
-**(LIFE evolved over ${  \mathbf{1000000000} }$s of years of a survival game...)**
+**(LIFE evolved over ${  \mathbf{1000000000} }$s of years of a survival game... It must've been tough for many life forms...)**
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)**  
 
