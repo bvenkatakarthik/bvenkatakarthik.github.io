@@ -30,6 +30,11 @@ permalink: /about
 
 **I humbly hope to understand ${ \Huge \textbf{THE SOURCE} }$ better...**
 
+**Newton's advice:** 
+
+**“If I have ever made any valuable discoveries, it has been due more to patient attention, than to any other talent.” - Newton.** 
+
+
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
