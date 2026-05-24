@@ -26,8 +26,6 @@ permalink: /about
 
 **Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE.} }$** 
 
-**I bow down to ${ \Huge \textbf{THE SOURCE.} }$** 
-
 **I humbly hope to understand ${ \Huge \textbf{THE SOURCE} }$ better...**
 
 
