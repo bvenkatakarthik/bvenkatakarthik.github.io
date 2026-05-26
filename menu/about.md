@@ -18,11 +18,12 @@ permalink: /about
 
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
-**(LIFE evolved over ${  \mathbf{1000000000} }$s of years of a survival game... It must've been tough for many life forms...)**
+**“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
+
+**LIFE evolved over ${  \mathbf{1000000000} }$s of years of a survival game... It must've been tough for many life forms...**
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)**  
 
-**“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
 **Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE!} }$** 
 
