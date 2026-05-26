@@ -22,7 +22,9 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1000000000} }$s of years of a survival game... It must've been tough for many life forms...**
 
-**I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)**  
+**I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
+
+**(For example, why not have a single "self sufficient" entity? It is arguably better...)** 
 
 
 **Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE}. }$** 
