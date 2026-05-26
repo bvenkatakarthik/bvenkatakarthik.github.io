@@ -25,7 +25,7 @@ permalink: /about
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)**  
 
 
-**Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE!} }$** 
+**Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE}. }$** 
 
 **I humbly hope to understand ${ \Huge \textbf{THE SOURCE} }$ better...**
 
