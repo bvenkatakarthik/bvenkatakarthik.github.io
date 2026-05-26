@@ -24,8 +24,6 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**(For example, why not have a single "self sufficient" entity? It is arguably better...)** 
-
 
 **Obs: GOING BACK ENOUGH IN TIME... WE ALL COME FROM THE ${ \Huge \textbf{SAME SOURCE}. }$** 
 
