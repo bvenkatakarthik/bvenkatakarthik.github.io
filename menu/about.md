@@ -30,7 +30,7 @@ permalink: /about
 
 **Newton's advice:** 
 
-**“If I have ever made any valuable discoveries, it has been due more to ${ \Large \textbf{PATIENT} }$ ${ \Large \textbf{ATTENTION} }$, than to any other talent.” - Newton.** 
+**“If I have ever made any valuable discoveries, it has been due more to PATIENT ATTENTION, than to any other talent.” - Newton.** 
 
 
  
