@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 ---
 
-**Updated**: 27/10/25
+**Updated**: 29/5/26
 
 **Ref**: "Foundations of Applied Mathematics, Vol 2" by Humpherys, Jarvis, Evans.
 
@@ -17,10 +17,6 @@ $${ {\begin{aligned} \text{minimize} \quad &\, f(x) \\ \text{subject to} \quad &
 where ${ f ,}$ ${ g _i }$s are convex functions on ${ \mathbb{R} ^n . }$ (${ f }$ is allowed to take values in ${ \mathbb{R} \cup \lbrace +\infty \rbrace  }$). 
 
 Suppose 
-
-$${ g _1, \ldots, g _k \, \text{ are not affine}  }$$ 
-
-and 
 
 $${ g _{k + 1}, \ldots, g _m \, \text{ are affine}  }$$
 
@@ -69,7 +65,7 @@ It turns out imposing a mild constraint ensures that the supremum ${ d ^{\ast} }
 
 Suppose there is a point 
 
-$${ {\begin{aligned} &\, x ^{'} \in \text{int}(\text{dom}(f)), \quad x ^{'} \in \mathcal{F}, \\ &\, g _j (x ^{'}) < 0 \, \, \text{ for each } g _j \text{ which is not affine.}  \end{aligned}}  }$$ 
+$${ {\begin{aligned} &\, x ^{'} \in \text{int}(\text{dom}(f)), \quad x ^{'} \in \mathcal{F}, \\ &\, g _j (x ^{'}) < 0 \, \, \text{ for } j = 1, \ldots, k. \end{aligned}}  }$$ 
 
 Then the supremum ${ d ^{\ast} }$ is attained and is equal to ${ p ^{\ast} . }$ 
 
@@ -80,10 +76,6 @@ $${ {\begin{aligned} \text{minimize} \quad &\, f(x) \\ \text{subject to} \quad &
 where ${ f ,}$ ${ g _i }$s are convex on ${ \mathbb{R} ^n . }$ 
 
 Suppose 
-
-$${ g _1, \ldots, g _k \, \text{ are not affine}  }$$ 
-
-and 
 
 $${ g _{k + 1}, \ldots, g _m \, \text{ are affine}  }$$
 
@@ -97,7 +89,7 @@ $${ \hat{f}(\mu) = \inf _{x \in \mathbb{R} ^n} (f(x) + \mu ^T G(x)) \in \mathbb{
 
 Suppose there is a point 
 
-$${ {\begin{aligned} &\, x ^{'} \in \text{int}(\text{dom}(f)), \quad x ^{'} \in \mathcal{F}, \\ &\, g _j (x ^{'}) < 0 \, \, \text{ for each } g _j \text{ which is not affine.}  \end{aligned}}  }$$ 
+$${ {\begin{aligned} &\, x ^{'} \in \text{int}(\text{dom}(f)), \quad x ^{'} \in \mathcal{F}, \\ &\, g _j (x ^{'}) < 0 \, \, \text{ for } j = 1, \ldots, k.  \end{aligned}}  }$$ 
 
 Then 
 
