@@ -26,10 +26,6 @@ permalink: /about
 
 **(For example, I humbly ask: Why not have a single "self-sufficient" entity?)**
 
-**Newton's advice:** 
-
-**“If I have ever made any valuable discoveries, it has been due more to ${ {\color{green}{\textbf{PATIENT}}} }$ ${ {\color{green}{\textbf{ATTENTION}}} }$, than to any other talent.” - Newton.** 
-
 
  
 
