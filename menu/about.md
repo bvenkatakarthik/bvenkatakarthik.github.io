@@ -24,7 +24,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**(For example, I humbly ask: Why not have a single "self-sufficient" entity? Why this design and evolution of THE WORLD?)**
+**(For example, I humbly ask: Why not have a single "self-sufficient" entity?)**
 
 **Newton's advice:** 
 
