@@ -20,13 +20,9 @@ permalink: /about
 
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
-**LIFE evolved over ${  \mathbf{1000000000} }$s of years of a survival game... It must've been tough for many life forms...**
+**LIFE evolved over ${  \mathbf{1000000000} }$s of years of a survival game...**
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
-
-**(For example, I humbly ask: Why not have a single "self-sufficient" entity?)**
-
-
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
