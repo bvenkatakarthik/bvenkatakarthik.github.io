@@ -30,7 +30,7 @@ permalink: /about
 
 **"I, a universe of atoms, an atom in the universe." - Feynman.**
 
-**(The "scale of organisation" is mysterious...)**
+**(The scales are mysterious...)**
 
  
 
