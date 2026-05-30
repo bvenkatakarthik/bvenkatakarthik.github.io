@@ -28,6 +28,10 @@ permalink: /about
 
 **“If I have ever made any valuable discoveries, it has been due more to ${ {\color{green}{\textbf{PATIENT}}} }$ ${ {\color{green}{\textbf{ATTENTION}}} }$, than to any other talent.” - Newton.** 
 
+**"I, a universe of atoms, an atom in the universe." - Feynman.**
+
+**(The "scale of organisation" is mysterious...)**
+
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
