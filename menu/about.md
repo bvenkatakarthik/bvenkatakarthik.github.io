@@ -49,7 +49,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 | ![](https://b.l3n.co/oKOJnH.jpg) | 
 |:--:| 
-| ${ \Large \textbf{THE WORLD: SIZE} }$  |
+| ${ \Large \textbf{THE WORLD: SCALE} }$  |
 
 
 | ![](https://c.l3n.co/cFmQvP.gif) | 
