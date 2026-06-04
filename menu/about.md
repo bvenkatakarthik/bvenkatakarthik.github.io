@@ -18,7 +18,7 @@ permalink: /about
 
 **The birth of humans, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
-**ALL OF THE MASS-ENERGY in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
+**All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
 
 (Link to Wiki page on Inflation: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe#Inflation)). 
 
@@ -30,7 +30,7 @@ permalink: /about
 
 **"I, a universe of atoms, an atom in the universe." - Feynman.**
 
-**THE SCALE OF THINGS is very mysterious...** 
+**The scale of things is very mysterious...** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
