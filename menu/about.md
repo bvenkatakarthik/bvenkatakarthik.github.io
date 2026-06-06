@@ -28,7 +28,6 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**"I, a universe of atoms, an atom in the universe." - Feynman.**
 
 **The scale of things is very mysterious...** 
  
