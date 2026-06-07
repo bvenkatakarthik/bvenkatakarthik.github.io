@@ -20,6 +20,8 @@ permalink: /about
 
 **All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters.** 
 
+**(That is an unimaginably high mass-energy in an unimaginably small region).**
+
 (Link to Wiki page on Inflation: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe#Inflation)). 
 
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
@@ -29,7 +31,7 @@ permalink: /about
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
 
-**The scale of things is very mysterious...** 
+**The scale of things is very mysterious.** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
