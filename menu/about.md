@@ -18,13 +18,13 @@ permalink: /about
 
 **The birth of humans, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
-**All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
+**All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters.** 
 
 (Link to Wiki page on Inflation: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe#Inflation)). 
 
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
-**LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...**
+**LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game.**
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
