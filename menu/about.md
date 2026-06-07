@@ -41,7 +41,7 @@ permalink: /about
 
 **"In mathematics you don't understand things. You just get used to them." - Von Neumann.**
 
-**I guess the same is true for everything.** 
+**I guess the same is true for most things.** 
 
 
  
