@@ -172,7 +172,7 @@ $${ {\begin{aligned} &\, u _{\theta \theta} \text{ term} \\ = &\,  u _{\theta \t
 
 Note that 
 
-$${ {\begin{aligned} &\, u _{\theta \phi} \text{ term} \\ = &\,  u _{\theta \phi} \sum _{\nu = x, y, z} \theta _{\nu} \phi _{\nu} \\ = &\, 0  .  \end{aligned}} }$$ 
+$${ {\begin{aligned} &\, u _{\theta \phi} \text{ term} \\ = &\,  2 u _{\theta \phi} \sum _{\nu = x, y, z} \theta _{\nu} \phi _{\nu} \\ = &\, 0  .  \end{aligned}} }$$ 
 
 Note that 
 
