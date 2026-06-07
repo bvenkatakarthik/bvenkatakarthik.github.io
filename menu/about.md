@@ -32,8 +32,6 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**(But I am grateful that we atleast know this much).**
-
 **To quote Von Neumann:** 
 
 **"In mathematics you don't understand things. You just get used to them." - Von Neumann.**
