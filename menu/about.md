@@ -34,9 +34,6 @@ permalink: /about
 
 **(But I am grateful that we atleast know this much).**
 
-
-**The scale of things is mysterious.** 
-
 **To quote Von Neumann:** 
 
 **"In mathematics you don't understand things. You just get used to them." - Von Neumann.**
