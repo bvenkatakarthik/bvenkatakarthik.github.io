@@ -32,6 +32,8 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
+**(But I am grateful that we atleast know this much).**
+
 
 **The scale of things is mysterious.** 
  
