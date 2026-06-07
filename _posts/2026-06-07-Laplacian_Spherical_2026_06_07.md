@@ -186,7 +186,7 @@ Equivalently, clubbing "${ u _{r} }$ and ${ u _{rr} }$ terms" and "${ u _{\phi} 
 
 $${ \boxed{ {\begin{aligned} &\, \nabla ^{2} u \\ = &\, \frac{1}{r ^2} \frac{\partial}{\partial r} \left(r ^2 \frac{\partial u}{\partial r}  \right) + \frac{1}{r ^2 \sin(\phi)} \frac{\partial}{\partial \phi}  \left( \sin (\phi) \frac{\partial u}{\partial \phi} \right) + \frac{1}{r ^2 \sin ^2 (\phi)} \frac{\partial ^{2} u}{\partial \theta ^{2}}   \end{aligned}} }  }$$ 
 
-as needed. 
+as needed. ${ \blacksquare }$ 
 
 
 
