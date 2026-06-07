@@ -29,14 +29,6 @@ permalink: /about
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game.**
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
-
-**To quote Von Neumann:** 
-
-**"In mathematics you don't understand things. You just get used to them." - Von Neumann.**
-
-**I guess the same is true for most things.** 
-
-
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
