@@ -36,6 +36,14 @@ permalink: /about
 
 
 **The scale of things is mysterious.** 
+
+**To quote Von Neumann:** 
+
+**"In mathematics you don't understand things. You just get used to them." - Von Neumann.**
+
+**I guess the same is true for everything.** 
+
+
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
