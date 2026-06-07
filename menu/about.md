@@ -28,7 +28,11 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game.**
 
+**"I, a universe of atoms, an atom in the universe." - Feynman.**
+
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
+
+**Speculation: Attention is a form of mental currency.**
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
