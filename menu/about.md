@@ -32,7 +32,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Speculation: Attention is a form of mental currency.**
+**Note to self: Remember THE WORLD.**
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
