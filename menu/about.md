@@ -32,7 +32,9 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Note to self: Remember THE WORLD.**
+**Newton's advice:** 
+
+**“If I have ever made any valuable discoveries, it has been due more to ${ \color{green}{\textbf{PATIENT ATTENTION}} }$, than to any other talent.” - Newton.** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
