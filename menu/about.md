@@ -32,7 +32,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Speculation: Remembering your ROLE MODELS is beneficial.**
+**Speculation: Paying attention to ROLE MODELS is beneficial.**
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
