@@ -32,9 +32,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Newton's advice:** 
-
-**“If I have ever made any valuable discoveries, it has been due more to ${ \color{green}{\textbf{PATIENT ATTENTION}} }$, than to any other talent.” - Newton.** 
+**Speculation: Remembering your ROLE MODELS is beneficial.**
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
