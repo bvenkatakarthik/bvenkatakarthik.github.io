@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
  
-**The most important question**: 
+**An important question**: 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -14,7 +14,7 @@ permalink: /about
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 
-**THE BIRTH OF THE WORLD, a videos**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
+**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
 
 **The birth of humans, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
@@ -34,8 +34,6 @@ permalink: /about
 
 **Speculation: Your mental reactions are a form of mental currency.**
 
- 
- 
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
