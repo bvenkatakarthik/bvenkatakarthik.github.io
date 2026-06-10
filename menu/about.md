@@ -31,6 +31,8 @@ permalink: /about
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game... (We tend to think in terms of ${ \mathbf{1,000} }$s of years...)**
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
+
+**We don't know much about [Dark Energy and Dark Matter](https://en.wikipedia.org/wiki/Dark_matter), which seems to constitute about ${ \mathbf{95} \% }$ of the mass-energy of the world...** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
