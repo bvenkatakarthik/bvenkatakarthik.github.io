@@ -20,8 +20,6 @@ permalink: /about
 
 **All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
 
-(Link to Wiki page on Inflation: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe#Inflation)).
-
 **(That is an unimaginably high mass-energy in an unimaginably small region...)**
 
 **Now the observable world is unimaginably vast...**
