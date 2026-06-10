@@ -32,7 +32,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**We don't know what are [Dark Energy and Dark Matter](https://en.wikipedia.org/wiki/Dark_matter), which seem to constitute about ${ \mathbf{95} \% }$ of the mass-energy of the world...** 
+**We don't know what are [Dark Energy and Dark Matter](https://en.wikipedia.org/wiki/Dark_matter). They seem to constitute about ${ \mathbf{95} \% }$ of the mass-energy of the world...** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
