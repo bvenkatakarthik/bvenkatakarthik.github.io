@@ -31,6 +31,12 @@ permalink: /about
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game... (We tend to think in terms of ${ \mathbf{1,000} }$s of years...)**
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
+
+**Newton's advice:** 
+
+**“If I have ever made any valuable discoveries, it has been due more to ${ {\color{green}{\textbf{PATIENT}}} }$ ${ {\color{green}{\textbf{ATTENTION}}} }$, than to any other talent.” - Newton.** 
+
+ 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
