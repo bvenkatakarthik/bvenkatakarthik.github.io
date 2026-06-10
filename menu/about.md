@@ -20,19 +20,19 @@ permalink: /about
 
 **All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
 
+(Link to Wiki page on Inflation: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe#Inflation)).
+
 **(That is an unimaginably high mass-energy in an unimaginably small region...)**
 
 **Now the observable world is unimaginably vast...**
 
-(Link to Wiki page on Inflation: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe#Inflation)). 
+**We don't know much about [Dark Energy and Dark Matter](https://en.wikipedia.org/wiki/Dark_matter) are... They seem to constitute about ${ \mathbf{95} \% }$ of the mass-energy of the world...** 
 
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game... (We tend to think in terms of ${ \mathbf{1,000} }$s of years...)**
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
-
-**We also don't know much about [Dark Energy and Dark Matter](https://en.wikipedia.org/wiki/Dark_matter)... They seem to constitute about ${ \mathbf{95} \% }$ of the mass-energy of the world...** 
  
 
 Hi I am Karthik, a Math and AI enthusiast. 
