@@ -68,6 +68,8 @@ We call this the entropy ${ \text{Ent}(X) }$ of ${ X . }$
 
 **The entropy of a random variable is the average doubtfulness of the realisations of the random variable.**
 
-Note that in this context, the [Principle of Maximum Entropy](https://en.wikipedia.org/wiki/Principle_of_maximum_entropy) feels intuitive: Within given constraints, to model a situation, we should prefer picking those random variables of highest entropy  (this way, we **MAXIMIZE OUR IGNORANCE ${ \approx }$ DOUBTFULNESS about realisations of the random variable**). 
+Note that in this context, the [Principle of Maximum Entropy](https://en.wikipedia.org/wiki/Principle_of_maximum_entropy) feels intuitive: Within given constraints, to model a situation, we should prefer picking those random variables of highest entropy  (this way, we **MAXIMIZE OUR IGNORANCE ${ \approx }$ DOUBTFULNESS about realisations of the random variable**).
+
+ 
 
 
