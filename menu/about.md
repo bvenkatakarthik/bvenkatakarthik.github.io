@@ -32,7 +32,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Speculation: Your MENTAL REACTIONS are a form of MENTAL CURRENCY.**
+**Speculation: Your PSYCHOLOGICAL REACTIONS are a form of psychological currency.**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
