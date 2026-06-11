@@ -8,7 +8,7 @@ permalink: /about
 
 **An important question**: 
 
-**I humbly ask: WHY DO WE HAVE THE WORLD?** 
+**WHY DO WE HAVE THE WORLD?** 
 
 (For that matter: Why does the notion of Why exist?) 
 
@@ -32,7 +32,7 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game... (We tend to think in terms of ${ \mathbf{1,000} }$s of years...)**
 
-**I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
+**WHY ALL THIS? (We don't seem to have a good answer...)** 
 
 **Can we understand higher truths?** 
 
