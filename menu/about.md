@@ -4,6 +4,8 @@ title: About
 permalink: /about
 --- 
  
+**Can we understand higher truths?** 
+
 **An important question**: 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -32,7 +34,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Note to self: Remember THE WORLD.**
+**Can we understand higher truths?** 
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
