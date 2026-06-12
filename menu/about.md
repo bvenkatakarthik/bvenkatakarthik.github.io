@@ -34,8 +34,6 @@ permalink: /about
 
 **Obs: Ultimately, THE WORLD is the cause of everything.**
 
-**Speculation: Your ${ \color{green}{\textbf{PSYCHOLOGICAL}} }$ ${ \color{green}{\textbf{REACTIONS}} }$ are a form of psychological currency.**
-
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
