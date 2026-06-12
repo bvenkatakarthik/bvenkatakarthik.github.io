@@ -32,7 +32,7 @@ permalink: /about
 
 **WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Obs: Ultimately, THE WORLD is the cause of everything.**
+**Obs: Ultimately, THE WORLD is the cause of all things.**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
