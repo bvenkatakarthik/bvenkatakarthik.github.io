@@ -30,9 +30,7 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game... (We tend to think in terms of ${ \mathbf{1,000} }$s of years...)**
 
-**Speculation**:
-
-**"ACTION is the foundational key to all success." - Picasso.**
+**Speculation: Attention is a form of mental currency.**
 
 
 
