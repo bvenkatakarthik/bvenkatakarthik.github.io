@@ -30,7 +30,10 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game... (We tend to think in terms of ${ \mathbf{1,000} }$s of years...)**
 
-**WHY ALL THIS? (We don't seem to have a good answer...)** 
+**Speculation**:
+
+**"ACTION is the foundational key to all success." - Picasso.**
+
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
