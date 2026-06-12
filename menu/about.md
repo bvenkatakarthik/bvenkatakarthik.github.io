@@ -32,6 +32,8 @@ permalink: /about
 
 **WHY ALL THIS? (We don't seem to have a good answer...)** 
 
+**Speculation: Your ${ \color{green}{\textbf{PSYCHOLOGICAL}} }$ ${ \color{green}{\textbf{REACTIONS}} }$ are a form of psychological currency.**
+
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
