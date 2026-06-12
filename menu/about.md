@@ -3,8 +3,6 @@ layout: page
 title: About
 permalink: /about
 --- 
- 
-**Can we understand higher truths?** 
 
 **An important question**: 
 
@@ -33,8 +31,6 @@ permalink: /about
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game... (We tend to think in terms of ${ \mathbf{1,000} }$s of years...)**
 
 **WHY ALL THIS? (We don't seem to have a good answer...)** 
-
-**Can we understand higher truths?** 
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
