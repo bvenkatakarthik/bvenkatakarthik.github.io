@@ -30,6 +30,10 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
+**Speculation: We partly learn by observing the behaviours of others.**
+
+**(Link to Observational Learning wiki page: [Link](https://en.wikipedia.org/wiki/Observational_learning))**
+
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
