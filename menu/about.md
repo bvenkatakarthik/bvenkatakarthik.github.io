@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Q) Can we understand higher truths?**
+**Q) Can we understand HIGHER TRUTHS?**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -32,7 +32,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Q) Can we understand higher truths?**
+**Q) Can we understand HIGHER TRUTHS?**
 
 
 
