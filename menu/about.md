@@ -6,6 +6,8 @@ permalink: /about
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
+**(The question seeks the top of all causal chains...)**
+
 (For that matter: Why does the notion of Why exist?) 
 
 
@@ -29,6 +31,8 @@ permalink: /about
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
+
+**(The question seeks the top of all causal chains...)**
 
 **Nevertheless, I submit to THE SOURCE...**
 
