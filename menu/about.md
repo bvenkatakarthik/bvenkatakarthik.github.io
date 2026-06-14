@@ -6,7 +6,7 @@ permalink: /about
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
-**(What is the top of all causal relationships?)**
+**(What is at the top in the network of all causal relationships?)**
 
 **I submit to THE SOURCE...**
 
@@ -34,7 +34,7 @@ permalink: /about
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
-**(What is the top of all causal relationships?)**
+**(What is at the top in the network of all causal relationships?)**
 
 **I submit to THE SOURCE...**
 
