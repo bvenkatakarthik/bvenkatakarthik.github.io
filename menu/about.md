@@ -32,6 +32,8 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
+**(What is at the top of all causal relationships?)**
+
 **Nevertheless, I submit to THE SOURCE...**
 
 
