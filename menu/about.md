@@ -4,6 +4,8 @@ title: About
 permalink: /about
 --- 
 
+**Speculation: ${ \large \textbf{ATTENTION} }$ is a form of mental currency.**
+
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 (For that matter: Why does the notion of Why exist?) 
@@ -30,7 +32,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Speculation: ATTENTION is a form of mental currency.**
+**Speculation: ${ \large \textbf{ATTENTION} }$ is a form of mental currency.**
 
 
 
