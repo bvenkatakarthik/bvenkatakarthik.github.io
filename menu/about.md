@@ -6,7 +6,7 @@ permalink: /about
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
-**(The question seeks the top of all causal chains...)**
+**(What is at the top of all causal relationships?)**
 
 (For that matter: Why does the notion of Why exist?) 
 
@@ -32,7 +32,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**(The question seeks the top of all causal chains...)**
+**(What is at the top of all causal relationships?)**
 
 **Nevertheless, I submit to THE SOURCE...**
 
