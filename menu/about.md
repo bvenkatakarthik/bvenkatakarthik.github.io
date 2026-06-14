@@ -8,6 +8,8 @@ permalink: /about
 
 **(What is the top of all causal relationships?)**
 
+**I submit to THE SOURCE...**
+
 (For that matter: Why does the notion of Why exist?) 
 
 
