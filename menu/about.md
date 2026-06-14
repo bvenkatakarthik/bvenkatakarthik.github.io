@@ -6,10 +6,6 @@ permalink: /about
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
-**(What is at the top in the network of all causal relationships?)**
-
-**I submit to THE SOURCE...**
-
 (For that matter: Why does the notion of Why exist?) 
 
 
@@ -32,11 +28,14 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
-**I humbly ask: WHY DO WE HAVE THE WORLD?** 
+**I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**(What is at the top in the network of all causal relationships?)**
+**Nevertheless, I submit to THE SOURCE...**
 
-**I submit to THE SOURCE...**
+
+
+
+
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
