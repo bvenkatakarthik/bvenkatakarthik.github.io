@@ -6,7 +6,7 @@ categories: journal
 tags: [documentation,sample]
 ---
 
-Blogpost on Mechanical Watches by Bartosz Ciechanowski. 
+A Blogpost on Mechanical Watches by Bartosz Ciechanowski. 
 
-Link to the blogpost: [Link](https://ciechanow.ski/mechanical-watch/). 
+Link to the Blogpost: [Link](https://ciechanow.ski/mechanical-watch/). 
 
