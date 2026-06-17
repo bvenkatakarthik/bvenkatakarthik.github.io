@@ -30,6 +30,8 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
+**"The ability to ask questions is the greatest resource in learning the truth." - Carl Jung.**
+
 
 My YouTube Channel for Inquiry based Mathematics: [Link](https://www.youtube.com/@maethaddict). 
 
