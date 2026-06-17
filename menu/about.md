@@ -32,8 +32,6 @@ permalink: /about
 
 **Nevertheless, I submit to THE SOURCE...**
 
-A project: [Maeth](https://www.youtube.com/@maethaddict). 
-
 
 
 
