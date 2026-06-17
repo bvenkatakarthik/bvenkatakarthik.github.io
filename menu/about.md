@@ -4,6 +4,8 @@ title: About
 permalink: /about
 --- 
 
+**"The ability to ask questions is the greatest resource in learning the truth." - Carl Jung.**
+
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 (For that matter: Why does the notion of Why exist?) 
