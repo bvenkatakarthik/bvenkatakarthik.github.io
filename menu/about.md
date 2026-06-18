@@ -4,7 +4,6 @@ title: About
 permalink: /about
 --- 
 
-**Note to self: Apply First-Principles Thinking whenever possible.**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -31,8 +30,6 @@ permalink: /about
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
-
-**Note to self: Apply First-Principles Thinking whenever possible.**
 
 
 
