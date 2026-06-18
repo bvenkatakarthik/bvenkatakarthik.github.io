@@ -31,8 +31,6 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Can we understand such HIGHER TRUTHS?**
-
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
