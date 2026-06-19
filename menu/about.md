@@ -31,7 +31,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Sapolsky on Causality in Human Behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
+**Sapolsky on [Causality in Human Behaviour](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
