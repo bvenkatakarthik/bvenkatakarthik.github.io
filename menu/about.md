@@ -9,6 +9,8 @@ permalink: /about
 
 (For that matter: Why does the notion of Why exist?) 
 
+**Some stuff we seem to know:**
+
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
