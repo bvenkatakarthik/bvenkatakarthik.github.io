@@ -4,6 +4,7 @@ title: About
 permalink: /about
 --- 
 
+**Can we understand HIGHER TRUTHS?**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -33,7 +34,7 @@ permalink: /about
 
 **Sapolsky on causality in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
 
-**One should be aware of higher levels of causality...**
+**Can we understand HIGHER TRUTHS?**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
