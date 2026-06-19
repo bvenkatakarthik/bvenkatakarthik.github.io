@@ -33,6 +33,8 @@ permalink: /about
 
 **Sapolsky on causality in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
 
+**One should be mindful of higher levels of causality…**
+
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
