@@ -31,9 +31,7 @@ permalink: /about
 
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
-**Newton's advice:**
-
-**"If I have ever made any valuable discoveries, it has been due more to patient ${ \color{green}{\textbf{ATTENTION}} }$, than to any other talent." - Newton.** 
+**Sapolsky on causality in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
