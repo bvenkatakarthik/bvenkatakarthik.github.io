@@ -38,7 +38,7 @@ permalink: /about
 
 **Sapolsky on causality in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
 
-**Emotions are contagious: [Link](https://en.wikipedia.org/wiki/Emotional_contagion).**
+**Speculation: Emotions are contagious: [Link](https://en.wikipedia.org/wiki/Emotional_contagion).**
 
 **Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
 
