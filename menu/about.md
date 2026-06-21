@@ -4,8 +4,6 @@ title: About
 permalink: /about
 --- 
 
-**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
-
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 (For that matter: Why does the notion of Why exist?) 
@@ -33,8 +31,6 @@ permalink: /about
 **I humbly ask: WHY ALL THIS? (We don't seem to have a good answer...)** 
 
 **Sapolsky on causality in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
-
-**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
