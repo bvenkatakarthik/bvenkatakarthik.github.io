@@ -4,6 +4,12 @@ title: About
 permalink: /about
 --- 
 
+**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
+
+**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
+
+**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
+
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 (For that matter: Why does the notion of Why exist?) 
@@ -32,7 +38,11 @@ permalink: /about
 
 **Sapolsky on causality in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
 
-**Nevertheless, I submit to THE SOURCE...**
+**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
+
+**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
+
+**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
