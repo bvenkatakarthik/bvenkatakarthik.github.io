@@ -32,6 +32,10 @@ permalink: /about
 
 **Sapolsky on causality in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
 
+**Newton's advice:**
+
+**"If I have ever made any valuable discoveries, it has been due more to patient ${ \color{green}{\textbf{ATTENTION}} }$, than to any other talent." - Newton.** 
+
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
