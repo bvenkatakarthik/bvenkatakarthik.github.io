@@ -34,7 +34,7 @@ permalink: /about
 
 **Newton's advice:**
 
-**"If I have ever made any valuable discoveries, it has been due more to patient ${ \color{green}{\textbf{ATTENTION}} }$, than to any other talent." - Newton.** 
+**"If I have ever made any valuable discoveries, it has been due more to patient ${ \Huge \color{black}{\textbf{ATTENTION}} }$, than to any other talent." - Newton.** 
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
