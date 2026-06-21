@@ -6,7 +6,7 @@ permalink: /about
 
 **Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
 
-**I humbly ask: WHAT IS THE ${ \color{green}{\textbf{PURPOSE OF THE WORLD}} }$?** 
+**I humbly ask: ${ \Huge \textbf{WHY} }$ DO WE HAVE THE WORLD?**
 
 (For that matter: Why does the notion of Why exist?) 
 
@@ -30,7 +30,7 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
-**I humbly ask: WHAT IS THE ${ \color{green}{\textbf{PURPOSE OF THE WORLD}} }$?**
+**I humbly ask: ${ \Huge \textbf{WHY} }$ DO WE HAVE THE WORLD?**
 
 **(We don't seem to have a good answer...)** 
 
@@ -42,7 +42,7 @@ permalink: /about
 Hi I am Karthik, a Math and AI enthusiast. 
 
 
-I am curious about the **NATURE AND ${ \color{green}{\textbf{PURPOSE OF THE WORLD}} }$**. 
+I am curious about the **NATURE AND PURPOSE OF THE WORLD**. 
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.  
 
