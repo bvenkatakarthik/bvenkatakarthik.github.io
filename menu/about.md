@@ -6,10 +6,6 @@ permalink: /about
 
 **Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
 
-**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
-
-**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
-
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 (For that matter: Why does the notion of Why exist?) 
@@ -39,10 +35,6 @@ permalink: /about
 **Sapolsky on causality in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
 
 **Speculation: What you react to influences your mind.**
-
-**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
-
-**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
 
 **Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
 
