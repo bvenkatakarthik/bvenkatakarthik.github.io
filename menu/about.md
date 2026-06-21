@@ -30,7 +30,7 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
-**I humbly ask: ${ \Huge \color{black}{\textbf{WHY}} }$ ALL THIS?**
+**I humbly ask: ${ \Huge \color{black}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
 
 **(We don't seem to have a good answer...)** 
 
