@@ -8,6 +8,8 @@ permalink: /about
 
 **I humbly ask: ${ \Huge \color{black}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
 
+**I humbly ask: ${ \Huge \color{black}{\textbf{WHY}} }$ THESE FEATURES?**
+
 (For that matter: Why does the notion of Why exist?) 
 
 
@@ -31,6 +33,8 @@ permalink: /about
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
 **I humbly ask: ${ \Huge \color{black}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
+
+**I humbly ask: ${ \Huge \color{black}{\textbf{WHY}} }$ THESE FEATURES?**
 
 **(We don't seem to have a good answer...)** 
 
