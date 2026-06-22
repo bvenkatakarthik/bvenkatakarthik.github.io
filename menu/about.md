@@ -4,8 +4,6 @@ title: About
 permalink: /about
 --- 
 
-**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
-
 **I humbly ask: ${ \Huge \color{black}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
 
 (For that matter: Why does the notion of Why exist?) 
@@ -30,13 +28,11 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
+**Sapolsky on causality and change in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
+
 **I humbly ask: ${ \Huge \color{black}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
 
 **(We don't seem to have a good answer...)** 
-
-**Sapolsky on causality and change in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
-
-**Can we understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
 
 
 
