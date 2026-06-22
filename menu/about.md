@@ -4,8 +4,6 @@ title: About
 permalink: /about
 --- 
 
-${ \color{blue}{\textbf{Can we understand}} }$ ${ \color{blue}{\textbf{HIGHER TRUTHS?}} }$
-
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
 
 (For that matter: Why does the notion of Why exist?) 
@@ -36,7 +34,10 @@ ${ \color{blue}{\textbf{Can we understand}} }$ ${ \color{blue}{\textbf{HIGHER TR
 
 **(We don't seem to have a good answer...)** 
 
-${ \color{blue}{\textbf{Can we understand}} }$ ${ \color{blue}{\textbf{HIGHER TRUTHS?}} }$
+**Newton's advice:** 
+
+**“If I have ever made any valuable discoveries, it has been due more to patient ${ \color{blue}{\textbf{ATTENTION}} }$, than to any other talent.” - Newton.**
+
 
 
 
