@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**${ \color{black}{\textbf{CAN WE}} }$ understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
+${ \color{blue}{\textbf{Can we understand}} }$ ${ \color{blue}{\textbf{HIGHER TRUTHS?}} }$
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
 
@@ -36,7 +36,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**${ \color{black}{\textbf{CAN WE}} }$ understand ${ \color{black}{\textbf{HIGHER TRUTHS}} }$?**
+${ \color{blue}{\textbf{Can we understand}} }$ ${ \color{blue}{\textbf{HIGHER TRUTHS?}} }$
 
 
 
