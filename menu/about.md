@@ -4,7 +4,10 @@ title: About
 permalink: /about
 --- 
 
-**“Logic will get you from A to Z; Imagination will get you everywhere.” - Einstein.**
+**Newton's advice:** 
+
+**“If I have ever made any valuable discoveries, it has been due more to patient ${ \color{blue}{\textbf{ATTENTION}} }$, than to any other talent.” - Newton.**
+
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
 
@@ -36,7 +39,10 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**“Logic will get you from A to Z; Imagination will get you everywhere.” - Einstein.**
+**Newton's advice:** 
+
+**“If I have ever made any valuable discoveries, it has been due more to patient ${ \color{blue}{\textbf{ATTENTION}} }$, than to any other talent.” - Newton.**
+
 
 
 
