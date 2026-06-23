@@ -8,8 +8,6 @@ permalink: /about
 
 **“If I have ever made any valuable discoveries, it has been due more to patient ${ \color{blue}{\textbf{ATTENTION}} }$, than to any other talent.” - Newton.**
 
-**Perhaps one should manage one's ${ \color{blue}{\textbf{ATTENTION}} }$ well...**
-
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
 
 (For that matter: Why does the notion of Why exist?) 
@@ -43,8 +41,6 @@ permalink: /about
 **Newton's advice:** 
 
 **“If I have ever made any valuable discoveries, it has been due more to patient ${ \color{blue}{\textbf{ATTENTION}} }$, than to any other talent.” - Newton.**
-
-**Perhaps one should manage one's ${ \color{blue}{\textbf{ATTENTION}} }$ well...**
 
 
 
