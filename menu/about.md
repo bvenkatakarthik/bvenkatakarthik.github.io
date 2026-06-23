@@ -4,9 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Newton's advice:** 
-
-**“If I have ever made any valuable discoveries, it has been due more to patient ${ \color{blue}{\textbf{ATTENTION}} }$, than to any other talent.” - Newton.**
+${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
@@ -39,9 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**Newton's advice:** 
-
-**“If I have ever made any valuable discoveries, it has been due more to patient ${ \color{blue}{\textbf{ATTENTION}} }$, than to any other talent.” - Newton.**
+${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$
 
 
 
