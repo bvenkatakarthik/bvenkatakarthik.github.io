@@ -11,7 +11,7 @@ ${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TR
 
 (For that matter: Why does the notion of Why exist?)
 
-**(The design doesn't seem to be too great, but life seems to do its best...)**
+**(The design doesn't seem to be too great, but life seems to try its best...)**
 
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
@@ -37,7 +37,7 @@ ${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TR
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
 
-**(The design doesn't seem to be too great, but life seems to do its best...)**
+**(The design doesn't seem to be too great, but life seems to try its best...)**
 
 **(We don't seem to have a good answer...)** 
 
