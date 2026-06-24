@@ -9,7 +9,9 @@ ${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TR
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
 
-(For that matter: Why does the notion of Why exist?) 
+(For that matter: Why does the notion of Why exist?)
+
+**(Why do we have "good" aspects and "bad" aspects... The design doesn't seem to be great, but life seems to try its best...)** 
 
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
@@ -34,6 +36,8 @@ ${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TR
 **Sapolsky on causality in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
+
+**(Why do we have "good" aspects and "bad" aspects... The design doesn't seem to be great, but life seems to try its best...)**
 
 **(We don't seem to have a good answer...)** 
 
