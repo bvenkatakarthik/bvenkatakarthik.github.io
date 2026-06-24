@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$
+**“Logic will get you from A to Z; ${ \color{blue}{\textbf{IMAGINATION}} }$ will get you everywhere.” - Einstein.**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
@@ -37,7 +37,7 @@ ${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TR
 
 **(We don't seem to have a good answer...)** 
 
-${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$
+**“Logic will get you from A to Z; ${ \color{blue}{\textbf{IMAGINATION}} }$ will get you everywhere.” - Einstein.**
 
 
 
