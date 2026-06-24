@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**“Logic will get you from A to Z; ${ \color{blue}{\textbf{IMAGINATION}} }$ will get you everywhere.” - Einstein.**
+**Speculation: Having ${ \color{blue}{\textbf{ROLE MODELS}} }$ can be beneficial.**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
@@ -37,7 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**“Logic will get you from A to Z; ${ \color{blue}{\textbf{IMAGINATION}} }$ will get you everywhere.” - Einstein.**
+**Speculation: Having ${ \color{blue}{\textbf{ROLE MODELS}} }$ can be beneficial.**
 
 
 
