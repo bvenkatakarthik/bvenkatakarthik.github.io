@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Having ${ \color{blue}{\textbf{ROLE MODELS}} }$ can be beneficial.**
+**${ \color{blue}{\textbf{ATTENTION}} }$ is an important psychological resource.**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
@@ -37,7 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**Speculation: Having ${ \color{blue}{\textbf{ROLE MODELS}} }$ can be beneficial.**
+**${ \color{blue}{\textbf{ATTENTION}} }$ is an important psychological resource.**
 
 
 
