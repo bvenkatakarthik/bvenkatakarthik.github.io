@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**${ \color{blue}{\textbf{ATTENTION}} }$ is an important psychological resource.**
+**${ \color{blue}{\textbf{ATTENTION}} }$ is a valuable psychological resource.**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
@@ -37,7 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**${ \color{blue}{\textbf{ATTENTION}} }$ is an important psychological resource.**
+**${ \color{blue}{\textbf{ATTENTION}} }$ is a valuable psychological resource.**
 
 
 
