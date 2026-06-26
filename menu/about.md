@@ -6,6 +6,8 @@ permalink: /about
 
 **${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$**
 
+**${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{MAXIMIZE HAPPINESS of all life?}} }$**
+
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
 
@@ -38,6 +40,8 @@ permalink: /about
 **(We don't seem to have a good answer...)** 
 
 **${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$**
+
+**${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{MAXIMIZE HAPPINESS of all life?}} }$**
 
 
 
