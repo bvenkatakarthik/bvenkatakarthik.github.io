@@ -35,7 +35,6 @@ permalink: /about
 
 **Sapolsky on causality in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
 
-**Humility and well-being: [Link](https://scholarship.miami.edu/esploro/outputs/journalArticle/Humility-stressful-life-events-and-psychological/991031575474802976).**
 
 **I humbly ask: ${ \color{blue}{\textbf{WHY DO WE HAVE THE WORLD?}} }$**
 
