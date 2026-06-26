@@ -6,8 +6,6 @@ permalink: /about
 
 **${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$**
 
-**${ \color{blue}{\textbf{SHATTERED ASSUMPTIONS Theory:}} }$ [Link](https://en.wikipedia.org/wiki/Shattered_assumptions_theory).**
-
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
 
@@ -37,8 +35,6 @@ permalink: /about
 **I humbly ask: WHY DO WE HAVE THE WORLD?**
 
 **(We don't seem to have a good answer...)** 
-
-**${ \color{blue}{\textbf{SHATTERED ASSUMPTIONS Theory:}} }$ [Link](https://en.wikipedia.org/wiki/Shattered_assumptions_theory).**
 
 **${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$**
 
