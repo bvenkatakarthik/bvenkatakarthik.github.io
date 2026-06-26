@@ -6,10 +6,8 @@ permalink: /about
 
 **${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$**
 
-**${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{MAXIMIZE HAPPINESS of all life?}} }$**
 
-
-**I humbly ask: ${ \color{blue}{\textbf{WHY DO WE HAVE THE WORLD?}} }$**
+**I humbly ask: WHY DO WE HAVE THE WORLD?**
 
 (For that matter: Why does the notion of Why exist?)
 
@@ -36,13 +34,11 @@ permalink: /about
 **Sapolsky on causality in human behaviour: [Link](https://youtu.be/ORthzIOEf30?si=xMgVEE5KcYRXcg7v&t=253).**
 
 
-**I humbly ask: ${ \color{blue}{\textbf{WHY DO WE HAVE THE WORLD?}} }$**
+**I humbly ask: WHY DO WE HAVE THE WORLD?**
 
 **(We don't seem to have a good answer...)** 
 
 **${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$**
-
-**${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{MAXIMIZE HAPPINESS of all life?}} }$**
 
 
 
