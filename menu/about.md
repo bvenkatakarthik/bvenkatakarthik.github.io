@@ -4,8 +4,6 @@ title: About
 permalink: /about
 --- 
 
-**${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$**
-
 **${ \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
 
 **Approximation:** 
@@ -51,7 +49,6 @@ $${ \color{blue}{\textbf{GOOD} \approx \textbf{POSITIVE EMOTIONS,}} }$$
 
 $${ \color{blue}{\textbf{EVIL} \approx \textbf{NEGATIVE EMOTIONS.}} }$$ 
 
-**${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$**
 
 **${ \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
 
