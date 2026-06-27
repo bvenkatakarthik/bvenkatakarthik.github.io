@@ -49,7 +49,9 @@ permalink: /about
 Hi I am Karthik, a Math and AI enthusiast. 
 
 
-I am curious about the **NATURE AND PURPOSE OF THE WORLD**. 
+I am curious about the **NATURE AND PURPOSE OF THE WORLD**.
+
+I am curious about the **CAUSAL NETWORK OF ALL PHENOMENA.**
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.  
 
