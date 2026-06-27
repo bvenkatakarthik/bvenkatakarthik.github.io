@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**${ \small \color{blue}{\textbf{CAN WE UNDERSTAND HIGHER TRUTHS?}} }$**
+**${ \small \color{blue}{\textbf{Can we UNDERSTAND HIGHER TRUTHS?}} }$**
 
 **${ \small \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
 
@@ -39,7 +39,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**${ \small \color{blue}{\textbf{CAN WE UNDERSTAND HIGHER TRUTHS?}} }$**
+**${ \small \color{blue}{\textbf{Can we UNDERSTAND HIGHER TRUTHS?}} }$**
 
 
 **${ \small \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
