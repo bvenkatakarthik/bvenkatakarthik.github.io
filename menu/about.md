@@ -4,9 +4,9 @@ title: About
 permalink: /about
 --- 
 
-**${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$**
+**${ \small \color{blue}{\textbf{CAN WE UNDERSTAND HIGHER TRUTHS?}} }$**
 
-**${ \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://www.ebsco.com/research-starters/health-and-medicine/observational-learning-and-modeling-therapy-psychology).**
+**${ \small \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://www.ebsco.com/research-starters/health-and-medicine/observational-learning-and-modeling-therapy-psychology).**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -39,10 +39,10 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$**
+**${ \small \color{blue}{\textbf{CAN WE UNDERSTAND HIGHER TRUTHS?}} }$**
 
 
-**${ \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://www.ebsco.com/research-starters/health-and-medicine/observational-learning-and-modeling-therapy-psychology).**
+**${ \small \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://www.ebsco.com/research-starters/health-and-medicine/observational-learning-and-modeling-therapy-psychology).**
 
 
 
