@@ -6,7 +6,7 @@ permalink: /about
 
 **${ \small \color{blue}{\textbf{CAN WE UNDERSTAND HIGHER TRUTHS?}} }$**
 
-**${ \small \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://www.ebsco.com/research-starters/health-and-medicine/observational-learning-and-modeling-therapy-psychology).**
+**${ \small \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -42,7 +42,7 @@ permalink: /about
 **${ \small \color{blue}{\textbf{CAN WE UNDERSTAND HIGHER TRUTHS?}} }$**
 
 
-**${ \small \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://www.ebsco.com/research-starters/health-and-medicine/observational-learning-and-modeling-therapy-psychology).**
+**${ \small \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
 
 
 
