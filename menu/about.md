@@ -6,14 +6,8 @@ permalink: /about
 
 **${ \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
 
-**Approximation:** 
 
-$${ \color{blue}{\textbf{GOOD} \approx \textbf{POSITIVE EMOTIONS,}} }$$ 
-
-$${ \color{blue}{\textbf{EVIL} \approx \textbf{NEGATIVE EMOTIONS.}} }$$ 
-
-
-**I humbly ask: ${ \color{blue}{\textbf{WHY DO WE HAVE THE WORLD?}} }$** 
+**I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 
 (For that matter: Why does the notion of Why exist?)
@@ -39,15 +33,9 @@ $${ \color{blue}{\textbf{EVIL} \approx \textbf{NEGATIVE EMOTIONS.}} }$$
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
 
-**I humbly ask: ${ \color{blue}{\textbf{WHY DO WE HAVE THE WORLD?}} }$** 
+**I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 **(We don't seem to have a good answer...)** 
-
-**Approximation:** 
-
-$${ \color{blue}{\textbf{GOOD} \approx \textbf{POSITIVE EMOTIONS,}} }$$ 
-
-$${ \color{blue}{\textbf{EVIL} \approx \textbf{NEGATIVE EMOTIONS.}} }$$ 
 
 
 **${ \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
