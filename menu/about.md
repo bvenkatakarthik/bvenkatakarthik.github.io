@@ -4,6 +4,7 @@ title: About
 permalink: /about
 --- 
 
+**${ \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD AS WE KNOW IT?** 
 
@@ -34,6 +35,8 @@ permalink: /about
 **I humbly ask: WHY DO WE HAVE THE WORLD AS WE KNOW IT?** 
 
 **(We don't seem to have a good answer...)** 
+
+**${ \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
 
 
 
