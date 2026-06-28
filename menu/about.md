@@ -4,9 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**${ \small \color{blue}{\textbf{Can we UNDERSTAND HIGHER TRUTHS?}} }$**
-
-**${ \small \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
+Speculation: ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency. 
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -39,10 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**${ \small \color{blue}{\textbf{Can we UNDERSTAND HIGHER TRUTHS?}} }$**
-
-
-**${ \small \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
+Speculation: ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency. 
 
 
 
