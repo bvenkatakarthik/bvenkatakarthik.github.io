@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**${ \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
+**Speculation: Our ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.** 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD AS WE KNOW IT?** 
 
@@ -36,7 +36,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**${ \color{blue}{\textbf{OBSERVATIONAL LEARNING:}} }$ [Link](https://en.wikipedia.org/wiki/Observational_learning).**
+**Speculation: Our ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.** 
 
 
 
