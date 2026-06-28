@@ -6,7 +6,7 @@ permalink: /about
 
 **Speculation: Our ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.** 
 
-**Speculation: Investing emotions only for good things is beneficial.**
+**Speculation: Investing emotions for good things is beneficial.**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -41,7 +41,7 @@ permalink: /about
 
 **Speculation: Our ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.** 
 
-**Speculation: Investing emotions only for good things is beneficial.**
+**Speculation: Investing emotions for good things is beneficial.**
 
 
 
