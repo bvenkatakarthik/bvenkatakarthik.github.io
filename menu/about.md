@@ -5,7 +5,7 @@ permalink: /about
 --- 
 
 
-**I humbly ask: WHY DO WE HAVE THE WORLD?** 
+**I humbly ask: WHY DO WE HAVE THE WORLD AS WE KNOW IT?** 
 
 
 (For that matter: Why does the notion of Why exist?)
@@ -31,7 +31,7 @@ permalink: /about
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
 
-**I humbly ask: WHY DO WE HAVE THE WORLD?** 
+**I humbly ask: WHY DO WE HAVE THE WORLD AS WE KNOW IT?** 
 
 **(We don't seem to have a good answer...)** 
 
