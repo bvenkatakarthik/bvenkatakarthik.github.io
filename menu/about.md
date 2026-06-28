@@ -4,10 +4,6 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Our ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.** 
-
-**Speculation: Investing emotions for good things can be beneficial.**
-
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -38,10 +34,6 @@ permalink: /about
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 **(We don't seem to have a good answer...)** 
-
-**Speculation: Our ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.** 
-
-**Speculation: Investing emotions for good things can be beneficial.**
 
 
 
