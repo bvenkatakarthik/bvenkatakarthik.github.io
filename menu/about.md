@@ -7,7 +7,8 @@ permalink: /about
 **Speculation: Focusing on ${ \color{blue}{\textbf{POSITIVE EMOTIONS}} }$ is beneficial.**
 
 **"The Role of Positive Emotions in Positive Psychology": [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/).**
-**I humbly ask: WHY DO WE HAVE THE WORLD AS WE KNOW IT?** 
+
+**I humbly ask: WHY IS THE WORLD AS WE KNOW IT?** 
 
 
 (For that matter: Why does the notion of Why exist?)
@@ -33,7 +34,7 @@ permalink: /about
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
 
-**I humbly ask: WHY DO WE HAVE THE WORLD AS WE KNOW IT?** 
+**I humbly ask: WHY IS THE WORLD AS WE KNOW IT?** 
 
 **(We don't seem to have a good answer...)** 
 
