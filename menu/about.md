@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.** 
+**Speculation: One's ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.** 
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -37,7 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**Speculation: ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.** 
+**Speculation: One's ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.** 
 
 
 
