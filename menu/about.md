@@ -4,9 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Focusing on ${ \color{blue}{\textbf{POSITIVE EMOTIONS}} }$ is beneficial.**
-
-**"The Role of Positive Emotions in Positive Psychology": [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/).**
+**${ \color{blue}{\textbf{ATTENTION}} }$ is a form of psychological currency.**
 
 **I humbly ask: WHY IS THE WORLD AS WE KNOW IT?** 
 
@@ -38,9 +36,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**Speculation: Focusing on ${ \color{blue}{\textbf{POSITIVE EMOTIONS}} }$ is beneficial.**
-
-**"The Role of Positive Emotions in Positive Psychology": [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/).**
+**${ \color{blue}{\textbf{ATTENTION}} }$ is a form of psychological currency.**
 
 
 
