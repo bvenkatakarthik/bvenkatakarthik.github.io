@@ -49,6 +49,8 @@ permalink: /about
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
+I am curious about ${ \color{blue}{\textbf{IMPROVING POSITIVE EMOTIONS}} .}$
+
 
 I am curious about the **NATURE AND PURPOSE OF THE WORLD**.
 
