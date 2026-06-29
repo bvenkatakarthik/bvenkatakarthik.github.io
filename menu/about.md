@@ -8,6 +8,8 @@ permalink: /about
 
 **"The Role of Positive Emotions in Positive Psychology": [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/).**
 
+**“If I have ever made any valuable discoveries, it has been due more to patient ${ \color{blue}{\textbf{ATTENTION}} }$, than to any other talent.” - Newton.**
+
 **I humbly ask: WHY IS THE WORLD AS WE KNOW IT?** 
 
 
@@ -41,6 +43,8 @@ permalink: /about
 **Speculation: Focusing on ${ \color{blue}{\textbf{POSITIVE EMOTIONS}} }$ is beneficial.**
 
 **"The Role of Positive Emotions in Positive Psychology": [Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC3122271/).**
+
+**“If I have ever made any valuable discoveries, it has been due more to patient ${ \color{blue}{\textbf{ATTENTION}} }$, than to any other talent.” - Newton.**
 
 
 
