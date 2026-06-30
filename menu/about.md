@@ -4,9 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Newton's advice:**
-
-**“If I have ever made any valuable discoveries, it has been due more to ${ \color{blue}{\textbf{PATIENT ATTENTION}} }$, than to any other talent.” - Newton.**
+**Speculation: Our ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -38,9 +36,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**Newton's advice:**
-
-**“If I have ever made any valuable discoveries, it has been due more to ${ \color{blue}{\textbf{PATIENT ATTENTION}} }$, than to any other talent.” - Newton.**
+**Speculation: Our ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.**
 
 
 
