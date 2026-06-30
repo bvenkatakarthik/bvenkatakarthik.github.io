@@ -34,9 +34,7 @@ permalink: /about
 **“I, a universe of atoms, an atom in the universe.” - Feynman.**
 
 
-**I humbly ask: Why do we have THE WORLD** 
-
-**(We don't seem to have a good answer...)** 
+**I humbly ask: Why do we have THE WORLD?** 
 
 **${ \color{blue}{\textbf{ATTENTION}} }$ is a form of psychological currency.**
 
