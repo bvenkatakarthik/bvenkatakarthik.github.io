@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Newton's Advice:**
+**Newton's advice:**
 
 **“If I have ever made any valuable discoveries, it has been due more to ${ \color{blue}{\textbf{PATIENT ATTENTION}} }$, than to any other talent.” - Newton.**
 
@@ -38,7 +38,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**Newton's Advice:**
+**Newton's advice:**
 
 **“If I have ever made any valuable discoveries, it has been due more to ${ \color{blue}{\textbf{PATIENT ATTENTION}} }$, than to any other talent.” - Newton.**
 
