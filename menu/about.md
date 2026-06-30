@@ -6,7 +6,7 @@ permalink: /about
 
 **${ \color{blue}{\textbf{ATTENTION}} }$ is a form of psychological currency.**
 
-**I humbly ask: WHY IS THE WORLD AS WE KNOW IT?** 
+**I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 
 (For that matter: Why does the notion of Why exist?)
@@ -32,7 +32,7 @@ permalink: /about
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
 
-**I humbly ask: WHY IS THE WORLD AS WE KNOW IT?** 
+**I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 **(We don't seem to have a good answer...)** 
 
