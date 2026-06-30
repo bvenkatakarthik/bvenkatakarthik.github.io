@@ -6,18 +6,18 @@ permalink: /about
 
 **${ \color{blue}{\textbf{ATTENTION}} }$ is a form of psychological currency.**
 
-**I humbly ask: Why do we have THE WORLD?** 
+**I humbly ask: WHY IS THE WORLD AS WE KNOW IT?** 
 
 
 (For that matter: Why does the notion of Why exist?)
 
 
-**The birth of THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
+**THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 
-**The birth of THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
+**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
 
-**The birth of humans, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
+**THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
 **All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
 
@@ -34,9 +34,18 @@ permalink: /about
 **“I, a universe of atoms, an atom in the universe.” - Feynman.**
 
 
-**I humbly ask: Why do we have THE WORLD?** 
+**I humbly ask: WHY IS THE WORLD AS WE KNOW IT?** 
+
+**(We don't seem to have a good answer...)** 
 
 **${ \color{blue}{\textbf{ATTENTION}} }$ is a form of psychological currency.**
+
+
+
+
+
+
+
 
 
 
