@@ -4,7 +4,9 @@ title: About
 permalink: /about
 --- 
 
-**${ \color{blue}{\textbf{ATTENTION}} }$ is an important psychological resource.**
+**Newton's Advice:**
+
+**“If I have ever made any valuable discoveries, it has been due more to ${ \color{blue}{\textbf{PATIENT ATTENTION}} }$, than to any other talent.” - Newton.**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -36,7 +38,9 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**${ \color{blue}{\textbf{ATTENTION}} }$ is an important psychological resource.**
+**Newton's Advice:**
+
+**“If I have ever made any valuable discoveries, it has been due more to ${ \color{blue}{\textbf{PATIENT ATTENTION}} }$, than to any other talent.” - Newton.**
 
 
 
