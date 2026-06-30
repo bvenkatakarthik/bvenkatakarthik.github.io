@@ -6,18 +6,18 @@ permalink: /about
 
 **${ \color{blue}{\textbf{ATTENTION}} }$ is a form of psychological currency.**
 
-**I humbly ask: WHY IS THE WORLD AS WE KNOW IT?** 
+**I humbly ask: Why do we have THE WORLD?** 
 
 
 (For that matter: Why does the notion of Why exist?)
 
 
-**THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
+**The birth of THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 
-**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
+**The birth of THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
 
-**THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
+**The birth of humans, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
 **All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
 
@@ -31,8 +31,10 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
+**“I, a universe of atoms, an atom in the universe.” - Feynman.**
 
-**I humbly ask: WHY IS THE WORLD AS WE KNOW IT?** 
+
+**I humbly ask: Why do we have THE WORLD** 
 
 **(We don't seem to have a good answer...)** 
 
@@ -46,7 +48,7 @@ permalink: /about
 Hi I am Karthik, a Math and AI enthusiast. 
 
 
-I am curious about the **NATURE AND PURPOSE OF THE WORLD**.
+I am curious about the **Nature and Purpose of THE WORLD**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.  
 
