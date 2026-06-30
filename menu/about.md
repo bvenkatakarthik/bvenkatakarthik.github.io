@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**${ \color{blue}{\textbf{ATTENTION}} }$ is a form of psychological currency.**
+**${ \color{blue}{\textbf{ATTENTION}} }$ is an important psychological resource.**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -36,7 +36,8 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**${ \color{blue}{\textbf{ATTENTION}} }$ is a form of psychological currency.**
+**${ \color{blue}{\textbf{ATTENTION}} }$ is an important psychological resource.**
+
 
 
 
