@@ -31,8 +31,6 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
-**“I, a universe of atoms, an atom in the universe.” - Feynman.**
-
 
 **I humbly ask: WHY IS THE WORLD AS WE KNOW IT?** 
 
