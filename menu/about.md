@@ -19,7 +19,7 @@ permalink: /about
 
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4).
 
-**What life was made to go through is quite sad...**  
+**What life had to go through is quite sad...**  
 
 **All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
 
@@ -33,7 +33,7 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
-**What life was made to go through is quite sad...** 
+**What life had to go through is quite sad...** 
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
