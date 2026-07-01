@@ -33,7 +33,7 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
-**What life was made to go through was quite sad...** 
+**What life was made to go through is quite sad...** 
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
