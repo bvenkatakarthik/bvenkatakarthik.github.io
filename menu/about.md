@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Our ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.**
+${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -40,7 +40,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**Speculation: Our ${ \color{blue}{\textbf{PSYCHOLOGICAL REACTIONS}} }$ are a form of psychological currency.**
+${ \color{blue}{\textbf{Can we}} }$ ${ \color{blue}{\textbf{UNDERSTAND HIGHER TRUTHS?}} }$
 
 
 
