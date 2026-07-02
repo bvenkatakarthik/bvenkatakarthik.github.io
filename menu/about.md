@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**${ \color{blue}{\textbf{ATTENTION}} }$ is the most important psychological resource.** 
+**Everything is primarily a manifestation of ${ \color{blue}{\textbf{THE SOURCE}} }$.** 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -36,7 +36,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)** 
 
-**${ \color{blue}{\textbf{ATTENTION}} }$ is the most important psychological resource.** 
+**Everything is primarily a manifestation of ${ \color{blue}{\textbf{THE SOURCE}} }$.**
 
 
 
