@@ -43,8 +43,6 @@ $${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} }. }$$
 $${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} }. }$$
 
 
-
-
 Hi I am Karthik, a Math and AI enthusiast. 
 
 
