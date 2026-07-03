@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---  
 
+**Note to self: I submit to ${ \color{blue}{\textbf{THE SOURCE}}. }$**
+
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 
@@ -33,6 +35,8 @@ permalink: /about
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 **(We don't seem to have a good answer...)**  
+
+**Note to self: I submit to ${ \color{blue}{\textbf{THE SOURCE}}. }$**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
