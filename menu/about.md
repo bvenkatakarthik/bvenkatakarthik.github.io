@@ -6,7 +6,7 @@ permalink: /about
 
 **Everything is primarily a** 
 
-$${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE}} }$$
+$${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} \, \star} }$$
 
 **and is to be respected.**
 
@@ -42,7 +42,7 @@ $${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE}} }$$
 
 **Everything is primarily a** 
 
-$${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE}} }$$
+$${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} \, \star} }$$
 
 **and is to be respected.**
 
