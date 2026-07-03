@@ -4,9 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Everything is primarily a** 
-
-$${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} }. }$$
+**Note to self: Remember THE WORLD.** 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -38,9 +36,7 @@ $${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} }. }$$
 
 **(We don't seem to have a good answer...)** 
 
-**Everything is primarily a** 
-
-$${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} }. }$$
+**Note to self: Remember THE WORLD.** 
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
