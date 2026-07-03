@@ -6,9 +6,7 @@ permalink: /about
 
 **Everything is primarily a** 
 
-$${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} } }$$
-
-**and is to be ${ \color{blue}{\textbf{RESPECTED}} }$.**
+$${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} }. }$$**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -42,9 +40,7 @@ $${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} } }$$
 
 **Everything is primarily a** 
 
-$${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} } }$$
-
-**and is to be ${ \color{blue}{\textbf{RESPECTED}} }$.**
+$${ \color{blue}{\textbf{MANIFESTATION OF THE SOURCE} }. }$$**
 
 
 
