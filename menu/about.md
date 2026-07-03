@@ -2,9 +2,7 @@
 layout: page
 title: About
 permalink: /about
---- 
-
-**Note to self: Remember THE WORLD.** 
+---  
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -34,9 +32,7 @@ permalink: /about
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
-**(We don't seem to have a good answer...)** 
-
-**Note to self: Remember THE WORLD.** 
+**(We don't seem to have a good answer...)**  
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
