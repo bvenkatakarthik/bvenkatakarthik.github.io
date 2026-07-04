@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---  
 
-**Note to self: I submit to ${ \color{blue}{\textbf{THE SOURCE}}. }$**
+**“Logic will get you from A to Z; Imagination will get you everywhere.” - Einstein.**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -36,7 +36,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**Note to self: I submit to ${ \color{blue}{\textbf{THE SOURCE}}. }$**
+**“Logic will get you from A to Z; Imagination will get you everywhere.” - Einstein.**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
