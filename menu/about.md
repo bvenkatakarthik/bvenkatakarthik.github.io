@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---  
 
-**“Logic will get you from A to Z; Imagination will get you everywhere.” - Einstein.**
+**Everything is primarily a manifestation of the source and is to be ${ \color{blue}{\textbf{RESPECTED}} }$.**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -36,7 +36,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**“Logic will get you from A to Z; Imagination will get you everywhere.” - Einstein.**
+**Everything is primarily a manifestation of the source and is to be ${ \color{blue}{\textbf{RESPECTED}} }$.**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
