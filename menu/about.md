@@ -38,7 +38,6 @@ permalink: /about
 
 **Everything is primarily a manifestation of the source and is to be ${ \color{blue}{\textbf{RESPECTED}}. }$**
 
-
 Hi I am Karthik, a Math and AI enthusiast. 
 
 
