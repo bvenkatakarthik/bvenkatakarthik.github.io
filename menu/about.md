@@ -4,8 +4,6 @@ title: About
 permalink: /about
 ---  
 
-**Everything is primarily a manifestation of the source and is to be ${ \color{blue}{\textbf{RESPECTED}}. }$**
-
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 
@@ -35,8 +33,6 @@ permalink: /about
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 **(We don't seem to have a good answer...)**  
-
-**Everything is primarily a manifestation of the source and is to be ${ \color{blue}{\textbf{RESPECTED}}. }$**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
