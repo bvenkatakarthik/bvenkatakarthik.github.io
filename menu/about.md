@@ -2,7 +2,9 @@
 layout: page
 title: About
 permalink: /about
----  
+--- 
+
+**${ \color{blue}{\textbf{ATTENTION}} }$ is an important resource.** 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -33,6 +35,8 @@ permalink: /about
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 **(We don't seem to have a good answer...)**  
+
+**${ \color{blue}{\textbf{ATTENTION}} }$ is an important resource.**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
