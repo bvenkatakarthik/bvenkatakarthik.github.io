@@ -40,6 +40,7 @@ permalink: /about
 
 
 
+
 Hi I am Karthik, a Math and AI enthusiast. 
 
 
