@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Practicing to pay attention to the here and now is beneficial.**
+**Speculation: Practicing ${ \color{blue}{\textbf{DELIBERATE LIVING}} }$ is beneficial.**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -36,7 +36,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**Speculation: Practicing to pay attention to the here and now is beneficial.**
+**Speculation: Practicing ${ \color{blue}{\textbf{DELIBERATE LIVING}} }$ is beneficial.**
 
 
 
