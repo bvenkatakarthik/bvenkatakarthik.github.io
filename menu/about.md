@@ -4,6 +4,7 @@ title: About
 permalink: /about
 --- 
 
+**Speculation: Practicing to pay attention to the here and now is beneficial.**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -34,6 +35,8 @@ permalink: /about
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 **(We don't seem to have a good answer...)**  
+
+**Speculation: Practicing to pay attention to the here and now is beneficial.**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
