@@ -39,6 +39,7 @@ permalink: /about
 **Speculation: Practicing to pay attention to the here and now is beneficial.**
 
 
+
 Hi I am Karthik, a Math and AI enthusiast. 
 
 
