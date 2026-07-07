@@ -4,7 +4,9 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness) is beneficial.**
+**[Mindfulness](https://en.wikipedia.org/wiki/Mindfulness): Intentionally paying attention to one's full present human experience with a calm attitude.**
+
+**Speculation: Mindfulness is beneficial.**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -36,7 +38,9 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**Speculation: [Mindfulness](https://en.wikipedia.org/wiki/Mindfulness) is beneficial.**
+**[Mindfulness](https://en.wikipedia.org/wiki/Mindfulness): Intentionally paying attention to one's full present human experience with a calm attitude.**
+
+**Speculation: Mindfulness is beneficial.**
 
 
 
