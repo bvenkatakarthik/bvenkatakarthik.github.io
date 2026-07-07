@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**[Mindfulness](https://en.wikipedia.org/wiki/Mindfulness): Intentionally paying attention to one's present human experience with a calm attitude.**
+**[Mindfulness](https://en.wikipedia.org/wiki/Mindfulness): Intentionally paying attention to one's ${ \color{blue}{\textbf{present}} }$ ${ \color{blue}{\textbf{human}} }$ ${ \color{blue}{\textbf{experience}} }$ with a calm attitude.**
 
 **Speculation: Mindfulness is beneficial.**
 
@@ -38,7 +38,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**[Mindfulness](https://en.wikipedia.org/wiki/Mindfulness): Intentionally paying attention to one's present human experience with a calm attitude.**
+**[Mindfulness](https://en.wikipedia.org/wiki/Mindfulness): Intentionally paying attention to one's ${ \color{blue}{\textbf{present}} }$ ${ \color{blue}{\textbf{human}} }$ ${ \color{blue}{\textbf{experience}} }$ with a calm attitude.**
 
 **Speculation: Mindfulness is beneficial.**
 
