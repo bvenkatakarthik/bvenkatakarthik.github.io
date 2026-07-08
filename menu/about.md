@@ -4,9 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**[Mindfulness](https://en.wikipedia.org/wiki/Mindfulness): Paying attention to one's ${ \Large \color{blue}{\textbf{PRESENT}} }$ ${ \Large \color{blue}{\textbf{FULL}} }$ ${ \Large \color{blue}{\textbf{EXPERIENCE}} }$ with a ${ \Large \color{blue}{\textbf{CALM}} }$ attitude.**
-
-**Speculation: Mindfulness is beneficial.**
+**Speculation: [Mindfulness](https://www.harvard.edu/in-focus/mindfulness-meditation/) is beneficial.**
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
@@ -38,9 +36,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**[Mindfulness](https://en.wikipedia.org/wiki/Mindfulness): Paying attention to one's ${ \Large \color{blue}{\textbf{PRESENT}} }$ ${ \Large \color{blue}{\textbf{FULL}} }$ ${ \Large \color{blue}{\textbf{EXPERIENCE}} }$ with a ${ \Large \color{blue}{\textbf{CALM}} }$ attitude.**
-
-**Speculation: Mindfulness is beneficial.**
+**Speculation: [Mindfulness](https://www.harvard.edu/in-focus/mindfulness-meditation/) is beneficial.**
 
 
 
