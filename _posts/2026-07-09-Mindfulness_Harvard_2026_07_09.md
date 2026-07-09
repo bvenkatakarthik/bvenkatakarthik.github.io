@@ -12,5 +12,5 @@ Link to Harvard Mindfulness page: [Link](https://www.harvard.edu/in-focus/mindfu
     <img src="https://d.l3n.co/XnNXMP.png"/> 
 </div>
 
-The key idea seems to be basing oneself on sensory experience.
+The key idea seems to be basing oneself on physical reality.
 
