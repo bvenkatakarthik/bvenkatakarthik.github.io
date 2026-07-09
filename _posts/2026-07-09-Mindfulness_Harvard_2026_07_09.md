@@ -14,3 +14,5 @@ Link to Harvard Mindfulness page: [Link](https://www.harvard.edu/in-focus/mindfu
 
 The key idea seems to be basing oneself on physical reality.
 
+
+
