@@ -6,6 +6,7 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09) (basing oneself on physical reality) is beneficial.**
 
+
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
 
 
