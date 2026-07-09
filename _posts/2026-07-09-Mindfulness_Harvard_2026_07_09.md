@@ -16,7 +16,7 @@ The key idea seems to be
 
 * basing oneself in physical reality.
 
-* consider each thought without judging it.
+* considering each arising thought without judging it.
 
 
 
