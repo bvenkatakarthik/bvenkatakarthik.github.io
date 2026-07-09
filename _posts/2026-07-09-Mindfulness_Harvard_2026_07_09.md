@@ -14,7 +14,7 @@ Link to Harvard Mindfulness page: [Link](https://www.harvard.edu/in-focus/mindfu
 
 The key idea seems to be 
 
-* basing oneself on physical reality.
+* basing oneself in physical reality.
 
 * consider each thought without judging it.
 
