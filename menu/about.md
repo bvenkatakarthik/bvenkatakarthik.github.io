@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09) (basing oneself in physical reality; considering each arising thought without judging it) is beneficial.**
+**Obs: Everything is primarily a manifestation of ${ \color{blue}{\textbf{THE SOURCE}} . }$**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -37,7 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09) (basing oneself in physical reality; considering each arising thought without judging it) is beneficial.**
+**Obs: Everything is primarily a manifestation of ${ \color{blue}{\textbf{THE SOURCE}} . }$**
 
 
 
