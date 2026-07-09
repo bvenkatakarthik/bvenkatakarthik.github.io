@@ -16,3 +16,7 @@ The key idea seems to be basing oneself on physical reality.
 
 
 
+
+
+
+
