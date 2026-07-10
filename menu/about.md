@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Obs: Everything is a manifestation of ${ \color{blue}{\textbf{THE SOURCE} \, \star} }$.**
+**Speculation: Mindfulness (keep attention on breath; be aware of your experience) is beneficial.**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -37,7 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**Obs: Everything is a manifestation of ${ \color{blue}{\textbf{THE SOURCE} \, \star} }$.**
+**Speculation: Mindfulness (keep attention on breath; be aware of your experience) is beneficial.**
 
 
 
