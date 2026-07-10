@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Mindfulness (focus on your breath; broaden your focus to your experience) is beneficial.**
+**Speculation: Mindfulness (be aware of your breath; be aware of your experience) is beneficial.**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -37,7 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**Speculation: Mindfulness (focus on your breath; broaden your focus to your experience) is beneficial.**
+**Speculation: Mindfulness (be aware of your breath; be aware of your experience) is beneficial.**
 
 
 
