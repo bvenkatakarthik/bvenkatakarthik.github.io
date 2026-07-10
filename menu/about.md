@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Obs: EVERYTHING is a manifestation of ${ \color{blue}{\textbf{THE SOURCE}}  }$.**
+**Obs: Everything is a manifestation of ${ \color{blue}{\textbf{THE SOURCE} \, \star} }$.**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -37,7 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**Obs: EVERYTHING is a manifestation of ${ \color{blue}{\textbf{THE SOURCE}}  }$.**
+**Obs: Everything is a manifestation of ${ \color{blue}{\textbf{THE SOURCE} \, \star} }$.**
 
 
 
