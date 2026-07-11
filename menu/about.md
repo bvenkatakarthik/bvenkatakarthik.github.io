@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Mindfulness (prioritising physical reality over thought) is beneficial.**
+**Speculation: Mindfulness (prioritising physical reality over thoughts) is beneficial.**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -37,7 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**Speculation: Mindfulness (prioritising physical reality over thought) is beneficial.**
+**Speculation: Mindfulness (prioritising physical reality over thoughts) is beneficial.**
 
 
 
