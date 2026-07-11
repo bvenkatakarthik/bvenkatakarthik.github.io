@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Practicing Mindfulness (1. focus on your breath; 2. focus on both your breath and physical reality; 3. focus on both your breath and physical reality and thoughts) is beneficial.**
+**Speculation: Practicing Mindfulness (1. focus on your breath; 2. focus on BOTH your breath and physical reality; 3. focus on BOTH your breath and physical reality and thoughts) is beneficial.**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -37,7 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**Speculation: Practicing Mindfulness (1. focus on your breath; 2. focus on both your breath and physical reality; 3. focus on both your breath and physical reality and thoughts) is beneficial.**
+**Speculation: Practicing Mindfulness (1. focus on your breath; 2. focus on BOTH your breath and physical reality; 3. focus on BOTH your breath and physical reality and thoughts) is beneficial.**
 
 
 
