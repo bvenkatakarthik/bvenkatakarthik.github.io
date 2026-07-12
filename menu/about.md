@@ -4,9 +4,9 @@ title: About
 permalink: /about
 --- 
 
-**${ \color{blue}{\textbf{WHAT}} }$ IS THE NATURE OF THE WORLD?**
+**${ \Large  \color{blue}{\textbf{WHAT}} }$ IS THE NATURE OF THE WORLD?**
 
-**${ \color{blue}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
+**${ \Large \color{blue}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
 
 **"An equation for me has no meaning, unless it expresses a thought of God." - Ramanujan.**
 
@@ -33,9 +33,9 @@ permalink: /about
 **"An equation for me has no meaning, unless it expresses a thought of God." - Ramanujan.**
 
 
-**${ \color{blue}{\textbf{WHAT}} }$ IS THE NATURE OF THE WORLD?**
+**${ \Large \color{blue}{\textbf{WHAT}} }$ IS THE NATURE OF THE WORLD?**
 
-**${ \color{blue}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
+**${ \Large \color{blue}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
 
 
 
