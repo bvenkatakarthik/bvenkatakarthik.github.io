@@ -8,6 +8,8 @@ permalink: /about
 
 **${ \color{blue}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
 
+**"An equation for me has no meaning, unless it expresses a thought of God." - Ramanujan.**
+
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
@@ -27,6 +29,8 @@ permalink: /about
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
+
+**"An equation for me has no meaning, unless it expresses a thought of God." - Ramanujan.**
 
 
 **${ \color{blue}{\textbf{WHAT}} }$ IS THE NATURE OF THE WORLD?**
