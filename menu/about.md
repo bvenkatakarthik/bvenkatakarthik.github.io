@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Mindfulness (1. focus on ${ \color{blue}{\textbf{senses-constructed present}} }$; 2. focus on ${ \color{blue}{\textbf{senses-constructed present}} }$ and thoughts) is beneficial.**
+**Speculation: Mindfulness (prioritising observing one's experience over engagement) is beneficial.**
 
 
 **I humbly ask: WHY DO WE HAVE THE WORLD?** 
@@ -37,7 +37,7 @@ permalink: /about
 
 **(We don't seem to have a good answer...)**  
 
-**Speculation: Mindfulness (1. focus on ${ \color{blue}{\textbf{senses-constructed present}} }$; 2. focus on ${ \color{blue}{\textbf{senses-constructed present}} }$ and thoughts) is beneficial.**
+**Speculation: Mindfulness (prioritising observing one's experience over engagement) is beneficial.**
 
 
 
