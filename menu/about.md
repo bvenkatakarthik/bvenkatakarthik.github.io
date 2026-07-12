@@ -4,13 +4,9 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Mindfulness (prioritising observing one's experience over engagement) is beneficial.**
+**${ \color{blue}{\textbf{WHAT}} }$ IS THE NATURE OF THE WORLD?**
 
-
-**I humbly ask: WHY DO WE HAVE THE WORLD?** 
-
-
-(For that matter: Why does the notion of Why exist?)
+**${ \color{blue}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
 
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
@@ -33,12 +29,9 @@ permalink: /about
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
 
-**I humbly ask: WHY DO WE HAVE THE WORLD?** 
+**${ \color{blue}{\textbf{WHAT}} }$ IS THE NATURE OF THE WORLD?**
 
-**(We don't seem to have a good answer...)**  
-
-**Speculation: Mindfulness (prioritising observing one's experience over engagement) is beneficial.**
-
+**${ \color{blue}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
 
 
 
