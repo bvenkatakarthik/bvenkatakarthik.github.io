@@ -8,7 +8,7 @@ permalink: /about
 
 **${ \Huge \color{blue}{\textbf{WHY}} }$ DO WE HAVE THE WORLD?**
 
-**Speculation: Considering the WHAT and WHY of everything is beneficial.**
+**Speculation: Considering the WHAT and WHY of EVERYTHING is beneficial.**
 
 
 **THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
@@ -30,7 +30,7 @@ permalink: /about
 
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
-**Speculation: Considering the WHAT and WHY of everything is beneficial.**
+**Speculation: Considering the WHAT and WHY of EVERYTHING is beneficial.**
 
 
 **${ \Huge \color{blue}{\textbf{WHAT}} }$ IS THE NATURE OF THE WORLD?**
