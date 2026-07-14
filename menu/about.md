@@ -4,6 +4,12 @@ title: About
 permalink: /about
 --- 
 
+**Speculation: Mindfulness namely** 
+
+$${ \color{blue}{\textbf{AWARENESS}} \textbf{ of one's experience} }$$
+
+**is beneficial.**
+
 
 **Speculation: One thing endowed to all life forms (amongst variables) is a form of ${ \color{blue}{\textbf{"AWARENESS"}} }$. One should identify oneself with this ${ \color{blue}{\textbf{"AWARENESS"}} }$?**
 
@@ -32,6 +38,12 @@ permalink: /about
 **WHY DO WE HAVE THE WORLD?** 
 
 **Speculation: One thing endowed to all life forms (amongst variables) is a form of ${ \color{blue}{\textbf{"AWARENESS"}} }$. One should identify oneself with this ${ \color{blue}{\textbf{"AWARENESS"}} }$?**
+
+**Speculation: Mindfulness namely** 
+
+$${ \color{blue}{\textbf{AWARENESS}} \textbf{ of one's experience} }$$
+
+**is beneficial.**
 
 
 
