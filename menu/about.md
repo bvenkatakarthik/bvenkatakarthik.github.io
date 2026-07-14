@@ -72,5 +72,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 | ![](https://d.l3n.co/c9Npoz.png) | 
 |:--:| 
 | ${ \Large \textbf{THE WORLD: LIFE} }$  |
+| ${ \Large \color{blue}{\textbf{ALL HAVE AWARENESS?}} }$ |
 
 
