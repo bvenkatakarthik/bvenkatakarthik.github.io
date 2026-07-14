@@ -11,8 +11,6 @@ $${ \color{blue}{\textbf{AWARENESS}} \textbf{ of one's experience} }$$
 **is beneficial.**
 
 
-**Speculation: One thing endowed to all life forms (amongst variables) is a form of ${ \color{blue}{\textbf{"AWARENESS"}} }$. One should identify oneself with this ${ \color{blue}{\textbf{"AWARENESS"}} }$?**
-
 
 **WHY DO WE HAVE THE WORLD?** 
 
@@ -36,8 +34,6 @@ $${ \color{blue}{\textbf{AWARENESS}} \textbf{ of one's experience} }$$
 **LIFE evolved over ${  \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
 **WHY DO WE HAVE THE WORLD?** 
-
-**Speculation: One thing endowed to all life forms (amongst variables) is a form of ${ \color{blue}{\textbf{"AWARENESS"}} }$. One should identify oneself with this ${ \color{blue}{\textbf{"AWARENESS"}} }$?**
 
 **Speculation: Mindfulness namely** 
 
@@ -77,6 +73,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 | ![](https://d.l3n.co/c9Npoz.png) | 
 |:--:| 
 | ${ \Large \textbf{THE WORLD: LIFE} }$  |
-| ${ \Large \textbf{All have } \color{blue}{\textbf{"AWARENESS"}} \textbf{?} }$ |
+
 
 
