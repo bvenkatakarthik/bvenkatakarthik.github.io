@@ -5,7 +5,7 @@ permalink: /about
 --- 
 
 
-**Speculation: One thing endowed to all life forms (amongst variables) is a basic form of ${ \color{blue}{\textbf{"AWARENESS"}} }$. One should identify oneself with this ${ \color{blue}{\textbf{"AWARENESS"}} }$?**
+**Speculation: One thing endowed to all life forms (amongst variables) is a form of ${ \color{blue}{\textbf{"AWARENESS"}} }$. One should identify oneself with this ${ \color{blue}{\textbf{"AWARENESS"}} }$?**
 
 
 **WHY DO WE HAVE THE WORLD?** 
@@ -31,7 +31,7 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**Speculation: One thing endowed to all life forms (amongst variables) is a basic form of ${ \color{blue}{\textbf{"AWARENESS"}} }$. One should identify oneself with this ${ \color{blue}{\textbf{"AWARENESS"}} }$?**
+**Speculation: One thing endowed to all life forms (amongst variables) is a form of ${ \color{blue}{\textbf{"AWARENESS"}} }$. One should identify oneself with this ${ \color{blue}{\textbf{"AWARENESS"}} }$?**
 
 
 
