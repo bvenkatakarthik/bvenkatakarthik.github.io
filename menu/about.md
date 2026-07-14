@@ -4,11 +4,8 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Mindfulness namely** 
 
-$${ \Large \color{blue}{\textbf{AWARENESS of one's experience}} }$$
-
-**is beneficial.**
+**Speculation: One thing endowed to all life forms (amongst variables) is a basic form of ${ \color{blue}{\textbf{"AWARENESS"}} }$. One should identify oneself with this ${ \color{blue}{\textbf{"AWARENESS"}} }$?**
 
 
 **WHY DO WE HAVE THE WORLD?** 
@@ -34,11 +31,7 @@ $${ \Large \color{blue}{\textbf{AWARENESS of one's experience}} }$$
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**Speculation: Mindfulness namely** 
-
-$${ \Large \color{blue}{\textbf{AWARENESS of one's experience}} }$$
-
-**is beneficial.**
+**Speculation: One thing endowed to all life forms (amongst variables) is a basic form of ${ \color{blue}{\textbf{"AWARENESS"}} }$. One should identify oneself with this ${ \color{blue}{\textbf{"AWARENESS"}} }$?**
 
 
 
@@ -72,6 +65,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 | ![](https://d.l3n.co/c9Npoz.png) | 
 |:--:| 
 | ${ \Large \textbf{THE WORLD: LIFE} }$  |
-| ${ \Large \color{blue}{\textbf{ALL HAVE AWARENESS?}} }$ |
+| ${ \Large \color{blue}{\textbf{All have "AWARENESS"?}} }$ |
 
 
