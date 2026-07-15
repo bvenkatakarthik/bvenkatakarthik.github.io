@@ -4,9 +4,9 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Mindfulness namely practicing having** 
+**Speculation:** 
 
-$${ \color{blue}{\textbf{PURE AWARENESS}} \textbf{ of one's experience} }$$
+$${ \textbf{Prioritizing } \color{blue}{\textbf{AWARENESS}} \textbf{ over activity} }$$
 
 **is beneficial.**
 
@@ -35,12 +35,11 @@ $${ \color{blue}{\textbf{PURE AWARENESS}} \textbf{ of one's experience} }$$
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**Speculation: Mindfulness namely practicing having** 
+**Speculation:** 
 
-$${ \color{blue}{\textbf{PURE AWARENESS}} \textbf{ of one's experience} }$$
+$${ \textbf{Prioritizing } \color{blue}{\textbf{AWARENESS}} \textbf{ over activity} }$$
 
 **is beneficial.**
-
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
