@@ -4,9 +4,9 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: Mindfulness namely** 
+**Speculation: Mindfulness namely practicing having** 
 
-$${ \color{blue}{\textbf{AWARENESS}} \textbf{ of one's experience} }$$
+$${ \color{blue}{\textbf{PURE AWARENESS}} \textbf{ of one's experience} }$$
 
 **is beneficial.**
 
@@ -35,9 +35,9 @@ $${ \color{blue}{\textbf{AWARENESS}} \textbf{ of one's experience} }$$
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**Speculation: Mindfulness namely** 
+**Speculation: Mindfulness namely practicing having** 
 
-$${ \color{blue}{\textbf{AWARENESS}} \textbf{ of one's experience} }$$
+$${ \color{blue}{\textbf{PURE AWARENESS}} \textbf{ of one's experience} }$$
 
 **is beneficial.**
 
