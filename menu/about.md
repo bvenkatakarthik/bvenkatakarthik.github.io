@@ -23,7 +23,7 @@ $${ \textbf{Prioritizing } \color{blue}{\textbf{FULL AWARENESS}} \textbf{ over a
 
 **THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
-**"THE ANCESTOR": All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
+**"THE SOURCE": All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
 
 **(That is an unimaginably high mass-energy in an unimaginably small region...)**
 
