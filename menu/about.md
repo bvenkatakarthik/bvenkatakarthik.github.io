@@ -10,6 +10,8 @@ $${ \textbf{Prioritizing } \color{blue}{\boxed{\textbf{FULL AWARENESS}}} \textbf
 
 **is beneficial.**
 
+**${ \color{blue}{\textbf{AWARENESS}} }$ is foundational to every life form.**
+
 
 
 **WHY DO WE HAVE THE WORLD?** 
@@ -40,6 +42,8 @@ $${ \textbf{Prioritizing } \color{blue}{\boxed{\textbf{FULL AWARENESS}}} \textbf
 $${ \textbf{Prioritizing } \color{blue}{\boxed{\textbf{FULL AWARENESS}}} \textbf{ over activity} }$$
 
 **is beneficial.**
+
+**${ \color{blue}{\textbf{AWARENESS}} }$ is foundational to every life form.**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
