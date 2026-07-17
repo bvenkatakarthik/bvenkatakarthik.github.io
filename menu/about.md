@@ -6,7 +6,7 @@ permalink: /about
 
 **Speculation:** 
 
-$${ \textbf{Prioritizing } \color{blue}{\boxed{\textbf{FULL AWARENESS}}} \textbf{ over activity} }$$
+$${ \textbf{Prioritizing } \color{blue}{\textbf{FULL AWARENESS}} \textbf{ over activity} }$$
 
 **is beneficial.**
 
@@ -39,7 +39,7 @@ $${ \textbf{Prioritizing } \color{blue}{\boxed{\textbf{FULL AWARENESS}}} \textbf
 
 **Speculation:** 
 
-$${ \textbf{Prioritizing } \color{blue}{\boxed{\textbf{FULL AWARENESS}}} \textbf{ over activity} }$$
+$${ \textbf{Prioritizing } \color{blue}{\textbf{FULL AWARENESS}} \textbf{ over activity} }$$
 
 **is beneficial.**
 
