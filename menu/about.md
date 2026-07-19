@@ -10,7 +10,7 @@ $${ \textbf{Prioritizing } \color{blue}{\textsf{MAX AWARENESS}} \textbf{ over ac
 
 **is beneficial.**
 
-**${ \Large \color{blue}{\textsf{MAX AWARENESS}} }$ is foundational to every life form.**
+**${ \Huge \color{blue}{\textsf{MAX AWARENESS}} }$ is foundational to every life form.**
 
 
 
@@ -43,7 +43,7 @@ $${ \textbf{Prioritizing } \color{blue}{\textsf{MAX AWARENESS}} \textbf{ over ac
 
 **is beneficial.**
 
-**${ \Large \color{blue}{\textsf{MAX AWARENESS}} }$ is foundational to every life form.**
+**${ \Huge \color{blue}{\textsf{MAX AWARENESS}} }$ is foundational to every life form.**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
