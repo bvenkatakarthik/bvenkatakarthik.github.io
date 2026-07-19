@@ -6,11 +6,11 @@ permalink: /about
 
 **Speculation:** 
 
-$${ \textbf{Prioritizing } \color{blue}{\text{MAX AWARENESS}} \textbf{ over activity} }$$
+$${ \textbf{Prioritizing } \color{blue}{\textsf{MAX AWARENESS}} \textbf{ over activity} }$$
 
 **is beneficial.**
 
-**${ \Large \color{blue}{\text{MAX AWARENESS}} }$ is foundational to every life form.**
+**${ \Large \color{blue}{\textsf{MAX AWARENESS}} }$ is foundational to every life form.**
 
 
 
@@ -39,11 +39,11 @@ $${ \textbf{Prioritizing } \color{blue}{\text{MAX AWARENESS}} \textbf{ over acti
 
 **Speculation:** 
 
-$${ \textbf{Prioritizing } \color{blue}{\text{MAX AWARENESS}} \textbf{ over activity} }$$
+$${ \textbf{Prioritizing } \color{blue}{\textsf{MAX AWARENESS}} \textbf{ over activity} }$$
 
 **is beneficial.**
 
-**${ \Large \color{blue}{\text{MAX AWARENESS}} }$ is foundational to every life form.**
+**${ \Large \color{blue}{\textsf{MAX AWARENESS}} }$ is foundational to every life form.**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
