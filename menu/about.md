@@ -4,13 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation:** 
-
-$${ \textbf{Prioritizing } \color{blue}{\textsf{MAX AWARENESS}} \textbf{ over activity} }$$
-
-**is beneficial.**
-
-**${ \Large \color{blue}{\textsf{MAX AWARENESS}} }$ is foundational to every life form experience.**
+**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09) is beneficial.** 
 
 
 
@@ -37,13 +31,7 @@ $${ \textbf{Prioritizing } \color{blue}{\textsf{MAX AWARENESS}} \textbf{ over ac
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**Speculation:** 
-
-$${ \textbf{Prioritizing } \color{blue}{\textsf{MAX AWARENESS}} \textbf{ over activity} }$$
-
-**is beneficial.**
-
-**${ \Large \color{blue}{\textsf{MAX AWARENESS}} }$ is foundational to every life form experience.**
+**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09) is beneficial.**
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
