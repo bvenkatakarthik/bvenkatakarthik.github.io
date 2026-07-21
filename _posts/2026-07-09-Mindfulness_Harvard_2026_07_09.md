@@ -14,7 +14,7 @@ Link to Jon Kabat-Zinn's talk: [Link](https://youtu.be/_If4a-gHg_I?si=aGNzWTe5Hz
     <img src="https://d.l3n.co/XnNXMP.png"/> 
 </div>
 
-The main idea seems to be: Consider the present experiences and embrace them. 
+The main idea seems to be: 1. consider the present experiences; 2. embrace them. 
 
 
 
