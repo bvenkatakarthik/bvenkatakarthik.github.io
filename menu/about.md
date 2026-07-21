@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09) (1. considering the present experiences; 2. embracing them) is beneficial.** 
+**Speculation: [MINDFULNESS](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09) (1. considering the present experiences; 2. embracing them) is beneficial.** 
 
 
 
@@ -31,7 +31,7 @@ permalink: /about
 
 **WHY DO WE HAVE THE WORLD?** 
 
-**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09) (1. considering the present experiences; 2. embracing them) is beneficial.** 
+**Speculation: [MINDFULNESS](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09) (1. considering the present experiences; 2. embracing them) is beneficial.** 
 
 
 Hi I am Karthik, a Math and AI enthusiast. 
