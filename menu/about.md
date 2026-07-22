@@ -6,6 +6,8 @@ permalink: /about
 
 **Speculation: [Practicing Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09) (1. considering the present experiences; 2. embracing them) is beneficial.** 
 
+**Getting used to things: [Link](https://bvenkatakarthik.github.io/Post_2026_06_08).**
+
 
 
 **WHY DO WE HAVE THE WORLD?** 
@@ -30,6 +32,8 @@ permalink: /about
 **LIFE evolved over ${ \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
 **WHY DO WE HAVE THE WORLD?** 
+
+**Getting used to things: [Link](https://bvenkatakarthik.github.io/Post_2026_06_08).**
 
 **Speculation: [Practicing Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09) (1. considering the present experiences; 2. embracing them) is beneficial.** 
 
