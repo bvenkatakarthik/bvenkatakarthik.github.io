@@ -6,7 +6,7 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
 
-**(non-judgemental attention to the present moment)**
+**(non-judgemental attention to the present experiences)**
 
 **is beneficial.** 
 
@@ -38,7 +38,7 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
 
-**(non-judgemental attention to the present moment)**
+**(non-judgemental attention to the present experiences)**
 
 **is beneficial.** 
 
