@@ -6,7 +6,7 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09)**
 
-**(1. considering ${ \color{blue}{\textbf{present experiences}} }$; 2. ${ \color{blue}{\textbf{embracing}} }$ them)**
+**(1. consider ${ \color{blue}{\textbf{present experiences}} }$; 2. ${ \color{blue}{\textbf{embrace}} }$ them)**
 
 **is beneficial.** 
 
@@ -38,7 +38,7 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Harvard_2026_07_09)**
 
-**(1. considering ${ \color{blue}{\textbf{present experiences}} }$; 2. ${ \color{blue}{\textbf{embracing}} }$ them)**
+**(1. consider ${ \color{blue}{\textbf{present experiences}} }$; 2. ${ \color{blue}{\textbf{embrace}} }$ them)**
 
 **is beneficial.** 
 
