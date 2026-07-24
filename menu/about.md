@@ -14,7 +14,7 @@ permalink: /about
 
 
 
-**Q) Why do we have The World?** 
+**Q) Why do we have The World, with these features?** 
 
 **The Birth of The World, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
@@ -35,7 +35,7 @@ permalink: /about
 
 **Life evolved over ${ \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
-**Q) Why do we have The World?** 
+**Q) Why do we have The World, with these features?** 
 
 **Q) Looking at brain activity, can I understand who am I? In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist...**
 
