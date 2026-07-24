@@ -10,9 +10,11 @@ permalink: /about
 
 **is beneficial.** 
 
+**Q) Looking at brain activity, can I understand who am I? In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist...**
 
 
-**Why do we have The World?** 
+
+**Q) Why do we have The World?** 
 
 **The Birth of The World, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
@@ -33,7 +35,9 @@ permalink: /about
 
 **Life evolved over ${ \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
-**Why do we have The World?** 
+**Q) Why do we have The World?** 
+
+**Q) Looking at brain activity, can I understand who am I? In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist...**
 
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
