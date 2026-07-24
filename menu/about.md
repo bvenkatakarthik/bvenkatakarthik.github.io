@@ -12,16 +12,16 @@ permalink: /about
 
 
 
-**WHY DO WE HAVE THE WORLD?** 
+**Why do we have The World?** 
 
-**THE BIRTH OF THE WORLD, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
+**The Birth of The World, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
 
-**THE BIRTH OF THE WORLD, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
+**The Birth of The World, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
 
-**THE BIRTH OF HUMANS, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
+**The Birth of Humans, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
-**"THE SOURCE": All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
+**"The Source": All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
 
 **(That is an unimaginably high mass-energy in an unimaginably small region...)**
 
@@ -31,9 +31,9 @@ permalink: /about
 
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
-**LIFE evolved over ${ \mathbf{1,000,000,000} }$s of years of a survival game...** 
+**Life evolved over ${ \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
-**WHY DO WE HAVE THE WORLD?** 
+**Why do we have The World?** 
 
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
@@ -45,7 +45,7 @@ permalink: /about
 Hi I am Karthik, a Math and AI enthusiast. 
 
 
-I am curious about the **NATURE AND PURPOSE OF THE WORLD**.
+I am curious about the **Nature and Purpose of The World**.
 
 I am curious about the Brain, the foundation of Reality Experience and Intelligence.  
 
@@ -59,20 +59,20 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 | ![](https://a.l3n.co/cUGJWm.png) | 
 |:--:|
 | ![](https://c.l3n.co/cVwuGA.jpg) |  
-| ${ \Large \textbf{THE WORLD: BIRTH} }$  |
+| ${ \Large \textbf{The World: Birth} }$  |
 
 | ![](https://b.l3n.co/oKOJnH.jpg) | 
 |:--:| 
-| ${ \Large \textbf{THE WORLD: SCALE} }$  |
+| ${ \Large \textbf{The World: Scale} }$  |
 
 
 | ![](https://c.l3n.co/cFmQvP.gif) | 
 |:--:| 
-| ${ \Large \textbf{THE WORLD: ELEMENTS} }$  |
+| ${ \Large \textbf{The World: Elements} }$  |
 
 | ![](https://d.l3n.co/c9Npoz.png) | 
 |:--:| 
-| ${ \Large \textbf{THE WORLD: LIFE} }$  |
+| ${ \Large \textbf{The World: Life} }$  |
 
 
 
