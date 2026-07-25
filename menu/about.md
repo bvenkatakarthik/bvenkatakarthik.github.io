@@ -10,7 +10,7 @@ permalink: /about
 
 **is beneficial.** 
 
-**Q) Looking at brain activity, can I understand who am I? In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist... Do "I" exist independent of brain activity?**
+**Q) Looking at brain activity, can I understand who am I? In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist...**
 
 
 
@@ -37,7 +37,7 @@ permalink: /about
 
 **Q) Why do we have The World, with these features?** 
 
-**Q) Looking at brain activity, can I understand who am I? In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist... Do "I" exist independent of brain activity?**
+**Q) Looking at brain activity, can I understand who am I? In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist...**
 
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
