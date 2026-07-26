@@ -14,6 +14,7 @@ permalink: /about
 
 **Q) Looking at brain activity, can I understand who am I? (In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist...)**
 
+**Sapolsky on free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
 **Q) Why do we have The World, with these features?** 
 
@@ -37,17 +38,6 @@ permalink: /about
 **Life evolved over ${ \mathbf{1,000,000,000} }$s of years of a survival game...** 
 
 **Q) Why do we have The World, with these features?** 
-
-**Q) Looking at brain activity, can I understand who am I? (In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist...)**
-
-
-**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
-
-**(non-judgmental attention to the present experiences)**
-
-**is beneficial.** 
-
-**Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).**
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
