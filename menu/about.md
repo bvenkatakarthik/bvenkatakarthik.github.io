@@ -10,6 +10,8 @@ permalink: /about
 
 **is beneficial.** 
 
+**Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).**
+
 **Q) Looking at brain activity, can I understand who am I? (In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist...)**
 
 
@@ -44,6 +46,8 @@ permalink: /about
 **(non-judgmental attention to the present experiences)**
 
 **is beneficial.** 
+
+**Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).**
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
