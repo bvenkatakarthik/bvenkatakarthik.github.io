@@ -12,7 +12,7 @@ permalink: /about
 
 **Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).**
 
-**Sapolsky on free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
+**Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
 **Q) Why do we have The World, with these features?** 
 
