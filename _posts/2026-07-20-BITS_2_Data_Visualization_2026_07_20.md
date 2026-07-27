@@ -980,6 +980,634 @@ Interdisciplinary Collaboration:
 
 * The importance of working with domain experts 
 
+[**Distinguishing Data Roles**] 
+
+**Data Roles** 
+
+Data plays a crucial role in decision-making, innovation, and strategic planning. 
+
+Various specialised roles exist to manage and analyse data effectively. 
+
+**Key Roles** 
+
+Data Analyst 
+
+Data Scientist 
+
+Data Engineer 
+
+Data Architect 
+
+Database Administrator 
+
+Data Steward 
+
+Business Intelligence (BI) Analyst 
+
+**Data Analyst** 
+
+Responsibilities: 
+
+* Analyse and interpret complex data sets 
+
+* Create reports and dashboards 
+
+* Provide actionable insights to support business decisions 
+
+Skills: 
+
+Data visualisation tools (eg Tableau, Power BI) 
+
+Statistical analysis 
+
+Excel, SQL, R, Python 
+
+**Data Scientist** 
+
+Responsibilities: 
+
+Design and develop machine learning models 
+
+Perform advanced statistical analyses 
+
+Predict trends and behaviours using data 
+
+Skills: 
+
+Python, R, SQL 
+
+Machine learning frameworks (eg: Tensorflow, PyTorch) 
+
+Data wrangling and preprocessing 
+
+**Data Engineer** 
+
+Responsibilities: 
+
+Build and maintain data pipelines 
+
+Ensure data is available, clean and well-structured
+
+Collaborate with data scientists and analysts to optimise data flow 
+
+Skills: 
+
+Programming (Python, Java, Scala) 
+
+Data storage systems (eg Hadoop, Spark) 
+
+Cloud services (AWS, Azure, Google Cloud) 
+
+**Data Architect** 
+
+Responsibilities: 
+
+Design and structure databases and data systems 
+
+Ensure data architecture aligns with business goals 
+
+Oversee data integration and management strategies 
+
+Skills: 
+
+Database design and modelling 
+
+ETL (Extract, Transform, Load) processes 
+
+Knowledge of various data storage solutions 
+
+**Database Administrator** 
+
+Responsibilities: 
+
+Manage and maintain databases 
+
+Ensure data integrity and security 
+
+Optimize database performance 
+
+Skills: 
+
+Database management systems (eg: MySQL, Oracle, SQL Server) 
+
+Backup and recovery techniques 
+
+Security protocols and compliance 
+
+**Data Steward** 
+
+Responsibilities: 
+
+Ensure data quality and governance 
+
+Establish data policies and standards 
+
+Monitor data usage and compliance 
+
+Skills: 
+
+Data governance and frameworks 
+
+Communication and collaboration 
+
+Knowledge of regulatory requirements (eg GDPR, HIPAA) 
+
+**Business Intelligence (BI) Analyst** 
+
+Responsibilities: 
+
+Develop BI strategies to support business goals 
+
+Design and create data visualisations and dashboards 
+
+Work closely with stakeholders to identify reporting needs 
+
+Skills: 
+
+BI tools (eg Tableau, Power BI) 
+
+SQL and data warehousing 
+
+Analytical thinking and business acumen 
+
+**Collaboration between Roles** 
+
+Importance of collaboration between different data roles: 
+
+Data Engineers ensure data availability for Analysts and Scientists.
+
+Data Scientists build models that are deployed by ML Engineers.
+
+Data Architects ensure the infrastructure supports all roles. 
+
+BI Analysts translate data insights into actionable business strategies. 
+
+[**Introducing Data Visualisation Analyst (Visual Analyst)**] 
+
+**Who is a Data Visualisation Analyst?** 
+
+A Data Visualisation Analyst is a professional who creates visual representations of data to help organisations understand complex information. 
+
+Purpose: To convert raw data into clear, compelling visuals that facilitate decision-making and insight discovery. 
+
+**Role in Data Analytics** 
+
+Bridges the Gap 
+
+Between Raw Data and Insights: 
+
+* Transforms complex datasets into understandable visual formats 
+
+* Purpose: Makes data accessible and actionable for stakeholders 
+
+Effective Visual Communication: 
+
+* Techniques: Utilizes charts, graphs, dashboards, and interactive reports 
+
+* Goal: Communicate findings clearly and support data-driven decisions
+
+**Responsibilities of a Data Visualisation Analyst** 
+
+Creating Visual Representations of Data: 
+
+Transform raw data into clear, insightful visuals 
+
+Designing Dashboards: 
+
+Provide a comprehensive view of key metrics and data points 
+
+Designing Interactive Reports: 
+
+Allow users to explore data dynamically and engage with visual elements 
+
+**Skills required for a Data Visualisation Analyst** 
+
+Proficiency in Visualisation Tools: 
+
+Tableau, Power BI, Google Data Studio 
+
+Skill Areas: 
+
+Data import/export, chart customisation, dashboard creation 
+
+Understanding of Design Principles: 
+
+Contrast, Alignment, Proximity, Repetition 
+
+Storytelling with Data
+
+Elements of Storytelling: Crafting a narrative, focusing on the key message, structuring the visual flow 
+
+Techniques: Using annotations, highlighting trends, guiding the viewer through the data 
+
+**Becoming a Data Visualisation Analyst** 
+
+Building a Portfolio 
+
+Showcase Skills through Projects: 
+
+* Real-World Projects: Include examples of work done for clients or as part of professional experience 
+
+* Case Studies: Document the problem, solution, and impact of your visualisation
+
+* Sample Dashboards: 1 Diverse examples: Create dashboards for various industries or data types (eg sales, finance, healthcare). 2 Interactive elements: Demonstrate your ability to design interactive and user-friendly dashboards 
+
+Professional Development 
+
+Joining Communities 
+
+Professional Associations: Join organizations such as the Data Visualisation Society or local meetup groups. 
+
+Online Communities: Participate in forums like Reddit's r/dataisbeautiful or Linkedin groups 
+
+Attending Workshops and Conferences: 
+
+Events: Attend industry conferences, workshops, and webinars focused on data visualisation and analytics 
+
+Networking: Engage with peers, share knowledge, and learn about new tools and techniques
+
+[**Installable Tools**] 
+
+
+**What are Installable Tools?** 
+
+Software that needs to be downloaded and installed on a computer 
+
+Offline functionality and data security 
+
+Customisation and integration capabilities 
+
+Advantages: 
+
+Enhanced performance and speed 
+
+Better handling of large datasets 
+
+Advanced customisation and flexibility 
+
+Offline access and data privacy 
+
+**Tableau Desktop** 
+
+Features: 
+
+Drag-and-Drop Interface 
+
+Rich Visualisation Options 
+
+Supports Data Blending 
+
+Use Cases: 
+
+Business Intelligence 
+
+Complex Data Analysis 
+
+Pros: 
+
+User-friendly 
+
+Powerful Analytics 
+
+Wide Range of Visualisations 
+
+Cons: 
+
+Cost 
+
+Learning Curve 
+
+**Microsoft Power BI Desktop** 
+
+Features: 
+
+Interactive reports 
+
+Dashboards 
+
+Integration with MS products 
+
+Use cases: 
+
+Business reporting 
+
+Data exploration 
+
+Pros: 
+
+Integration with Excel 
+
+Cost-effective 
+
+Extensive data connectivity 
+
+Cons: 
+
+Limited advanced analytics 
+
+Occasional performance issues with large data 
+
+**Qlik Sense Desktop** 
+
+Features: 
+
+Self-service Data Visualisation 
+
+Associative Data Model 
+
+Interactive Dashboards 
+
+Use Cases: 
+
+Data Discovery 
+
+Interactive Analytics 
+
+Pros: 
+
+Intuitive Interface 
+
+Strong Data Association Capabilities 
+
+Wide Range of Visualisations 
+
+Cons: 
+
+Complex Licensing 
+
+Limited Advanced Features in Desktop Version 
+
+**IBM Cognos Analytics** 
+
+Features: 
+
+AI-driven analytics 
+
+Visualisations 
+
+Report generation 
+
+Use cases: 
+
+Enterprise reporting 
+
+Predictive analytics 
+
+Pros: 
+
+Advanced analytics 
+
+Integration with other IBM products 
+
+Cons: 
+
+High cost 
+
+Steep learning curve 
+
+**D3.js (Desktop Environment)** 
+
+Features: 
+
+Highly customisable visualisations using JavaScript 
+
+Use Cases: 
+
+Custom data visualisations 
+
+Web integration 
+
+Pros: 
+
+Flexibility 
+
+Detailed control over visualisations 
+
+Cons: 
+
+Requires programming skills 
+
+More time-consuming setup 
+
+<div align="center">
+    <img src="https://c.l3n.co/Xyy39a.png"/> 
+</div>
+
+[**Libraries and Packages**] 
+
+**Popular Visualisation Libraries** 
+
+Python Libraries: 
+
+Matplotlib: Basic plotting and customisation 
+
+Seaborn: Statistical plots and themes 
+
+Plotly: Interactive plots and dashboards 
+
+Bokeh: Interactive web-based plots 
+
+Altair: Declarative statistical visualisation 
+
+R libraries: 
+
+ggplot2: Grammar of graphics for elegant visualisations 
+
+Shiny: Interactive web apps and dashboards 
+
+Lattice: Multi-panel data visualisations 
+
+**Python Libraries - Matplotlib** 
+
+Matplotlib is a basic plotting library for Python that provides a wide range of fuctionality for creating static visualisations. 
+
+One of the oldest and most widely used libraries in the Python ecosystem for data visualisation. 
+
+Use Cases: 
+
+Matplotlib is suitable for creating static visualisations where interactivity is not required
+
+Particularly useful for producing high-quality plots for publications or reports 
+
+Its flexibility allows for extensive customisation, making it a go-to tool for a wide range of visualisation needs
+
+**Python Libraries - Seaborn** 
+
+Seaborn is a powerful data visualisation library built on top of Matplotlib. 
+
+Simplifies the process of creating attractive and informative statistical plots 
+
+Offering high-level interfaces for drawing appealing and complex visualisations effortlessly 
+
+Advanced Statistical Plots: Includes built-in support for complex plots like pair plots, joint plots, and regression plots 
+
+Seaborn is ideal for exploring and visualising data distributions, especially when dealing with statistical relationships between variables 
+
+**Python Libraries - Plotly** 
+
+Plotly is a versatile Python library that specialises in creating interactive plots and dashboards 
+
+Allows users to generate visualisations that can be embedded in web applications, providing dynamic and responsive data exploration experiences 
+
+Features: 
+
+Interactive Elements, 3D plots, Animations 
+
+Use Case: 
+
+Plotly is ideal for creating interactive, web-based visualisations that allow users to explore data dynamically 
+
+Particularly useful for developing dashboards and visual analytics applications that require real-time interaction 
+
+**Python Libraries - Bokeh** 
+
+Bokeh is a powerful Python library designed for creating interactive visualisations that can be easily integrated into web applications. 
+
+Enables the development of rich, interactive plots and dashboards with a focus on web deployment 
+
+Features: 
+
+Real-Time Updates: Supports streaming and real-time data updates, making it ideal for dynamic visualisations 
+
+Custom Widgets: Provides a variety of custom widgets 
+
+Use Case: 
+
+Best suited for creating interactive visualisations within web applications 
+
+**R Libraries - ggplot2** 
+
+ggplot2 is a widely used R library based on the Grammar of Graphics, which provides a consistent and flexible framework for creating data visualisations. 
+
+Simplifies the process of building complex plots by allowing users to layer components on top of each other 
+
+Features: 
+
+Layered Graphics: Allows users to build visualisations by adding layers such as points, lines, bars, and more, enabling the creation of sophisticated multi-layered plots. 
+
+Use Case: 
+
+Ideal for creating complex, multi-layered visualisations in R 
+
+Especially useful for exploratory data analysis, where users need to visualise relationships, distributions, and trends across different variables 
+
+**R Libraries - Shiny** 
+
+Shiny is an R package that allows users to build interactive web applications directly from R 
+
+Bridges the gap between data analysis and web development, enabling the creation of powerful and dynamic dashboards without requiring extensive knowledge of HTML, CSS, or Javascript 
+
+Features: 
+
+Server-Side and Client-Side Code Integration 
+
+Interactive UI Components 
+
+Real-Time Interaction 
+
+Use Case: 
+
+Shiny is perfect for creating interactive dashboards and data driven applications, especially when users need to manipulate data and see instant visual feedback 
+
+**Comparision of Libraries** 
+
+<div align="center">
+    <img src="https://b.l3n.co/XhZR4T.png"/> 
+</div>
+
+[**Cloud Based Platforms**] 
+
+**Cloud-based Data Visualisation Platforms** 
+
+Cloud-based data visualisation platforms offer powerful tools for analysing and presenting data through interactive and accessible dashboards 
+
+Leverage cloud technology to provide scalable, flexible, and collaborative solutions 
+
+Some Popular Choices: 
+
+Tableau Online 
+
+Microsoft Power BI 
+
+Google Data Studio 
+
+Qlik Sense Cloud 
+
+**Why Cloud-Based Platforms?** 
+
+Scalability: Handle large datasets and complex visualisations 
+
+Accessibility: Access from anywhere with an internet connection 
+
+Collaboration: Real-time collaboration and sharing capabilities 
+
+Cost-Efficiency: Pay-as-you-go pricing models 
+
+Integration: Seamless integration with other cloud services 
+
+**Tableau Online** 
+
+Cloud-based data visualisation platform that provides robust tools for creating interactive and dynamic dashboards, offers a user-friendly experience and a broad range of visualisation options 
+
+Key Features: 
+
+Interactive dashboards: Create and interact with dynamic dashboards that update in real-time 
+
+Ease of Use: Intuitive interface with drag-and-drop functionality for easy visualisation creation 
+
+Extensive Visualisation Options: Wide variety of charts, graphs, and visual elements to represent data effectively 
+
+**Microsoft Power BI** 
+
+Microsoft Power BI is a cloud-based business analytics platform that provides comprehensive tools for data visualisation and reporting 
+
+Designed to integrate seamlessly with the Microsoft ecosystem, offering advanced data modelling and extensive visualisation options 
+
+Key Features: 
+
+Integration with Microsoft Ecosystem: Seamlessly connects with Microsoft products such as Excel, Azure, and SharePoint for a unified data experience 
+
+Powerful Data Modelling: Advanced capabilities for creating complex data models, including relationships, calculations and aggregations 
+
+Extensive Visualisation Tools: Wide range of visualisation options including charts, maps, and custom visuals to effectively present data insights 
+
+**Google Data Studio** 
+
+A free, cloud based data visualisation and reporting tool that allows users to create interactive and customisable reports 
+
+Integrates seamlessly with various Google services, making it a convenient option for data analysis and visualisation 
+
+Key features: 
+
+Integration with Google Services: Easily connect to Google Analytics, Google Sheets, Google Ads, and other Google products for a cohesive data experience. 
+
+Customisable Reports: Design and tailor reports to meet specific needs, with a variety of charts, tables, and widgets to choose from 
+
+Free to Use: No cost to access the platform, making it an economical choice for individuals and businesses 
+
+**Qlik Sense Cloud** 
+
+Qlik Sense Cloud is a cloud-based data visualisation and anlytics platform that emphasises an associative data model and advanced analytics capabilities 
+
+Offers a user-friendly interface designed for both data exploration and interactive dashboard creation 
+
+Key features: 
+
+Associative Data Model: Allows users to explore data freely and discover insights without predefined query paths, providing a more intuitive data interaction experience 
+
+Advanced Analytics: Supports complex data analysis, including predictive analytics and advanced calculations, to uncover deeper insights 
+
+User-Friendly Interface: Intuitive design with drag-and-drop functionality, making it accessible for users of all skill levels 
+
+**Comparision of Cloud-Based Platforms** 
+
+<div align="center">
+    <img src="https://a.l3n.co/XhgWpA.png"/> 
+</div>
+
+
+
+
 
 
 
