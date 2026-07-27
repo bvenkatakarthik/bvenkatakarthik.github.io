@@ -20,6 +20,8 @@ permalink: /about
 
 **Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
+**Everything is a manifestation of "The Source".**
+
 **Q) Why do we have The World, with these features?** 
 
 **The Birth of The World, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
