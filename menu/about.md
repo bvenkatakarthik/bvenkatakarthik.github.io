@@ -12,7 +12,9 @@ permalink: /about
 
 **Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).**
 
-**Q) Looking at brain activity, can I understand who am I? (In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist...). Do "I" exist independent of brain activity?**
+**Q) Looking at brain activity, can I understand who am I? (In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist...).** 
+
+**Do "I" exist independent of brain activity?**
 
 **Sapolsky on free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
