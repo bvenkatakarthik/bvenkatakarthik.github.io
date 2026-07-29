@@ -55,7 +55,7 @@ I am curious about the Brain, the foundation of Reality Experience and Intellige
 
 I am curious about artificial, scalable forms of Intelligence.  
 
-(We might want to understand our own intelligence better before advancing AI?)
+(It might be better to understand our own intelligence better before advancing AI?)
 
 I intend to use the blog as a digital notebook of sorts, and the posts will mostly have routine stuff. I am also on [Math.SE](https://math.stackexchange.com/users/303300).
 
