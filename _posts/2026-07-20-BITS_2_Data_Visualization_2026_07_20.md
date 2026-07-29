@@ -20,7 +20,7 @@ All rights of the content go to BITS Pilani.
 
 
 **ROUGH NOTES (!)**    
-Updated: 27/07/2026 
+Updated: 29/07/2026 
 
 [**Introducing Data Analysis**] 
 
@@ -1605,6 +1605,501 @@ User-Friendly Interface: Intuitive design with drag-and-drop functionality, maki
     <img src="https://a.l3n.co/XhgWpA.png"/> 
 </div>
 
+[**Quantitative Relationships**] 
+
+**Numbers that Matter!** 
+
+Numbers themselves are neither inherently boring nor interesting. 
+
+Appeal depends on the significance and relevance of the information they convey. 
+
+Quantitative information is simply data that measures the quantity of something. 
+
+The impact and appeal of any information, whether quantitative or not, stems from the importance of the message it communicates. 
+
+**Why to Understand Numbers?** 
+
+Numbers alone are not useful unless they measure something significant. 
+
+As a communicator, it is your responsibility to present information clearly and in an easily understandable manner. 
+
+Designing tables and graphs is exciting, crucial first to understand the numbers that form the basis of these visualisations. 
+
+**Quantitative Information** 
+
+The choice between using a table or a graph to display quantitative information depends on the story you want to tell. 
+
+Quantitative stories focus on relationships between data points. 
+
+Eg: 
+
+<div align="center">
+    <img src="https://c.l3n.co/XhrCE0.png"/> 
+</div>
+
+**Elements of Quantitative Story** 
+
+Quantitative stories involve relationships between measures of quantity and associated categories (eg geography, time) 
+
+These stories feature two data types: 
+
+* Quantitative (measuring things) 
+
+* Categorical (grouping information) 
+
+Categories include items like geographical areas (eg north, east, south, west) or time periods (eg months). 
+
+**Use of Categories and Measures** 
+
+Quantitative values and categorical items serve complementary purposes, typically structured and displayed differently. 
+
+The distinction between quantitative values (measures) and categorical items is crucial for creating effective tables and graphs. 
+
+**Quantitative Relationships** 
+
+Can be simple associations between quantitative values and their categorical labels. 
+
+* Measures linked to categories like geography or time. 
+
+More complex relationships involve direct associations between multiple sets of quantitative values. 
+
+* Marketing emails sent versus orders recieved. 
+
+* Handwashing frequency versus infection rates in hospitals. 
+
+[**Relationships Within Categories**] 
+
+Categorical items used in tables and graphs to label corresponding measures can relate to one another in the following ways: 
+
+Nominal
+
+Ordinal 
+
+Interval 
+
+Hierarchical 
+
+**Nominal Relations** 
+
+Values in a single category are discrete and have no intrinsic order. 
+
+Eg: Sales regions like East, West, North, and South have no inherent order. 
+
+The term "nominal" means "in name only". 
+
+In a quantitative story that is nominal in nature: 
+
+* Quantitative values are associated with categorical labels 
+
+* The story does not relate the categorical items to one another in any specific way. 
+
+<div align="center">
+    <img src="https://b.l3n.co/XhEBe7.png"/> 
+</div>
+
+**Ordinal Relations** 
+
+In an ordinal relationship, the categorical items have a prescribed order. 
+
+Typical examples include: 
+
+* first, second, third, ...
+
+* small, medium, large, ...
+
+* best salesperson, second best salesperson, ...
+
+To display them in any other order, except in reverse, would rarely be meaningful.
+
+<div align="center">
+    <img src="https://b.l3n.co/XhE3RF.png"/> 
+</div>
+
+**Interval Relations** 
+
+Categorical items consist of a sequential series of numerical ranges. 
+
+These numerical ranges, called intervals, subdivide a larger range of quantitative values into smaller ranges. 
+
+Intervals are arranged in order from smallest to largest. 
+
+Eg: 
+
+To analyse the distribution of order sizes, individual order amounts are grouped into sequential, equally sized intervals. 
+
+<div align="center">
+    <img src="https://b.l3n.co/Xh6cp9.png"/> 
+</div>
+
+Eg: An Interval Relation called Time-Series Relation. 
+
+<div align="center">
+    <img src="https://c.l3n.co/Xh6xBC.png"/> 
+</div>
+
+<div align="center">
+    <img src="https://b.l3n.co/Xh6yY5.png"/> 
+</div>
+
+**Hierarchical Relationship** 
+
+Previous categorical relationships focused on items within the same category. 
+
+A hierarchical relationship involves multiple categories connected in a "parent-to-child" structure 
+
+* Organise quantitative information effectively in tables 
+
+* Visually represent how categories are structured and connected across different levels 
+
+Eg: 
+
+<div align="center">
+    <img src="https://b.l3n.co/Xh6aJT.png"/> 
+</div>
+
+[**Relationships between Quantities**] 
+
+**Relationships between Quantities** 
+
+Categorical items can also relate to one another by virtue of the quantitative values associated with them. 
+
+The quantitative values can be arranged to display the following relationships: 
+
+Ranking
+
+Ratio
+
+Correlation 
+
+**Ranking** 
+
+In ranking relationship, the categorical items are arranged based on their quantitative values, either ascending or descending. 
+
+For example: 
+
+Arranging your company's top five sales orders of the current quarter by revenue from largest to smallest enhances the narrative and clarity of the data presentation. 
+
+<div align="center">
+    <img src="https://c.l3n.co/b2LXK7.png"/> 
+</div>
+
+**Ratio** 
+
+Compares two quantitative values by dividing one by the other to express their relative quantities. 
+
+Often expressed as percentages where the whole equals `100%` and the part represents a lesser percentage. 
+
+Simplifies comparisions between different parts of the whole enhancing interpretation of data. 
+
+For Example: 
+
+Compare the sales of one region (quantitative value) to total sales of all regions (entire set of values). 
+
+<div align="center">
+    <img src="https://d.l3n.co/b2MpF7.png"/> 
+</div>
+
+Ratios are commonly used to measure changes over time. 
+
+* Helps track and quantify fluctuations or trends in values over specific periods. 
+
+* Useful for analysing trends and making comparisions in financial or performance data. 
+
+For Example: 
+
+Express the degree of change, such as comparing expenses from one month to the next. 
+
+<div align="center">
+    <img src="https://d.l3n.co/b2YEV0.png"/> 
+</div>
+
+**Correlation** 
+
+Correlation examines paired sets of quantitative values to determine if changes in one correspond to changes in the other. 
+
+Crucial as they enable predictions about how values in one variable may change based on knowing or influencing values in another variable. 
+
+For Example: 
+
+Consider whether there's a relationship between employees' job tenure and their productivity - does productivity increase, decrease, or show no significant change with tenure? 
+
+[**Numbers that Summarise**] 
+
+Statistics provide methods for summarising or aggregating data to effectively communicate quantitative messages. 
+
+Summarisation, also known as aggregation, involves condensing large datasets into key numerical representations. 
+
+**Summarisation** 
+
+Data summarisation includes: 
+
+Visual methods 
+
+Statistical methods 
+
+Focusing on lesser-known techniques beyond basic sums and counts 
+
+Example: 
+
+When reporting sales to executives, summarising data such as: 
+
+* Total sales in rupees 
+
+* Number of orders 
+
+* Average order size 
+
+It is more effective than detailing each individual transaction. 
+
+**Let's Explore** 
+
+Measures of Average: 
+
+* Mean 
+
+* Median 
+
+Measures of Variation: 
+
+* Spread 
+
+* Standard Variations 
+
+Measures of Correlation: 
+
+* Linear Correlation Coefficient 
+
+Measures of Ratio: 
+
+* Rate or percentage 
+
+[**Measures of Average**] 
+
+**Average** 
+
+An average is a single number that represents the center of an entire set of numbers. 
+
+Four distinct ways in statistics to measure the center of a set of numbers, and all of them are called averages: 
+
+* Mean 
+
+* Median 
+
+* Mode 
+
+* Midrange 
+
+**Average** 
+
+Useful to understand how these four differ. 
+
+Selecting the wrong type of average for your message could mislead your audience. 
+
+**Mean** 
+
+The term "average" is often used to refer to the arithmetic mean. 
+
+In software, the function calculating the mean is often labelled as "average" or "AVG". 
+
+Statisticians prefer precise terminology, using "mean" instead of "average". 
+
+The mean is calculated by summing all values and dividing by the number of values. 
+
+While simple to calculate, the mean isn't always the best choice for representing data. 
+
+<div align="center">
+    <img src="https://d.l3n.co/b2yq85.png"/> 
+</div>
+
+**Mean - When its Not Good** 
+
+The mean considers every value, including extremes, which can sometimes be misleading. 
+
+An example shows that the mean may give a misleading impression of typical salaries in a marketing department if extreme values are present. 
+
+* The mean is much higher than most salaries, suggesting employees are better compensated than they actually are. 
+
+For typical values, a measure of centre that isn't sensitive to extremes is more appropriate. 
+
+<div align="center">
+    <img src="https://d.l3n.co/b2ymnT.png"/> 
+</div>
+
+**Median** 
+
+The median is useful for telling quantitative stories because it is not sensitive to extremes. 
+
+Calculation of the median: 
+
+* Sort the values in order. 
+
+* Find the middle value. 
+
+For an even number of values
+
+* The median is the average of the two middle values. 
+
+* Software or calculators can automatically handle median calculations. 
+
+Eg: 
+
+In a set of 13 sorted salaries, the median is 7th value (`$62,000`). 
+
+<div align="center">
+    <img src="https://b.l3n.co/bWWly0.png"/> 
+</div>
+
+The median is the 50th percentile, meaning 50% of values fall below it. 
+
+The median better represents typical values than the mean in cases with extreme values. 
+
+The median is preferable for showing typical values, but the mean is better for summarising overall financial impact. 
+
+**Mode** 
+
+The mode is the value that appears most frequently in a data set. 
+
+In the above marketing department salaries example, the mode is `$165,000` because it appears more than once. 
+
+Data sets can be: 
+
+* No mode (if no value repeats) 
+
+* Bimodal (if two values appear twice) 
+
+* Multimodal (if more than two values appear with the same high frequency) 
+
+Modes are rarely useful for most data presentations. 
+
+**Midrange** 
+
+The midrange is the value midway between the highest and lowest values in a set. 
+
+Calculation: 
+
+* Add the highest and lowest values and divide by two. 
+
+Quick to calculate but sensitive to extremes. 
+
+Less reliable than the mean or median unless values are uniformly distributed across the range. 
+
+[**Measures of Correlation and Ratios**] 
+
+**Co-relate** 
+
+A particular type of quantitative relationship where two paired sets of quantitative values are compared to one another to see if they correspond (i.e. co-relate) in some manner. 
+
+For example: 
+
+Does tenure on the job (number of years of working in an organisation) relate to productivity (say performance rating)? 
+
+Linear correlation coefficient answers: 
+
+Does a correlation exist? 
+
+If so, is it strong or weak? 
+
+If so, is it positive or negative? 
+
+**Linear Correlation Coefficient** 
+
+Measures the direction (positive or negative) and degree (strong or weak) of the linear relationship between two paired sets of quantitative values. 
+
+Paired sets of Quantitative Values: 
+
+Two sets of measurable values are considered when examining the relationship between two variables e.g. employee's tenure and productivity. 
+
+Limitation: 
+
+Can not describe an inconsistent relationship. 
+
+Eg: productivity increases with tenure up to a point and then decreases. 
+
+**Direction of Correlation** 
+
+Direction of Correlation: 
+
+Can be positive or negative. 
+
+Positive Correlation: 
+
+As the value of one variable (A) increases, the value of the other variable (B) also increases, and vice versa. 
+
+Negative Correlation: 
+
+As the value of one variable (A) increases, the value of the other variable (B) decreases, and vice versa. 
+
+**Correlation: Calculation and Interpretation** 
+
+Calculation: 
+
+Manual calculation of the linear correlation coefficient involves several steps, but software or calculators usually perform this task. 
+
+Interpretation Focus: 
+
+Understanding the resulting value is more important than calculating it manually. 
+
+**Correlation: Interpretation Guidelines** 
+
+All values range between `+1` and `-1`. 
+
+A value of `0` indicates no linear correlation. 
+
+A value of `+1` indicates a perfect positive linear correlation. 
+
+A value of `-1` indicates a perfect negative linear correlation. 
+
+The greater the value (positive or negative), the stronger the linear correlation. 
+
+**Correlation: Interpretation** 
+
+<div align="center">
+    <img src="https://d.l3n.co/bWzk3k.png"/> 
+</div>
+
+<div align="center">
+    <img src="https://a.l3n.co/bWz6Dx.png"/> 
+</div>
+
+**Measures of Ratio** 
+
+Correlations (which measure relationships between multiple paired sets of values) 
+
+Ratios measure relationships between a single pair of values. 
+
+* Rates and percentages are most concise and useful for tables and graphs. 
+
+For example: 
+
+* Book-to-bill rate compares the value of booked sales orders to the value of actual billings generated. 
+
+**Expression of Ratios** 
+
+Four conventional ways: 
+
+As a sentence: eg "Two out of every five customers who access our website place an order." 
+
+As a fraction (eg `2/5`) 
+
+As a rate (eg `0.4`) 
+
+As a percentage (eg `40%`) 
+
+**Examples of Conventional Ratios** 
+
+Book-to-Bill Rate: 
+
+Typically expressed as a rate eg, `1.25`, indicating that for every five orders booked, only four have been billed. 
+
+Profit Margin: 
+
+Typically expressed as a percentage eg, `25%`, indicating that for every `$100` of revenue, `$75` goes toward expenses, leaving a profit of `$25`. 
+
+**Measures of Money** 
+
+When comparisions of monetary value are expressed across time, adjusting the value to account for inflation produces the most accurate results. 
+
+When reporting monetary values that combine multiple currencies, you must first convert them all into a common currency. 
 
 
 
