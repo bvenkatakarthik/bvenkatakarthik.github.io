@@ -10,11 +10,7 @@ permalink: /about
 
 **is beneficial.** 
 
-**Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).**
-
-**Q) Looking at brain activity, can I understand who am I fundamentally?** 
-
-**(In waking and sleeping "I" exist... Except in deep sleep "I" do not know "I" exist...).** 
+**Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).** 
 
 **Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
