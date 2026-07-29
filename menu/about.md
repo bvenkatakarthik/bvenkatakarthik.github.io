@@ -14,6 +14,10 @@ permalink: /about
 
 **Q) Looking at brain activity, can I understand who am I fundamentally?** 
 
+**(In waking and sleeping "I" exist? Except in deep sleep "I" do not know "I" exist?)** 
+
+**Do "I" exist independent of brain activity?**
+
 **Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
 **Q) Why do we have The World, with these features?** 
