@@ -12,8 +12,6 @@ permalink: /about
 
 **Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).** 
 
-**We begin to understand the complexity in each experience.**
-
 **Q) Looking at brain activity, can I understand who am I fundamentally?** 
 
 **(In waking and sleeping "I" exist? Except in deep sleep "I" do not know "I" exist?)** 
