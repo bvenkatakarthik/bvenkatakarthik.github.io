@@ -12,7 +12,7 @@ permalink: /about
 
 **Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).** 
 
-**${ \boxed{\star} }$ We begin to understand the complexity in each experience.**
+**We begin to understand the complexity in each experience.**
 
 **Q) Looking at brain activity, can I understand who am I fundamentally?** 
 
@@ -22,7 +22,7 @@ permalink: /about
 
 **Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
-**${ \boxed{\star} }$ Nature is the true doer of things?** 
+**Nature is the true doer of things?** 
 
 **Q) Why do we have The World, with these features?** 
 
