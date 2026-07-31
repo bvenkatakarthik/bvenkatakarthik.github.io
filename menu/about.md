@@ -47,7 +47,7 @@ permalink: /about
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
-I am curious about living in Peace.
+I am curious about cultivating Happiness.
 
 I am curious about the **Nature and Purpose of The World**.
 
