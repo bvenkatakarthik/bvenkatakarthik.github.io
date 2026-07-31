@@ -10,7 +10,7 @@ permalink: /about
 
 **is beneficial.** 
 
-**Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).** 
+**${ \boxed{\star} }$ Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).** 
 
 **Q) Looking at brain activity, can I understand who am I fundamentally?** 
 
