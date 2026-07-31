@@ -82,5 +82,9 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 |:--:| 
 | ${ \Large \textbf{The World: Life} }$  |
 
+| ![](https://d.l3n.co/bjx6GC.jpg) | 
+|:--:| 
+| ${ \Large \textbf{Meme: No free will}  }$  |
+
 
 
