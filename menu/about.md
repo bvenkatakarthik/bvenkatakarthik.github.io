@@ -26,7 +26,6 @@ permalink: /about
 
 **The Birth of The World, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
 
-
 **The Birth of The World, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
 
 **The Birth of Humans, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
@@ -46,8 +45,6 @@ permalink: /about
 **Q) Why do we have The World, with these features?** 
 
 Hi I am Karthik, a Math and AI enthusiast. 
-
-I am curious about cultivating Happiness.
 
 I am curious about the **Nature and Purpose of The World**.
 
