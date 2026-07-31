@@ -20,7 +20,7 @@ permalink: /about
 
 **Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
-**Nature is the ${ \color{blue}{\textbf{true doer}} }$ of things?** 
+**Nature is the "true doer" of things?** 
 
 **Q) Why do we have The World, with these features?** 
 
