@@ -20,7 +20,7 @@ permalink: /about
 
 **Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
-**${ \boxed{\star} }$ Nature is the "true doer" of things?** 
+**${ \boxed{\star} }$ Nature is the "true doer" behind things?** 
 
 **Q) Why do we have The World, with these features?** 
 
@@ -81,7 +81,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 | ![](https://d.l3n.co/bjx6GC.jpg) | 
 |:--:| 
-| ${ \Large \textbf{Meme: No free will}  }$  |
+| ${ \Large \textbf{Meme: True doer}  }$  |
 
 
 
