@@ -81,7 +81,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 | ![](https://d.l3n.co/bjx6GC.jpg) | 
 |:--:| 
-| ${ \Large \textbf{Meme: True doer}  }$  |
+| ${ \Large \textbf{Meme: True doer?}  }$  |
 
 
 
