@@ -6,11 +6,11 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
 
-**(non-judgmental attention to the present experiences)**
+**${ \boxed{\star} }$ (non-judgmental attention to the present experiences)**
 
 **is beneficial.** 
 
-**${ \boxed{\star} }$ Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).** 
+**Mindfulness exercises: [Link](https://www.mindful.org/how-to-meditate/).** 
 
 **Q) Looking at brain activity, can I understand who am I fundamentally?** 
 
