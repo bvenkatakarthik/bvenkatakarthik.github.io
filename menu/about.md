@@ -4,6 +4,12 @@ title: About
 permalink: /about
 --- 
 
+**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
+
+**${ \boxed{\star} }$ (non-judgmental attention to the present moment)**
+
+**is beneficial.** 
+
 **Q) Looking at brain activity, can I understand who am I fundamentally?** 
 
 **(In waking and sleeping "I" exist? Except in deep sleep "I" do not know "I" exist?)** 
