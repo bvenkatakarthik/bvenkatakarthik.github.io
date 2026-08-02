@@ -46,7 +46,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 I am curious about the Nature and Purpose of The World.
 
-${ \boxed{\star} }$ I am curious about cultivating Happiness.
+${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.
 
 I am curious about "The Full Causal Network of Reality".
 
