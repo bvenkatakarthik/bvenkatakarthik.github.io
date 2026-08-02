@@ -16,7 +16,7 @@ permalink: /about
 
 **Do "I" exist independent of brain activity?**
 
-**Consider the causal network behind anything.**
+**${ \boxed{\star} }$ Consider the causal network behind anything.**
 
 **Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
