@@ -30,17 +30,17 @@ permalink: /about
 
 **The Birth of Humans, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
-**"The Source": All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters...** 
+**"The Source": All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters.** 
 
-**(That is an unimaginably high mass-energy in an unimaginably small region...)**
+**(That is an unimaginably high mass-energy in an unimaginably small region).**
 
-**Now the observable world is unimaginably vast...**
+**Now the observable world is unimaginably vast.**
 
-**We don't know what [Dark Energy and Dark Matter](https://en.wikipedia.org/wiki/Dark_matter) are... They seem to constitute about ${ \mathbf{95} \% }$ of the mass-energy of the world...** 
+**We don't know what [Dark Energy and Dark Matter](https://en.wikipedia.org/wiki/Dark_matter) are. They seem to constitute about ${ \mathbf{95} \% }$ of the mass-energy of the world.** 
 
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
-**Life evolved over ${ \mathbf{1,000,000,000} }$s of years of a survival game...** 
+**Life evolved over ${ \mathbf{1,000,000,000} }$s of years of a survival game.** 
 
 **Q) Why do we have The World, with these features?** 
 
