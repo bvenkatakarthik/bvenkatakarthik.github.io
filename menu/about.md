@@ -18,17 +18,15 @@ permalink: /about
 
 **Consider the causal network behind anything.**
 
-**${ \boxed{\textbf{?}} }$ Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
+**${ \boxed{\star} }$ Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
 **Nature is the "true causer" of things?** 
 
 **Q) Why do we have The World, with these features?** 
 
-**The Birth of The World, as we know it**: [Link](https://en.wikipedia.org/wiki/Chronology_of_the_universe). 
+**${ \boxed{\star} }$ The Birth of The World, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
 
-**${ \boxed{\textbf{?}} }$ The Birth of The World, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
-
-**${ \boxed{\textbf{?}} }$ The Birth of Humans, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
+**${ \boxed{\star} }$ The Birth of Humans, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
 
 **"The Source": All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters.** 
 
@@ -36,7 +34,7 @@ permalink: /about
 
 **Now the observable world is unimaginably vast.**
 
-**We don't know what [Dark Energy and Dark Matter](https://en.wikipedia.org/wiki/Dark_matter) are. They seem to constitute about ${ \mathbf{95} \% }$ of the mass-energy of the world.** 
+**We don't know what Dark Energy and Dark Matter are. They seem to constitute about ${ \mathbf{95} \% }$ of the mass-energy of the world.** 
 
 **“The nitrogen in our DNA, the calcium in our teeth, the iron in our blood, the carbon in our apple pies were made in the interiors of collapsing stars. We are made of starstuff.” - Carl Sagan.**
 
