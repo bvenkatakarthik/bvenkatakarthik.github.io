@@ -6,7 +6,7 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
 
-**${ \boxed{{\color{blue}{\star}}} }$ (non-judgmental attention to the present moment)**
+**${ \boxed{\star} }$ (non-judgmental attention to the present moment)**
 
 **is beneficial.** 
 
@@ -48,7 +48,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 I am curious about the Nature and Purpose of The World.
 
-${ \boxed{{\color{blue}{\star}}} }$ I am curious about cultivating Happiness in Life.
+${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.
 
 I am curious about "The Full Causal Network of Reality".
 
