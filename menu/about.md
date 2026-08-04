@@ -4,9 +4,9 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
+**Speculation: [Mindfulness](https://en.wikipedia.org/wiki/Ellen_Langer#Mindfulness)**
 
-**${ \boxed{\star \star} }$ (non-judgmental attention to the present moment)**
+**${  \boxed{\star} }$ (noticing things)**
 
 **is beneficial.** 
 
