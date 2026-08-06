@@ -20,7 +20,7 @@ permalink: /about
 
 **${ \boxed{\star} }$ Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
 
-**${ \boxed{\star} }$ Nature is the "true causer" of things?** 
+**(We realise Nature is the "true causer" of things?)** 
 
 **Q) Why do we have The World, with these features?** 
 
