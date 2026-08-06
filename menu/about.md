@@ -18,11 +18,7 @@ permalink: /about
 
 **Consider the causal network behind anything.**
 
-**${ \boxed{\star} }$ Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
-
-**${ \boxed{\star} }$ We realise Nature is the "true causer" of things?**             
-
- 
+**${ \boxed{\star} }$ Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**           
 
 **Q) Why do we have The World, with these features?** 
 
@@ -81,9 +77,6 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 |:--:| 
 | ${ \Large \textbf{The World: Life} }$  |
 
-| ![](https://d.l3n.co/bjx6GC.jpg) | 
-|:--:| 
-| ${ \Large \textbf{Meme: True Causer?}  }$  |
 
 
 
