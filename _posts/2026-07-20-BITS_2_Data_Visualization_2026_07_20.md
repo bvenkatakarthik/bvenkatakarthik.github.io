@@ -3419,7 +3419,7 @@ scores
 
 Output: `(10, 8, 3, 2, 4, 0, 0, 3)`
 
-**Data Structures - Lists** 
+[**Data Structures - Lists**] 
 
 **Python - Lists** 
 
