@@ -20,7 +20,7 @@ All rights of the content go to BITS Pilani.
 
 
 **ROUGH NOTES (!)**    
-Updated: 29/07/2026 
+Updated: 7/8/2026 
 
 [**Introducing Data Analysis**] 
 
@@ -2100,6 +2100,1714 @@ Typically expressed as a percentage eg, `25%`, indicating that for every `$100` 
 When comparisions of monetary value are expressed across time, adjusting the value to account for inflation produces the most accurate results. 
 
 When reporting monetary values that combine multiple currencies, you must first convert them all into a common currency. 
+
+[**Introduction to Jupyter Notebooks**] 
+
+You can use Anaconda and open Jupyter Notebook. 
+
+Consider: Creating a folder. 
+
+Consider: Creating a notebook. 
+
+Note that `Shift + Enter` runs code in a cell. 
+
+Note that you can create Markdown cells as well, to add explanations. You can add pictures, equations, etc. 
+
+(This is a nice feature of Jupyter Notebooks). 
+
+Consider: Downloading a notebook (and sharing it).  
+
+Consider: Getting rid of a cell (using the cut icon). 
+
+Consider: Restart and clear output option. 
+
+Note that Jupyter Notebooks have extension `.ipynb`. 
+
+Consider: Google Colab, Microsoft Azure Notebooks 
+
+[**Introducing IDEs and Code Editors**] 
+
+IDLE and Python shell are suitable for small tasks but become problematic for larger projects. 
+
+An IDE or a good dedicated code editor can make coding more enjoyable. 
+
+Choosing the best tool depends on individual preferences and processes. 
+
+Will cover tools built exclusively for Python development and general development tools adaptive for Python. 
+
+**IDEs (Integrated Development Environment)** 
+
+Programs dedicated to software development. 
+
+Integrate several tools designed for software development. 
+
+Common tools include: 
+
+* Code editors with syntax highlighting and auto-completion. 
+
+* Build, execution, and debugging tools, Source control tools. 
+
+Support multiple programming languages and offer many features. 
+
+Typically large and take time to download and install. 
+
+May require advanced knowledge for proper use. 
+
+**Dedicated Code Editors** 
+
+Can be as simple as text editors with syntax highlighting and code formatting. 
+
+Good code editors can execute code and control a debugger. 
+
+The best code editors interact with source control systems. 
+
+Smaller and quicker compared to IDEs. 
+
+Often less feature-rich than IDEs. 
+
+**Core Features for a Good Python Coding Environment** 
+
+Save and Reload Code Files: 
+
+Essential for saving work and reopening it in the same state. 
+
+Run Code from Within the Environment: 
+
+Avoids the need to exit the editor to run Python code. 
+
+Debugging support: 
+
+Allows stepping through code as it runs, crucial for troubleshooting. 
+
+Syntax Highlighting: 
+
+Helps quickly identify keywords, variables, and symbols, making code easier to read and understand. 
+
+Automatic Code Formatting: 
+
+Recognises syntax rules (eg indenting after colons in loops) and formats code automatically. 
+
+Additional Desirable Features: 
+
+* Source code control 
+
+* Extension model 
+
+* Build and test tools 
+
+* Language help 
+
+**Categories** 
+
+General Editors and IDEs with Python Support: 
+
+IDEs: 
+
+* Eclipse + PyDev
+
+* Visual Studio 
+
+Code Editors: 
+
+* Visual Studio Code 
+
+* Sublime Text 
+
+* GNU Emacs 
+
+* Vi / Vim 
+
+**Categories** 
+
+Python-Specific IDEs: 
+
+* PyCharm 
+
+* Spyder 
+
+* Thonny 
+
+**Visual Studio Code (Code Editor)** 
+
+A full-featured code editor available for Linux, macOS, and Windows. 
+
+Small and lightweight yet powerful and extensible. 
+
+Built on Electron, which uses JavaScript, HTML, and CSS for desktop applications. 
+
+Open source and highly configurable for various tasks. 
+
+Pros: 
+
+Easy installation of Python support through the Marketplace. 
+
+Automatically recognizes Python installation and libraries. 
+
+Cross-platform availability (Linux, macOS, Windows) 
+
+Full-featured with a small footprint. 
+
+Open source and extensible. 
+
+Cons: 
+
+Not a native app due to being built on Electron. 
+
+Some users may avoid it due to its association with Microsoft. 
+
+**Sublime Text (Code Editor)** 
+
+Created by a Google engineer aiming to build a better text editor. 
+
+Extremely popular and supported on all platforms. 
+
+Built-in support for Python code editing. 
+
+Offers a rich set of extensions (called packages) to enhance syntax and editing features. 
+
+Pros: 
+
+Popular with a strong community following. 
+
+Fast, small, and well-supported as a code editor. 
+
+Rich set of extensions for customisation. 
+
+Cons: 
+
+Installing additional Python packages can be complex. 
+
+All packages are written inn Python, often requiring manual script execution within Sublime Text. 
+
+Not free, although the evaluation version can be used indefinitely. 
+
+No direct support for executing or debugging code within the editor. 
+
+**PyCharm (IDE)** 
+
+A dedicated IDE specifically for Python development. 
+
+Available in both paid (Professional) and free open-source (Community) editions. 
+
+Installs quickly and easily on Windows, macOS, and Linux. 
+
+Pros: 
+
+Supports Python development directly out of the box. 
+
+Allows running and debugging Python code directly within the IDE. 
+
+Includes support for source control and project management. 
+
+Considered the de facto Python IDE with extensive support and a strong community. 
+
+Cons: 
+
+Can be slow to load. 
+
+Default settings might require adjustments for existing projects. 
+
+**Spyder (IDE)** 
+
+An open-source Python IDE optimised for data science workflows. 
+
+Included with the Anaconda package manager distribution. 
+
+Targeted at data scientists using Python. 
+
+Pros: 
+
+Integrates well with common Python data science libraries like SciPy, NumPy, and Matplotlib. 
+
+Features a code editor with robust syntax highlighting. Python code completion, and an integrated documentation browser. 
+
+Includes a unique variable explorer for displaying data in a table-based layout within the IDE. 
+
+Offers IPython/Jupyter integration. 
+
+Free and open source. 
+
+Supports Windows, macOS, and Linux. 
+
+Cons: 
+
+May feel too basic for experienced Python developers for daily use. 
+
+Considered more of a special-purpose tool rather than a primary editing environment. 
+
+[**Familiarising with Anaconda, Miniconda, and Conda**] 
+
+**Package, Environment and Package Manager** 
+
+A package is a piece of code someone else has written which can be run and often serves a specific purpose. Can consider a package as a tool you can use for your own projects. 
+
+Environment is a collection of tools or packages which are managed separately for each project. 
+
+Package manager helps to take care of different packages by handling installing updating and removing them. 
+
+**Why are Anaconda, Miniconda, and Conda important?** 
+
+Experimental nature of Machine Learning and Data Science. 
+
+* It involves a lot of trial and error, necessitating tools that support this iterative process. 
+
+Reproducibility: 
+
+* When a successful experiment is found, tools help ensure that it can be reproduced reliably. 
+
+Collaboration: 
+
+* Facilitate sharing work with colleagues, teams, or the wider community by providing a consistent environment. 
+
+**What is Anaconda?** 
+
+Anaconda is a Python distribution aimed at Data Scientists that includes `250+` packages. 
+
+* With easy access to `7500+` additional packages 
+
+* Value proposition is that one can download it (for free) and "everything just works" 
+
+* Available for Mac, Windows, Linux
+
+A new Anaconda distribution is released a few times a year. 
+
+* Within each distribution, the versions of the included packages have all been tested to work together. 
+
+**What is Conda?** 
+
+An open source package and environment manager that comes with Anaconda and Miniconda. 
+
+As a package manager, can use Conda to install, update, and remove packages and their "dependencies". 
+
+As an environment manager, can use Conda to manage virtual environments an alternative to virtualenv, pipenv, and other related tools. 
+
+**What is Miniconda?** 
+
+A Python distribution that only includes Python, conda, their dependencies, and a few useful packages. 
+
+A free minimal install for Conda. 
+
+A great choice if
+
+* prefer to only install the packages needed, 
+
+* sufficiently familiar with Conda. 
+
+If need more packages, can use Conda to install from thousands of packages available by default in Anaconda's public repo, or from other channels, like Conda Forge or Bioconda. 
+
+<div align="center">
+    <img src="https://c.l3n.co/biomjM.png"/> 
+</div>
+
+[**Introduction to Python**] 
+
+**Program and Programming Language** 
+
+Program: Set of instructions that perform a specific task executed by computer. 
+
+* Required by computer to function. 
+
+Written by programmer using programming languages. 
+
+* Like C, C++, Java, Python, etc. 
+
+Executed with compiler and interpreter. 
+
+**Python's Growth as a Programming Language** 
+
+<div align="center">
+    <img src="https://d.l3n.co/biosqQ.png"/> 
+</div>
+
+**Python as a Programming Language** 
+
+Designed by Guido van Rossum around 1990. 
+
+O-O rapid prototyping language. 
+
+Not just a scripting language. 
+
+Easy to learn, read, use. 
+
+Extensible (add new modules). 
+
+Highly readable. 
+
+**Touchy Feel Properties** 
+
+Open Source: 
+
+* Copyrighted but use not restricted. 
+
+* Owned by independent non-profit, PSF. 
+
+Mature (34 years old). 
+
+Supportive user community
+
+* Plenty of good books. 
+
+* Too Active user community. 
+
+Simple design, easy to learn: 
+
+* Reads like "pseudo-code". 
+
+* Suitable as first language.  
+
+* Suitable as last language.  
+
+**Python Applications** 
+
+Use Python for: 
+
+Web Development: Django, Pyramid, Bottle, Tornado, Flask, web2py 
+
+GUI Development: tkInter, PyGObject, PyQt, PySide, Kivy, wxPython 
+
+Scientific and Numeric: SciPy, Pandas, iPython 
+
+Software Development: Buildbot, Trac, Roundup 
+
+System Administration: Ansible, Salt, OpenStack 
+
+**Components of Python World** 
+
+Core Python 
+
+Distributions 
+
+Frameworks / IDEs 
+
+Third Party Libraries 
+
+**Python Ecosystem** 
+
+Core Python: 
+
+Programming Language itself. 
+
+Some standard modules are available. 
+
+Other packages needs to be explicitly installed. 
+
+Python Distribution: 
+
+Python + Packages. 
+
+Majority of packages, libraries are already available. 
+
+Package management is simplified. 
+
+Anaconda from Continuum Analytics. 
+
+iPython and its iPyKit variant. 
+
+Frameworks / IDEs: 
+
+Use frameworks to create code and develop applications. 
+
+Provides a defined structure to the developers so that they can focus on the core logic of the application rather than on other elements. 
+
+Python web framework: 
+
+django, web2py, flask 
+
+Python IDEs: 
+
+IDLE, PyCharm, Spyder, Jupyter 
+
+**Python Installation** 
+
+Install Python directly 
+
+Use Python distribution 
+
+Use cloud based services 
+
+Install Python directly: 
+
+Install the Python language with installer. 
+
+Need to install other packages explicitly using pip install. 
+
+`https://www.python.org/downloads/`
+
+Use Python distribution: 
+
+The open-source Anaconda. 
+
+Distribution is the easiest way to perform Python coding. 
+
+Works on Linux, Windows, and Mac OS X. 
+
+`https://www.anaconda.com/distribution/`
+
+Use Cloud based services: 
+
+The simplest of all but needs Internet connectivity to use. 
+
+Code works in cloud service provided data center. 
+
+Microsoft Azure Notebooks    
+
+`https://notebooks.azure.com/`
+
+Google Colaboratory 
+
+`https://colab.research.google.com`
+
+[**I/O Statements**] 
+
+**Python - Output Statements** 
+
+`print("Hello World from Python!")`
+
+Output: `Hello World from Python!`
+
+`print("Multiline output \n can also be printed.")` 
+
+Output: 
+
+```
+Multiline output 
+ can also be printed.
+```
+
+`print('String concatenation',  'also', 'works.')`
+
+Output: 
+
+```
+String concatenation also works.
+```
+
+**Python Outputs** 
+
+`print('3+4')`
+
+Output: `3+4` 
+
+`print(3+4)`
+
+Output: `7`
+
+`print('3 + 4 = ', (3+4))`
+
+Output: `3 + 4 = 7` 
+
+With a default separator: 
+
+`print("This", "is", "first", "line")`
+
+Output: `This is first line`
+
+Optional separator: 
+
+`print("This", "is", "first", "line", sep = ", ")`
+
+Output: `This, is, first, line`
+
+We can also use end 
+
+```
+print("this is first line", end=".")
+print("this is second line") 
+```
+
+Output: `this is first line.this is second line`
+
+**Python - Input Statements** 
+
+`input('What is your name?)`
+
+Output: `What is your name?[Prompt box]`
+
+<div align="center">
+    <img src="https://d.l3n.co/bjw1JD.png"/> 
+</div>
+
+The user input can be saved as part of a variable. 
+
+```
+name = input('What is your name?')
+print("Welcome", name)
+```
+
+Output (if I enter Karthik): 
+
+```
+What is your name?Karthik
+Welcome Karthik
+```
+
+`type(name)`
+
+Output: `str`
+
+We can use type casting functions. 
+
+```
+age = input("What is your age?")
+print("You have entered age as ", age)
+print("Type : ", type(age)) 
+```
+
+Output: 
+
+```
+What is your age?25
+You have entered age as  25 
+Type :  <class 'str'> 
+```
+
+```
+age = input("What is your age?")
+modified_age = int(age) 
+print("You have entered age as ", modified_age)
+print("Type : ", type(modified_age))
+```
+
+Output: 
+
+```
+What is your age?25 
+You have entered age as  25
+Type :  <class 'int'>
+```
+
+```
+salary = input("What is your salary?")
+modified_salary = float(salary) 
+print("You have entered salary as ", modified_salary)
+print("Type : ", type(modified_salary)) 
+```
+
+Output: 
+
+```
+What is your salary?10.5
+You have entered salary as  10.5 
+Type :  10.5
+```
+
+The eval function converts the text entered by user into a number (int, float as required I guess) without explicitly typecasting. 
+
+[**Basic Constructs**] 
+
+**Python - Modules and Packages** 
+
+A module is a piece of software that has a specific functionality. For example, math module has functionality related to mathematical operations. In Python, A module is a file containing Python definitions and statements. The file name is the module name with the suffix `.py` appended. 
+
+As your program gets longer, you may want to split it into several files for easier maintenance. You may also want to use a handy function that you've written in several programs without copying its definition into each program. 
+
+To support this, Python has a way to put definitions in a file and use them in a script or in an interactive instance of the interpreter. Such a file is called a module; definitions from a module can be imported into other modules or into the main module (the collection of variables that you have access to in a script executed at the top level and in calculator mode). 
+
+**Built in Python Modules** 
+
+Python comes with a library of standard modules. In order to make use of the modules, they need to be imported into the script or notebook first. Then the definitions from that module can be used within the program. 
+
+```
+import sys 
+print(sys.version) 
+```
+
+Output (in the video): 
+
+```
+3.11.5 | packaged by Anaconda, Inc. | (main, Sep 11 2023, 13:26:23) [MSC v.1916 64 bit (AMD64)]
+```
+
+```
+import math 
+math.sqrt(5) # compute the square root of a number 
+```
+
+Output: 
+
+```
+2.23606797749979
+```
+
+```
+import time 
+time.sleep(5) # halts the execution for 5 seconds 
+```
+
+(After 5 seconds the cell execution is complete)
+
+**Ways of importing modules** 
+
+Here are several ways to import some functions from Random module. 
+
+```
+from random import randint 
+from random import *
+import random
+```
+
+1 First way imports just function randint from the random module. 
+
+2 Second way imports all the functions from the random module. Generally to be avoided as some names in module might interfere with your own variables. 
+
+3 Third way import module in a way that will not interfere with your variables names. 
+
+**Using Alias** 
+
+The as keyword can be used to refer the module with different name. Then use that alias to call the functions from that module. 
+
+```
+import numpy as np 
+np.arange(5) #creates array of 5 elements from 0 to 4
+```
+
+Output: 
+
+```
+array([0, 1, 2, 3, 4])
+```
+
+**Getting help** 
+
+To get help on module, import it and then use `dir(module_name)` to get the list of functions defined in that module. 
+
+```
+dir(np) 
+```
+
+Output: `A list of functions
+
+```
+help(np.arange)
+```
+
+Output: `Details about np.arange method`
+
+**Packages** 
+
+Packages are namespaces which contain multiple packages and modules themselves. They are simply directories, but with a twist. 
+
+Each package in Python is a directory which MUST contain a special file called `init.py`. This file can be empty, and it indicates that the directory it contains is a Python package, so it can be imported the same way a module can be imported. 
+
+Packages are a way of structuring Python's module namespace by using 'dotted module names'. For example, the module name `A.B` designates a submodule named B in a package named A. Just like the use of modules saves the authors of different modules from having to worry about each other's global variable names, the use of dotted module names saves the authors of multi-module packages like NumPy or Pillow from having to worry about each other's module names. 
+
+**Python - Data Types and Type Casting** 
+
+**Data Types** 
+
+There are many different types of objects in Python. The most common object types: strings, integers, and floats. 
+
+**Way to define literals** 
+
+```
+1 # integer 
+```
+
+```
+1.5 # float
+```
+
+```
+'my string'
+```
+
+```
+True
+```
+
+**Way to check type of literal** 
+
+```
+type(1) 
+```
+
+Output: `int`
+
+```
+type(1.0) 
+```
+
+Output: `float`
+
+```
+type(True)
+```
+
+Output: `bool`
+
+**Type casting** 
+
+```
+int(1.5) 
+```
+
+Output: `1`
+
+```
+type(int(1.5)) 
+```
+
+Output: `int` 
+
+```
+int('1') 
+```
+
+Output: `1`
+
+**Python - Variables, Expressions & Statements** 
+
+**Variables** 
+
+The major purpose of variable is to store a value from one part of program so that it can be used in other part of program. It can be used to store the value of computation that is carried out duing the flow of the program. A variable is a name that refers to a value. 
+
+**Assignment statement** 
+
+Assignment statement creates a new variable and store a value in it. 
+
+Eg: 
+
+```
+message = "this is first string variable"
+
+# a string type variable named message is created and value is stored in it 
+
+print(message)
+```
+
+Output: 
+
+```
+this is first string variable
+```
+
+```
+num = 5 
+
+# an int type variable named num is created and 5 is stored as value in int
+
+print("num contains ----> ", num) 
+
+print("type of num -----> ", type(num))
+```
+
+Output: 
+
+```
+num contains ----> 5 
+type of num -----> <class 'int'>
+```
+
+```
+float_num = 3.5 
+
+# a variable of type float is created and value 3.5 stored in it 
+
+print("float_num contains ----->  ", float_num)
+
+float_num = 4.5 
+
+# value of variable can be changed 
+
+print("float_num now contains ----->  ", float_num)
+```
+
+Output: 
+
+```
+float_num contains ----->   3.5 
+float_num now contains ----->   4.5
+```
+
+**Variable naming** 
+
+Choose the variable name that is meaningful and improves the readability of the program. 
+
+Rules to be kept in mind while naming the variables: 
+
+* Letters, numbers, and underscore are allowed 
+
+* Can not contain spaces 
+
+* Can not start with number 
+
+* It's case sensitive 
+
+* It should not be from the reserved keyword list 
+
+* Variable name cannot be a keyword (like class) 
+
+**Statements** 
+
+It is unit of code that Python interpreter executes. It can be a single statement or group of statement like statements within loops, functions, etc. When interpreter hits statement, it executes the statement and displays the result (if there is any). 
+
+```
+# function call is statement 
+
+print('this is statement') 
+```
+
+Output: `this is statement`
+
+```
+# Assignment is statement but does not produce any output 
+
+x = 5
+```
+
+```
+# Compound statement - for loop 
+
+for i in range(5): 
+    print("Coming inside the loop ----> ", i + 1, " times") 
+    print("i is ---> ", i)
+```
+
+Output (I wrote dots instead of the mid part): 
+
+```
+Coming inside the loop --->  1  times 
+i is --->  0 
+. 
+.
+.
+Coming inside the loop --->  5  times 
+i is --->  4
+```
+
+**Expressions** 
+
+Expressions in Python can include operations among compatible types (eg integers and floats). For example, basic arithmetic operations like adding multiple numbers. 
+
+```
+35 + 45 + 23
+```
+
+Output: `103`
+
+```
++ addition 
+- subtraction 
+* multiplication 
+/ regular division 
+// integer division # x = (x // y) * y + (x % y) 
+% modulo
+** exponent
+```
+
+[**Data Structures - Strings and Tuples**] 
+
+**Python - Strings** 
+
+Strings are sequence of characters. It can hold zero or more than zero characters in it. String is an object in Python. Python provides many functions to work on with the strings. 
+
+**Creation** 
+
+```
+"this is string" # creates a string 
+```
+
+```
+my_str3 = """string is spread 
+across multiple lines""" # triple quotes can be used to create multi line strings 
+```
+
+```
+type(my_str3) 
+```
+
+Output: `str`
+
+```
+len('this is string')
+```
+
+Output: `14`
+
+**Indices** 
+
+String characters has index associated with it starting from zero to `len(string) - 1`. Individual characters can be accessed by indices. Negative indexing is also available. 
+
+```
+my_string = 'this is my string'
+```
+
+```
+my_string[0] # accessing first character of string 
+```
+
+Output: `t`
+
+```
+my_string[1] # accessing second character of string 
+```
+
+Output: `h`
+
+```
+length = len(my_string) 
+my_string[length - 1] 
+# accessing last character of string 
+```
+
+Output: `g`
+
+```
+my_string[-1] # accessing last character of string using negative indexing 
+```
+
+Output: `g`
+
+```
+my_string[-2] 
+```
+
+Output: `n`
+
+**Slicing** 
+
+Slice is portion of string accessed using the indices. `[]` operator allows us to extract part of string using the indices. 
+
+```
+my_string = 'this is my string'
+```
+
+```
+my_string[ : ] # extracts complete string 
+```
+
+Output: `'this is my string'`
+
+```
+my_string[ 0 : 3 ] # extracts first three characters of string 
+```
+
+Output: `'thi'`
+
+**The in operator** 
+
+The in operator is helpful to find out if a string contains some other character or string. 
+
+```
+my_string = "this is string"
+```
+
+```
+'i' in my_string # check whether i is present in string
+```
+
+Output: `True`
+
+```
+'i' not in my_string # check whether i is not present in string 
+```
+
+```
+'this' in my_string
+```
+
+**Immutability** 
+
+```
+my_string = 'this is my string'
+```
+
+```
+my_string[0] = 'p' 
+
+# not allowed, as strings are immutable, i.e. cannot be modified
+```
+
+Output: `TypeError: 'str' object does not support item assignment`
+
+```
+my_string = 'this is new string'
+
+# you can assign some different value to the string variable but its currently assigned value can not be changed 
+```
+
+Btw one can concatenate strings using `+`. 
+
+**Looping** 
+
+One can iterate over the characters present in the string using the for loop. 
+
+```
+my_string = "python is beautiful" 
+```
+
+```
+for str_char in my_string:
+    print(str_char)
+```
+
+Output: 
+
+```
+p
+y
+t
+h
+o
+n
+
+i
+s
+
+b
+e
+a
+u
+t
+i
+f
+u
+l
+```
+
+**Python - String Operations** 
+
+String object supports lot of methods. Lets explore some of them here. 
+
+```
+dir(str) # list the methods of string 
+```
+
+String methods does not change the original string. If the change needs to be captured, it has to be assigned back to some variable. 
+
+```
+my_string = 'Python is beautiful!'
+```
+
+```
+my_string.lower() 
+
+#converts to lowercase 
+```
+
+Output: `'python is beautiful'`
+
+```
+my_string # original string is not altered
+```
+
+Output: `'Python is beautiful'`
+
+**String methods** 
+
+`lower()` - converts every character of string in lower case 
+
+`upper()` - converts every character of string in upper case 
+
+`islower()` - determines whether each character is in lowercase or not 
+
+Eg: `my_string.islower()`
+
+`isupper()` - determines whether each character is in uppercase or not 
+
+Eg: `my_string.isupper()`
+
+`count()` - counts the number of occurences of characters in string 
+
+Eg: `my_string.count('t')`
+
+`index()` - returns the index of a character 
+
+Eg: `my_string.index('t')`
+
+`isalpha()` - determines whether a character of string is letter or not 
+
+Eg: `my_string[0].isalpha()`
+
+`isdigit()` - determines whether a character of string is digit or not 
+
+Eg: `my_string[0].isdigit()`
+
+**String stripping** 
+
+Sometimes the strings come with whitespaces attached at both ends. The characters from the left and right side of string can be removed with the strip function. 
+
+```
+stmt = "Chennai Super Kings are going to win IPL this time.    "
+
+stmt.rstrip()
+```
+
+Output: 
+
+```
+'Chennai Super Kings are going to win IPL this time.'
+```
+
+```
+stmt = "    Chennai Super Kings are going to win IPL this time."
+
+stmt.lstrip()
+```
+
+Output: 
+
+```
+'Chennai Super Kings are going to win IPL this time.'
+```
+
+```
+stmt = "    Chennai Super Kings are going to win IPL this time.    "
+
+stmt.strip() 
+```
+
+Output: 
+
+```
+'Chennai Super Kings are going to win IPL this time.'
+```
+
+**Substrings** 
+
+The strings which are part of string are substrings. For eg, 'beautiful' is substring of string 'python is beautiful'. There are several functions to deal with substrings. 
+
+```
+my_string = 'python is beautiful'
+```
+
+```
+my_string.find('is') 
+```
+
+Output: `7`
+
+```
+my_string.replace("t", "s") 
+```
+
+Output: `'pyshon is beausiful'`
+
+We also have `startswith()` and `endswith()`. 
+
+**String Splitting** 
+
+```
+my_string = "Python is beautiful" 
+```
+
+```
+my_string.split() 
+
+# split using default delimiter i.e. whitespace 
+```
+
+Output: `['Python', 'is', 'beautiful']`
+
+```
+my_string.split(' is ') 
+
+# split using defined delimiter i.e. 'is'
+```
+
+Output: `['Python', 'beautiful']`
+
+**Python - Tuples** 
+
+Tuple is data structure that holds collection of different objects in it. For example, a tuple can hold numerical as well as string values in it along with the other collections like list, tuples, etc.
+
+**Creation** 
+
+Empty tuple can be created with angular brackets. 
+
+Tuple elements are enclosed within angular brackets. 
+
+```
+my_tuple = ('a', 'b', 'c', 'd', 'e') 
+my_tuple
+```
+
+Tuple can hold elements belonging to different data types. 
+
+```
+my_mixed_tuple = ('a', 1, 1.1, True)
+my_mixed_tuple
+```
+
+Type of tuple variable is tuple. 
+
+```
+print(type(my_tuple)) 
+```
+
+Output: `<class 'tuple'>`
+
+Size of the tuple can be determined using the `len()` function. 
+
+```
+len(my_tuple)
+```
+
+Output: `5`
+
+**Indexing** 
+
+Tuple elements can be accessed using the bracket operator `[]`. 
+
+**Slicing** 
+
+Like with strings. For eg, `my_mixed_tuple[0 : 2]`. 
+
+**Concatenation** 
+
+Two tuples can be joined using the `+` operator. 
+
+**Immutability** 
+
+Tuple elements can not be altered (we already saw this with strings). 
+
+```
+my_tuple = ('a', 'b', 'c', 'd', 'e') 
+```
+
+```
+my_tuple[0] = 'p' 
+
+# throws error as individual tuple elements can not be altered 
+```
+
+New elements can not be added to the tuple using `append()`
+
+**Operations** 
+
+Index, Count.
+
+Eg: 
+
+```
+my_tuple.index('c')
+```
+
+```
+my_tuple.count('a') 
+```
+
+**Iterable** 
+
+Tuple is iterable. 
+
+```
+for i in range(len(tuple)): 
+    print("(", i, ") ", my_tuple[i])
+```
+
+**Sorting** 
+
+```
+scores = (10, 8, 3, 2, 4, 0, 0, 3) 
+scores 
+```
+
+Output: `(10, 8, 3, 2, 4, 0, 0, 3)`
+
+```
+sorted(scores)
+```
+
+Output: `[0, 0, 2, 3, 3, 4, 8, 10]`
+
+(The output seems to be a list) 
+
+```
+scores 
+```
+
+Output: `(10, 8, 3, 2, 4, 0, 0, 3)`
+
+**Data Structures - Lists** 
+
+**Python - Lists** 
+
+Lists are ordered collection of elements. The elements can be of any type like strings, numbers, booleans, lists, tuples, etc. Each element of list has an address associated with it i.e. index. This index can be used to get access to the list elements. 
+
+**Creation** 
+
+Empty list can be created using `[]` (Usually `[]` brackets are used to define a list)
+
+List can have multiple elements in it.
+
+```
+my_number_list = [1, 2, 3, 4, 5, 6, 7]
+my_number_list 
+```
+
+But it can hold elements of different kinds as well. 
+
+```
+my_mixed_list = [1, 1.1, 'a', True]
+my_mixed_list
+```
+
+Type can be checked with `type()` function. 
+
+```
+type(my_mixed_list)
+```
+
+Output: `list`
+
+Length of list can be determined using `len()` function. 
+
+Eg: `len(my_number_list)`
+
+List can be printed using the `print()` function. 
+
+Eg: `print(my_number_list)`. Output: `[1, 2, 3, 4, 5, 6, 7]`
+
+**Concatenation** 
+
+`+` can be used to concatenate lists. 
+
+**Indices** 
+
+Index is the location where the list element is present in the list. List elements are ordered. Indexing starts from `0`. 
+
+Eg: `my_list[0] # access first element of the list`
+
+**Slicing** 
+
+Slice is portion of list accessed using the indices. `[]` operator allows us to extract part of list using indices. 
+
+Eg: `my_list[ 0 : 3 ]`. Output: `[1, 1.1, 'a']`
+
+**The in operator**
+
+The in operator is helpful to find out if a list contains an element in it or not. 
+
+Eg: `1 in my_list # check whether 1 is present in list`
+
+**Looping** 
+
+One can iterate over elements present in the list using for loop. 
+
+Eg: 
+
+```
+for element in my_list: 
+    print(element) 
+```
+
+**Built-in functions**
+
+`sum()` can be used to get sum of all elements in list. 
+
+`min()` can be used to get minimum value out of all elements in list. 
+
+`max()` can be used to get maximum value out of all elements in list. 
+
+**List aliasing** 
+
+The same list can be referred by two different list variables. Changing one list affects the other as well. 
+
+```
+list1 = [1, 2, 3, 4, 5]
+
+list2 = list1 
+
+# Alter the elements of list1, both lists will get altered
+
+# Alter the elements of list2, both lists will get altered 
+```
+
+**List copying** 
+
+In order to avoid this side effect, list elements can be copied using the following way. By that way, alterations in one list does not affect the elements in the other list from which its copied. 
+
+There are three ways of list copying: 
+
+```
+new_list = orig_list.copy()
+
+new_list = orig_list[:]
+
+new_list = list(orig_list) 
+```
+
+**Python - List Operations** 
+
+**Operations on lists** 
+
+Lists are mutable, i.e. the elements can be added, altered or removed from the list. 
+
+```
+my_list = [1, 2, 3, 4, 5]
+my_list 
+```
+
+`append()` can be used to add an element to the list. 
+
+```
+my_list.append(6) # add new element 6 at end of list 
+my_list
+```
+
+Output: `[1, 2, 3, 4, 5, 6]`
+
+```
+my_list.append([7, 8]) # add list as new element in list 
+my_list 
+```
+
+Output: `[1, 2, 3, 4, 5, 6, [7, 8]]`
+
+`extend()` can also be used to add list of elements into list. 
+
+```
+my_new_list = [1, 2, 3, 4, 5] 
+my_new_list
+```
+
+```
+my_new_list.extend([6]) 
+my_new_list
+```
+
+Output: `[1, 2, 3, 4, 5, 6]`
+
+```
+my_new_list.extend([7, 8, 9])
+my_new_list
+```
+
+Output: `[1, 2, 3, 4, 5, 6, 7, 8, 9]`
+
+`insert()` can be used to add an element at the desired position. 
+
+```
+my_list = [1, 2, 3, 4, 5, 6] 
+my_list
+```
+
+```
+my_list.insert(0, 'a') 
+
+# insert 'a' at first position 
+
+my_list
+```
+
+Output: `['a', 1, 2, 3, 4, 5, 6]`
+
+```
+my_list.insert(len(my_list), '*****') 
+
+# insert '*****' at last position 
+
+my_list 
+```
+
+Output: `['a', 1, 2, 3, 4, 5, 6, '*****']`
+
+`remove()` can be used to find the first occurence of the element and to remove it. 
+
+```
+my_list = [1, 2, 3, 4, 5] 
+my_list 
+```
+
+```
+my_list.remove(3) 
+
+# find first occurence of '3' and remove it from the list 
+
+my_list 
+```
+
+Output: `[1, 2, 4, 5]`
+
+`pop()`  can be used to remove an element from specified index and store its value in a variable. 
+
+```
+my_list = [1, 2, 3, 4, 5] 
+my_list 
+```
+
+```
+popped_element = my_list.pop(4) 
+print("list--->", my_list) 
+print("popped element--->", popped_element) 
+```
+
+Output: 
+
+```
+list---> [1, 2, 3, 4]
+popped element---> 5
+```
+
+`del()` can also be used to remove element from the list at specified location. 
+
+```
+my_list = [1, 2, 3, 4, 5]
+my_list
+```
+
+```
+del(my_list[1]) 
+
+# removes the element at 1 index 
+
+my_list 
+```
+
+Output: `[1, 3, 4, 5]`
+
+Assignment operator can be used to alter the element of list at the desired index. 
+
+```
+my_list = [1, 2, 3, 4, 5] 
+my_list 
+```
+
+```
+my_list[0] = 1111 
+
+# change the element at first position to 1111
+
+my_list 
+```
+
+Output: `[1111, 2, 3, 4, 5]`
+
+**List Methods** 
+
+`sort()` can be used to sort the list elements. Default is ascending order. 
+
+```
+my_list = [11, 2, 39, 4, 57] 
+print("list before sorting--->", my_list)
+
+print()
+
+my_list.sort()
+print("list after sorting--->", my_list)
+```
+
+Output: 
+
+```
+list before sorting---> [11, 2, 39, 4, 57]
+
+list after sorting---> [2, 4, 11, 39, 57]
+```
+
+Sort order can be specified as argument. Default is `reverse = False`. Arranges elements in descending order. 
+
+```
+my_list = [11, 2, 39, 4, 57]
+print("list before sorting--->", my_list)
+
+print()
+
+my_list.sort(reverse = True)
+print("list after sorting--->", my_list)
+```
+
+Output: 
+
+```
+list before sorting---> [11, 2, 39, 4, 57]
+
+list after sorting---> [57, 39, 11, 4, 2]
+```
+
+Alternate way to get the sorted list using `sorted()` method. Original list is not modified. 
+
+```
+my_list = [11, 2, 39, 4, 57]
+print("list before sorted--->", my_list) 
+
+print()
+
+print("list after reversing the order--->", list(sorted(my_list)))
+
+print()
+
+print("original list after using sorted function--->", my_list)
+```
+
+Output: 
+
+```
+list before sorted---> [11, 2, 39, 4, 57]
+
+list after reversing the order---> [2, 4, 11, 39, 57]
+
+original list after using sorted function---> [11, 2, 39, 4, 57]
+```
+
+`reverse()` can be used to reverse the order of list elements. 
+
+```
+my_list = [11, 2, 39, 4, 57] 
+print("list before reversing the order--->", my_list) 
+
+print() 
+
+my_list.reverse() 
+print("list after reversing the order--->", my_list) 
+```
+
+Output: 
+
+```
+list before reversing the order---> [11, 2, 39, 4, 57]
+
+list after reversing the order---> [57, 4, 39, 2, 11]
+```
+
+Alternate way to get the reversed list is using `reversed()` method. Original list is not modified. 
+
+```
+my_list = [11, 2, 39, 4, 57]
+print("list before reversing the order--->", my_list) 
+
+print() 
+
+print("list after reversing the order--->", list(reversed(my_list)))
+
+print() 
+
+print("original list after using reversed function--->", my_list)
+```
+
+Output: 
+
+```
+list before reversing the order---> [11, 2, 39, 4, 57]
+
+list after reversing the order---> [57, 4, 39, 2, 11]
+
+original list after using reversed function---> [11, 2, 39, 4, 57]
+```
+
+`index(x)` can be used to determine the location of first occurence of element `x` in the list. 
+
+```
+my_list = [11, 2, 39, 4, 57] 
+my_list.index(39) 
+
+# find the location at which element 39 first occurs 
+```
+
+Output: `2`
+
+`count(x)` can be used to determine the count of occurences of element `x` in the list. 
+
+```
+my_list = [11, 2, 39, 4, 57, 39, 34, 39]
+my_list.count(39) 
+
+# count the number of times 39 appears in the list 
+```
+
+Output: `3`
+
 
 
 
