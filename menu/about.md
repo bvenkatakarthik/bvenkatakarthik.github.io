@@ -6,7 +6,7 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://en.wikipedia.org/wiki/Ellen_Langer#Mindfulness)**
 
-**${  \boxed{\star} }$ (noticing things in the present experience)**
+**${ \boxed{\star} }$ (noticing things in the present experience)**
 
 **is beneficial.** 
 
@@ -18,7 +18,7 @@ permalink: /about
 
 **Consider the causal network behind anything.**
 
-**Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**  
+**${ \boxed{\star} }$ Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**  
 
 **Q) Why do we have The World, with these features?** 
 
