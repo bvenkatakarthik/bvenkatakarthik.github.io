@@ -20,7 +20,9 @@ permalink: /about
 
 **Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).** 
 
-**(We tend to understand this for dreams, but the argument seems to hold throughout life).** 
+**(We tend to understand this for dreams, but the argument seems to hold throughout).**
+
+**(Everything seems to be Nature's doing).** 
 
 **Q) Why do we have The World, with these features?** 
 
