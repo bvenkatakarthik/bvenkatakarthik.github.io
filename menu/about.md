@@ -4,6 +4,8 @@ title: About
 permalink: /about
 --- 
 
+**$${ \boxed{\star} }$$ Speculation:**  
+
 **${ \boxed{\star} }$ Consider the causal network behind anything.**
 
 **${ \boxed{\star} }$ Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).** 
