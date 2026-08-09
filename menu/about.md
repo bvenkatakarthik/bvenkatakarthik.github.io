@@ -6,17 +6,15 @@ permalink: /about
 
 **${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.**
 
-**Matthieu Ricard on Altruism: [Link](https://youtu.be/jUlWDxhSlt8?si=F-fclQwefOQNLDpD).**
+**Ricard on Altruism: [Link](https://youtu.be/jUlWDxhSlt8?si=F-fclQwefOQNLDpD).**
 
-**Matthieu Ricard on Meditation: [Link](https://youtu.be/unX4FQqM6vI?si=bb_4YoSTZRlDczu2).**
+**Ricard on Meditation: [Link](https://youtu.be/unX4FQqM6vI?si=bb_4YoSTZRlDczu2).**
 
 **Speculation:**  
 
 **Consider the causal network behind anything.**
 
 **Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).** 
-
-**Amen on Brain Imaging: [Link](https://youtu.be/esPRsT-lmw8?si=oc5IjABMemw1lU8u).**
 
 **Q) Why do we have The World, with these features?** 
 
