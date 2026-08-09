@@ -4,7 +4,7 @@ title: About
 permalink: /about
 --- 
 
-**Speculation:**  
+**${ \boxed{\star} }$ Speculation:**  
 
 **${ \boxed{\star} }$ Consider the causal network behind anything.**
 
