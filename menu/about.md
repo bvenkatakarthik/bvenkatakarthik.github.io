@@ -2,7 +2,13 @@
 layout: page
 title: About
 permalink: /about
---- 
+---
+
+**Speculation: [Mindfulness](https://en.wikipedia.org/wiki/Ellen_Langer#Mindfulness)**
+
+**${ \boxed{\star} }$ (noticing things)**
+
+**is beneficial.**  
 
 **Speculation:**  
 
