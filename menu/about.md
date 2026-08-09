@@ -4,19 +4,15 @@ title: About
 permalink: /about
 ---
 
-**Speculation: [Mindfulness](https://en.wikipedia.org/wiki/Ellen_Langer#Mindfulness)**
-
-**${ \boxed{\star} }$ (noticing things)**
-
-**is beneficial.**  
+${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.
 
 **Speculation:**  
 
-**${ \boxed{\star} }$ Consider the causal network behind anything.**
+**Consider the causal network behind anything.**
 
-**${ \boxed{\star} }$ Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).** 
+**Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).** 
 
-**Q) Why do we have The World, with these features?** 
+**Q) Why do we have The World, with these features:** 
 
 **The Birth of The World, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
 
@@ -40,7 +36,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 I am curious about the Nature and Purpose of The World.
 
-${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.
+I am curious about cultivating Happiness in Life.
 
 I am curious about "The Full Causal Network of Reality".
 
