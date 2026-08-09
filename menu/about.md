@@ -6,7 +6,7 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://en.wikipedia.org/wiki/Ellen_Langer#Mindfulness)**
 
-**${ \boxed{\star \star} }$ (noticing things)**
+**${ \boxed{\star} }$ (noticing things)**
 
 **is beneficial.** 
 
