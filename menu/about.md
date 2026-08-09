@@ -6,9 +6,7 @@ permalink: /about
 
 **${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.**
 
-**Ricard on Altruism: [Link](https://youtu.be/jUlWDxhSlt8?si=F-fclQwefOQNLDpD).**
-
-**Ricard on Meditation: [Link](https://youtu.be/unX4FQqM6vI?si=bb_4YoSTZRlDczu2).**
+**Speculation: [Meditation](https://youtu.be/ak20p3ZFYLk?si=nHdZ1AnNgHG_NrFE) is beneficial.**
 
 **Speculation:**  
 
