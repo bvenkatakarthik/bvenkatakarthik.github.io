@@ -4,12 +4,6 @@ title: About
 permalink: /about
 --- 
 
-**Speculation: [Mindfulness](https://en.wikipedia.org/wiki/Ellen_Langer#Mindfulness)**
-
-**${ \boxed{\star} }$ (noticing things)**
-
-**is beneficial.** 
-
 **Q) Looking at brain activity, can I understand who am I fundamentally?** 
 
 **(In waking and sleeping "I" exist? Except in deep sleep "I" do not know "I" exist?)** 
