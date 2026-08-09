@@ -6,7 +6,9 @@ permalink: /about
 
 **${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.**
 
-**To consider: Eddie Jaku, Matthieu Ricard.**
+**Matthieu Ricard on Altruism: [Link](https://youtu.be/jUlWDxhSlt8?si=F-fclQwefOQNLDpD).**
+
+**Matthieu Ricard on Meditation: [Link](https://youtu.be/unX4FQqM6vI?si=bb_4YoSTZRlDczu2).**
 
 **Speculation:**  
 
