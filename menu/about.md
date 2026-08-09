@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.
+**${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.**
 
 **Speculation:**  
 
