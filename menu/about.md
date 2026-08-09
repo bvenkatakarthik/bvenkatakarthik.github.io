@@ -6,6 +6,8 @@ permalink: /about
 
 **${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.**
 
+**To consider: Eddie Jaku, Matthieu Ricard.**
+
 **Speculation:**  
 
 **Consider the causal network behind anything.**
