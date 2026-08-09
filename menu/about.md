@@ -16,6 +16,8 @@ permalink: /about
 
 **Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).** 
 
+**Amen on Brain Imaging: [Link](https://youtu.be/esPRsT-lmw8?si=oc5IjABMemw1lU8u).**
+
 **Q) Why do we have The World, with these features?** 
 
 **The Birth of The World, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
