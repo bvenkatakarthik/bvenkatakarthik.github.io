@@ -14,6 +14,10 @@ permalink: /about
 
 **One sees Nature is the true causer of things?**
 
+**Speculation:**
+
+**One can calibrate one's mind to be baseline happy from awareness alone?**
+
 **Speculation:**  
 
 **Consider the causal network behind anything.**
