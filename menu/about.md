@@ -16,6 +16,8 @@ permalink: /about
 
 **Speculation:**
 
+**What is most often with one is one's awareness.**
+
 **One can calibrate one's mind to be baseline happy from awareness alone?**
 
 **Speculation:**  
