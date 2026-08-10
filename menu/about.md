@@ -18,7 +18,9 @@ permalink: /about
 
 **Consider the causal network behind anything.**
 
-**Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).** 
+**Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).**
+
+**One sees Nature is the true causer of things?** 
 
 **Q) Why do we have The World, with these features?** 
 
