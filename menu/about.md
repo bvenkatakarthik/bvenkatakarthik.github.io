@@ -6,6 +6,8 @@ permalink: /about
 
 **${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.**
 
+**Steindl-Rast on gratitude: [Link](https://youtu.be/UtBsl3j0YRQ?si=pQdRvqnQkT5-7UmT).**
+
 **Speculation:**  
 
 **Consider the causal network behind anything.**
