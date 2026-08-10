@@ -6,7 +6,11 @@ permalink: /about
 
 **${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.**
 
-**Steindl-Rast on gratitude: [Link](https://youtu.be/UtBsl3j0YRQ?si=pQdRvqnQkT5-7UmT).**
+**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
+
+**(non-judgemental attention to the present moment)**
+
+**is beneficial.** 
 
 **Speculation:**  
 
