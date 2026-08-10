@@ -6,8 +6,6 @@ permalink: /about
 
 **${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.**
 
-**Speculation: [Meditation](https://youtu.be/ak20p3ZFYLk?si=nHdZ1AnNgHG_NrFE) is beneficial.**
-
 **Speculation:**  
 
 **Consider the causal network behind anything.**
