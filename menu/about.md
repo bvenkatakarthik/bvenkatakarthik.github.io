@@ -40,6 +40,8 @@ permalink: /about
 
 **Q) Why do we have The World, with these features?** 
 
+**(We might never know).**
+
 Hi I am Karthik, a Math and AI enthusiast. 
 
 I am curious about the Nature and Purpose of The World.
