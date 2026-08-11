@@ -8,7 +8,7 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Langer_2026_08_4)**
 
-**(noticing things)**
+**(actively noticing things)**
 
 **is beneficial.** 
 
