@@ -18,6 +18,8 @@ permalink: /about
 
 **Sapolsky on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186).** 
 
+**"We are nothing more or less than the cumulative biological and environmental luck, over which we had no control, that has brought us to any moment." - Sapolsky.**
+
 **Q) Why do we have The World, with these features?** 
 
 **The Birth of The World, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
