@@ -12,8 +12,6 @@ permalink: /about
 
 **is beneficial.** 
 
-**One sees Nature is the true causer of things?**
-
 **Speculation:**  
 
 **Consider the causal network behind anything.**
