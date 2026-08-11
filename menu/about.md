@@ -4,11 +4,11 @@ title: About
 permalink: /about
 ---
 
-**${ \boxed{\star} }$ I am curious about cultivating Happiness in Life.**
+**I am curious about cultivating Happiness in Life.**
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Langer_2026_08_4)**
 
-**${ \boxed{\star} }$ (actively noticing things)**
+**(actively noticing things)**
 
 **is beneficial.** 
 
