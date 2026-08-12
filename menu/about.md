@@ -12,6 +12,8 @@ permalink: /about
 
 **is beneficial.** 
 
+**What is common to most living beings is awareness.**
+
 **Speculation:**  
 
 **Consider the causal network behind anything.**
