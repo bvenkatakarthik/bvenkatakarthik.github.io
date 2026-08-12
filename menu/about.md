@@ -22,9 +22,9 @@ permalink: /about
 
 **Q) Why do we have The World, with these features?** 
 
-**The Birth of The World, a video**: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).
+**The Birth of The World, a video: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).**
 
-**The Birth of Humans, a video**: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4). 
+**The Birth of Humans, a video: [Link](https://youtu.be/StqZI9pMq0U?si=Rek7ccVJ35YbN9R4).** 
 
 **"The Source": All of mass-energy in all of the galaxies currently visible started in a sphere with a radius around ${ \mathbf{0. 000, 000, 000, 000, 000, 000, 000, 000, 000, 04 } }$ meters.** 
 
