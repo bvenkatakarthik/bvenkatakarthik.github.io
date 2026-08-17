@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-**I am curious about cultivating Happiness in Life.**
+**I am curious about how living beings can be happy.**
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Langer_2026_08_4)**
 
@@ -48,7 +48,7 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 I am curious about the Nature and Purpose of The World.
 
-I am curious about cultivating Happiness in Life.
+I am curious about how Living Beings can be Happy.
 
 I am curious about "The Full Causal Network of Reality".
 
