@@ -18,7 +18,7 @@ permalink: /about
 
 **Sapolsky, Harris on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186), [Link](https://youtube.com/shorts/_QaFOmtvtSU?si=0jz2bKdQBdt5Qzfv).**
 
-**We develop compassion for all living beings?** 
+**${ \boxed{\star} }$ We develop compassion for all living beings?** 
 
 **Speculation:** 
 
