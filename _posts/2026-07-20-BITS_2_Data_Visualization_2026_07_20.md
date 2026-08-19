@@ -3808,6 +3808,988 @@ my_list.count(39)
 
 Output: `3`
 
+[**Data Structures - Sets and Dictionaries**] 
+
+**Python - Sets** 
+
+A set is a unique collection of objects in Python. It can be denoted with a curly bracket `{}`. Duplicates will be removed. 
+
+**Creation** 
+
+A set is created with `{}` brackets. 
+
+```
+empty_set = {}
+empty_set 
+```
+
+A set can have elements in it. 
+
+```
+my_set = {'a', 'b', 'c'}
+my_set
+```
+
+If Set elements are duplicate then they are removed automatically. 
+
+```
+my_set = {'a', 'b', 'c', 'a', 'b', 'c'}
+
+# set elements are duplicate and removed automatically 
+
+my_set 
+```
+
+Output: `{'a', 'b', 'c'}`
+
+Set elements can be of mixed type. 
+
+```
+my_mixed_set = {1, '1', 2, '2', 3, '3', '3', 1.1, True}
+my_mixed_set
+```
+
+Output: `{1, '1', 1.1,  2, '2', 3, '3'}`
+
+(Why doesn't the output include `True`?) 
+
+(It looks like `0 == False`, `1 == True`. Link to SO post: [Link](https://stackoverflow.com/questions/51505826/how-come-i-can-add-the-boolean-value-false-but-not-true-in-a-set-in-python))
+
+```
+type(my_set)
+```
+
+Output: `set`
+
+Size of set can be determined using `len()`. 
+
+```
+len(my_set)
+```
+
+Output: `3`
+
+**Creation of set from list** 
+
+Set can be created from list of elements. 
+
+```
+my_list = [1, '1', 2, '2', 3, 3, 3, '3', '4', 4]
+
+# create a list from which set needs to be formed 
+
+my_list
+```
+
+Output: `[1, '1', 2, '2', 3, 3, 3, '3', '4', 4]`
+
+```
+my_new_set = set(my_list) 
+
+# set can be created from list, duplicates are removed 
+
+my_new_set
+```
+
+Output: `{1, '1', 2, '2', 3, '3', 4, '4'}`
+
+**Conversion of set to list** 
+
+```
+my_set = {'mumbai',  'pune', 'solapur'}
+my_new_list = list(my_set) 
+print(my_new_list) 
+```
+
+Output: `['pune', 'mumbai', 'solapur']`
+
+**Operations on set** 
+
+`add()` can be used to add an element into set. 
+
+```
+country_set = {'India', 'US', 'US', 'India'}
+country_set 
+```
+
+Output: `{'India', 'US'}`
+
+```
+country_set.add('UK') 
+country_set
+```
+
+Output: `{'India', 'UK', 'US'}`
+
+`remove()` can be used to remove an element from the set. 
+
+```
+country_set.remove("UK") 
+country_set 
+```
+
+Output: `{'India', 'US'}`
+
+```
+country_set.remove("China") 
+
+# as China is not present in the set, error is thrown
+```
+
+Output: `KeyError: 'China'`
+
+`discard()` can be used to remove an element from set. If element is not present, then error is not thrown. 
+
+```
+country_set.discard("China") 
+```
+
+`pop()` operation can be used to remove the first element from the set. 
+
+(Sets seem to have order here?) 
+
+```
+test_set = {1, 2, 3, 4, 5}
+```
+
+```
+test_set.pop() 
+
+# removes first element from set, i.e. 1 
+
+test_set 
+```
+
+Output: `{2, 3, 4, 5}`
+
+```
+test_set.pop() 
+
+# removes first element from set, i.e. 2. 
+
+# set is altered by this operation 
+
+test_set 
+```
+
+Output: `{3, 4, 5}`
+
+`clear()` can be used to remove all the elements of set. 
+
+Eg: `test_set.clear()`
+
+`in` and `not in` can be used to determine if the element is present in set or not. 
+
+Eg: `"India" in country_set`
+
+**Working with sets** 
+
+`&` operator can be used to determine common elements of two or more sets. 
+
+```
+maharashtra_cities = {"Pune", "Mumbai", "Nagpur"}
+goa_cities = {"Panjim", "Vasco", "Madgaon"}
+western_region_cities = {"Panjim", "Vasco", "Pune", "Mumbai", "Nagpur"} 
+```
+
+```
+maharashtra_cities & western_region_cities 
+
+# common cities between two sets 
+```
+
+Output: `{'Mumbai', 'Nagpur', 'Pune'}`
+
+`intersection()` methd can also be used to determine the common elements between two sets. 
+
+```
+western_region_cities.intersection(maharashtra_cities)
+```
+
+Output: `{'Mumbai', 'Nagpur', 'Pune'}`
+
+`-` operator can be used to determine the elements which are only present in set1. 
+
+```
+western_region_cities - maharashtra_cities
+```
+
+Output: `{'Panjim', 'Vasco'}`
+
+`difference()` method can also be used to determine the elements which are only present in set1. 
+
+```
+western_region_cities.difference(maharashtra_cities) 
+```
+
+Output: `{'Panjim', 'Vasco'}`
+
+`|` operator can be used to get all cities from both sets. 
+
+```
+maharashtra_cities | western_region_cities
+```
+
+Output: `{'Mumbai', 'Nagpur', 'Panjim', 'Pune', 'Vasco'}`
+
+`union()` method can also be used to get all the elements from both sets. 
+
+```
+maharashtra_cities.union(goa_cities) 
+```
+
+Output: `{'Madgaon', 'Mumbai', 'Nagpur', 'Panjim', 'Pune', 'Vasco'}`
+
+**Python - Dictionaries** 
+
+Dictionaries are structures which holds the data in key - value pair format. For example key can be student id and value can be student object corresponding to that student id. 
+
+It allows faster access to the object as compared to the elements stored as part of a list. 
+
+Dictionaries are a more general form of lists. 
+
+```
+month_list = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] 
+
+month_list[9] # accessing Oct 
+```
+
+```
+days_list = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+
+days_list[9] 
+
+# accessing days of Oct 
+```
+
+Dictionaries simplifies this job by maintaining 'month names' as keys and days of months as values 
+
+```
+month_dict = {'Jan' : 31, 'Feb' : 28, 'Mar' : 31, 'Apr' : 30, 'May' : 31, 'Jun' : 30, 'Jul' : 31, 'Aug' : 31, 'Sep' : 30, 'Oct' : 31, 'Nov' : 30, 'Dec' : 31}
+```
+
+**Creation of dictionaries** 
+
+It can be created with curly braces. 
+
+```
+empty_dict = {}
+```
+
+It can have key value pairs within it. Each key is separated from its value by a colon `:`. Commas separate the items, and the whole dictionary is enclosed in curly braces. 
+
+```
+my_dict = {'Jan' : 31, 'Feb' : 28, 'March' : 31, 'Apr' : 30} 
+
+# keys are strings 
+```
+
+Key can be string, numbers or tuples. Basically it has to be an immutable object 
+
+```
+dict2 = {1:'Jan', 2:'Feb', 3:'March', 4:'April'} 
+
+# keys are numbers 
+```
+
+```
+dict3 - {(1, 2019) : 'Jan', (2, 2019) : 'Feb'}
+
+# keys are tuples 
+```
+
+```
+type(my_dict) 
+```
+
+Output: `dict`
+
+Number of items in dictionary can be found using `len()` function. 
+
+```
+len(my_dict) 
+```
+
+Output: `4`
+
+`dict()` function can also be used to create dictionary. List of tuples which actually contain the key value pairs needs to be provided as the input. 
+
+```
+d = dict([('A', 1), ('B', 2), ('C', 3)])
+d
+```
+
+Output: `{'A': 1, 'B': 2, 'C': 3}`
+
+**Accessing keys and values** 
+
+All keys can be accessed via `keys()` method. 
+
+```
+my_dict = {'Jan' : 31, 'Feb' : 28, 'March' : 31, 'Apr' : 30}
+
+# keys are strings 
+```
+
+```
+my_dict.keys() 
+
+# get all the keys of dictionary 
+```
+
+Output: `dict_keys(['Jan', 'Feb', 'March', 'Apr'])`
+
+All values can be accessed via `values()` method. 
+
+```
+my_dict.values() 
+
+# get all the values of dictionary 
+```
+
+Output: `dict_values([31, 28, 31, 30])`
+
+All key - value pairs can be accessed by `items()` method. 
+
+```
+my_dict.items()
+```
+
+Output: `dict_items([('Jan', 31), ('Feb', 28), ('March', 31), ('Apr', 30)])`
+
+Individual value can be found out by using the key associated with it. 
+
+```
+my_dict['Jan'] 
+
+# access number of days associated with 'Jan'
+```
+
+Output: `31`
+
+```
+my_dict['xyz'] 
+
+# error as key is not present in the dictionary 
+```
+
+Output: `KeyError: 'xyz'`
+
+```
+my_dict.get('xyz')
+```
+
+Output: No output 
+
+`in` and `not in` can be used to determine if key is present in dictionary or not. 
+
+**Looping** 
+
+One can iterate over the entries in Dictionaries. 
+
+```
+letter_dict = {'I' : 1, 'V' : 5, 'X' : 10, 'L' : 50, 'C' : 100, 'D' : 500, 'M' : 1000} 
+```
+
+```
+for key in letter_dict.keys(): 
+    print("   ", key) 
+
+# iterate over keys 
+```
+
+Output: 
+
+```
+I
+V
+X
+L
+C
+D
+M
+```
+
+```
+for value in letter_dict.values(): 
+    print("   ", value) 
+```
+
+Output: 
+
+```
+1
+5
+10
+50
+100
+500
+1000
+```
+
+**Operations on dictionary** 
+
+Entry (i.e. key value pair) can be added to dictionary in following manner: 
+
+```
+my_dict['May'] = 31 
+my_dict 
+```
+
+Output: `{'Jan': 31, 'Feb': 28, 'March': 31, 'Apr': 30, 'May': 31}`
+
+```
+my_dict['May'] = 25 
+
+# change it to 25 
+
+my_dict['May'] 
+```
+
+Output: `25`
+
+**Dictionary with complex object as values** 
+
+The value can be a complex object like list itself. 
+
+```
+# Create a employee database with emp id as key and list of employees where each value in list has property of an employee 
+
+emp_data = { 1 : ['1', 'Emp A', 34], 2 : ['2', 'Emp B', 35], 3 : ['3', 'Emp C', 36] } 
+
+```
+
+[**Control Flow Statements - Conditional**] 
+
+Frequently the programs needs to follow a certain flow based on the fulfillment of certain condition. 
+
+If something is true then follow some path otherwise follow another path. 
+
+<div align="center">
+    <img src="https://c.l3n.co/bEFqb3.png"/> 
+</div>
+
+**Simple example of guessing a number** 
+
+```
+import random 
+
+# generate any random number between 1 to 10 
+
+number = random.randint(1, 10) 
+
+guess = int(input("Enter an integer\n"))
+
+if guess == number:
+    print("Your guess is correct!") 
+else: 
+    print("Sorry, you failed to guess it!") 
+```
+
+**If statement alone** 
+
+```
+number = int(input("Enter the number\n"))
+
+if number % 2 == 0: 
+    print(number, " is even number") 
+```
+
+**If else statement** 
+
+```
+number = int(input("Enter the number\n"))
+
+if number % 2 == 0:
+    print(number, " is even number") 
+else: 
+    print(number, " is odd number") 
+```
+
+**Chained conditionals** 
+
+```
+mark = int(input("Enter the mark\n")) 
+
+if mark < 0 or mark > 100: 
+    print("Invalid marks are entered!") 
+elif mark >= 0 and mark < 35:
+    print("Sorry you failed!") 
+elif mark >= 35 and mark < 50: 
+    print("You passed in first class") 
+else: 
+    print("You got distinction!") 
+```
+
+**Nested conditionals** 
+
+```
+number1 = int(input("Enter first number \n"))
+number2 = int(input("Enter second number \n"))
+
+if number1 == number2:
+    print("Both numbers are same") 
+else: 
+    if number1 > number2:
+        print("first number is bigger than second") 
+    else: 
+        print("first number is smaller than second") 
+```
+
+**Catching Exceptions with try and except** 
+
+If while executing the code, error occured then execution of code is stopped and error trace is shown to the user. In order to handle that situation gracefully, the code that is expected to raise exception can be put inside a try block and the error can be handled without halting the further execution of the program. 
+
+For example, you are asking user to enter a number and he has entered a string. When accessing this string value, error will be raised. 
+
+```
+number = int(input("Enter a number\n"))
+
+# if a string is entered it will throw error 
+
+if number % 2 == 0: 
+    print("Number is even") 
+else: 
+    print("Number is odd") 
+```
+
+This can be handled with try block and user can be made aware about the actual thing that has happened. 
+
+```
+try: 
+    number = int(input("Enter a number\n"))
+
+    # if a string is entered it will throw error 
+
+    if number % 2 == 0: 
+        print("Number is even") 
+    else: 
+        print("Number is odd") 
+except: 
+    print("Seems you have entered a string value")
+```
+
+[**Control Flow Statements - Iterative**] 
+
+**Python - Iterative Executions** 
+
+**While Statement** 
+
+While statement helps to execute the code multiple times based on certain logical condition. As long as the condition evaluates to true, the statements within the while block are executed. Once the condition evaluates to false, then control does not enter into the while block statements and continues the execution of the code that follows after the while block. 
+
+```
+# iterate over the first five numbers 
+
+my_number_list = range(5) 
+
+# generate first five integers starting from zero 
+
+i = 0 # initialise the iteration variable 
+
+while i < len(my_number_list): 
+    print('(i)    ', i, "    (number)    ", my_number_list[i]) 
+    i = i + 1 
+
+print("Length of list ", len(my_number_list)) 
+```
+
+Output: 
+
+```
+(i)     0     (number)     0
+(i)     1     (number)     1
+(i)     2     (number)     2
+(i)     3     (number)     3
+(i)     4     (number)     4
+Length of list  5
+```
+
+```
+# Example for loop with fixed number of inputs 
+
+count = 3 
+
+for i in range(count): 
+    name = input("Enter the name :") 
+    print("You entered ", name) 
+
+```
+
+```
+# Example while loop without any restrictions on number of inputs 
+
+name = "" 
+
+while name != "Quit": 
+    name = input("Enter the name (use 'Quit' to stop): ")
+    if name != "Quit":
+        print("You entered ", name) 
+```
+
+Output Example: 
+
+```
+Enter the name (use 'Quit' to stop): Karthik
+You entered  Karthik
+Enter the name (use 'Quit' to stop): Karthik123
+You entered  Karthik123
+Enter the name (use 'Quit' to stop): Quit
+```
+
+**Infinite Loops** 
+
+```
+# Example of infinite loop 
+
+i = 0 
+
+while i < 5: 
+    print("i ", i) 
+
+print("Out of while loop") 
+```
+
+The above code will never terminate because value of iteration variable i.e. i is never changing. It will always be zero and hence the while loop condition will always be true and the loop will be executed infinitely. 
+
+Hence, while using loops one needs to keep in mind that iteration variable has to be changed. 
+
+**Break Statement** 
+
+The break statement is used to break out of a loop before the loop is finished. 
+
+```
+# Example 
+
+i = 0 # iteration variable initialized 
+
+while i < 5:   # condition is evaluated 
+    print(i)   
+    i = i + 1 
+
+# block statements are executed until the condition is true, i.e. 5 times 
+```
+
+Output: 
+
+```
+0
+1
+2
+3
+4
+```
+
+```
+# Example 
+
+i = 0  # iteration variable initialized 
+
+while i < 5:  # condition is evaluated 
+    if i > 3:
+        break 
+    print(i) 
+    i = i + 1 
+
+# no more execution of the loop, once i is greater than 3 
+# bllock statements are executed until the condition is true and iteration variable is less than 3 
+```
+
+Output: 
+
+```
+0
+1
+2
+3
+```
+
+**Continue Statement** 
+
+Sometimes we want to finish the execution of the current iteration and jump to the next iteration without executing the further statements in the code block, then continue statement can be used. It helps to start a new iteration. 
+
+```
+stmt = "" 
+
+while stmt != 'Quit': 
+    stmt = input("Enter the stmt (use 'Quit' to stop)")
+    if stmt.startswith("#"):
+        continue
+    if len(stmt) > 0: 
+        print(stmt) 
+```
+
+In above code snippet, user enters the input statement. She can use "Quit" word to terminate the execution of code. Once the statement is recieved, the code checks whether it starts with `#`. If yes, no further statements in the block are executed. It directly jumps to the next iteration. If the statement does not start with `#` then further it checks if the statement has some characters in it or not. If yes, the statement is printed back again. 
+
+**For Statement** 
+
+Computers are experts at doing things in repeated manner, especially without any errors. Python for loops is one of the ways by which code blocks can be executed in a repetitive manner, like with while loops. With for loops, we mention in advance how many times the code execution will be repeated which is not the case with while loops. 
+
+Eg: 
+
+```
+#Example : Print Hello five times 
+
+for i in range(5): 
+    print("Hello") 
+```
+
+Output: 
+
+```
+Hello 
+Hello
+Hello
+Hello 
+Hello 
+```
+
+**Range function** 
+
+The range function helps to generate the range of numbers based on given inputs to it. 
+
+Syntax : `range(start_value, end_value, step)`
+
+```
+#Examples 
+
+range(5) #produces 0, 1, 2, 3, 4
+
+range(1, 5) #produces 1, 2, 3, 4
+
+range(2, 4) #produces 2, 3 
+
+range(1, 10, 2) #produces 1, 3, 5, 7, 9
+
+range(9, 2, -1) #produces 9, 8, 7, 6, 5, 4, 3
+```
+
+```
+for i in range(9, 2, -1): 
+    print(i) 
+```
+
+Output: 
+
+```
+9
+8
+7
+6
+5
+4
+3
+```
+
+[**Functions**] 
+
+**Function Calls** 
+
+Functions are collection of named statements. It can be considered as a grouped collection of statements which can be reused at multiple places by just calling the function. 
+
+A function has a purpose associated with it, eg a function to compute the average of given numbers. 
+
+Eg: 
+
+Lets assume we need to use the following set of statements to compute the average of numbers. If the average needs to be computed again and again with different numbers the same statements will appear again and again in the program. 
+
+```
+number_list = [1, 2, 4, 3, 5, 6] 
+
+total = 0 
+average = 0 
+count = len(number_list) 
+
+#Compute the total first 
+
+for number in number_list: 
+    total = total + number 
+
+average = total / count 
+
+print("first average is    ", average) 
+
+#.....some code in between 
+#.........................
+#.........................
+
+#Again need to compute the average of different set of numbers 
+
+number_list = [11, 22, 41, 31, 51, 61] 
+
+total = 0 
+average = 0 
+count = len(number_list) 
+
+#Compute the total first 
+
+for number in number_list: 
+    total = total + number 
+
+average = total / count 
+
+print("second average is    ", average) 
+```
+
+**Function definition** 
+
+The statements computing average can be enclosed into a block that is function. 
+
+Function may or may not accept input but will carry out the designated operations. In return, it may or may not return the outcome. 
+
+Let's define a function for computing the average. It will accept a list of numbers as input and will produce the average as outcome. 
+
+```
+
+#function definition, starts with keyword def followed by name of function
+
+def compute_average(number_list):
+
+    #Initialize required variables 
+
+    total = 0 
+    average = 0 
+    count = len(number_list) 
+
+    #Compute the total first 
+
+    for number in number_list:
+        total = total + number 
+
+    #Compute the average 
+
+    average = total / count 
+
+    #Return average to the calling code 
+
+    return average 
+```
+
+Function may not accept any input, may not produce any outcome. For example, the following function just does some printing of characters. 
+
+```
+def print_welcome_message(): 
+    print('*' * 12) 
+    print("Welcome to ABC software") 
+    print() 
+    print() 
+    print("(c) All rights reserved.")
+```
+
+A function may accept input values, do some computation, but does not return any value to the calling code. For example, the following function accepts number list, finds out even and odd numbers and prints them. 
+
+```
+def find_even_odd(number_list): 
+
+    #Initialize data structures to hold list of even and odd numbers 
+
+    even_numbers = [] 
+    odd_numbers = [] 
+
+    #Find the even and odd numbers and place them in right structure 
+
+    for number in number_list:
+        if number % 2 == 0: 
+            even_numbers.append(number) 
+        else:
+            odd_numbers.append(number) 
+
+    #Show the list of even and odd numbers 
+
+    print("Even numbers ") 
+    for number in even_numbers: 
+        print(number)
+
+    print("Odd numbers ")
+    for number in odd_numbers: 
+        print(number) 
+```
+
+**Calling a function** 
+
+In a program we can call a function, can pass the arguments to it, and can accept outcome from it. 
+
+```
+#Prepare input for the function 
+
+number_list = [1, 2, 3, 4, 5, 6] 
+
+#Call the function for average computation with input values 
+
+average = compute_average(number_list) 
+
+print("The average is ", average)
+```
+
+Output: 
+
+```
+The average is  3.5
+```
+
+The same function can be called again and again with different input values. 
+
+```
+#Prepare input for the function 
+
+number_list = [11, 22, 41, 31, 51, 61] 
+
+#Call the function for average computation with input values 
+
+average = compute_average(number_list) 
+
+print("The average is ", average) 
+```
+
+Output: 
+
+```
+The average is  36.166666666666664
+```
+
+Let's see how the print related function can be called. 
+
+```
+#Call print_welcome_message function which does not accept any input, does not give any output, 
+#but produces some characters on console 
+
+print_welcome_message() 
+```
+
+Output: 
+
+```
+************
+Welcome to ABC software
+
+
+(c) All rights reserved.
+```
+
+Let's call the function for finding out even / odd numbers from given number list. 
+
+```
+#Prepare number list 
+
+number_list = [1, 2, 3, 4, 5, 6] 
+
+find_even_odd(number_list) 
+```
+
+Output: 
+
+```
+Even numbers 
+2
+4
+6
+Odd numbers 
+1
+3
+5
+```
+
+
+
 
 
 
