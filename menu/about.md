@@ -12,6 +12,8 @@ permalink: /about
 
 **is beneficial.** 
 
+**Mingyur Rinpoche on Meditation: [Link](https://youtu.be/LDVyOnf0t9M?si=iIsFI_Mu_XUCH21_).**
+
 **Speculation:**  
 
 **Consider the causal network behind anything.**
