@@ -12,15 +12,13 @@ permalink: /about
 
 **is beneficial.** 
 
-**Mingyur Rinpoche on Meditation: [Link](https://youtu.be/LDVyOnf0t9M?si=iIsFI_Mu_XUCH21_).**
-
 **Speculation:**  
 
 **Consider the causal network behind anything.**
 
 **Sapolsky, Harris on having no free will: [Link](https://youtu.be/jfbhx8Odb50?si=Vg9xLSP8tAAeqy9x&t=186), [Link](https://youtube.com/shorts/_QaFOmtvtSU?si=0jz2bKdQBdt5Qzfv).**
 
-**${ \boxed{\star} }$ We develop compassion for all living beings?** 
+**We develop compassion for all living beings?** 
 
 **Speculation:** 
 
