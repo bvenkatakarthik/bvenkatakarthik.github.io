@@ -12,8 +12,6 @@ permalink: /about
 
 **is beneficial.**
 
-**Mindfulness exercises: [Link](https://www.mayoclinic.org/tests-procedures/meditation/in-depth/mindfulness-exercises/art-20046356).** 
-
 **Speculation:**  
 
 **Consider the causal network behind anything.**
