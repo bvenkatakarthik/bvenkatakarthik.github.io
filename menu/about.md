@@ -12,6 +12,8 @@ permalink: /about
 
 **is beneficial.**
 
+**Meditation practice: [Link](https://www.mindful.org/how-to-meditate/).**
+
 **Speculation:**  
 
 **Consider the causal network behind anything.**
