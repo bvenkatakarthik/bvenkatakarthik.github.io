@@ -6,11 +6,11 @@ permalink: /about
 
 **I am curious about cultivating Happiness in Life.**
 
-**Speculation:**
+**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
 
-**Meditation practice can be beneficial.** 
+**${ \boxed{\star} }$ (non-judgmental attention to the present moment)**
 
-**Meditation practice: [Link](https://www.mindful.org/how-to-meditate/).**
+**is beneficial.**
 
 **Speculation:**  
 
