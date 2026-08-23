@@ -20,7 +20,7 @@ All rights of the content go to BITS Pilani.
 
 
 **ROUGH NOTES (!)**    
-Updated: 19/8/2026 
+Updated: 23/8/2026 
 
 [**Introducing Data Analysis**] 
 
@@ -4787,6 +4787,424 @@ Odd numbers
 3
 5
 ```
+
+[**Graphs**] 
+
+**A guide to charts** 
+
+Often use "charts" and "graphs" to describe the largest family of visualisations. 
+
+* May choose the term based on an academic convention. 
+
+* Sometimes the terms complement one another. 
+
+* Sometimes they are synonymous. 
+
+Charts display many forms of analysis in a visual format. 
+
+* Comparision 
+
+* Relationship 
+
+* Distribution 
+
+* Composition 
+
+No two charts tell the same story!
+
+**What is a Chart?** 
+
+A chart is a representation of data in the form of a graph, diagram, map, or tabular format. 
+
+* Could make the other two families, Geospatial and Tables. 
+
+* Subfamilies of it distinguish between them to help identify when one works better for data.
+
+The most common charts: 
+
+* Scatterplots 
+
+* Bar Charts 
+
+* Line Graphs 
+
+* Pie Charts 
+
+These chart types, or a combination of them, provide answers to most questions with relational data serving as the backbone of performing visual analysis on non-geospatial data. 
+
+Need to consider the kind of data that you want to present and the implications that you want audience to draw from that data before you decide what to use. 
+
+**How to Use Charts?** 
+
+Visualising data with charts relies on drawing points using cartesian coordinates (e.g. X, Y, Z) based on a set of dimensions and measures. 
+
+Dimensions (e.g. categories, dates, etc.) group the measures (e.g. profits, deaths, temperature, etc.) for analysis. 
+
+Measures are then rendered on the corresponding coordinates to create a visualisation. 
+
+Some types of visualisations excel at displaying many dimensions (e.g. ordered bar charts), while others can only support a few with clarity (e.g. pie charts). 
+
+**Key Types of Charts** 
+
+Pie Chart: 
+
+A common, but limited, visualisation used to show how a few dimensions compare to one another and the whole. 
+
+Bar Chart: 
+
+Used to categorise elements based on size. 
+
+Can be ordered or unordered based on the nature of the dimensions. 
+
+Line Chart: 
+
+Best used to show trends across time intervals. 
+
+Multiple lines can be used to compare categories within a dimension. 
+
+<div align="center">
+    <img src="https://c.l3n.co/b3vgpm.png"/> 
+</div>
+
+Scatterplot: 
+
+Used to explore the correlation between two measures with independent axes. 
+
+Often combined with trendlines. 
+
+<div align="center">
+    <img src="https://c.l3n.co/b3v10o.png"/> 
+</div>
+
+Histogram: 
+
+Histograms split a single continuous measure into bins, or groups, to analyse distribution. 
+
+<div align="center">
+    <img src="https://d.l3n.co/b3vRB9.png"/> 
+</div>
+
+Bullet Graph: 
+
+A bullet graph takes a bar chart and adds additional elements to create a compact way to analyse performance against a goal or threshold. 
+
+<div align="center">
+    <img src="https://c.l3n.co/b3v6JC.png"/> 
+</div>
+
+Packed Bubble Chart: 
+
+A packed bubble chart uses size as the primary visual element to allow for comparision between categories. 
+
+<div align="center">
+    <img src="https://b.l3n.co/b3vCS5.png"/> 
+</div>
+
+Box and Whisker: 
+
+A box and whisker plot shows the range of values along with the average and interquartile ranges. 
+
+<div align="center">
+    <img src="https://b.l3n.co/b3vVRT.png"/> 
+</div>
+
+Treemaps: 
+
+A treemap breaks the whole into its parts using a quantitative measure to determine the size of each square. 
+
+<div align="center">
+    <img src="https://c.l3n.co/b3vBIr.png"/> 
+</div>
+
+[**Tables**] 
+
+**Tables: Aka "Crosstabs" or "Matrices"** 
+
+Focus on individual values rather than using visual styling. 
+
+One of the most common ways of displaying data, and an important way people analyse data. 
+
+Reading numbers is actually a linguistic exercise. Focus is not inherently visual. Visual elements can be layered on to tables to make them more powerful and easier to digest. 
+
+**Tables: Usage** 
+
+Often interact with tables embedded on websites, as part of menus at restaurants, or in the course of Microsoft Excel. 
+
+See tables everywhere so it's critical to know how to read them and make the most of the information they present. 
+
+For analysts and knowledge workers, it is important to understand how they can make it easier for their audience to understand. 
+
+**What is a Table?** 
+
+Like most charts, a table organises data by axis: 
+
+* Rows are the x-axis 
+
+* Columns are the y-axis 
+
+Common convention, because tables are read, uses the x-axis to display the categories, the y-axis to display the values within each measure, the columns being labeled to clearly indicate their meaning. 
+
+Unlike most charts, tables can display qualitative data in an organised manner, highlight relationships between them. 
+
+**Key Types of Tables** 
+
+Highlight Tables and Heatmaps: 
+
+A heatmap uses colour and size to show the values of a measure. 
+
+Highlight tables focus solely on colour. 
+
+<div align="center">
+    <img src="https://b.l3n.co/b44idT.png"/> 
+</div>
+
+Text Tables: 
+
+A text table, or crosstab, presents individual values in rows and columns most often used for description or summary. 
+
+<div align="center">
+    <img src="https://b.l3n.co/b440a7.png"/> 
+</div>
+
+**How to Use Tables?** 
+
+Analysts tend to use tables when they want to see individual values. Make it easy to identify measures across a set of intervals or dimensions. 
+
+For eg: 
+
+* What was the company's profit in Nov 2024? 
+
+* How many sales did each person close in 2023? 
+
+A summary table can effectively describe a large data set, providing subtotals and grand totals for each interval or dimension. 
+
+Tables and crosstabs are useful for performing comparative analysis between specific points of data. Easy to create. Can show key insight with ease. 
+
+**Table: Challenges** 
+
+Tables do not scale well! 
+
+If the table has more than 10 to 15 rows and 5 columns it becomes hard to read, understand, and gain insight from it. 
+
+Because a table activates the language systems within the brain while visualising data activates the visual systems. 
+
+**Table: Improvisations** 
+
+Add visual elements to the table to help end users gain insight from the data faster than a basic table. 
+
+Use colour gradients and size to help viewers identify patterns and outliers. 
+
+Add icons to help the viewer identify a change in measures between dimensions. 
+
+Use distinct marks to draw attention to relationships better than a table of raw data. 
+
+[**Geospatial (Maps)**] 
+
+Geospatial visualisations, such as maps, depict data based on physical locations. 
+
+While often grouped with charts, we will treat them as distinct entities, which encourages innovative approaches to visual analytics. 
+
+Geovisualisation overlays variables on maps using latitude and longitude coordinates to enhance understanding and insight. 
+
+**Geospatial Visualisations: Usage** 
+
+Geospatial visualisations have been used historically to map illness, resources, and for navigation. 
+
+* Charles Minnard created a notable geospatial visualisation detailing Napoleon Bonaparte's defeat at Waterloo, incorporating factors like temperature, environment, and army size. 
+
+In modern times 
+
+* Google Maps and similar applications represent a prevalent use of geospatial visualisations. 
+
+**What is a Geospatial Visualisation?** 
+
+HIghlights the connection between data and physical location for generating insights. 
+
+* Spatial analysis involves any positional data, emphasising the uniqueness of geospatial visualisations. 
+
+The key distinction lies in scale: 
+
+* Circuit diagrams on microchips explore positions, they are not geospatial as they don't map to Earth or other planets. Maps of stars aren't geospatial, but maps of planetary surfaces like Mars are! 
+
+**Maps** 
+
+Geospatial visualisations primarily center around maps, which can range from depicting local features like streets and parks to global boundaries. 
+
+Maps serve as a platform for integrating additional data, providing context through shapes and colors that can shift visual emphasis. 
+
+Maps are instrumental in problem identification, change tracking, trend understanding, and forecasting related to specific geographic locations and time periods. 
+
+**Common Pitfalls** 
+
+Geospatial visualisations emphasise the physical relationship between data points. 
+
+Are susceptible to common pitfalls: 
+
+Scaling issues: Changes in map size can influence data interpretation. 
+
+Auto-correlation: Proximity on a map can suggest relationships between data points, even if they are unrelated. 
+
+**Key Types of Geospatial Visualisations** 
+
+Proportional Symbol Maps 
+
+* Symbols placed at locations represent events of interest. 
+
+* Measures are represented by shapes using size and color to display values. 
+
+<div align="center">
+    <img src="https://c.l3n.co/b4pjEr.png"/> 
+</div>
+
+Chloropleth, Isopleth, Area Maps 
+
+* Area maps represent values by different shades of color over a geographic region. 
+
+* Chloropleth rely on boundaries, while isopleths rely on density to display the data. 
+
+[**Infographics**] 
+
+**What is Infographic?** 
+
+A visual tool used to communicate data, ideas and knowledge effectively by blending visual elements. 
+
+* Such as charts, diagrams, and illustrations. 
+
+* With concise text to simplify complex topics. 
+
+* Serves as a powerful means to convey intricate information in an engaging visual manner. 
+
+Despite seeming modern, infographics have existed for a significant period and have recently gained immense popularity. 
+
+**Infographics: Examples** 
+
+<div align="center">
+    <img src="https://b.l3n.co/bKpWza.png"/> 
+</div>
+
+<div align="center">
+    <img src="https://d.l3n.co/bKpiwe.png"/> 
+</div>
+
+**Infographics: Usage** 
+
+A visual representation of data, such as a chart, graph, or image, accompanied by minimal text designed to provide a clear and easily understood summary of a complex topic. 
+
+Marketers can use infographics to increase website traffic, boosty visibility and brand awareness, and lift engagement. 
+
+Educators and trainers can use infographics to simplify complex information and make it more understandable. 
+
+**Types of Infographics** 
+
+* Timeline based. 
+
+* Hierarchical. 
+
+* Single Chart. 
+
+* Location Base. 
+
+A timeline looks at how a subject has changed over time. 
+
+A hierarchical infographic stacks items or subjects based on a predefined "level". 
+
+A single chart is a chart (such as a bar or line graph) that visualises data on a subject. 
+
+ A location based infographic uses a map to visualise geographic data. 
+
+ Designers start by researching the topic and gathering data and then organising it into a visual format. Can include creating charts, graphs, maps, timelines or other visuals to help tell the story. 
+
+ As infographics popularity has grown, infographic creators have become more creative with their designs, using animations and interactive elements to provide a more engaging experience for viewers. 
+
+ People and organisations don't have to be professional designers in order to create an infographic. Many online infographic-making tools that make it easy for anyone to make engaging visuals from data. 
+
+ Programs come with templates and design options. Can customise infographic without any coding or graphic design experience. 
+
+ Once the infographic is designed, can be shared with viewers online via social media platforms, or through print materials, like brochures and posters. 
+
+ [**Why to Use Right Type of Visualisation?**] 
+
+ **Visualisations** 
+
+ Various visualisation tools are available for data analysis. 
+
+ With some serving specialised roles, others being more general. 
+
+ * Bar charts can meet a wide range of needs. 
+
+ * Word clouds are only useful in specific, limited situations. 
+
+ Selecting the right type of visualisation is crucial for effective analysis. 
+
+ **Key Considerations** 
+
+ * Purpose of Analysis 
+
+ * Data Display 
+
+ * Audience Needs 
+
+ Purpose of Analysis: 
+
+ Understand the goal of your data analysis. 
+
+ Data Display: 
+
+ Consider the nature of the data you need to visualise. 
+
+ Audience Needs: 
+
+ Think about what your audience requires from the visualisation. 
+
+ Attempt to define the purpose, data, and audience needs before building the visualisation even if it's not always fully possible. 
+
+ **Audience Needs Priority!** 
+
+ Understanding your audience's needs is the most crucial consideration! 
+
+ Purpose of good visualisations: 
+
+ * Provide insights from complex data quickly. 
+
+ * Highlight relationships between measures. 
+
+ * Explain concepts and tell stories. 
+
+ * Engage the mind beyond what raw data can achieve. 
+
+ Risk of Wrong Visualisation: 
+
+ Incorrect visualisation can lead to confusion or indifference. 
+
+ **Set Specific Purpose** 
+
+ Declaring a specific purpose helps align visualisation choices with audience needs. 
+
+ Specific purpose: 
+
+ * Some visualisations are designed to accelerate data analysis. 
+
+ * Certain visualisations present information beautifully to influence the viewer's emotions. 
+
+ * Some visualisations effectively depict concepts, processes, or strategies. 
+
+ Each analytical purpose is best supported by a particular set of visualisations. 
+
+ **Understand Data** 
+
+ Know your data well to determine suitable visualisation types! 
+
+ * Some charts support limited dimensionality. 
+
+ * Other charts excel at showcasing relationships between multiple categories. 
+
+ Data-Guided Choices: 
+
+ * Use the data's structure and nature to guide visualisation selection. 
+
+ Experimentation: 
+
+* When uncertain, experiment with different visualisations. 
 
 
 
