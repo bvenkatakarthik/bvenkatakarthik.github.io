@@ -6,9 +6,9 @@ permalink: /about
 
 **I am curious about cultivating Happiness in Life.**
 
-**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_2026_07_23)**
+**Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Langer_2026_08_4)**
 
-**${ \boxed{\star} }$ (non-judgmental attention to the present moment)**
+**${ \boxed{\star} }$ (noticing things)**
 
 **is beneficial.**
 
