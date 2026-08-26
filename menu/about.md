@@ -82,7 +82,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 | ![](https://d.l3n.co/c9Npoz.png) | 
 |:--:| 
 | ${ \Large \textbf{The World: Life} }$  |
-||${ \Large \textbf{Cycles of "Birth, Experience, Death"} }$ ||
+| ${ \Large \textbf{Cycles of "Birth, Experience, Death"} }$  |
 
 
 
