@@ -56,11 +56,14 @@ Idea: Build up confidence before the interview. Do great, get the job offer.
     * Industry 
     * Specific role 
 
+
 * Start strong; do great work with new job. 
+
 
 <div align="center">
     <img src="https://d.l3n.co/bHGY2i.png"/> 
 </div>
+
 
 Managers: 
 
@@ -141,9 +144,6 @@ Quote of the day:
 Free education is abundant, all over the Internet. It's the desire to learn that is scarce. - Naval Ravikant. 
 ```
 
-- - - 
-
-[**What do you mean by "business"?**] 
 
 
 
