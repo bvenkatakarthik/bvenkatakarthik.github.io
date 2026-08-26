@@ -141,7 +141,11 @@ Let's learn the basics quickly; then practice applying it.
 Quote of the day: 
 
 ```
-Free education is abundant, all over the Internet. It's the desire to learn that is scarce. - Naval Ravikant. 
+Free education is abundant, all over the Internet. 
+
+It's the desire to learn that is scarce. 
+
+- Naval Ravikant. 
 ```
 
 
