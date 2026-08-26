@@ -42,6 +42,8 @@ permalink: /about
 
 **Life evolved over ${ \mathbf{1,000,000,000} }$s of years of a survival game.** 
 
+**I am curious about the many cycles of "Birth, Experience, Death".**
+
 **Q) Why do we have The World, with these features?** 
 
 Hi I am Karthik, a Math and AI enthusiast. 
