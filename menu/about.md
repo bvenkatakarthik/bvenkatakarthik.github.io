@@ -12,6 +12,8 @@ permalink: /about
 
 **is beneficial.**
 
+**Greater Good Center's advice: [Link](https://greatergood.berkeley.edu).**
+
 **Speculation:**  
 
 **Consider the causal network behind anything.**
@@ -22,7 +24,9 @@ permalink: /about
 
 **Speculation:** 
 
-**Wilkinson, Sapolsky on harms of socioeconomic inequality: [Link](https://youtu.be/cZ7LzE3u7Bw?si=h7J_01w4dzMKhvos), [Link](https://youtu.be/A4UMyTnlaMY?si=sMb4jsZPYnkMxbk1).**
+**Wilkinson, Sapolsky, Farah on harms of socioeconomic inequality:** 
+
+**[Wilkinson](https://youtu.be/cZ7LzE3u7Bw?si=h7J_01w4dzMKhvos), [Sapolsky](https://youtu.be/A4UMyTnlaMY?si=sMb4jsZPYnkMxbk1), [Farah](https://youtu.be/h1k3kF8BMTo?si=6Gz_xShMgK1jXj6A).**
 
 **Q) Why do we have The World, with these features?** 
 
