@@ -314,7 +314,7 @@ Adding a little bit of business is like putting salt on your food. It makes it t
 
 > Personal: As a math grad, maybe engaging with math can be made more gamified and socialised than it is now. It might be a good thing to have. 
 
-> Personal: Some current examples at school level include MathCounts, Math Clubs, AoPS FTW, there used to be Math FIghts. Some current examples at uni level include Math Stackexchange, Math Overflow, etc.
+> Personal: Some current examples at school level include MathCounts, Math Clubs, AoPS FTW, there used to be Math FIghts. I remember learning calculus on a game like android app as well, I don't remember it's name. Some current examples at uni level include Math Stackexchange, Math Overflow, etc.
 
 > Personal: Maybe AI can be integrated as well.
 
