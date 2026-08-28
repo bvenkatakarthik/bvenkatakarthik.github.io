@@ -12,6 +12,8 @@ permalink: /about
 
 **is beneficial.**
 
+**Compassion, gratitude, awe also seem to be beneficial.**
+
 **Speculation:**  
 
 **Consider the causal network behind anything.**
