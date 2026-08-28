@@ -12,7 +12,7 @@ permalink: /about
 
 **is beneficial.**
 
-**Compassion, gratitude, awe also seem to be beneficial.**
+**Compassion also seem to be beneficial.**
 
 **Speculation:**  
 
