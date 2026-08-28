@@ -316,6 +316,8 @@ Adding a little bit of business is like putting salt on your food. It makes it t
 
 > Personal: Some current examples at school level include MathCounts, Math Clubs, AoPS FTW, there used to be Math FIghts. I remember learning calculus on a game like android app as well, I don't remember it's name. Some current examples at uni level include Math Stackexchange, Math Overflow, etc.
 
+> Personal: Inquiry based Learning in Mathematics has already gained some traction. MathOverflow post: [Link](https://mathoverflow.net/questions/119621/learning-through-guided-discovery).  
+
 > Personal: Maybe AI can be integrated as well.
 
 <div align="center">
