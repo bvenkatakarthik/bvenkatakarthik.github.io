@@ -12,7 +12,7 @@ permalink: /about
 
 **is beneficial.**
 
-**Greater Good Center's advice: [Link](https://greatergood.berkeley.edu).**
+**Waldinger on the importance of good relationships: [Link](https://youtu.be/8KkKuTCFvzI?si=5lStkVnJs2WhW6yt).**
 
 **Speculation:**  
 
