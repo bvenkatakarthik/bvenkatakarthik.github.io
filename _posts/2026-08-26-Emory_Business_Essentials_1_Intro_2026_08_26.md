@@ -142,7 +142,6 @@ Quote of the day:
 
 ```
 Free education is abundant, all over the Internet. 
-
 It's the desire to learn that is scarce. 
 
 - Naval Ravikant. 
