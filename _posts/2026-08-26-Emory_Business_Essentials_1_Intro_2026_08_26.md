@@ -262,6 +262,76 @@ you learn it more than in one way.
 - Marvin Minsky. 
 ```
 
+[**Why does "business" matter?**] 
+
+This is for new graduates. 
+
+Let's stay open minded about business. It's more than just money and "greedy" corporations. 
+
+> Instructor: Sometimes businesses get a bad reputation in the news. You hear about bad apples that steal money or they do these things that hurt customers. There are bad actors out there, no question, but that is a really rare situation. 
+
+> Instructor: I'm going to give you several examples of why I feel that business is really a positive for society and therefore get you kind of excited about it. 
+
+> Instructor: Benefits to free markets. Business is very customer focused. If there's a lot of demand, ​you're going to find that a lot of supply comes. ​For example, if people really want ​frozen yogurt and when frozen yogurt store opens, ​but there's so much demand ​that there are people lining up, ​trust me, you will see ​another frozen yogurt shop open up right next door. ​It's the idea that supply will find the demand.
+
+> Instructor: Innovation. Think about all the innovation and cool products that we have. (Like we saw earlier). It's easy to take a lot of that for granted. 
+
+> Instructor: Win-win. Business tends to align incentives. Companies want to innovate, earn your business so they can get paid. It's a win-win. (Win-win is an important concept in business. As graduates, when you are interviewing at a company, ​think about the business at there, ​and what does the win-win look like for them? ​As a manager a lot of times, you'll have a boss. ​What's a win-win for you and them? As an entrepreneur, same thing).
+
+> Instructor: Democratized access. There's never been a better time for you to be a business owner. It's a very democratized access. If you play guitar very well and you're a great singer, ​you can upload things to Spotify. You can put it on Instagram. ​You can put it on YouTube. ​You can become famous. ​If you're good at Python and you use ​ChatGPT and you've created really good code, ​you can put it on GitHub and become famous. ​It's never been easier for you as ​a creator to put content up there. Think about me. ​I'm a faculty member at Emory, ​but one of hundreds, ​but if I'm good at it, ​I can package this up, ​put it on Coursera, and then you can ​enjoy this no matter where you live, ​Indonesia, Iceland, or India.
+
+> Instructor: Alleviating poverty. My undergraduate major was international relations, ​so I would study ​the development of economies and things like that. For most of history, ​everybody was really poor. ​For just thousands of years, everybody was poor. ​Over the last 40 years, ​with the real mega trend of free markets, ​especially in China and India, ​we have seen, ​by some estimates, 500 million people ​escape really the worst kind of poverty. ​That's a half a billion people who are healthier, ​and they're feeding their sons and daughters, ​and they're making a good life for themselves, ​so even that alone, ​we should clap, right and be happy about that.
+
+> Instructor: Case study - Jio. Over the last maybe 5 or 6 years, Reliance. (It's like General Electric in the US, or Samsung, Hyundai in Korea, one of the really big conglomerates in India). They decided to invest in 4G technology. I think they spent about `$ 30 billion`, put up cell towers, and created very low-cost phones, and even gave away Internet data packages for free. They took some risk developing the phone, ​distributing it, creating the cellphone towers. The net result of it is maybe 300 million Indians, ​especially those who live in ​the rural parts of India, are now online. ​You have grandmas and grandpas who ​maybe they don't even know how to ​really read or even write ​formally and yet they're able voice or text. Maybe they can check the prices of the onions and the potatoes that they farm. Basically it democratized access to Internet for 300 million people, that's incredible. 
+
+> Instructor: Many businesses. We're going to talk about ​all different kinds of companies, ​and some are doing really great work for society, ​and some are just creating ​video games to keep us entertained. ​What I would argue is that with business, ​they are trying very hard ​to keep you happy as a customer, ​and that is a win-win for everybody.
+
+Massive benefits to free markets, business.
+
+1 It's all about supply and demand; what do customers want? 
+
+* Think about all the great products we got (cell phones, WiFi).  
+
+2 Align incentives; people get "paid" for their work, ingenuity. 
+
+* Democratized access to customers: Spotify, GitHub, Etsy, Youtube. 
+
+3 It's not perfect - of course - but it's also relieved a LOT of poverty. 
+
+* Last 40 years, 500M+ people escaping dire poverty. 
+
+<div align="center">
+    <img src="https://c.l3n.co/bSjqaq.png"/> 
+</div>
+
+Double your impact by adding in "business" know-how 
+
+Graduates you may have studied any subject. Maybe you studied: 
+
+Anthropology, Biology, Computer Science, Communications, Economics, Education, Engineering, Law, Languages, Nursing, Political Science, Psychology 
+
+Adding a little bit of business is like putting salt on your food. It makes it taste better. 
+
+> Personal: As a math grad, maybe engaging with math can be made more gamified and socialised than it is now. It might be a good thing to have. 
+
+> Personal: Some current examples at school level include MathCounts, Math Clubs, AoPS FTW, there used to be Math FIghts. Some current examples at uni level include Math Stackexchange, Math Overflow, etc.
+
+> Personal: Maybe AI can be integrated as well.
+
+<div align="center">
+    <img src="https://c.l3n.co/bSjfMv.png"/> 
+</div>
+
+Quote of the day 
+
+```
+Forever is composed of nows. 
+
+- Emily Dickinson. 
+```
+
+
+
 
 
 
