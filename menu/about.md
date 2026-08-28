@@ -12,8 +12,6 @@ permalink: /about
 
 **is beneficial.**
 
-**Waldinger on the importance of good relationships: [Link](https://youtu.be/8KkKuTCFvzI?si=5lStkVnJs2WhW6yt).**
-
 **Speculation:**  
 
 **Consider the causal network behind anything.**
