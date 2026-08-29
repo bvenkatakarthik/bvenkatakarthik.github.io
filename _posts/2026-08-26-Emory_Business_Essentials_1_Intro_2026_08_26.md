@@ -13,7 +13,7 @@ Instructor: John Kim.
 **Course - 1 : Introduction** 
 
 **ROUGH NOTES (!)**    
-Updated: 28/8/2026 
+Updated: 29/8/2026 
 
 [**Who should take this course?**] 
 
@@ -331,6 +331,56 @@ Forever is composed of nows.
 
 - Emily Dickinson. 
 ```
+
+[**Narayana Health - Successful Indian health system**] 
+
+Website: [https://www.narayanahealth.org/](https://www.narayanahealth.org/). 
+
+Narayana Health is a publicly-traded set of hospitals, based in India, and founded by Dr. Devi Shetty - the cardiac surgeon to Mother Teresa. They pioneered a high-quality, extremely efficient, and less expensive way to treat patients.
+
+Case study: [Link](https://www.commonwealthfund.org/sites/default/files/documents/___media_files_publications_case_study_2017_nov_taylor_expanding_lowcost_highquality_model_narayana_cs.pdf). 
+
+> From the case study: Around the time Narayana Health was founded, approximately 2,400,000 Indians required heart surgery annually, but prohibitive costs and a shortage of providers meant only 60,000 recieved it. 
+
+Instructor: It's almost unbelievable, but they have quality for CABG (heart surgery) in par with the United States, but at less than 1/10 the cost. . . Incredible value (saving someone's life) and a low cost (1/10th of the US). It's a remarkable story of strategy, vision, leadership, and operational efficiency.
+
+Finally, the health system is publicly-traded on the Bombay stock exchange because the founder says, "Charity is not scalable, whereas good business principles are." He also said, " If all the money in the world is pooled together, it will not be sufficient to fund healthcare for all citizens of the world for a year."
+
+[**Pareto Principle. The 80/20 rule**] 
+
+The Instructor mentions he believes in the 80/20 rule. 
+
+Videos on the 80/20 rule of thumb: [Link](https://youtu.be/lsGwqk_agcQ?si=Gk8wfqGIAwJHj74g), [Link](https://youtu.be/F-I-BVqMiNI?si=U1gjWqGB13TFd9i1), [Link](https://youtu.be/CsRLVZTYpGo?si=sJULs2RjhkdgaTIX).  
+
+As per the Sprouts video:
+
+The 80/20 rule of thumb: 
+
+Often `20 %` of the causes create around `80 %` of the outcomes. (The remaining causes are responsible for the rest). 
+
+Pareto observed: 
+
+* `20 %` of the pea pods in his garden were responsible for `80 %` of the peas. (This is unintuitive). 
+
+* `80 %` of all the land in Italy was owned by `20 %` of it's people. 
+
+It's a useful rule of thumb. 
+
+Example: 
+
+* Business owners often realise about `80 %` of a company's income comes from `20 %` of the customers. (And as a result know who to give special attention to). 
+
+* Constructors who find out that `20 %` of the hazards result in `80 %` of the injuries can take important precautions to eliminate risks. 
+
+* Software engineers who know that fixing the important `20 %` of the most reported bugs eradicates `80 %` of the errors can spend their time on the important `20 %` first. 
+
+Likewise for wealth. 
+
+Pareto also warns people about relying too much on the principle. 
+
+> To do: A heuristic proof for the 80/20 rule. There seem to be some toy-economy simulations which validate this rule, like in the MindYourDecisions video and Jordan Peterson video. 
+
+
 
 
 
