@@ -13,7 +13,7 @@ Instructor: John Kim.
 **Course - 1 : Introduction** 
 
 **ROUGH NOTES (!)**    
-Updated: 29/8/2026 
+Updated: 8/9/2026 
 
 [**Who should take this course?**] 
 
@@ -379,6 +379,120 @@ Likewise for wealth.
 Pareto also warns people about relying too much on the principle. 
 
 > To do: A heuristic proof for the 80/20 rule. There seem to be some toy-economy simulations which validate this rule, like in the MindYourDecisions video and Jordan Peterson video. 
+
+[**Value stack = willingness to pay, price, cost**]
+
+<div align="center">
+    <img src="https://c.l3n.co/bPbAZP.png"/> 
+</div>
+
+Some questions which one might ask. 
+
+Graduate: "Why is pricing such a big deal? Aren't prices just set?" 
+
+Manager: "What can my company do to raise customers' willingness to pay?" 
+
+Entrepreneur: "Who are the most profitable clients?" 
+
+<div align="center">
+    <img src="https://d.l3n.co/bes2d9.png"/> 
+</div>
+
+What are profits? `Price - costs.`
+
+If you can raise price or lower costs = more profits. 
+
+(Personal: This taken at face value like a math result seems wrong. If one for eg raises price too much and lowers cost too much, it causes supply-demand fluctuation and business might tank. Ok this is addressed in the next slide) 
+
+> Instructor: Pricing. Why is pricing such a big deal? ​What can I do if I work in a company to either ​raise price or lower cost to be more profitable? ​Then as a entrepreneur, ​who are my most profitable customers? 
+
+> Instructor: You might be selling an ice cream cone, ​and your costs are `$ 5` per cone. That includes, the cone, ​the ice cream, even the employee ​that serves it to your customers. ​It might even be for the shop, you're paying rent. ​Suppose you are selling at `$ 7` per cone to your customer. You have `$ 7 - $ 5 = $ 2` profit. Super simple so far. 
+
+<div align="center">
+    <img src="https://d.l3n.co/besjl5.png"/> 
+</div>
+
+Why not price the ice cream at `$ 8` or `$ 9` or higher? 
+
+Good thing = profit. Bad thing = lower ice cream sales.
+
+> More profit per ice cream cone. Less number of sales. 
+
+<div align="center">
+    <img src="https://c.l3n.co/bes0bz.png"/> 
+</div>
+
+Your pricing is limited by customers' willingness-to-pay. 
+
+Also, the complexity is that people's WTP varies a lot. 
+
+Why does "willingness to pay" vary? 
+
+* Different by person, by occasion. 
+
+* Any competition? Any substitutes? 
+
+* Is it hot summer or cold winter?
+
+* What's your favorite flavor? 
+
+> Instructor: Cost, Price, Willingness to pay. These determine how much value there is, how much value they're going to keep the customer, and how much value you're going to keep as profit. 
+
+> Instructor: Willingness to pay is hard to determine. Depends on kind of person, occasion, competition, etc.
+
+<div align="center">
+    <img src="https://b.l3n.co/besZtT.png"/> 
+</div>
+
+If you could figure out "willingness to pay" for each of your different customers, you would be a billionaire... 
+
+> Instructor: Figuring out the WTPs is difficult. The simpler answer is, as a business person, you need to create as much value as possible. If you can raise the willingness ​to pay as high as possible, ​then you have ​more capability to price before somebody says no.
+
+<div align="center">
+    <img src="https://c.l3n.co/bPwgia.png"/> 
+</div>
+
+Instructor: ChatGPT exercise. How is the pricing strategy different for these companies? Louis Vuitton and Hermes. They're both very expensive luxury brands. 
+
+> Instructor: From my perspective they're both luxury. But their pricing strategy is quite different. Other egs: Pricing strategy of Nike vs Supreme, Pricing strategy of Costco vs Walmart, etc. There is a lot of art and science in pricing. 
+
+<div align="center">
+    <img src="https://b.l3n.co/bPwEz1.png"/> 
+</div>
+
+Key takeaways 
+
+Two ways to increase profit `%`: raise price and/or lower costs. 
+
+With a high willingness to pay and low costs you have a choice: 
+
+* Price higher for a premium (luxury product). 
+
+* Price lower to sell to more people (more sales, more market share). 
+
+Customers are different; they have different willingness to pay. 
+
+* This is why marketing is difficult; it's a science and an art. 
+
+* How much do they value your product, services? 
+
+> Opinion/Intuition: Suppose one has high WTP and low costs. Sort of doing the price lower to sell to more people does more good? For eg, Coursera seems like a good example, of a company sort of doing this. 
+
+<div align="center">
+    <img src="https://d.l3n.co/bPwCtK.png"/> 
+</div>
+
+Quote of the day: 
+
+```
+The worst crime against working people 
+is a company which fails to make a profit. 
+
+- Samuel Gompers
+```
+
+(Gompers was a union leader. Fascinatingly he was a very practical person). 
+
 
 
 
