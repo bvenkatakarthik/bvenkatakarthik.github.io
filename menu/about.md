@@ -14,7 +14,7 @@ permalink: /about
 
 **Compassion also seem to be beneficial.**
 
-**Perhaps: One should try to create more value than the value one consumes.**
+**${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
 **(I am very skeptical of the safety of psychedelics, but some of them apparently can be beneficial: [Link](https://youtu.be/3YDNMLPK3XE?si=OEQhUAIsp90DjcZO&t=3387), [Link](https://youtu.be/U_sFWG5WFjo?si=d03WnIPEK2ri4KLI))**
 
