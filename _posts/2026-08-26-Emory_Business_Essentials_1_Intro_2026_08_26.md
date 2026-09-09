@@ -15,7 +15,9 @@ Instructor: John Kim.
 **ROUGH NOTES (!)**    
 Updated: 9/9/2026 
 
-[**Module 1 Intro: What is MBE (Mastering Business Essentials)?**] 
+[**Module 1 Intro**]
+
+[**What is MBE (Mastering Business Essentials)?**] 
 
 When I was younger, I thought "business" was all about money and greedy companies. Now, I realize business is fascinating, empowering, and fun. Business = doing great work for customers and getting paid for the work. The world's biggest and most complex problems will be solved when government & business & community & individuals work together. There is not a single "skeleton key" answer, but learning the top 150+ MBE frameworks will help.
 
@@ -384,7 +386,9 @@ Pareto also warns people about relying too much on the principle.
 
 > To do: A heuristic proof for the 80/20 rule. There seem to be some toy-economy simulations which validate this rule, like in the MindYourDecisions video and Jordan Peterson video. 
 
-[**Module 2 Intro: Profits are oxygen; it keeps the business alive**] 
+[**Module 2 Intro**] 
+
+[**Profits are oxygen; it keeps the business alive**] 
 
 One of the simplest ways to think about profits is something called the value stack. Graphically, it looks like 3 Legos stacked on top of each other. The value stack looks simple, but it is crazy useful. It helps to visualize marketing, strategy, and pricing. You will see if used often in this specialization.
 
