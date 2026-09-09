@@ -13,7 +13,11 @@ Instructor: John Kim.
 **Course - 1 : Introduction** 
 
 **ROUGH NOTES (!)**    
-Updated: 8/9/2026 
+Updated: 9/9/2026 
+
+[**Module 1 Intro: What is MBE (Mastering Business Essentials)?**] 
+
+When I was younger, I thought "business" was all about money and greedy companies. Now, I realize business is fascinating, empowering, and fun. Business = doing great work for customers and getting paid for the work. The world's biggest and most complex problems will be solved when government & business & community & individuals work together. There is not a single "skeleton key" answer, but learning the top 150+ MBE frameworks will help.
 
 [**Who should take this course?**] 
 
@@ -380,6 +384,10 @@ Pareto also warns people about relying too much on the principle.
 
 > To do: A heuristic proof for the 80/20 rule. There seem to be some toy-economy simulations which validate this rule, like in the MindYourDecisions video and Jordan Peterson video. 
 
+[**Module 2 Intro: Profits are oxygen; it keeps the business alive**] 
+
+One of the simplest ways to think about profits is something called the value stack. Graphically, it looks like 3 Legos stacked on top of each other. The value stack looks simple, but it is crazy useful. It helps to visualize marketing, strategy, and pricing. You will see if used often in this specialization.
+
 [**Value stack = willingness to pay, price, cost**]
 
 <div align="center">
@@ -492,6 +500,115 @@ is a company which fails to make a profit.
 ```
 
 (Gompers was a union leader. Fascinatingly he was a very practical person). 
+
+[**Why is value so subjective?**] 
+
+Key questions which one might ask.
+
+Graduate: "Why do some jobs pay so well?"
+
+Manager: "What's the value I am delivering at my company?" 
+
+Entrepreneur: "Why do I need to be unique, hard to copy-cat?" 
+
+<div align="center">
+    <img src="https://b.l3n.co/bPwLS0.png"/> 
+</div>
+
+Understanding the concept of value is critical for economics, finance, strategy, and marketing. Basically everything... 
+
+Every business wants to "create value". 
+
+* Useful to customers (eg, clean water). 
+
+* Can be exchanged, traded (eg, for money). 
+
+Yes, value can be very subjective. 
+
+* It depends on the person, context, preferences. 
+
+Yes, it depends on supply and demand. 
+
+* It depends on time frame, situation. 
+
+* It depends on the alternatives. 
+
+> Instructor: Value is subjective. Maybe there's 1,000 people watching these ​videos, and all of us have different interests and things that we like. ​One person might really enjoy going to a music concert, ​while the other person would prefer to go to a cricket match. 
+
+> Instructor: Value is influenced by situations. Like we discussed value and willingness to pay can vary by situation (eg, ice cream on a hot day vs on a cold day). 
+
+> Instructor: Value is influenced by supply and demand. Consider the beverages in the picture. So the red can, maybe you really want to drink that, and the value that you ​associate with that, would be higher if there's no other choices, say ​you go to a building and there's only one kind of drink that you can purchase. ​Well, I'm thirsty. ​It's valuable. But if I go into a building and there's a red machine, a blue machine, and ​also a water machine, and I have lots of choices. ​Then all of a sudden, depending on the supply and demand, ​my sense of value might differ.
+
+<div align="center">
+    <img src="https://d.l3n.co/bfIS6K.png"/> 
+</div>
+
+Successful businesses solve customers problems in unique ways
+
+Create massive value; something that customers "will pay for". 
+
+* What needs do people have, that are not being solved? 
+
+* Find an unserved, or underserved market. 
+
+* All people are not like you; stay open-minded. 
+
+> Eg: Underserved/Unserved market. Fenty by Rihanna. It is a cosmetic brand where they were able to match ​the skin tones of people who weren't being addressed in the market. ​A lot of the skin colors that were available didn't match what people needed. ​So Rihanna smartly said, hey, we can do better than that.
+
+> Eg: Underserved/Unserved market. Dirty Jobs, a TV show. The host Mike Rowe goes around the United States, ​and he finds people who are making very good money doing dirty things, ​cleaning out this, doing that. Things that are very unconventional. ​And some people might think, you know, very blue collar and not cool, ​not fun, right? ​But note: for a lot of the things that people don't want to do, somebody needs to do, ​and because nobody is doing that, there's a lot of demand. High demand, low supply means higher price. ​
+
+> Eg: Underserved/Unserved market. Airbnb. Suppose I'm going to go travel with my family, and I want to have a kitchen so ​I can cook, you know, delicious Korean food for dinner. ​Well, a lot of hotels don't offer that. ​And so all of a sudden, we're matching up supply with demand.
+
+For entrepreneurs: The more unique and "harder to copy" = better. 
+
+> Instructor: If you're doing something that is very easy to copy, ​you might make money in the short term, but in the long term, ​other people are going to copycat you and take your profits away.
+
+<div align="center">
+    <img src="https://d.l3n.co/bF4OKP.png"/> 
+</div>
+
+Key takeaways 
+
+Value is very subjective. 
+
+* What do you value that your best friend, spouse, doesn't value as much? 
+
+* Is there something that you value more than you used to? 
+
+Value can fluctuate depending on the relative demand or supply. 
+
+* Think about the shortage of "rare earth metals" used in electric vehicles. 
+
+* Think about boom in computing power and digital storage. 
+
+Find pockets of value. 
+
+* What do people really want, that there's not enough of? 
+
+* How can you create a customer? 
+
+> Instructor: ​If you can find something that people want and ​there's not enough of, that's a recipe for success. ​One example, when I was thinking about putting together a coursera specialization ​on management consulting, I went to coursera and ​I typed in management consulting. ​And there were a couple of courses here and there, but it wasn't part perfect and ​so for me, I realized, I've got experience in consulting, ​I love talking about it, I've been blogging about it for 13 years. ​Why don't I create a coursera specialization on management ​consulting, there's high demand and low supply? ​I'm creating a lot of value for people.
+
+<div align="center">
+    <img src="https://d.l3n.co/bF4wSD.png"/> 
+</div>
+
+Quote of the day 
+
+```
+Price is what you pay. 
+Value is what you get. 
+
+- Warren Buffet
+```
+
+[**Eg: LVMH luxury 2024 financial results**] 
+
+Business is diverse. It includes the most basic things (e.g., food, water, houses, safety) to extremely luxurious items like perfume, sportscars, and `$10,000+` handbags. As an executive, it's useful to see these decisions through the lens of willingness to pay, price, cost.
+
+LVMH has `84 billion Euro` in revenue, and almost `20 billion` in profits. So their net margin % is about 20%... that's amazing. Is it because they have low costs? No, it's because their customers have a massive willingness to pay.
+
+Link to the report: [Link](https://lvmh-com.cdn.prismic.io/lvmh-com/Z5j825bqstJ998qD_LVMH-2024FullYearresults.pdf). 
 
 
 
