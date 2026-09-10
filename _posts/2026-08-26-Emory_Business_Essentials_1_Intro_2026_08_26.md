@@ -386,6 +386,8 @@ Pareto also warns people about relying too much on the principle.
 
 > To do: A heuristic proof for the 80/20 rule. There seem to be some toy-economy simulations which validate this rule, like in the MindYourDecisions video and Jordan Peterson video. 
 
+> Intuition: Pareto distribution seems to appear in phenomena where: An object already having more of a property P is more likely to further accumulate property P. Like the "Rich get richer, poor get poorer" phenomenon we tend to see. Have to think about this. 
+
 [**Module 2 Intro**] 
 
 [**Profits are oxygen; it keeps the business alive**] 
