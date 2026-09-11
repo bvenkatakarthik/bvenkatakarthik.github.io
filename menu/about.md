@@ -8,13 +8,13 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Langer_2026_08_4)**
 
-**${ \boxed{\star} }$ (noticing things)**
+**${ \boxed{\star \star} }$ (noticing things)**
 
 **is beneficial.**
 
 **Compassion also seem to be beneficial.**
 
-**${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
+**${ \boxed{\star \star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
 **(I am very skeptical of the safety of psychedelics, but some of them apparently can be beneficial: [Link](https://youtu.be/3YDNMLPK3XE?si=OEQhUAIsp90DjcZO&t=3387), [Link](https://youtu.be/U_sFWG5WFjo?si=d03WnIPEK2ri4KLI))**
 
