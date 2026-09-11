@@ -13,7 +13,7 @@ Instructor: John Kim.
 **Course - 1 : Introduction** 
 
 **ROUGH NOTES (!)**    
-Updated: 9/9/2026 
+Updated: 10/9/2026 
 
 [**Module 1 Intro**]
 
