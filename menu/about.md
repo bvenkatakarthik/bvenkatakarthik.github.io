@@ -53,7 +53,7 @@ permalink: /about
 **Q) Why do we have The World, with these features?** 
 
 **“In the absence of any other proof, the thumb alone would convince me of God's existence.”
-― Newton**
+― Newton.**
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
