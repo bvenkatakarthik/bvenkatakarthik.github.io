@@ -8,9 +8,7 @@ tags: [documentation,sample]
 
 Ref: "Data, Models, and Decisions" by Bertsimas, Freund. 
 
-Internet Archive Link: [Link](https://archive.org/details/datamodelsdecisi00dimi). 
-
-Bertsimas' Life Perspective: [Link](https://dbertsim.mit.edu). 
+Internet Archive Link: [Link](https://archive.org/details/datamodelsdecisi00dimi).  
 
 **ROUGH NOTES (!)**    
 Updated: 13/9/2026
