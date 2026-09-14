@@ -616,6 +616,8 @@ LVMH has `84 billion Euro` in revenue, and almost `20 billion` in profits. So th
 
 Link to the report: [Link](https://lvmh-com.cdn.prismic.io/lvmh-com/Z5j825bqstJ998qD_LVMH-2024FullYearresults.pdf). 
 
+[**Personal** ]
+
 Personal: It seems both the extremes: 
 
 * A high quality product/service with low affordability 
@@ -633,6 +635,8 @@ Low quality, low affordability - a scam).
 A decent quality, affordable, scalable product/service might produce a lot of value. 
 
 Optimizing business workflows might help in this matter. 
+
+Personal: One problem society seems to face is, value creation, "earning one's place in society", seems difficult. Blogpost: [Link](https://bvenkatakarthik.github.io/Money_2026_03_06). 
 
 
 
