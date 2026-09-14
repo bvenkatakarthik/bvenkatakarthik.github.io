@@ -622,7 +622,9 @@ Personal: It seems both the extremes:
 
 * A low quality product/service with high affordability 
 
-produce less value to people. 
+produce less value to people.
+
+(The other two combinations being: High quality, high affordability - a dream. Low quality, low affordability - a scam).  
 
 A decent quality, affordable, scalable product/service might produce a lot of value. 
 
