@@ -13,7 +13,7 @@ Instructor: John Kim.
 **Course - 1 : Introduction** 
 
 **ROUGH NOTES (!)**    
-Updated: 10/9/2026 
+Updated: 14/9/2026 
 
 [**Module 1 Intro**]
 
@@ -155,9 +155,9 @@ It's the desire to learn that is scarce.
 
 [**What do you mean by "business"?**] 
 
-Key questions 
+Key questions. 
 
-People might ponder 
+People might ponder. 
 
 Grads: "Why are companies so good at making money?" 
 
