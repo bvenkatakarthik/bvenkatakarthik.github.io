@@ -616,6 +616,18 @@ LVMH has `84 billion Euro` in revenue, and almost `20 billion` in profits. So th
 
 Link to the report: [Link](https://lvmh-com.cdn.prismic.io/lvmh-com/Z5j825bqstJ998qD_LVMH-2024FullYearresults.pdf). 
 
+Personal: It seems both the extremes: 
+
+* A high quality product/service with low affordability 
+
+* A low quality product/service with high affordability 
+
+produce less value to people. 
+
+A decent quality, affordable, scalable product/service might produce a lot of value. 
+
+Optimizing business workflows might help in this matter. 
+
 
 
 
