@@ -624,7 +624,7 @@ Personal: It seems both the extremes:
 
 produce less value to people.
 
-(The other two combinations are: 
+(The other two usually unlikely combinations are: 
 
 High quality, high affordability - a dream. 
 
