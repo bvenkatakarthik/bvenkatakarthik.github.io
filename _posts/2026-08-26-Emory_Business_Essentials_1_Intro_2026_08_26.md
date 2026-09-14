@@ -638,7 +638,7 @@ Optimizing business workflows might help in this matter.
 
 Personal: One problem society seems to face is, value creation, "earning one's place in society", seems difficult. Blogpost: [Link](https://bvenkatakarthik.github.io/Money_2026_03_06). 
 
-Personal: The tendency for the rich to get richer and the poor to get poorer also seems to be a problem. With the current economic structure, wealth sadly seems to follow a pareto distribution. 
+Personal: The tendency for the rich to get richer and the poor to get poorer also seems to be a problem. With the current economic structure, wealth unfortunately seems to follow a pareto distribution. 
 
 
 
