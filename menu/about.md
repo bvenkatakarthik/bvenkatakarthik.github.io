@@ -16,12 +16,6 @@ permalink: /about
 
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
-**Nordic guide to life: [Link](https://www.livinganordiclife.com/post/essential-nordic-lifestyle-ideals-explained-quickly).** 
-
-* **Hygge: Enjoying the simple pleasures of daily life.** 
-
-* **Lagom: Not too much and not too little.** 
-
 **Speculation:**  
 
 **Consider the causal network behind anything.**
