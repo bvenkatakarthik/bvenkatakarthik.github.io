@@ -16,7 +16,11 @@ permalink: /about
 
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
-**(I am very skeptical of the safety of psychedelics, but some of them apparently can be beneficial: [Link](https://youtu.be/3YDNMLPK3XE?si=OEQhUAIsp90DjcZO&t=3387), [Link](https://youtu.be/U_sFWG5WFjo?si=d03WnIPEK2ri4KLI))**
+**Nordic guide to life: [Link](https://www.livinganordiclife.com/post/essential-nordic-lifestyle-ideals-explained-quickly).** 
+
+* **Hygge: Enjoying the simple pleasures of daily life.** 
+
+* **Lagom: Not too much and not too little.** 
 
 **Speculation:**  
 
