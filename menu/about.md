@@ -16,8 +16,6 @@ permalink: /about
 
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
-**The [goldilocks principle](https://en.wikipedia.org/wiki/Goldilocks_principle) seems to be a good guiding principle in life.**
-
 **Speculation:**  
 
 **Consider the causal network behind anything.**
