@@ -12,7 +12,7 @@ permalink: /about
 
 **is beneficial.**
 
-**Compassion also seem to be beneficial.**
+**Compassion also seems to be beneficial.**
 
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
