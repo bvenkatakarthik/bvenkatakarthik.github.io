@@ -13,7 +13,7 @@ Instructor: John Kim.
 **Course - 1 : Introduction** 
 
 **ROUGH NOTES (!)**    
-Updated: 14/9/2026 
+Updated: 16/9/2026 
 
 [**Module 1 Intro**]
 
@@ -639,6 +639,166 @@ Optimizing business workflows might help in this matter.
 Personal: One problem society seems to face is, value creation, "earning one's place in society", seems difficult. Blogpost: [Link](https://bvenkatakarthik.github.io/Money_2026_03_06). 
 
 Personal: The tendency for the rich to get richer and the poor to get poorer also seems to be a problem. With the current economic structure, wealth seems to follow a pareto distribution. Veritasium video: [Link](https://youtu.be/HBluLfX2F_k?si=2BzBtV-MDY30Ndq9). 
+
+[**Module 3 Intro**] 
+
+[**Supply chain is heavy = factories, warehouses, trains, ships, trucks**] 
+
+In the digital world we live in, it's easy to forget that products take a long journey to get to us. Whenever you see a truck, train, plane, delivery van, retail store, or package = that's the supply chain. "Process flows" are a simple tool to chronologically visualize how the products get designed, manufactured, and distributed. For example, a comfortable pair of blue jeans might travel 10,000 km as it gets transformed from raw materials (cotton) into the final product.
+
+[**What is supply chain?**] 
+
+<div align="center">
+    <img src="https://c.l3n.co/bbkPHa.png"/> 
+</div>
+
+Key questions one might ask. 
+
+Graduate: "What is supply chain and why does it matter?" 
+
+Manager: "I am in the `________` (say marketing) department, not supply chain." 
+
+Entrepreneur: "What's the bottleneck in your client's supply chain?" 
+
+> Instructor: An Entrepeneur might think, what's the potential bottleneck that my client or ​customer is suffering in ​their supply chain that I can help with?
+
+<div align="center">
+    <img src="https://b.l3n.co/bbkfXe.png"/> 
+</div>
+
+So far, our discussion of business and value creation was simple. What if we sprinkle in a little bit more reality, complexity? 
+
+Initially, for the value stack `willingness to pay, price, cost`, we assumed 1 product and 1 customer. 
+
+In reality we have additional variables: 
+
+* Multiple products; bundles, product and service. 
+
+* Multiple customers, mutiple countries. 
+
+* Multiple suppliers; no one does it all. 
+
+* Multiple stakeholders; employees, investors. 
+
+> Instructor: Simple value stack. So far, we've had ​a very simple description of what value, ​willingness to pay, price, ​and cost might be. ​We're selling one ice cream cone for `$7` to one person.
+
+> Instructor: Well, we're not children. ​We know that the world is much more complex than that. 
+
+> Instructor: Multiple products. ​If you think about Dunkin' Donuts, ​they might sell ice cream, Baskin, ​and Robbins, but they also sell doughnuts. ​Multiple different products and services. ​
+
+> Instructor: Multiple customers. They have a lot of customers. ​It's not just one customer, ​and they might be in multiple countries, ​US, France, India, Spain, Morocco. ​
+
+> Instructor: Multiple suppliers. They also have multiple suppliers, as companies don't do everything themselves.
+
+> Instructor: Multiple stakeholders. Employees, investors. 
+
+> Instructor: During the specialization, we want to keep it simple, ​but we also want to be realistic. ​Supply chain is a way for us to show how ​the product goes from here to here to here to here. ​
+
+<div align="center">
+    <img src="https://a.l3n.co/bbGaN9.png"/> 
+</div>
+
+Business requires coordination: suppliers, distributors, products, customers, information, and payments. 
+
+Eg: Planet Money T-Shirt Project. 
+
+Link: [Link]().
+
+It's a series of podcasts where over a year, ​this radio station here in the United States followed the life of a T-shirt. ​They followed it from the cotton ​that they grew in the United States, ​all the way to Indonesia, Bangladesh, and Colombia, ​where the cotton was turned into yarn, and from yarn, ​it was turned into cloth and then from cloth, ​it was turned into a T-shirt.
+
+`cotton ---> yarn ---> cloth ---> t-shirt`
+
+> Instructor: 1 Massive coordination. 
+
+> Instructor: 2 Specialization. One of the beautiful things about business is that people specialize in what they're good at. Instead of one company trying to do everything, ​we have different people working together to ​do the thing that they're really good at.
+
+<div align="center">
+    <img src="https://d.l3n.co/bbaRi3.png"/> 
+</div>
+
+Supply chain shows all the steps from product design, raw materials, manufacturing, transport, and retail activities. 
+
+Eg: Blue Jeans. 
+
+`Cotton ---> Yarn ---> Material ---> [Blue jeans]`
+
+`[Blue jeans] ---> Transport ---> Wholesale ---> Retail ---> Individual`
+
+No company does everything. 
+
+* Multiple suppliers and vendors. (The terms vendor and supplier seem synonymous). 
+
+* Sell to distributors. 
+
+* Sell directly to end customers. 
+
+Outsourcing work; lower cost, higher quality than if you did it yourself. 
+
+> Instructor: Suppliers. You need cotton that gets turned ​into yarn that gets turned into material. ​Those are all suppliers. ​Now, this isn't the only supplier. Note that blue jeans take equipment and it takes labor. ​There are many more suppliers here that are not shown. ​But you get the idea. ​No one company can do it by themselves. ​There's collaboration.
+
+> Instructor: FInished product. In the red in the middle is the blue jeans. ​We have the finished product. It's all done.
+
+> Instructor: How to sell? Then the question is, ​how do we sell this? Peter Drucker, ​a very famous management thinker, said ​"The purpose of a business is to create a customer." ​How do we create a customer? Show me the customer. ​Well, there's a couple of ways this could ​go.
+
+> Instructor: One way to sell. One way is that you go through ​distributors who take it to wholesale and then to retail. ​You can buy the blue jeans in a store. That's one method.
+
+> Personal: Wholesale vs retail refers to two different ways products move through the supply chain. Wholesale businesses sell products in bulk to other businesses. Retail businesses sell products directly to individual consumers. Link: [Link](https://www.salesforce.com/retail/wholesale-vs-retail/). 
+
+> Instructor: Another way to sell. Nowadays, ​with so much delivery and convenience, ​many people buy their products or clothes or ​blue jeans directly through ​Amazon or through Flipkart or Walmart.com. ​There's a lot of direct-to-consumer, ​DTC, e-commerce business. ​
+
+> Instructor: Very simply, going from left to right, ​you can see the flow of product. ​You can also see that there's ​multiple ways for customers to buy the product. One could be wholesale, ​one could be retail or one could ​be direct from the company. ​A lot of times in business, ​when you talk about the multiple ​steps that something has, ​you will see it drawn out from left to right with ​the customer being on ​the very far right-hand side of the page.
+
+<div align="center">
+    <img src="https://b.l3n.co/bba3M1.png"/> 
+</div>
+
+Key takeaways. 
+
+Supply chain is vast, fragmented, requires massive coordination. 
+
+* Rarely does a company do everything; they have vendors, outsource some work. 
+
+* Some companies do a very niche thing, very well; "be good at what you do". 
+
+* Increasingly, work will be done by highly effective "generative AI' bots and apps. 
+
+Before you interview for a company, know where they sit on the supply chain. 
+
+* Who are their top 3 customers? 3 competitors? 3 suppliers? 
+
+> Instructor: Supply chain is massive. Whenever you see trucks ​driving on the road, supply chain. ​You see really long trains that ​have hundreds of cars attached to it, supply chain. ​You see big cargo vessels at ​the port near your house, supply chain.
+
+> Instructor: Outsourcing. Very rarely does one company do it all. ​They all have vendors, ​and they outsource things. ​
+
+> Instructor: Outsourcing. In business, ​you need to be good at what you do. ​If you're not good at what you do, ​you will go out of business. ​Oftentimes, you want to be very ​good at what you do and really focus on that. For example, for myself, ​I want to get really good at ​making these videos for Coursera, ​and I'm going to focus on that and spend a lot of time. Now, I might not be good at the editing, ​and I will give that to somebody else to edit it, ​or I might not be good at the marketing, ​and I'll have somebody else do that. ​That's also a form of supply chain. ​
+
+> Instructor: Gen AI. ​I think generative AI is going to ​make a lot of this coordination ​in the supply chain even smoother. ​Because frankly, it requires ​a lot of emails and paperwork and ​all this complexity but ​the more that we can standardize the process, ​the more that we can have AI to coordinate it, ​you're going to see all these applications and bots and ​agents doing it for us.
+
+> Instructor: For students going for an interview with maybe some big company. ​I think it's really critical that you know ​where that company sits on their own supply chain. ​I want you to do your homework. ​Know who are their customers? ​Who are their competitors, ​and who are their suppliers? ​How do all these dominoes connect with each other? ​Because when you're having an interview, ​if you can talk about it in those terms, one ​you'll come across as very knowledgeable, and two it's a very smart way ​to organize your thoughts.
+
+Personal: 
+
+Know where a company sits in the supply chain. 
+
+`Suppliers ---> Company ---> Customers`
+
+Look at the top 3 customers. The top 3 competitors. The top 3 suppliers. 
+
+<div align="center">
+    <img src="https://b.l3n.co/bbh8fe.png"/> 
+</div>
+
+Quote of the day 
+
+```
+Coming together is a beginning; 
+keeping together is progress; 
+working together is success. 
+
+- Henry Ford. 
+```
+
+
 
 
 
