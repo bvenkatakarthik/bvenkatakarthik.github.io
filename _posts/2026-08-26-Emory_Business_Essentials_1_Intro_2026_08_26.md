@@ -674,7 +674,7 @@ In reality we have additional variables:
 
 * Multiple products; bundles, product and service. 
 
-* Multiple customers, mutiple countries. 
+* Multiple customers, multiple countries. 
 
 * Multiple suppliers; no one does it all. 
 
@@ -736,7 +736,7 @@ Outsourcing work; lower cost, higher quality than if you did it yourself.
 
 > Instructor: Suppliers. You need cotton that gets turned ​into yarn that gets turned into material. ​Those are all suppliers. ​Now, this isn't the only supplier. Note that blue jeans take equipment and it takes labor. ​There are many more suppliers here that are not shown. ​But you get the idea. ​No one company can do it by themselves. ​There's collaboration.
 
-> Instructor: FInished product. In the red in the middle is the blue jeans. ​We have the finished product. It's all done.
+> Instructor: Finished product. In the red in the middle is the blue jeans. ​We have the finished product. It's all done.
 
 > Instructor: How to sell? Then the question is, ​how do we sell this? Peter Drucker, ​a very famous management thinker, said ​"The purpose of a business is to create a customer." ​How do we create a customer? Show me the customer. ​Well, there's a couple of ways this could ​go.
 
@@ -744,7 +744,7 @@ Outsourcing work; lower cost, higher quality than if you did it yourself.
 
 > Personal: Wholesale vs retail refers to two different ways products move through the supply chain. Wholesale businesses sell products in bulk to other businesses. Retail businesses sell products directly to individual consumers. Link: [Link](https://www.salesforce.com/retail/wholesale-vs-retail/). 
 
-> Instructor: Another way to sell. Nowadays, ​with so much delivery and convenience, ​many people buy their products or clothes or ​blue jeans directly through ​Amazon or through Flipkart or Walmart.com. ​There's a lot of direct-to-consumer, ​DTC, e-commerce business. ​
+> Instructor: Another way to sell. Nowadays, ​with so much delivery and convenience, ​many people buy their products or clothes or ​blue jeans directly through ​Amazon or through Flipkart or walmart (dot) com. ​There's a lot of direct-to-consumer, ​DTC, e-commerce business. ​
 
 > Instructor: Very simply, going from left to right, ​you can see the flow of product. ​You can also see that there's ​multiple ways for customers to buy the product. One could be wholesale, ​one could be retail or one could ​be direct from the company. ​A lot of times in business, ​when you talk about the multiple ​steps that something has, ​you will see it drawn out from left to right with ​the customer being on ​the very far right-hand side of the page.
 
