@@ -28,6 +28,8 @@ permalink: /about
 
 **Wilkinson, Sapolsky on harms of socioeconomic inequality: [Link](https://youtu.be/cZ7LzE3u7Bw?si=h7J_01w4dzMKhvos), [Link](https://youtu.be/A4UMyTnlaMY?si=sMb4jsZPYnkMxbk1).**
 
+**de Waal on "morality" being a shared trait in animals: [Link](https://youtu.be/GcJxRqTs5nk?si=yplzCyAV0Vtc2YqC).**
+
 **Q) Why do we have The World, with these features:** 
 
 **The Birth of The World, a video: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).**
