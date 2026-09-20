@@ -54,6 +54,8 @@ permalink: /about
 
 Hi I am Karthik, a Math and AI enthusiast. 
 
+I consider Mathematics to be God revealing some of Their aspects to humans. 
+
 I am curious about the Nature and Purpose of The World.
 
 I am curious about cultivating Happiness in Life.
