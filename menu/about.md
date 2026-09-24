@@ -30,10 +30,6 @@ permalink: /about
 
 **de Waal on "morality" being a shared trait in animals: [Link](https://youtu.be/GcJxRqTs5nk?si=yplzCyAV0Vtc2YqC).**
 
-**Also to consider:** 
-
-**Sapolsky has an interesting podcast: [Link](https://youtube.com/playlist?list=PLOXn0rUD2D-eBMO44WUaxRFYqwv61pDaa&si=9S3IjMSgxWlpaJ_J).**
-
 **Q) Why do we have The World, with these features:** 
 
 **The Birth of The World, a video: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).**
