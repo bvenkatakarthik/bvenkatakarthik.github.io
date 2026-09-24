@@ -14,8 +14,6 @@ permalink: /about
 
 **Compassion also seems to be beneficial.**
 
-**My guiding principle in life is:**
-
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
 **Speculation:**  
