@@ -18,7 +18,7 @@ permalink: /about
 
 **Speculation:** 
 
-**Potential risks of AI: [Link](https://bvenkatakarthik.github.io/Risks_of_AI_2026_09_25).**
+**Risks of AI: [Link](https://bvenkatakarthik.github.io/Risks_of_AI_2026_09_25).**
 
 **Speculation:**  
 
