@@ -16,6 +16,10 @@ permalink: /about
 
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
+**Speculation:** 
+
+**Potential risks of AI: [Link](https://bvenkatakarthik.github.io/Risks_of_AI_2026_09_25).**
+
 **Speculation:**  
 
 **Consider the causal network behind anything.**
