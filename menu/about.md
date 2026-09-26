@@ -20,6 +20,8 @@ permalink: /about
 
 **Risks of AI: [Link](https://bvenkatakarthik.github.io/Risks_of_AI_2026_09_25).**
 
+**Leading causes of death, mental illness: [Link](https://en.wikipedia.org/wiki/List_of_causes_of_death_by_rate), [Link](https://en.wikipedia.org/wiki/Causes_of_mental_disorders).**
+
 **Speculation:**  
 
 **Consider the causal network behind anything.**
