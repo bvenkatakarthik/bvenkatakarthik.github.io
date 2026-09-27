@@ -76,6 +76,8 @@ I intend to use the blog as a digital notebook of sorts, and the posts will most
 
 Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com. 
 
+$${ {\color{blue}{\underline{\textbf{THE BIGGER PICTURE}}}} }$$ 
+
 
 | ![](https://a.l3n.co/cUGJWm.png) | 
 |:--:|
