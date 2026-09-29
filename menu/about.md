@@ -20,6 +20,8 @@ permalink: /about
 
 **Su on virtues that mathematics can help cultivate: [Link](https://youtu.be/43WWe3IENb4?si=J4M7HAuELH--Lsh-).**
 
+**Mathematics can also assist good engineering: [Link](https://foundations-of-applied-mathematics.github.io/).** 
+
 **Speculation:** 
 
 **Risks of AI: [Link](https://bvenkatakarthik.github.io/Risks_of_AI_2026_09_25).**
