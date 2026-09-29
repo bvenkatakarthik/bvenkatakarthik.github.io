@@ -18,7 +18,7 @@ permalink: /about
 
 **Speculation:** 
 
-**Su on good virtues that mathematics can help cultivate: [Link](https://youtu.be/43WWe3IENb4?si=J4M7HAuELH--Lsh-).**
+**Su on healthy virtues that mathematics can help cultivate: [Link](https://youtu.be/43WWe3IENb4?si=J4M7HAuELH--Lsh-).**
 
 **Mathematics can also assist good engineering: [Link](https://foundations-of-applied-mathematics.github.io/).** 
 
