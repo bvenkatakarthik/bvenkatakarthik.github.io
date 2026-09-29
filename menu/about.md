@@ -18,6 +18,10 @@ permalink: /about
 
 **Speculation:** 
 
+**Su on virtues that mathematics can help cultivate: [Link](https://youtu.be/43WWe3IENb4?si=J4M7HAuELH--Lsh-).**
+
+**Speculation:** 
+
 **Risks of AI: [Link](https://bvenkatakarthik.github.io/Risks_of_AI_2026_09_25).**
 
 **Speculation:**  
