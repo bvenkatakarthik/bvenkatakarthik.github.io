@@ -20,7 +20,7 @@ permalink: /about
 
 **Su on virtues that mathematics can help cultivate: [Link](https://youtu.be/43WWe3IENb4?si=J4M7HAuELH--Lsh-).**
 
-**Mathematics sometimes helps in engineering as well.**
+**Mathematics can sometimes help with good engineering as well.**
 
 **Speculation:** 
 
