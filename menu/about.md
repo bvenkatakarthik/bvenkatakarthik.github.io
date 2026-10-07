@@ -20,7 +20,7 @@ permalink: /about
 
 **Risks of AI: [Link](https://bvenkatakarthik.github.io/Risks_of_AI_2026_09_25).**
 
-**Risks aside, 2026 turned out to be a very important year for math enthusiasts: [Link](https://x.com/a_ramabadran/status/2107633368120922616?s=20).**
+**2026 turned out to be a very important year for math enthusiasts: [Link](https://x.com/a_ramabadran/status/2107633368120922616?s=20).**
 
 **Speculation:**  
 
