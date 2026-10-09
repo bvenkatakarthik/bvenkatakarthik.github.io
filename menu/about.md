@@ -36,6 +36,8 @@ permalink: /about
 
 **de Waal on "morality" being a shared trait in animals: [Link](https://youtu.be/GcJxRqTs5nk?si=yplzCyAV0Vtc2YqC).**
 
+**Politizane on wealth inequality in America: [Link](https://youtu.be/2GxlL5-0m_g?si=-oUkAFCnMpYjOrKo).**
+
 **Q) Why do we have The World, with these features:** 
 
 **The Birth of The World, a video: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).**
