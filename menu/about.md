@@ -8,13 +8,13 @@ permalink: /about
 
 **Speculation: [Mindfulness](https://bvenkatakarthik.github.io/Mindfulness_Langer_2026_08_4)**
 
-**${ {\color{blue}{\boxed{\star}}} }$ (noticing things)**
+**${ \boxed{\star} }$ (noticing things)**
 
 **is beneficial.**
 
 **Compassion also seems to be beneficial.**
 
-**${ {\color{blue}{\boxed{\star}}} }$ Perhaps: One should try to create more value than the value one consumes.**
+**${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
 **Speculation:** 
 
