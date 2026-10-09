@@ -100,6 +100,10 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 | ${ \Large \textbf{The World: Life} }$  |
 | ${ \Large \textbf{Cycles of "Birth, Experience, Death"} }$  |
 
+| ![](https://a.l3n.co/wdo1E9.png) | 
+|:--:| 
+| ${ \Large \textbf{The World: Wealth Inequality} }$  |
+
 
 
 
