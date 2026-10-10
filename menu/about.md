@@ -80,7 +80,7 @@ I intend to use the blog as a digital notebook of sorts, and the posts will most
 
 Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com. 
 
-My Inquiry Based Mathematics Youtube Channel: [Link](https://www.youtube.com/@maethenthusiast/videos). 
+My Inquiry Based Mathematics Youtube Channel: [Maeth Enthusiast](https://www.youtube.com/@maethenthusiast/videos). 
 
 
 | ![](https://a.l3n.co/cUGJWm.png) | 
