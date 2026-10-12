@@ -64,6 +64,8 @@ Hi I am Karthik, a Math and AI enthusiast.
 
 I consider Mathematics to be God revealing some of Their aspects to humans. (Eg: Central Limit Theorem: [Link](https://youtu.be/nAfjT-tWWzc?si=FYB3zKCqylbCdWl_)). 
 
+We tend to forget things have a meaning beyond human usefulness. 
+
 I am curious about the Nature and Purpose of The World.
 
 I am curious about cultivating Happiness in Life.
