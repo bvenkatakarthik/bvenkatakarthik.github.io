@@ -76,7 +76,7 @@ I am curious about artificial, scalable forms of Intelligence.
 
 (It might be better to understand our own intelligence better before advancing AI?)
 
-I am curious about Data driven Business. 
+I am curious about Data driven Businesses. 
 
 I intend to use the blog as a digital notebook of sorts, and the posts will mostly have routine stuff. I am also on [Math.SE](https://math.stackexchange.com/users/303300).
 
