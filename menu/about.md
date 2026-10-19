@@ -76,13 +76,13 @@ I am curious about artificial, scalable forms of Intelligence.
 
 (It might be better to understand our own intelligence better before advancing AI?)
 
+I am curious about Data driven Businesses. 
+
 I intend to use the blog as a digital notebook of sorts, and the posts will mostly have routine stuff. I am also on [Math.SE](https://math.stackexchange.com/users/303300).
 
 Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com. 
 
 Link to my Inquiry Based Mathematics Youtube Channel: [Maeth Enthusiast](https://www.youtube.com/@maethenthusiast/videos). 
-
-I am curious about helping Businesses be Data driven. 
 
 | ![](https://a.l3n.co/cUGJWm.png) | 
 |:--:|
