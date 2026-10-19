@@ -82,6 +82,7 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Link to my Inquiry Based Mathematics Youtube Channel: [Maeth Enthusiast](https://www.youtube.com/@maethenthusiast/videos). 
 
+I am curious about helping Businesses be Data driven. 
 
 | ![](https://a.l3n.co/cUGJWm.png) | 
 |:--:|
