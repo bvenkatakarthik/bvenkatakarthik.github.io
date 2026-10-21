@@ -10,13 +10,13 @@ I am working on the problem of simulating the economy.
 
 It seems one can use multi agent systems to simulate the economy. 
 
-Perhaps: One can run low risk experiments on the simulated economy and hopefully learn something about the real economy. 
-
 ```
 "All models are wrong, but some are useful." 
 
 - E. P. Box
 ```
+
+Perhaps: One can run low risk experiments on the simulated economy and one might learn something about the real economy. 
 
 Reading list: 
 
