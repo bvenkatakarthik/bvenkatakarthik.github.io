@@ -48,6 +48,12 @@ Updated: 22/10/2026
 
 * "Economy of Minds" by Qi et al. [Link](https://arxiv.org/abs/2606.02859). 
 
+* "Simulated Economy" by Fantl. Blogposts. [Link](https://jasonfantl.com/posts/Simulated-Economy-(1)/). 
+
+* "ABIDES-Economist: Agent-Based Simulation of Economic Systems with Learning Agents" by Dwarakanath et al. [Link](https://arxiv.org/abs/2402.09563v1). 
+
+* abcEconomics. [Link](https://abce.readthedocs.io/en/master/). 
+
 
 
 
