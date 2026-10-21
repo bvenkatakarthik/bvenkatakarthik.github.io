@@ -56,6 +56,12 @@ Updated: 22/10/2026
 
 * abcEconomics. [Link](https://abce.readthedocs.io/en/master/). 
 
+* Project Iceberg. MIT Media Lab. [Link](https://www.media.mit.edu/projects/iceberg/overview/).
+
+* Ayush Chopra's page. [Link](https://web.media.mit.edu/~ayushc/).  
+
+
+
 
 
 
