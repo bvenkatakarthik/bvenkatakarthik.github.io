@@ -56,6 +56,11 @@ Updated: 22/10/2026
 
 * abcEconomics. [Link](https://abce.readthedocs.io/en/master/). 
 
+* "The AI Economist Economic Policy Design using Deep Reinforcement Learning and AI Simulations" by Zheng. [Link](https://youtu.be/VKE9GFXNgLo?si=vTRIwxq8DQoM_hg8). 
+
+* "Economic Models: Simulations of Reality" by Ouliaris. [Link](https://www.imf.org/external/pubs/ft/fandd/basics/models.htm). 
+
+
 
 
 
