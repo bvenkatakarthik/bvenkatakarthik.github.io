@@ -18,6 +18,10 @@ permalink: /about
 
 **Speculation:** 
 
+**Basic lifestyle advice: [Link](https://bvenkatakarthik.github.io/Post_2026_09_24).**
+
+**Speculation:** 
+
 **Risks of AI: [Link](https://bvenkatakarthik.github.io/Risks_of_AI_2026_09_25).**
 
 **Risks aside, 2026 turned out to be a very important year in the history of math: [Link](https://x.com/OpenAI/status/2107596713791767021?s=20), [Link](https://youtu.be/liPcU6Wz6K8?si=OdsHV7iG3uDFD2I9).**
