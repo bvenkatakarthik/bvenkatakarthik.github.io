@@ -16,7 +16,7 @@ permalink: /about
 
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
-**(This, if one were religious, can be understood as reducing one's [karmic debt](https://rigpawiki.org/index.php?title=Karmic_debt)).**
+**(This, if one were religious, can be understood as reducing one's karmic debt).**
 
 **Speculation:** 
 
