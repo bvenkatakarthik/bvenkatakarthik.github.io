@@ -16,8 +16,6 @@ permalink: /about
 
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
-**(This, if one were religious, can be understood as reducing one's karmic debt).**
-
 **Speculation:** 
 
 **Risks of AI: [Link](https://bvenkatakarthik.github.io/Risks_of_AI_2026_09_25).**
