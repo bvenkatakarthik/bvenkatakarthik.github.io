@@ -60,6 +60,24 @@ Updated: 22/10/2026
 
 * "Economic Models: Simulations of Reality" by Ouliaris. [Link](https://www.imf.org/external/pubs/ft/fandd/basics/models.htm). 
 
+Related: 
+
+* "The Mathematics of Inequality" by Boghosian. [Link](https://now.tufts.edu/2017/10/12/mathematics-inequality), [Link](https://youtu.be/q_S3rULyN8Q?si=cOH1eLrWW63YPiZt). 
+
+* "The Mathematics of Poverty, Inequality, and Oligarchy" by Boghosian, Borgers. [Link](https://www.siam.org/publications/siam-news/articles/the-mathematics-of-poverty-inequality-and-oligarchy/). Forbes article. [Link](https://www.forbes.com/sites/eriksherman/2023/11/30/a-theory-of-wealth-inequality-is-the-flip-of-a-coin/). 
+
+* Mandelbrot on Income Inequality. [Link](https://www.webofstories.com/play/benoit.mandelbrot/116). 
+
+* "The Challenge of World Poverty" by Duflo, Banerjee. [Link](https://youtube.com/playlist?list=PLUl4u3cNGP620R91K4KP_fO4l3eeK5lDn&si=hkmRIoToTCu2Vv3l). 
+
+* "Economic inequality from statistical physics point of view" by Yakovenko. [Link](https://youtu.be/nGl9I-dFRFs?si=qr11owpx9oDu4XPx). 
+
+
+
+
+
+
+
 
 
 
