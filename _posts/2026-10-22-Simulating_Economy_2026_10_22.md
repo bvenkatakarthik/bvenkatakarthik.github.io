@@ -74,9 +74,6 @@ Related:
 
 * "Simulating Supply and Demand" by Primer. [Link](https://youtu.be/PNtKXWNKGN8?si=SCTtPUuRxy33SN6a). 
 
-Intuition: 
-
-Key things like valuation are subjective. 
 
 
 
