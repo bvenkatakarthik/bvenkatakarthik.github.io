@@ -72,7 +72,7 @@ Related:
 
 * "Economic inequality from statistical physics point of view" by Yakovenko. [Link](https://youtu.be/nGl9I-dFRFs?si=qr11owpx9oDu4XPx). 
 
-* Simulating Supply and Demand by Primer. [Link](https://youtu.be/PNtKXWNKGN8?si=SCTtPUuRxy33SN6a). 
+* "Simulating Supply and Demand" by Primer. [Link](https://youtu.be/PNtKXWNKGN8?si=SCTtPUuRxy33SN6a). 
 
 
 
