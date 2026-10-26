@@ -72,7 +72,7 @@ Related:
 
 * "Economic inequality from statistical physics point of view" by Yakovenko. [Link](https://youtu.be/nGl9I-dFRFs?si=qr11owpx9oDu4XPx). 
 
-* Google Gemini when asked "Summarize the problem and solutions of poverty". [Link](https://share.gemini.google/UNTBRr4p4weu).
+
 
 
 
