@@ -72,6 +72,8 @@ Related:
 
 * "Economic inequality from statistical physics point of view" by Yakovenko. [Link](https://youtu.be/nGl9I-dFRFs?si=qr11owpx9oDu4XPx). 
 
+* GiveDirectly initiative. Article: [Link](https://news.mit.edu/2022/givedirectly-cash-charity-0816). Website: [Link](https://www.givedirectly.org/). 
+
 
 
 
