@@ -20,7 +20,7 @@ Perhaps: One can run low risk experiments on the simulated economy and one might
 
 Reading list: 
 
-Updated: 22/10/2026 
+Updated: 26/10/2026 
 
 * QuantEcon page. [Link](https://quantecon.org/about/). 
 
@@ -71,6 +71,8 @@ Related:
 * "The Challenge of World Poverty" by Duflo, Banerjee. [Link](https://youtube.com/playlist?list=PLUl4u3cNGP620R91K4KP_fO4l3eeK5lDn&si=hkmRIoToTCu2Vv3l). 
 
 * "Economic inequality from statistical physics point of view" by Yakovenko. [Link](https://youtu.be/nGl9I-dFRFs?si=qr11owpx9oDu4XPx). 
+
+* Google Gemini when asked "Summarize the problem and solutions of poverty". [Link](https://share.gemini.google/UNTBRr4p4weu).
 
 
 
