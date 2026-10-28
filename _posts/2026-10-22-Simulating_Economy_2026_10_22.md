@@ -20,7 +20,7 @@ Perhaps: One can run low risk experiments on the simulated economy and one might
 
 Reading list: 
 
-Updated: 26/10/2026 
+Updated: 28/10/2026 
 
 * QuantEcon page. [Link](https://quantecon.org/about/). 
 
@@ -73,6 +73,8 @@ Related:
 * "Economic inequality from statistical physics point of view" by Yakovenko. [Link](https://youtu.be/nGl9I-dFRFs?si=qr11owpx9oDu4XPx). 
 
 * GiveDirectly initiative. Article: [Link](https://news.mit.edu/2022/givedirectly-cash-charity-0816). Website: [Link](https://www.givedirectly.org/). 
+
+* Psychology and Economics course. [Link](https://ocw.mit.edu/courses/14-13-psychology-and-economics-spring-2020/pages/syllabus/). 
 
 
 
