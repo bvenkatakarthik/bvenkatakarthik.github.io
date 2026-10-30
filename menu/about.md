@@ -16,7 +16,7 @@ permalink: /about
 
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
-**A key issue seems to be: There are limited avenues for value creation.**
+**A key economic issue seems to be: There are limited avenues for value creation.**
 
 **Speculation:** 
 
