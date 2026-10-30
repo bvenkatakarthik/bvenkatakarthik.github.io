@@ -78,7 +78,7 @@ Related:
 
 * How can people contribute to a healthy economy? Gemini's response: [Link](https://drive.google.com/file/d/1_KNsGCEMiHK-n4RsgfTKO9SEFNY-fcV1/view?usp=sharing). 
 
-* One of the key economic problems seems to be: There are limited avenues for healthy value creation. 
+* One of the key economic problems seems to be: There are limited avenues for healthy value creation. Maslow's hierarchy of needs: [Link](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs). 
 
 
 
