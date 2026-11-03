@@ -64,9 +64,7 @@ permalink: /about
 
 **Q) Why do we have The World, with these features?** 
 
-Hi I am Karthik, a Math and AI enthusiast. 
-
-I consider Mathematics to be God revealing some of Their aspects to humans. (Eg: Central Limit Theorem: [Link](https://youtu.be/nAfjT-tWWzc?si=FYB3zKCqylbCdWl_)).  
+Hi I am Karthik, a Math and AI enthusiast.  
 
 I am curious about the Nature and Purpose of The World.
 
