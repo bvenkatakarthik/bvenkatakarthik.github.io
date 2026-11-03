@@ -105,7 +105,7 @@ Link to my Inquiry Based Mathematics Youtube Channel: [Maeth Enthusiast](https:/
 | ${ \Large \textbf{The World: Life} }$  |
 | ${ \Large \textbf{Cycles of "Birth, Experience, Death"} }$  |
 
-Many things in the world, like stars and galaxies, do not have business value but have intrinsic value. 
+
 
 
 
