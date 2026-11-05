@@ -12,6 +12,8 @@ tags: [documentation,sample]
 
 * MIT Machine Learning course. Link to the course: [Link](https://learn.mit.edu/courses/course-v1:MITxT+6.86x). 
 
+* Stanford Machine Learning course. Link to the course: [Link](https://cs229.stanford.edu/). 
+
 Machine Learning from Scratch - 1. 
 
 Simple Linear Regression. 
