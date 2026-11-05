@@ -23,7 +23,7 @@ Updated: 5/11/2026
 
 Eg: Suppose we want to predict house prices. Note that they depend on multiple factors, like location, size, and number of rooms. 
 
-Can we approximately model house price as a linear function (with some offset) of features like size, number of rooms, etc.? 
+Can we approximately model house price as a linear function (with some offset) of features like size, number of rooms, age of the house, etc.? 
 
 This is the idea of multiple linear regression. 
 
