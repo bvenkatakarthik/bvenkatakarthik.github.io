@@ -20,7 +20,7 @@ Perhaps: One can run low risk experiments on the simulated economy and one might
 
 Reading list: 
 
-Updated: 30/10/2026 
+Updated: 5/11/2026 
 
 * QuantEcon page. [Link](https://quantecon.org/about/). 
 
@@ -77,6 +77,9 @@ Related:
 * Psychology and Economics course. [Link](https://ocw.mit.edu/courses/14-13-psychology-and-economics-spring-2020/pages/syllabus/). 
 
 * How can people contribute to a healthy economy? Gemini's response: [Link](https://drive.google.com/file/d/1_KNsGCEMiHK-n4RsgfTKO9SEFNY-fcV1/view?usp=sharing). 
+
+* Countries which recovered from poverty. Gemini's response: [Link](https://drive.google.com/file/d/1krtB_Yt43zv4HnZmg6UN5G2N4tEMVWO5/view?usp=sharing). 
+
 
 
 
