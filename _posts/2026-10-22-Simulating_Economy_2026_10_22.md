@@ -80,6 +80,10 @@ Related:
 
 * Countries which recovered from poverty. Gemini's response: [Link](https://drive.google.com/file/d/1krtB_Yt43zv4HnZmg6UN5G2N4tEMVWO5/view?usp=sharing). 
 
+* How do Indians spend their money, across socioeconomic strata? Gemini's response: [Link](https://drive.google.com/file/d/1h2ebD0pVFCqp9p6rv2f07RPp9wj60o_S/view?usp=sharing). 
+
+
+
 
 
 
