@@ -42,6 +42,10 @@ permalink: /about
 
 **de Waal on "morality" being a shared trait in animals: [Link](https://youtu.be/GcJxRqTs5nk?si=yplzCyAV0Vtc2YqC).**
 
+**Speculation:**
+
+**I am curious about why exactly are sapiens more capable than other primates. Link to a Youtube video: [Link](https://youtu.be/AChiX9nLRQQ?si=0ZxGy10wW1t2e-PH).**
+
 **Q) Why do we have The World, with these features:** 
 
 **The Birth of The World, a video: [Link](https://youtu.be/HdPzOWlLrbE?si=DPaW0GvG2Cs5krO7).**
@@ -104,6 +108,8 @@ Link to my Inquiry Based Mathematics Youtube Channel: [Maeth Enthusiast](https:/
 |:--:| 
 | ${ \Large \textbf{The World: Life} }$  |
 | ${ \Large \textbf{Cycles of "Birth, Experience, Death"} }$  |
+
+
 
 
 
