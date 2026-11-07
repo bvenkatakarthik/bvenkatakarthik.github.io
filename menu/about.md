@@ -44,7 +44,7 @@ permalink: /about
 
 **Speculation:**
 
-**I am curious about why exactly are sapiens more capable than other primates. Link to a Youtube video: [Link](https://youtu.be/AChiX9nLRQQ?si=0ZxGy10wW1t2e-PH).**
+**I am curious about why exactly are sapiens more capable than other primates. Link to a youtube video: [Link](https://youtu.be/AChiX9nLRQQ?si=0ZxGy10wW1t2e-PH).**
 
 **Q) Why do we have The World, with these features:** 
 
