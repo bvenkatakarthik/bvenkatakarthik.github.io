@@ -248,6 +248,140 @@ Iteration 480: Cost = 13.9861998317372
 Iteration 490: Cost = 11.439409872999093
 ```
 
+[**Example**] 
+
+Now we will change our approach slightly in the real estate prediction model. 
+
+Instead of using a fixed number of iterations in gradient descent, we're going to employ a cost threshold method. We can continue adjusting our model's parameters until the difference in cost between two consecutive iterations drops below a threshold of `0.01`. To simplify, we'll stop when the cost drops below `0.01`. 
+
+```
+import numpy as np
+
+# Sample house sizes in square feet, standardized
+house_sizes = np.array([[1000], [1500], [2000]])
+house_sizes = (house_sizes - np.mean(house_sizes)) / np.std(house_sizes)
+
+# Sample house prices in 1000s of dollars
+house_prices = np.array([[300], [450], [600]])
+
+# We initialize our parameters: slope (a) and intercept (b)
+theta_real_estate = np.random.rand(2, 1)
+
+# Learning rate and iterations for gradient descent, adjusted learning rate
+alpha_real_estate = 0.01
+iterations = 500
+
+# Add a column of ones to the house sizes to accommodate the intercept (b)
+X_b_real_estate = np.c_[np.ones((len(house_sizes), 1)), house_sizes]
+
+def gradient_descent(X, y, theta, alpha, threshold=0.01):
+    m = len(y)
+    cost_history = []
+    i = 0
+    while True: # Iterate until convergence
+        prediction = np.dot(X, theta) # Matrix multiplication between X and theta
+        # Gradient update rule with correct cost function calculation
+        theta = theta - (1/m) * alpha * (X.T.dot(prediction - y))
+        cost = (1/(2*m)) * np.sum(np.square(prediction - y))
+        cost_history.append(cost)
+        i = i + 1
+        if cost <= threshold:
+            break
+    return theta, cost_history
+
+  
+
+# Run gradient descent
+theta_real_estate, cost_history = gradient_descent(X_b_real_estate, house_prices, theta_real_estate, alpha_real_estate)
+for i, cost in enumerate(cost_history[::10]):
+    print(f'Iteration {i * 10}: Cost = {cost}')
+```
+
+The output is: 
+
+```
+Iteration 0: Cost = 108388.40325807515
+Iteration 10: Cost = 88651.62697986596
+Iteration 20: Cost = 72508.78073611422
+Iteration 30: Cost = 59305.43480078428
+Iteration 40: Cost = 48506.3265607817
+Iteration 50: Cost = 39673.66101142019
+Iteration 60: Cost = 32449.362581121346
+Iteration 70: Cost = 26540.558775707126
+Iteration 80: Cost = 21707.70715035793
+Iteration 90: Cost = 17754.884277606754
+Iteration 100: Cost = 14521.843026890565
+Iteration 110: Cost = 11877.516158391758
+Iteration 120: Cost = 9714.70286737182
+Iteration 130: Cost = 7945.722871919121
+Iteration 140: Cost = 6498.861861167645
+Iteration 150: Cost = 5315.464202735069
+Iteration 160: Cost = 4347.555047966736
+Iteration 170: Cost = 3555.8954353178565
+Iteration 180: Cost = 2908.391545916801
+Iteration 190: Cost = 2378.7936226544853
+Iteration 200: Cost = 1945.6318070811521
+Iteration 210: Cost = 1591.345753021514
+Iteration 220: Cost = 1301.5727315121833
+Iteration 230: Cost = 1064.565366891192
+Iteration 240: Cost = 870.7153991060441
+Iteration 250: Cost = 712.1641656015756
+Iteration 260: Cost = 582.4840117536703
+Iteration 270: Cost = 476.4177142527943
+Iteration 280: Cost = 389.6653536815735
+Iteration 290: Cost = 318.7099961174375
+Iteration 300: Cost = 260.67511690603874
+Iteration 310: Cost = 213.20798657641717
+Iteration 320: Cost = 174.38429137199074
+Iteration 330: Cost = 142.63012172112929
+Iteration 340: Cost = 116.65816606604773
+Iteration 350: Cost = 95.41552335279057
+Iteration 360: Cost = 78.04101850471778
+Iteration 370: Cost = 63.830290452162956
+Iteration 380: Cost = 52.207237389670425
+Iteration 390: Cost = 42.700661653796864
+Iteration 400: Cost = 34.92516740663283
+Iteration 410: Cost = 28.565536718629772
+Iteration 420: Cost = 23.36395065835564
+Iteration 430: Cost = 19.10953733314888
+Iteration 440: Cost = 15.629823159056102
+Iteration 450: Cost = 12.783740795210125
+Iteration 460: Cost = 10.455910284847123
+Iteration 470: Cost = 8.551961560870712
+Iteration 480: Cost = 6.994708690701022
+Iteration 490: Cost = 5.721020764596233
+Iteration 500: Cost = 4.679262573501177
+Iteration 510: Cost = 3.8272013217056746
+Iteration 520: Cost = 3.1302945126043946
+Iteration 530: Cost = 2.560289598581549
+Iteration 540: Cost = 2.094078624937954
+Iteration 550: Cost = 1.7127614352108183
+Iteration 560: Cost = 1.400879460307917
+Iteration 570: Cost = 1.145789029323336
+Iteration 580: Cost = 0.9371487961063938
+Iteration 590: Cost = 0.7665005018963634
+Iteration 600: Cost = 0.6269260781728322
+Iteration 610: Cost = 0.5127671886982117
+Iteration 620: Cost = 0.41939584100845084
+Iteration 630: Cost = 0.3430267679601913
+Iteration 640: Cost = 0.2805639732962477
+Iteration 650: Cost = 0.22947522019883407
+Iteration 660: Cost = 0.1876893746072898
+Iteration 670: Cost = 0.1535124416045818
+Iteration 680: Cost = 0.12555889099580508
+Iteration 690: Cost = 0.10269548802249824
+Iteration 700: Cost = 0.08399535211355197
+Iteration 710: Cost = 0.0687003812196004
+Iteration 720: Cost = 0.05619051841509199
+Iteration 730: Cost = 0.045958614838872536
+Iteration 740: Cost = 0.03758986991907826
+Iteration 750: Cost = 0.030745015390188007
+Iteration 760: Cost = 0.02514656138417732
+Iteration 770: Cost = 0.020567547012840595
+Iteration 780: Cost = 0.016822339391165828
+Iteration 790: Cost = 0.013759108094641773
+Iteration 800: Cost = 0.011253669965754585
+```
 
 
 
