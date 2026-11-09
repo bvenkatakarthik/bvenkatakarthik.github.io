@@ -42,10 +42,6 @@ permalink: /about
 
 **de Waal on "morality" being a shared trait in animals: [Link](https://youtu.be/GcJxRqTs5nk?si=yplzCyAV0Vtc2YqC).**
 
-**Speculation:** 
-
-**I am curious about sustainable social good.** 
-
 **Speculation:**
 
 **I am curious about why exactly are sapiens more capable than other primates. Link to a video: [Link](https://youtu.be/AChiX9nLRQQ?si=0ZxGy10wW1t2e-PH).**
