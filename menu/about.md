@@ -110,7 +110,7 @@ Link to my Inquiry Based Mathematics Youtube Channel: [Maeth Enthusiast](https:/
 | ${ \Large \textbf{Cycles of "Birth, Experience, Death"} }$  |
 
 
-Note that even the simplest things in life are deeply mysterious. 
+Even the simplest things in life are deeply mysterious. 
 
 
 
