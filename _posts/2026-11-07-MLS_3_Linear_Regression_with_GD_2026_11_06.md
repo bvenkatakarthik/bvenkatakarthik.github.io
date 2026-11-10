@@ -19,7 +19,7 @@ Machine Learning from Scratch - 3.
 Linear Regression using Gradient Descent. 
 
 **ROUGH NOTES (!)**    
-Updated: 7/11/2026 
+Updated: 10/11/2026 
 
 Gradient descent is an iterative optimization algorithm for minimizing a function, usually a loss function which quantifies the disparity between predicted and actual results.
 
@@ -56,7 +56,7 @@ We will look for vectors ${ \theta }$ which minimize the loss.
 
 Note that the gradient of the loss is 
 
-$${ \nabla _{\theta} L(\theta) = 2 ( \mathbf{X} ^T \mathbf{X} \theta - \mathbf{X} ^{T} \mathbf{y} ) .  }$$ 
+$${ \nabla _{\theta} L(\theta) = \frac{2}{n}  ( \mathbf{X} ^T \mathbf{X} \theta - \mathbf{X} ^{T} \mathbf{y} ) .  }$$ 
 
 Hence gradient descent updates for ${ \theta }$ look like 
 
