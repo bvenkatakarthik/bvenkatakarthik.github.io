@@ -16,6 +16,8 @@ permalink: /about
 
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
+**One issue is there are limited avenues for value creation.**
+
 **Speculation:** 
 
 **Basic lifestyle advice: [Link](https://bvenkatakarthik.github.io/Post_2026_09_24).**
