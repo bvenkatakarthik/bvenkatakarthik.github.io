@@ -49,7 +49,7 @@ $${ \mathbf{y} = \begin{pmatrix} y _1 \\ \vdots \\ y _n \end{pmatrix} , \quad \t
 
 We consider the model generating the labels to be 
 
-$${ {\begin{aligned} &\, (y \vert \mathbf{x}, \theta) \text{ is Bernoulli, } \\ &\, p(y = 1 \vert \mathbf{x}, \theta) =  \sigma  \left( \theta ^T \overset{\circ}{\mathbf{x}} \right)  \end{aligned}}    }$$ 
+$${ {\boxed{{\begin{aligned} &\, (y \vert \mathbf{x}, \theta) \text{ is Bernoulli, } \\ &\, p(y = 1 \vert \mathbf{x}, \theta) =  \sigma  \left( \theta ^T \overset{\circ}{\mathbf{x}} \right)  \end{aligned}}}}    }$$ 
 
 Note that ${ \overset{\circ}{\mathbf{x}} }$ is ${ \mathbf{x} }$ with ${ 1 }$ appended to it. 
 
