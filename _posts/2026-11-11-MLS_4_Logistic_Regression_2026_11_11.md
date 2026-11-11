@@ -48,7 +48,7 @@ $${ \mathbf{y} = \begin{pmatrix} y _1 \\ \vdots \\ y _n \end{pmatrix} , \quad \t
 
 We consider the model generating the labels to be 
 
-$${ \boxed{{\begin{aligned} &\, (y \vert \mathbf{x}, \theta) \text{ is Bernoulli, } \\ &\, p(y = 1 \vert \mathbf{x}, \theta) =  \sigma  \left( \theta ^T \overset{\circ}{\mathbf{x}} \right)  \end{aligned}}} .   }$$ 
+$${ \boxed{{\begin{aligned} &\, (y \vert \mathbf{x}, \theta) \text{ is Bernoulli, } \\ &\, p(y = 1 \vert \mathbf{x}, \theta) =  \sigma  \left( \theta ^T \overset{\circ}{\mathbf{x}} \right)  \end{aligned}}} . }$$ 
 
 Note that ${ \overset{\circ}{\mathbf{x}} }$ is ${ \mathbf{x} }$ with ${ 1 }$ appended to it. 
 
@@ -140,6 +140,7 @@ def logistic_regression(X, y, num_iterations, learning_rate):
 ```
 
 Now we can define the `predict` function, which makes the prediction: 
+
 
 ```
 def predict_prob(X, theta):
