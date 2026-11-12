@@ -80,8 +80,6 @@ Related:
 
 * Countries which recovered from poverty. Gemini's response: [Link](https://drive.google.com/file/d/1krtB_Yt43zv4HnZmg6UN5G2N4tEMVWO5/view?usp=sharing). 
 
-Attempt 1. 
-
 The goal is to study an approximate model of an economy. 
 
 I guess the model should be simple enough that one is able to study it, and complex enough that it capture key aspects of a current economy (like the tendency of wealth to be Pareto distributed). 
@@ -102,7 +100,7 @@ Suppose in time step ${ t }$:
 
 * One of ${ P _1 , \ldots, P _n }$ is chosen, with probability ${ W _1 (t-1), \ldots, W _n (t-1) }$ respectively. (So it is more likely that an agent with higher wealth is chosen). 
 
-* Now, the chosen ${ P _i }$ creates economic value, and there is a wealth transfer of ${ \alpha W _i (t-1) ,}$ from each agent whose current wealth exceeds ${ \alpha W _i (t-1) . }$ (So intuitively the value created by the chosen agent is proportional to the wealth they currently have). 
+* Now, the chosen ${ P _i }$ creates economic value, and there is a wealth transfer of ${ \alpha W _i (t-1) ,}$ from all agents whose current wealth exceeds ${ \alpha W _i (t-1) . }$ (So intuitively the value created by the chosen agent is proportional to the wealth they currently have). 
 
 This process continues. 
 
@@ -110,10 +108,10 @@ This process continues.
 
 **Q**) How do the wealths evolve under this model? Or perhaps a different model?
 
-One problem I see with the model is: In this model, once an agent's wealth is ${ 0 , }$ the model allows no scope for the agent to gain more wealth. This could perhaps be remedied. There is no credit system, investments, etc. There are probably other shortcomings as well. 
+Some problems I see with the model are: In this model, once an agent's wealth is ${ 0 , }$ the model allows no scope for the agent to gain more wealth. There is no credit system, investments, collaborations, notion of market share, etc. There are probably other shortcomings as well. 
+
+Some aspects the model does include are: In each time step, the already wealthy are more likely to be chosen for value creation, and the created value is proportional to their current wealth. 
 
 One sanity check for a good model can be: The wealths tend to be Pareto distributed. 
 
 I am primarily an economics enthusiast. Any comments, pointers would be helpful. 
-
-Thanks in advance! 
