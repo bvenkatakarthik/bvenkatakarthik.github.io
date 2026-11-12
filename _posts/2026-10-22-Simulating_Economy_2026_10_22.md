@@ -20,7 +20,7 @@ Perhaps: One can run low risk experiments on the simulated economy and one might
 
 Reading list: 
 
-Updated: 5/11/2026 
+Updated: 12/11/2026 
 
 * QuantEcon page. [Link](https://quantecon.org/about/). 
 
@@ -80,6 +80,8 @@ Related:
 
 * Countries which recovered from poverty. Gemini's response: [Link](https://drive.google.com/file/d/1krtB_Yt43zv4HnZmg6UN5G2N4tEMVWO5/view?usp=sharing). 
 
+**Attempt 1.** 
+
 The goal is to study an approximate model of an economy. 
 
 I guess the model should be simple enough that one is able to study it, and complex enough that it capture key aspects of a current economy (like the tendency of wealth to be Pareto distributed). 
@@ -113,5 +115,3 @@ Some problems I see with the model are: In this model, once an agent's wealth is
 Some aspects the model does include are: In each time step, the already wealthy are more likely to be chosen for value creation, and the created value is proportional to their current wealth. 
 
 One sanity check for a good model can be: The wealths tend to be Pareto distributed. 
-
-I am primarily an economics enthusiast. Any comments, pointers would be helpful. 
