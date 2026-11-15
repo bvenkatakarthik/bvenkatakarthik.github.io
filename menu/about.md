@@ -92,6 +92,8 @@ Feel free to email me! My mail id is bvenkatakarthik (at) gmail (dot) com.
 
 Link to my Inquiry Based Mathematics Youtube Channel: [Maeth Enthusiast](https://www.youtube.com/@maethenthusiast/videos). 
 
+Some Mathematics related resources: [Khan Academy](https://www.khanacademy.org/), [MIT OCW](https://www.youtube.com/@mitocw/videos), [Stanford Online](https://www.youtube.com/@stanfordonline), [Coursera](https://www.coursera.org/) (especially courses by companies), [Codesignal](https://codesignal.com/learn/course-paths). 
+
 | ![](https://a.l3n.co/cUGJWm.png) | 
 |:--:|
 | ![](https://c.l3n.co/cVwuGA.jpg) |  
