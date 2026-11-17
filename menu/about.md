@@ -108,9 +108,6 @@ Link to my Inquiry Based Mathematics Youtube Channel: [Maeth Enthusiast](https:/
 | ${ \Large \textbf{Cycles of "Birth, Experience, Death"} }$  |
 
 
-Where is The World heading?
-
-
 
 
 
