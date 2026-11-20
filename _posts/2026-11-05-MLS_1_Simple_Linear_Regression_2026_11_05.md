@@ -10,7 +10,7 @@ tags: [documentation,sample]
 
 * CodeSignal's "Implementing AI algorithms from scratch" course. Link to the course: [Link](https://codesignal.com/learn/paths/implementing-ai-algorithms-from-scratch).  
 
-* MIT Machine Learning course. Link to the course: [Link](https://learn.mit.edu/courses/course-v1:MITxT+6.86x). 
+* MIT Machine Learning course. Link to the course: [Link](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about). 
 
 * Stanford Machine Learning course. Link to the course: [Link](https://cs229.stanford.edu/). 
 
