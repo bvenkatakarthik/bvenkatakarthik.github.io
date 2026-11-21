@@ -14,14 +14,14 @@ tags: [documentation,sample]
 
 * Stanford Machine Learning course. Link to the course: [Link](https://cs229.stanford.edu/). 
 
-Note: It seems the MIT ML Course Labs load well in Chrome, and can display an error in other browsers. 
+Note: It seems the MIT ML Course Labs load well in Chrome, and can display an error in other browsers. Also, if the math symbols don't load well, consider doing: Right click on a Math formula > Math settings > Math renderer > Select Common HTML. 
 
 Machine Learning from Scratch - 1. 
 
 Simple Linear Regression. 
 
 **ROUGH NOTES (!)**    
-Updated: 5/11/2026 
+Updated: 21/11/2026 
 
 
 Eg: Suppose you own a restaurant and want to predict your sales for the next week. You pull out your past data, relating your advertisement hours with sales details. 
