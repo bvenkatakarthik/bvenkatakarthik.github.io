@@ -14,6 +14,8 @@ tags: [documentation,sample]
 
 * Stanford Machine Learning course. Link to the course: [Link](https://cs229.stanford.edu/). 
 
+Note: It seems the MIT ML Course Labs load well in Chrome, and can display an error in other browsers. 
+
 Machine Learning from Scratch - 1. 
 
 Simple Linear Regression. 
