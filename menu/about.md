@@ -104,9 +104,7 @@ Link to my Inquiry Based Mathematics Youtube Channel: [Maeth Enthusiast](https:/
 
 | ![](https://d.l3n.co/c9Npoz.png) | 
 |:--:| 
-| ${ \Large \textbf{The World: Life} }$  |
-
-"I know that I know nothing." - Plato. 
+| ${ \Large \textbf{The World: Life} }$  | 
 
 
 
