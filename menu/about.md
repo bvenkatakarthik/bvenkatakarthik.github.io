@@ -16,6 +16,8 @@ permalink: /about
 
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
+**Humanity has achieved science and engineering feats. I hope we also move towards a society where no human struggles to meet their basic needs.** 
+
 **Speculation:** 
 
 **Basic lifestyle advice: [Link](https://bvenkatakarthik.github.io/Post_2026_09_24).**
