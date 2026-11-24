@@ -16,7 +16,7 @@ permalink: /about
 
 **${ \boxed{\star} }$ Perhaps: One should try to create more value than the value one consumes.**
 
-**Humanity has achieved science and engineering feats. I hope we also move towards a society where no human struggles to meet their basic needs.** 
+**${ \boxed{\star} }$ Humanity has achieved science and engineering feats. I hope we also move towards a society where no human struggles to meet their basic needs.** 
 
 **Speculation:** 
 
