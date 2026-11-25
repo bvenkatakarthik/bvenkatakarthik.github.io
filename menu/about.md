@@ -24,7 +24,7 @@ permalink: /about
 
 **Speculation:**
 
-**Acemoglu on Why Nations Fail: [Link](https://youtu.be/2z5RAZlv2UQ?si=h-9G32hQQGMWQuR_).**
+**Why Nations Fail: [Link](https://youtu.be/eRJF-dtoIn0?si=jao6tPIkXzCX-SDk).**
 
 **Speculation:** 
 
