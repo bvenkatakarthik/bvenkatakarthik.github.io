@@ -24,7 +24,7 @@ permalink: /about
 
 **Speculation:**
 
-**Good Institutions sustain Good Economies: [Link](https://youtu.be/P60TX-dwd4s?si=m61PhK1oLzXXlLln).**
+**Acemoglu on Why Nations Fail: [Link](https://youtu.be/2z5RAZlv2UQ?si=h-9G32hQQGMWQuR_).**
 
 **Speculation:** 
 
