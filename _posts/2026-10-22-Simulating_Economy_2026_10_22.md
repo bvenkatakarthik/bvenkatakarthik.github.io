@@ -80,3 +80,5 @@ Related:
 
 * Countries which recovered from poverty. Gemini's response: [Link](https://drive.google.com/file/d/1krtB_Yt43zv4HnZmg6UN5G2N4tEMVWO5/view?usp=sharing). 
 
+* Acemoglu on Why Nations Fail. [Link](https://youtu.be/2z5RAZlv2UQ?si=RCvQ_A-dh--Ubv2x). 
+
