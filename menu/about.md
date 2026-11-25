@@ -26,8 +26,6 @@ permalink: /about
 
 **Good Institutions sustain Good Economies: [Link](https://youtu.be/P60TX-dwd4s?si=m61PhK1oLzXXlLln).**
 
-**Book Summary: [Link](https://youtu.be/q6DgW64HkC8?si=CHoN8k3uHyG3YfAT).**
-
 **Speculation:** 
 
 **Risks of AI: [Link](https://bvenkatakarthik.github.io/Risks_of_AI_2026_09_25).**
