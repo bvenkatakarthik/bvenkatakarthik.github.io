@@ -18,13 +18,13 @@ permalink: /about
 
 **${ \boxed{\star} }$ Humanity has achieved science and engineering feats. I hope we also move towards a society where no human struggles to meet their basic needs.** 
 
-**Speculation:**
-
-**Why Nations Fail: [Link](https://youtu.be/P60TX-dwd4s?si=m61PhK1oLzXXlLln).**
-
 **Speculation:** 
 
 **Basic lifestyle advice: [Link](https://bvenkatakarthik.github.io/Post_2026_09_24).**
+
+**Speculation:**
+
+**Good Institutions sustain Good Economies: [Link](https://youtu.be/P60TX-dwd4s?si=m61PhK1oLzXXlLln).**
 
 **Speculation:** 
 
