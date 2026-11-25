@@ -20,7 +20,7 @@ Perhaps: One can run low risk experiments on the simulated economy and one might
 
 Reading list: 
 
-Updated: 12/11/2026 
+Updated: 25/11/2026 
 
 * QuantEcon page. [Link](https://quantecon.org/about/). 
 
@@ -80,5 +80,5 @@ Related:
 
 * Countries which recovered from poverty. Gemini's response: [Link](https://drive.google.com/file/d/1krtB_Yt43zv4HnZmg6UN5G2N4tEMVWO5/view?usp=sharing). 
 
-* Acemoglu on Why Nations Fail. [Link](https://youtu.be/2z5RAZlv2UQ?si=RCvQ_A-dh--Ubv2x). 
+* "Why Nations Fail" Book Summary: [Link](https://youtu.be/eRJF-dtoIn0?si=jao6tPIkXzCX-SDk).**
 
