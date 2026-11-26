@@ -112,6 +112,8 @@ Link to my Inquiry Based Mathematics Youtube Channel: [Maeth Enthusiast](https:/
 |:--:| 
 | ${ \Large \textbf{The World: Life} }$  | 
 
+Where is The World headed? 
+
 
 
 
