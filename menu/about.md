@@ -26,10 +26,6 @@ permalink: /about
 
 **Why Nations Fail: [Link](https://youtu.be/eRJF-dtoIn0?si=jao6tPIkXzCX-SDk).**
 
-**Speculation:**
-
-**Pozen's productivity advice: [Link](https://bvenkatakarthik.github.io/Post_2026_10_06).**
-
 **Speculation:** 
 
 **Risks of AI: [Link](https://bvenkatakarthik.github.io/Risks_of_AI_2026_09_25).**
